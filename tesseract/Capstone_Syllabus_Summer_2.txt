@@ -1,0 +1,144 @@
+NORTHEASTERN UNIVERSITY
+Department of Electrical and Computer Engineering
+
+Syllabus of Capstone Design Course I: EECE 4790
+
+Term: Summer 2, 2021
+
+Course Title: Electrical and Computer Engineering Capstone I (Capstone Design I)
+Course Number: EECE 4790
+
+Instructors: Capstone Advisors
+
+1. Prof. Bahram Shafai (Capstone Advisor and Coordinator)
+ECE Department, 427 Dana Research Building, Phone: (617) 373-2984
+
+E-mail: shafai@ece.neu.edu
+
+2. Prof. Masoud Salehi, ECE Department, 314 Dana Research Building, Phone (617) 373-2446
+Email: salehi@ece.neu.edu
+
+3. Prof. Taskin Padir, 527 ISEC, Phone (617) 373-8114
+Email: t.padir@northeastern.edu
+
+4. Prof. Charles Dimarzio, 302 Stearns, Phone: (617) 373-2034
+E-mail: dimarzio@ece.neu.edu
+
+Office Hours: TBD by capstone advisors
+
+Prerequisite: Senior Standing
+
+Basic Mathematical knowledge of Calculus, Differential Equations & Linear Algebra. General
+Knowledge of Electrical and Computer Engineering: Circuits, Electronics, Microprocessor and
+Programming, Knowledge of Signals and Systems, Communications, and Control.
+
+Course Description and Objectives:
+
+EECE 4790 is the first of a two-course sequence that aims to give undergraduate engineering students
+significant experience in dealing with a large design project from the start to end. In EECE 4790
+students forms teams and select their capstone advisors. Each team will select a project and prepare a
+detailed proposal describing the work to be done for completing it. The students require to propose a
+design project involving an electrical, electronic, and/or software system, including evaluation of
+multiple constraints and use of appropriate engineering standards in the design, to carry out the project,
+analyze the project, feasibility study, and prepare weekly reports and attending the meetings with their
+capstone advisor. Finally, students must specify the materials needed for their project, provide a cost
+analysis, prepare and deliver written and oral presentations on the design proposal. Subsequently, they
+need to prepare themselves to take capstone 2 EECE 4792 in the following semester for final
+implementation of their project.
+
+ACE Objectives
+
+EECE 4790 incorporates the following University-wide Academic Common Experience (ACE) Goals:
+the skills of effective thinking and communication, information literacy, and interpersonal skills, the
+awareness of the contexts of the natural world and the social and cultural world, and connections
+
+across disciplines, between theory and application, and between college and work. In addition, many
+projects will incorporate the ACE Goals of awareness of historical, ethical, aesthetic, and personal
+perspectives and connections between individuals and society and between college study and lifelong
+learning.
+
+Project Selection and Weekly Meetings:
+
+Students form teams and select their faculty advisor. Projects can be industrially sponsored,
+departmentally through research projects proposed by faculty, or student ideas. Students are expected
+to communicate with their faculty advisor in person through meetings or virtual meetings using the
+Internet, teleconferencing, and other electronic methods.
+
+Credit Hours: Capstone | (EECE 4790) is 4 credit hours.
+
+Mandatory Requirement: Capstone | (EECE 4790) is required course by all senior undergraduate
+students. It is also required that students continue to take Capstone 2 (EECE 4792).
+
+Textbook: No Textbook
+However, necessary documents, sample past proposals and information relevant to design projects
+will be provided for the students.
+
+Topics to be covered include: Brainstorming, Analysis of the Project, Feasibility Study. Division of
+Tasks and Project Management, Intellectual Property, Materials Selection, Effective Written and Oral
+Communication.
+
+Tentative Schedule and Deliverables
+
+July 6, Introduction to Capstone
+
+July 12, Form project groups
+
+July 15, Propose project ideas and brainstorming
+
+July 19, Discuss proposal ideas
+
+July 22, Identify Project and Analysis,
+
+July 26, Present tasks breakdown, Discuss approach for each task
+July 29, White Paper describing in-depth report of the project
+Aug 2, Discuss responsibilities and time plan
+
+Aug 5, Final Technical Discussion of Study Phase
+
+Aug 9, Identify equipment and cost analysis within budget
+Aug 12, Preparing Proposal draft and Presentation
+
+Aug 18, Final Proposal Presentation Final Proposal due
+
+Aug 19, Final Proposal Presentation Final Proposal due
+
+Course Requirements
+Your major task this semester is to formulate and write a detailed proposal, no later than August 25
+describing the work to be done on the project and defend it orally. The proposal should at least include:
+1. A complete specification of the problem you will try to solve.
+2. The results of a thorough literature survey of the appropriate topics and a bibliography.
+3. Analysis and break down of the project into tasks and a description of how these tasks interact
+with each other.
+
+4. The approach you will use to address the technical problems associated with each task and a
+description of work in progress.
+
+5. A description of the tools and equipment that you think will be needed, and orders for all
+equipment parts you need to get.
+
+6. A project organization plan identifying individual responsibilities, team effort, status report,
+realistic schedule for the next quarter with milestones to the project completion.
+
+Facilities:
+Students will have workspace and some equipment, along with a storage locker, available in the
+ECE Capstone Lab.
+
+Grading:
+
+Weekly Progress Report: 10 Points
+Individual Task and Presentation: 15 Points
+Midterm Report “White Paper”: 15 Points
+Final Written Proposal: 20 Points
+Final Oral Presentation: 20 Points
+Meeting Participation and Teamwork: 20 Points
+TOTAL 100 points
+
+Grading Remarks: Grading in EECE 4790 Capstone | is based on weekly meetings, progress
+report, analysis and feasibility study, written reports, oral presentations and the final proposal.
+However, the advisor may have specific strategy to give the above grade distribution which is
+determined based on the metrics for success developed by the team and his own evaluation criteria.
+
+Note for Summer 2021: Due to the ongoing COVID-19 Pandemic, all rules and regulations are
+subject to change. Meetings can be arranged based on mutual agreement of Capstone Advisors
+and Students.
+

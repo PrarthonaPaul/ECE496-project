@@ -1,23 +1,30 @@
-**Disclaimer**
+*“Disclaimer**
 This syllabus is to be used as a guideline only. The information provided is a summary of topics to be covered in the class.
+
 Information contained in this document such as assignments, grading scales, due dates, office hours, required books and materials may be from
-a previous semester and are subject to change. Please refer to your instructor for the most recent version of the syllabus.
-IEE 485 Systems Design Capstone I
+previous semester and are subject to change. Please refer to your instructor for the most recent version of the syllabus.
+
+IEE 485 Systems Design Capstone |
 Course Syllabus
+
 Instructor: Dr. Joe Juarez, 480-965-2835, joseph.juarez@asu.edu
-Office Hours: Zoom Office Hours: W 6:00 PM – 7:00 PM beginning Aug. 25, 2021
+Office Hours: Zoom Office Hours: W 6:00 PM — 7:00 PM beginning Aug. 25, 2021
 Textbook: A Guide to the Project Management Book of Knowledge (PMBOK Guide)
-– Fifth Edition, available at ASU Library Online
+
+— Fifth Edition, available at ASU Library Online
 Various articles and short papers.
+
 Prerequisites: Must be a senior Engineering BS/BSE student and have completed ENG 101 and
 completed IEE 369 with a C or better. EM students must also have completed
 IEE 458 with a C or better. IE students must be enrolled or have completed IEE
 475 and EM students must be enrolled or have completed IEE 477 with a C or
 better.
-Course Description: This class, IEE 485, is the first of a two semester senior capstone project course;
+
+Course Description: — This class, IEE 485, is the first of a two semester senior capstone project course;
 the second class is IEE 486. In IEE 485, students will select their capstone
 project, thoroughly plan the project, and prepare for the execution of the
 project which will be accomplished in IEE 486.
+
 Learning Objectives: This engineering design experience is based on knowledge and skills acquired in
 earlier course work and incorporates appropriate engineering standards and
 multiple realistic constraints. Upon completing IEE 485, students will
@@ -25,67 +32,87 @@ understand the requirements for defining a project, planning a project, creating
 a project schedule in Microsoft Project, establishing a budget, and writing
 project communications and controls to be applied during the execution phase
 of the project.
+
 Topics: The following topics will be covered in class or by the sponsor:
-• Academic honesty, plagiarism (throughout the semester)
-• Innovation
-• Project scope statement including project definition, goals, stakeholders,
+e Academic honesty, plagiarism (throughout the semester)
+e =Innovation
+e Project scope statement including project definition, goals, stakeholders,
+
 available resources, applicable standards, and constraints
-• Project planning
-• Microsoft Project
-• Budget/cost control
-• Project Risk Management
-• Project execution
-• Project control
-• Technical communications
-• Oral/written presentations
-• Ethics
-1 of 5
+e Project planning
+e Microsoft Project
+e Budget/cost control
+e Project Risk Management
+e Project execution
+e Project control
+e =Technical communications
+e Oral/written presentations
+e = Ethics
+
+10f 5
+
 Industry Sponsors for On-Line Students
+
 On-Line students are expected to find their own projects, mostly because they are employed and ask to
 have employers sponsor them; this also makes team meeting with internal team members more
 convenient. Some On-Line students will have a harder time finding their own projects for various
 reasons and have worked with you to find On-Line sponsors or if you are in the Phoenix Metropolitan
 area, you have been welcomed to work with Tempe student teams. By now, you should have a project
 well underway.
+
 Most of our projects are sponsored by local industry partners. It is certainly a huge opportunity for
 students to work real world engineering projects with real engineering teams! Students will need to
 manage transportation to and from the sponsors. Several sponsors are within two or three miles of the
 Tempe campus; others are close to public transportation.
+
 There is no obligation for the sponsor to pay students or ASU for the students’ work on the project.
 Sponsors are providing the projects and support to enable our students to apply their new knowledge
 and skills to real engineering projects. Therefore, the work from the students for the sponsors is “free of
 charge”.
+
 Readings, Special Materials, Required Activities, Assignments, and Quizzes
 Classes will consist of lecturing, active learning exercises, discussions, and presentations.
+
 Assignments and class schedule will be posted on Canvas. Completed assignments will be posted to
 Canvas. Students are expected to put in at least 6 hours of work each week.
+
 Students will continue on the same teams from IEE 485. Each student will have a defined role and set of
 responsibilities for the team, and will therefore be graded on these responsibilities.
+
 Each team will give an interim executive overview presentations and a final project presentation. Each
 team member must write and present his/her own materials for these team presentation.
+
 Each individual student will gather the semester team project assignments and accomplishments,
 interpret the learned outcomes, evaluate the results, lessons learned, and prepare an individual final
 essay. Each student will also write an interim and final peer review that also explains their own role and
 performance on the team.
-2 of 5
+
+20f 5
+
 Grading Policy
+
 Final grades of each student will depend heavily on the results of their team members’ peer reviews. A
 weight between 0 and 100% will be applied to the team assignments and final team presentation grade
 for each student based on their peer reviews. The approximate points for the work in this class are:
+
 Team written assignments 250 points
 Initial individual research report 200 points
 Oral presentation 120 points
 Individual written assignments 30 points
 Sponsor Scorecards 400 points
 Total 1000 points
+
 Final grades will be based on the final point percentage:
+
 90 to 100% A
 80 to <90% B
 70 to <80% C
 60 to <70% D
 <60 E
+
 +/- grades are not given.
 D, E, or W Grade in This Class
+
 Students who receive a D or E grade in this class will be required to retake this class from the beginning,
 and find their own projects from their employer, non-profit organization, or another source. This
 project must meet the requirements for an engineering capstone project. These students will not be
@@ -96,61 +123,86 @@ time they are enrolled. Students who withdraw and receive a W grade for document
 military obligations, first responder obligations, or reasons beyond their control, and had performed
 adequately prior to withdrawing, might be added to another student team the next time they enroll in
 this class.
+
 ASU Policies Applied to This Course
+
 1. Late or Missed Assignments
+
 Accommodations will be made for religious observances provided that students notify the
 instructor at the beginning of the semester concerning those dates. Students who expect to
 miss class due to officially university-sanctioned activities should inform the instructor early in
 the semester. Alternative arrangements will generally be made for any examinations and other
 graded in-class work affected by such absences.
+
 Notify the instructor BEFORE an assignment is due if an urgent situation arises and the
 assignment will not be submitted on time. Published assignment due dates (Arizona Mountain
 Standard time) are firm. Please follow the appropriate University policies to request an
-3 of 5
+
+3 0f 5
+
 accommodation for religious practices or to accommodate a missed assignment due to
 University-sanctioned activities.
+
 Due dates for classwork are on the class schedule. All work is due on the scheduled date. Late
-work will not be graded, and you will receive a score of “0”.
+work will not be graded, and you will receive a score of “O”.
+
 Make-up work is permitted in only four situations:
 1. Required class absence due to university sanctioned events/activities (refer to ACD 304-02)
 2. Religious observance (refer to ACD 304-04)
-3. Death of an immediate family member (spouse, domestic partner, child, parent, sibling, or
+
+3. Death of an immediate family member (Spouse, domestic partner, child, parent, sibling, or
 grandparent)
+
 4. Severe illness or injury that requires hospitalization
+
 You must provide verifiable documentation for all of the above situations. For (1) and (2), it is
 your responsibility to notify the Instructor at the beginning of the semester. For (3) and (4), the
 Instructor must be contacted as soon as possible. All make-up work must be completed within
 two weeks of the missed date. If you miss any classwork for any situation other than the four
 situations listed above, you will receive a score of “0.”
+
 2. Academic Integrity
+
 All students in this class are subject to ASU’s Academic Integrity Policy which is available at the
 following link:
+
 https://provost.asu.edu/academic-integrity/policy
+
 Students should acquaint themselves with its content and requirements, including a strict
 prohibition against plagiarism. All violations will be reported to the Dean’s office, who maintain
 records of all offenses.
+
 3. Disability Accommodations.
+
 Suitable accommodations will be made for students having disabilities and students should
 notify the instructor as early as possible if they will require same. Such students must be
 registered with the Disability Resource Center and provide documentation to that effect.
+
 4. Title IX Federal Law
+
 Title IX is a federal law that provides that no person be excluded on the basis of sex from
 participation in, be denied benefits of, or be subjected to discrimination under any education
 program or activity. Both Title IX and university policy make clear that sexual violence and
 harassment based on sex is prohibited. An individual who believes they have been subjected to
 sexual violence or harassed on the basis of sex can seek support, including counseling and
 academic support, from the university. If you or someone you know has been harassed on the
-4 of 5
+
+4o0f 5
+
 basis of sex or sexually assaulted, you can find information and resources at
-http://sexualviolenceprevention.asu.edu/faqs/students.
-As a mandated reporter, I am obligated to report any information I become aware of regarding
+http://sexualviolenceprevention.asu.edu/fags/students.
+
+As a mandated reporter, | am obligated to report any information | become aware of regarding
 alleged acts of sexual discrimination, including sexual violence and dating violence. ASU
 Counseling Services, https://eoss.asu.edu/counseling, is available if you wish to discuss any
 concerns confidentially and privately.
+
 5. Entrepreneurial Mindset
 This Initiative is a Fulton Schools of Engineering wide effort being introduced to CIDSE IE/EM in Spring
+
 2020. Assignments will have prefix designators throughout the rubric using the format EM@FSE (letter
 from a. through q.) These letters map to the expected considerations below.
+
 The senior design program leans heavily on the entrepreneurial mindset
 (https://engineeringunleashed.com/), which goes beyond the concept of traditional entrepreneurship
 and “start-up” mentality to provide the best possible professional preparation for any job in engineering
@@ -158,24 +210,50 @@ or a career that can be built on the combination of engineering skillset and ent
 core components of the entrepreneurial mindset are the 3C’s: Curiosity, Connections, and Creating
 Value. In developing an understanding of these core components, students are expected to consider
 the following in the course of their project-based capstone:
-a. Critically observes surroundings to recognize opportunity.
-b. Explores multiple solution paths.
-c. Gathers data to support and refute ideas,
-d. Suspends initial judgement on new ideas.
-e. Observes trends about the changing world with a future-focused orientation/ perspective.
-f. Collects feedback and data from many customers and customer segments.
-g. Applies technical skills/knowledge to the development of a technology/product.
-h. Modifies an idea/product based on feedback.
-i. Focuses on understanding the value proposition of a discovery.
-j. Describes how a discovery could be scaled and/or sustained, using elements such as revenue
+
+Critically observes surroundings to recognize opportunity.
+
+Explores multiple solution paths.
+
+Gathers data to support and refute ideas,
+
+Suspends initial judgement on new ideas.
+
+Observes trends about the changing world with a future-focused orientation/ perspective.
+Collects feedback and data from many customers and customer segments.
+
+Applies technical skills/knowledge to the development of a technology/product.
+
+Modifies an idea/product based on feedback.
+
+Focuses on understanding the value proposition of a discovery.
+
+Describes how a discovery could be scaled and/or sustained, using elements such as revenue
 streams, key partners, costs, and key resources.
-k. Defines a market and market opportunities.
-l. Engages in actions with the understanding that they have the potential to lead to both gains or
+
+Defines a market and market opportunities.
+
+Engages in actions with the understanding that they have the potential to lead to both gains or
 losses.
+
 m. Articulates the idea to diverse audiences.
-n. Persuades why a discovery adds value from multiple perspectives (technological, societal,
+
+Persuades why a discovery adds value from multiple perspectives (technological, societal,
 financial, environmental, etc.).
+
 o. Understands how elements of an ecosystem are connected.
-p. Identifies and works with individuals with complementary skill sets, expertise, etc.
+
+Identifies and works with individuals with complementary skill sets, expertise, etc.
+
 q. Integrates/synthesizes different kinds of knowledge.
-5 of 5
+
+Tr mw mAoao sf
+
+mor
+
+Pp
+
+>
+
+5of 5
+
