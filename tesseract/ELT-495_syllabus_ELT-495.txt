@@ -1,0 +1,457 @@
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+Syllabus for ELT-495
+ELECTRONICS ENGINEERING TECHNOLOGY CAPSTONE
+
+COURSE DESCRIPTION
+
+The Electronics Engineering Technology (EET) Capstone is an in-depth, student-
+centered activity that requires the integration of theory and practical experience. Students
+will apply the skills and techniques they have learned to a specific project. In this
+Capstone course teams of students will design a project based on past academic,
+professional, and personal learning experiences that involves conducting research on a
+problem, issue, event, developing technology, or case study in the electronics engineering
+technology field. On successful completion of the course, students will have met the
+learning outcomes of the EET degree program.
+
+Prerequisite: Completion of ELT-490: Electronic Assessment/Career Planning.
+
+COURSE OBJECTIVES
+
+After completing this course, you should be able to:
+
+1. Review the criteria for accreditation by ABET’s Technology Accreditation
+Commission, match them to the student outcomes of the electronics engineering
+technology program, and generate a capstone project that demonstrates mastery
+of the outcomes.
+
+2. Design a capstone project based on past academic, professional, and personal
+learning experiences that involves conducting research on a problem, issue,
+event, developing technology, or case study in the electronics engineering
+technology field.
+
+3. Demonstrate proficiency as an independent learner and critical thinker by
+preparing a comprehensive research paper on a problem, issue, event,
+developing technology, or case study.
+
+4. Research, interpret, and critically analyze literature pertaining to the capstone
+project.
+
+5. Synthesize research findings, theories, and practice into a comprehensive
+explanation and resolution of the problem, issue, event, developing technology, or
+case study.
+
+6. Communicate effectively by making technical presentations in English using
+language appropriate to peers and other audiences.
+
+7. Summarize the historical development, current state, and future direction of
+their field of study as related to the capstone project.
+
+8. Function effectively as a team member with an understanding of cultural
+diversity.
+
+9. Critique the professional, ethical, and social responsibilities in the electronics
+engineering technology field as it applies to the capstone project.
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html
+
+1/7
+
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+10. Submit an ethically responsible final project in an academic, professional
+format that serves as a bridge to their future work or employment.
+
+COURSE MATERIALS
+
+You will need the following materials to complete your coursework. Some course materials
+may be free, open source, or available from other providers. You can access free or open-
+source materials by clicking the links provided below or in the module details documents.
+To purchase course materials, please visit the University's textbook supplier.
+
+e There are no textbooks required for the course.
+
+Internet resources are included in each module for recommended readings and
+points to start Web searches for supporting information.
+
+COURSE STRUCTURE
+
+Electronics Engineering Technology Capstone is a four-credit online course, consisting
+of six modules. Modules include an overview, topics, learning objectives, study materials,
+and assignments. Module titles are listed below.
+
+e Module 1: Course Overview and EET Student Outcomes
+Course objectives covered in this module: CO1
+
+e Module 2: Organizing into Teams and Identifying a Capstone Project
+Course objectives covered in this module: CO2, CO8, CO9
+
+e Module 3: Research Methods and Literature Review
+Course objectives covered in this module: CO3, CO4, CO5
+
+e Module 4: Outline and Progress Report
+Course objectives covered in this module: CO1, CO2, CO3, CO4, CO5, CO8
+
+e Module 5: Presentation of Capstone Project Paper
+Course objectives covered in this module: CO6
+
+e Module 6: Submission of the Final Capstone Project Paper
+Course objectives covered in this module: CO7, CO10
+
+BEFORE YOU START YOUR RESEARCH
+
+One or more of the assignments in this course may involve original research. Research on
+persons other than yourself may require approval by the Institutional Review Board (IRB)
+of Thomas Edison State University prior to beginning your research. Examples of research
+types that may need IRB review are questionnaires, surveys, passive observation of
+individuals, interviews, and experimental procedures. Research involving vulnerable
+populations will always need IRB review. An IRB review is designed to protect research
+subjects from potential harm.
+
+The following links fully explain the purpose of the Institutional Research Board as well as
+how to determine if your research requires IRB review. If you are in doubt, always ask for
+guidance from the University.
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html
+
+2/7
+
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+e Institutional Review Board (general)
+
+e Types of IRB Review
+e IRB Forms
+
+e Policies and Procedures
+e FAQs and Resources
+
+ASSESSMENT METHODS
+For your formal work in the course, you are required to participate in six discussion forums
+and complete three written assignments.
+
+For your benefit in successfully completing the ELT-495 Capstone course keep the
+following key points in mind — Student Outcomes and Course Calendar.
+
+1. The final Capstone Project / Paper will be graded by how well you fulfill each of
+the 12 Student Outcomes (SOs) denoted in the Course Rubric. It is imperative
+that you construct your Project/Paper from the outset with this goal in mind. The
+capstone project research effort needs to encompass each element of the criteria
+down to the sub-SO level where given, and the written report/research paper
+needs to reflect unambiguous statements regarding student demonstration of
+achievement and mastery of the EET SOs or sub-elements. To effectively
+demonstrate this linkage, you should list the ELT-495 Student Outcomes including
+the sub-elements, as an Appendix of the final paper, and then note using
+superscripts where each SO and sub-element is addressed within the body of
+the paper. Examples: use (SO 4.b) or (SO 8.a) in the superscript font to indicate
+where those sub-elements of the Student Outcomes are covered in the paper. In
+most cases it will be obvious within the context of the report where to reference
+the associated outcome. However, in some cases it may seem odd to include text
+in the body of the paper to address a specific SO, examples and suggestions
+follow. The bottom line is that ALL SOs and sub-elements must be referenced in
+the final Paper.
+
+o SO # 3 - “Demonstrate the ability to conduct standard tests and
+measurements in the lab or in the field ...”. These sub-elements can be
+referenced in the paper as you report on your results of assimilating data
+and statistics.
+
+o SO# 5 - “Demonstrate effective leadership and participation as a
+member of a technical team’. These sub-elements should be described
+and appropriately footnoted in the Introduction of the paper.
+
+o SO #9 - “Demonstrate the need for and commitment to engage in self-
+directed continuing professional development...”. This SO can be
+discussed and referenced in the Introduction or Conclusion of the paper.
+Consider including perspectives from each student.
+
+o SO # 12 - “Demonstrate a commitment to quality, timeliness, and
+continuous improvement...”. Each sub-element of this SO can be
+discussed and appropriately footnoted in the Introduction or Conclusion of
+the paper.
+
+2. It is imperative that each student must complete all assignments of the course,
+including Discussion Forums and Written Assignments. If an individual does not
+submit an assignment, they will not receive a passing grade for the course.
+Completion of all assignments is necessary for mentors to evaluate your
+performance in all Student Outcomes and sub-elements designated for this
+course.
+
+3. The Course Calendar is available from the course main menu. The Calendar
+is available in pdf or Excel format. The Course Calendar provides dates to start
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html
+
+3/7
+
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+each module and complete each assignment. It is important to complete each
+assignment before or by the due date to attain full credit. To stay current with all
+your assignments, | highly recommend that you maintain a copy of the Calendar
+with the week-by-week dates on it. Submitting assignments late adversely impacts
+your grades.
+
+Promoting Originality
+
+One or more of your course activities may utilize a tool designed to promote original work
+and evaluate your submissions for plagiarism. More information about this tool is available
+in this document.
+
+= Discussion Forums
+
+This course requires you to participate in six graded discussion forums.
+
+DF 1: Top Ranked Methods for Capstone Courses
+
+DF 2: TESU and ABET Program and Student Outcomes
+
+DF 3: Teaming
+
+DF 4: Final Team Problem Statement
+
+DF 5: Oral Project Presentation
+
+DF 6: Project Presentation; Discussion and Constructive Critique
+
+The following Group Discussion Board forums are required but ungraded. They contribute
+to your overall grade, however, because your mentor takes them into account when using
+the ELT-495 Grading Rubric to assess your work in this course.
+
+Team Forum 1: Research Methodology and Team Participation
+Team Forum 2: Progress Report 1
+Team Forum 3: Progress Report 2
+
+Members of your team will also participate in other discussion forums at various points in
+the course in order to complete course requirements.
+
+Deadlines for posting discussion threads on the class Discussion Board are given in the
+Course Calendar.
+
+For posting guidelines and additional help with discussion board assignments please see
+the Online Student Handbook located within the General Information section of the course
+Web site.
+
+OL Written Assignments
+
+You are required to complete three written assignments. The written assignments are
+steps in completing your final project paper, and in fact the last assignment is the project
+paper itself. These formal written assignments are supplemented by the discussion forums
+throughout the developmental stages of the project paper.
+
+e WA 1: Problem Statement
+e WA 2: Capstone Project Paper Outline
+e WA 3: Final Capstone Project Paper
+
+Before submitting your first assignment, check with your mentor to determine whether your
+word processing software is compatible with your mentor's software. If so, you can submit
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html
+
+4/7
+
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+your work as you prepared it. If it is not compatible, save your assignment as a rich-text
+(.rtf) file, using the Save As command of your software program. Rich text retains basic
+formatting and can be read by any other word processing program.
+
+Final Written Assignments need to be posted in the Gradebook and/or Class Discussion
+Board only. Use the Group Discussion Board and File Exchange as the locations to post
+and critique draft documents.
+
+See the Online Student Handbook for additional help regarding preparing and submitting
+assignments located within the General Information section of the course website.
+
+(I Final Capstone Project Paper
+
+You are required to complete a final project as a group for this capstone course. The ability
+to work effectively in a team is one of the program outcomes that each student should
+achieve. This course requires students to form a group and work collaboratively to select a
+final project topic and problem statement, research and identify the resources and
+references, draft the paper, present the paper, and finalize and submit the final paper as a
+group. The Groups area in this course provides you an online forum to discuss, share,
+critique, and elaborate among your group members. It is also an online space for you to
+demonstrate how well your group works together to complete your final paper.
+
+Your final project includes five phases: select a problem statement, prepare a paper
+outline with bibliography, complete two progress reports, post an oral presentation as a
+video file, and submit the final paper. You are also required to post discussion comments
+and constructive criticism of other students’ oral presentations on discussion forums.
+
+As part of your final paper grade, you are also required to rate your team members' efforts
+in completing your final research paper. This will be an anonymous peer evaluation that
+requires you to download and complete a group evaluation form in Module 6. The mentor
+will average your peers' ratings, which will count toward 30 percent of your individual final
+paper grade. The mentor's grading of your team's final paper counts toward 70 of your
+individual final paper grade.
+
+Your final paper should be 25 to 30 pages long excluding references and attachments. To
+review a sample final project paper (not in this subject area), go to the Resources area of
+the course site.
+
+GRADING AND EVALUATION
+
+Your grade in the course will be determined using the ELT-495 rubric. Be sure to review
+each element of the Rubric to understand the criteria and details that will be used to
+assess your final grade. You will find this rubric in the Rubrics area of the course Web
+site.
+
+Key elements of the course that will be used to determine your final grade include:
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html 3s/7
+
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+e Problem Statement—5%
+
+e Paper Outline—10%
+
+e Paper Presentation and Discussions—20%
+e Other Class Discussions—15%
+
+e Final Project—50%
+
+Keep in mind that the final project paper will count as 50% of your final course grade. The
+remaining 50% of your course grade will be determined by your class interactions,
+products, discussion forums, and written assignments.
+
+Overall course evaluation will be based on the attached rubric which is based on TESU
+and ABET guidelines and approved Student Outcomes of the TESU EET Program. All 12
+Student Outcomes described in the rubric will be used to evaluate each student. Each
+student will be evaluated on each Student Outcome based on the quality, quantity,
+participation, and responses they employ to satisfy the specific course objectives and
+assignments.
+
+1. Student Outcome 1: Demonstrate a fundamental mastery of the knowledge,
+techniques, skills and modern tools required for electronics and/or related fields.
+2. Student Outcome 2: Demonstrate an ability to understand and apply current
+concepts in the areas of mathematics, science, engineering, and technology to
+problems / issues encountered using proper application of principles and applied
+procedures or methodologies.
+
+3. Student Outcome 3: Demonstrate the ability to conduct standard tests and
+measurements in the lab or in the field; similarly, to conduct, analyze, and interpret
+experiments; and apply results to resolve technical challenges and improve
+processes.
+
+4. Student Outcome 4:Demonstrate the ability to design or redesign systems,
+components or processes appropriate for the challenges encountered.
+
+5. Student Outcome 5: Demonstrate effective leadership and participation as a
+member of a technical team.
+
+6. Student Outcome 6: Demonstrate a capability to solve technical problems
+through proper identification, research, and systematic analysis of the issue.
+
+7. Student Outcome 7: Demonstrate proficiency in oral, written, and graphical
+communications in a technical and non-technical setting utilizing standard English.
+8. Student Outcome 8: Demonstrate an ability to identify and use appropriate
+technical literature, documents and procedures.
+
+9. Student Outcome 9: Demonstrate the need for and commitment to engage in
+self-directed continuing professional development and lifelong learning in one’s
+discipline.
+
+10. Student Outcome 10: Demonstrate professional, ethical, and social
+responsibilities within the electronics field, while recognizing differences due to
+culture and diversity.
+
+11. Student Outcome 11: Demonstrate recognition of the impacts of electronics
+technology solutions in an expanding societal and global context.
+
+12. Student Outcome 12: Demonstrate a commitment to quality, timeliness, and
+continuous improvement in professional activities.
+
+Based on your demonstrated accomplishments and score for each Student Outcome, your
+results will be entered into the EET 495 Course Rubric.
+
+All activities will receive a numerical grade of 0Q—100. You will receive a score of 0 for any
+work not submitted. Your final grade in the course will be a letter grade. Letter grade
+equivalents for numerical grades are as follows:
+
+A = 93-100 C+ = 78-79
+A- = 90-92 C = 73-77
+B+ = 88-89 C-— = 70-72
+B = 83-87 D = 60-69
+B— = 80-82 F = Below 60
+
+To receive credit for the course, you must earn a letter grade of C or better (for an area of
+study course) or D or better (for a course not in your area of study), based on the weighted
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html
+
+6/7
+
+4/14/24, 2:14 PM
+
+www2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495 html
+
+average of all assigned course work (e.g., exams, assignments, discussion postings, etc.).
+
+STRATEGIES FOR SUCCESS
+
+First Steps to Success
+
+To succeed in this course, take the following first steps:
+
+e Read carefully the entire Syllabus, making sure that all aspects of the course
+are clear to you and that you have all the materials required for the course.
+
+e Take time to read the entire Online Student Handbook. The Handbook answers
+many questions about how to proceed through the course and how to get the
+most from your educational experience at Thomas Edison State University.
+
+e Familiarize yourself with the learning management systems environment—how
+to navigate it and what the various course areas contain. If you Know what to
+expect as you navigate the course, you can better pace yourself and complete the
+work on time.
+
+e If you are not familiar with Web-based learning be sure to review the processes
+for posting responses online and submitting assignments before class begins.
+
+Study Tips
+
+Consider the following study tips for success:
+
+e To stay on track throughout the course, begin each week by consulting the
+Course Calendar. The Calendar provides an overview of the course and indicates
+due dates for submitting assignments, posting discussions, and scheduling and
+taking examinations.
+
+e Check Announcements regularly for new course information.
+
+ACADEMIC POLICIES
+
+To ensure success in all your academic endeavors and coursework at Thomas Edison
+State University, familiarize yourself with all administrative and academic policies including
+those related to academic integrity, course late submissions, course extensions, and
+grading policies.
+
+For more, see:
+
+e University-wide policies
+e Undergraduate course policies and regulations
+e Graduate academic policies
+
+e Nursing student policies
+e Academic code of conduct
+
+Copyright © 2016 by Thomas Edison State University. All rights reserved.
+
+https://www?2.tesu.edu/syllabus/current/ELT-495/syllabus_ELT-495.html
+
+17
+
