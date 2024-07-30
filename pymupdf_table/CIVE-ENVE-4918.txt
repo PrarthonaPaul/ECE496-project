@@ -1,0 +1,724 @@
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 1 of 12 
+CIVE/ENVE 4918 Design Project – Course Syllabus 
+1. Key Personnel and Schedule 
+ 
+Course Coordinator – CIVE 4918 
+Course Co-Coordinator – ENVE 4918 
+Shawn Kenny, Ph.D., P.Eng. 
+Canal Building (CB) 4205 
+E: shawn.kenny@carleton.ca  
+Paul Simms, Ph.D., P.Eng. 
+Mackenzie (ME) 2079 
+E: paul.simms@carleton.ca 
+ 
+CEE Project Supervisors  
+ACSE Professors Gunay, O’Brien & Santana; CIVE Professors Hajiloo, Hossain, Ismail, Khoo, 
+Lau, Rayhani, Sarkar, Sherwood, & Zalok; ENVE Professors Basu, Simms & Van Geel 
+ 
+Teaching Assistants (TA) – CIVE 4918 
+Teaching Assistants (TA) – ENVE 4918 
+Group #s: TBD 
+TA Contact Info TBD 
+ 
+Group #s: TBD 
+TA Contact Info TBD 
+ 
+  
+Lectures 
+Thursday 1605-1755 (every 2nd week)  
+Attendance is mandatory. 
+See §7 Course Evaluation and §10 Carleton University & Course Policies. 
+PA Sessions Monday 0835-1125 (each week) 
+Project Supervisors will define the mode and media used for engagement. 
+Attendance is mandatory. 
+See §7 Course Evaluation and §10 Carleton University & Course Policies. 
+ 
+2. Undergraduate Calendar Description 
+ 
+https://calendar.carleton.ca/search/?P=CIVE%204918 
+https://calendar.carleton.ca/search/?P=ENVE%204918 
+ 
+Teams of students develop professional level experience through a design project that 
+incorporates fundamentals acquired in previous mathematics, science, engineering, and 
+complementary studies courses. A final report and oral presentations are required. 
+Includes: Experiential Learning Activity. Prerequisite(s): ECOR 3800 and fourth-year status in 
+Engineering. Certain projects may have additional requirements. 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 2 of 12 
+3. Overview and Learning Outcomes 
+ 
+The course provides an opportunity for engineering students, with fourth year status, to 
+demonstrate transfer of learning; through the integration and application of knowledge and skills 
+acquired and developed over the course of the engineering program, to solve an open-ended 
+practical (real world) problem. Spanning two academic terms, in this capstone project you will 
+utilise the engineering design process to formulate a problem statement, define goals, objectives 
+and constraints, generate possible solutions, select and assess a short-list of preferred alternative 
+solutions, and, lastly, identify, develop and refine a preferred engineering design solution.  
+ 
+The capstone design project seeks to further develop and enhance your graduate attributes and 
+professional skills. Upon successful completion of this course, the student will be able to: 
+ 
+• 
+apply your engineering knowledge base and technical skills when solving engineering 
+problems, 
+• 
+utilize appropriate engineering methods and tools (e.g., experiment, analysis,) and apply 
+critical thinking to reach substantiated conclusions that solve engineering problems, 
+• 
+develop reliable engineered design solutions with confidence in predictable outcomes 
+that integrate best practices, codes and standards, 
+• 
+understand the significance and assess the interaction of factors (e.g. cultural, 
+economic, environmental, societal, safety, sustainability, technical) that may impact the 
+engineering design process or outcomes, 
+• 
+develop an understanding of the roles and responsibilities of the engineering profession 
+in society, 
+• 
+apply engineering economics (e.g., capital, time value, depreciation), business practices 
+(e.g., risk and change management), and engineering project management practices 
+(e.g., scheduling, milestones, resource/time allocation, procurement), and 
+• 
+develop and refine teamwork and communication skills (e.g., reading, writing, speaking, 
+active listening) across all stakeholder backgrounds and perspectives (i.e., engineering 
+profession, clients, public). 
+ 
+The Canadian Engineering Accreditation Board (CEAB) defines design as :”…an ability to design 
+solutions for complex, open ended  engineering  problems  and  to  design  systems,  components 
+or processes that meet specified needs with  appropriate  attention  to  health  and  safety  risks,  
+applicable  standards,  and  economic,  environmental,  cultural and societal considerations.” 
+ 
+As part of the CEAB accreditation process we will measure and assess graduate attributes (i.e., 
+technical, professional and personal attributes) we seek to develop and refine throughout your 
+undergraduate engineering program. The graduate attributes are evaluated using defined rubrics 
+that are focused on teaching and learning outcomes. The graduate attribute assessment does 
+not influence your grade assessment as defined in the course syllabus.  
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 3 of 12 
+4. Course Resources 
+ 
+The majority of course material (e.g., announcements, reporting requirements, reference material, 
+grading) will be posted on the cuLearn course site. Material (e.g., notes, textbooks and other 
+resources) acquired from previous courses can be used for technical guidance during the design 
+project. Other reference material has also been identified that will provide guidance across a 
+range of subject areas (e.g., communications, engineering economics, project management, cost 
+estimating, systems analysis and design synthesis) that will support your design project activities.  
+ 
+These resources are available online through the Carleton University library: 
+ 
+Communications 
+ 
+• 
+Alley, M. (2013). The Craft of Scientific Presentations: Critical Steps to Succeed and 
+Critical Errors to Avoid. 2nd Edition, Springer, https://doi.org/10.1007/978-1-4419-8279-7  
+https://www.assertion-evidence.com/ 
+https://www.craftofscientificwriting.com/ 
+• 
+Laplante, P. (2019). Technical Writing. Boca Raton: CRC Press, https://doi-
+org.proxy.library.carleton.ca/10.1201/9780429467394   
+ 
+Engineering Economics 
+ 
+• 
+Whitman, D.L. and Terry, R.E. (2012). Fundamentals of Engineering Economics and 
+Decision Analysis. Synthesis Lectures on Engineering, 
+https://doi.org/10.2200/S00410ED1V01Y201203ENG018  
+• 
+Yates, J. (2017). Engineering Economics. Boca Raton: CRC Press, https://doi-
+org.proxy.library.carleton.ca/10.1201/9781315368283  
+ 
+Design Approach 
+ 
+• 
+Amador-Jimenez, L. (2016). Civil Engineering Systems Analysis. CRC Press, e-ISBN 
+9781315381428, https://doi-org.proxy.library.carleton.ca/10.1201/9781315381428  
+• 
+Dieter, G.E. and Schmidt, L.C. (2009). Engineering Design. McGraw-Hill Higher, ISBN 
+ 
+0072837039. 
+• 
+Ossenbruggen, P.J. (1984). Systems Analysis for Civil Engineers. New York: Wiley, 
+ISBN 0471098892. 
+ 
+Project Management 
+ 
+• 
+Lessard, C and Lessard J. (2007). Project Management for Engineering Design 
+Synthesis Lectures on Engineering. Morgan & Claypool Publishers, 
+https://doi.org/10.2200/S00075ED1V01Y200612ENG002  
+ 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 4 of 12 
+Follow this link for accessing library resources during the virtual course delivery. 
+ 
+All materials, used or referenced in your study, must have the appropriate citation; otherwise you 
+may have plagiarized your work, which is an academic offence under the Academic Integrity 
+Policy of Carleton University. For the design project we will use the IEEE citation style but there 
+may be a need to use other citation formats. (e.g. Data, Statistics, Maps and Government 
+Information). 
+ 
+Note:  All course materials (e.g., assignments, course outline, posted notes, as well as quiz, exam 
+and corresponding solutions) are provided under copyright for personal use (academic study) 
+only. Reproduction, distribution, or transmittal of course materials by any means, without explicit 
+documentation expressing allowance from the copyright holder is a violation of copyright law. This 
+action is an academic offence of the Academic Integrity Policy of Carleton University and Code 
+of Conduct (Category 2 Offence). If you have any questions about fair dealing and your rights to 
+use work for educational purposes, please contact copyright@carleton.ca. 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 5 of 12 
+5. Lecture Progression (Tentative) 
+ 
+The planned lecture progression and course milestones are illustrated in Table 1.  
+ 
+Table 1. Lecture Progression 
+Lec # 
+Date 
+Topic 
+1 
+09/09/21 
+Awareness: Introduce concepts on the engineering design process, team 
+building & brainstorming 
+2 
+23/09/21 
+Momentum: Establish the problem definition, design goals, 
+conceptualization & communications (writing) 
+3 
+07/10/21 
+Clarity: Based on project goals, define the objectives, constraints & metrics, 
+create a decision basis and conduct options analysis 
+4 
+21/10/21 
+Integration: Address other factors (e.g., sustainability, resilience, climate 
+change, risk, society) 
+Fall Term Break: October 25-29, 2021 
+5 
+04/11/21 
+Risk Analysis: Qualitative and quantitative approaches to estimation, 
+prediction and uncertainty 
+6 
+18/11/21 
+Engineering Best Practices: Use of external resources, internal procedures, 
+guidelines, standards and codes  
+7 
+02/12/21 
+Group Dynamics and Culture: Engagement, vision, motivation & action 
+University Break: December 13, 2021 – January 09, 2022 
+8 
+13/01/22 
+Major Projects: An overview of the major processes and elements of an 
+impact assessment framework 
+9 
+27/01/22 
+Philosophy 101: Engineering ethics in technology & society 
+10 
+10/02/22 
+TBD: Industry Speaker 
+Winter Term Break: February 21-25, 2022 
+11 
+03/03/22 
+TBD: Industry Speaker 
+N/A 
+March 17, 
+24, & 31 
+Final Design Project Presentations 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 6 of 12 
+6. Course Milestones 
+ 
+The project milestones are summarized in Table 2. The lecture progression and milestone map 
+is summarized in Table 3. 
+ 
+Table 2. Milestones 
+# 
+Deliverable 
+Due Date 1 
+M1 
+Team Initiation 
+12/09/21 
+M2 
+Conception Report  
+1/10/21 
+M3 
+Feasibility Report 
+12/11/21 
+M4 
+Interim Presentation 
+29/11/21 – 10/12/21 
+M5 
+Design Basis Report 
+28/01/21 
+M6 
+Detailed Design Report  
+11/03/21 
+M7 
+Final Presentation 
+17/03/22 – 31/03/22 
+M8 
+Final Report 
+10/04/21 
+1All course material is due at 5PM (Ottawa time) on the due date. A late penalty of 5% (cumulative) 
+will be imposed for each 24-hour period past the due date (e.g., up to 24 hours is a 5% penalty; 
+24+ hours to 48 hours is a 10% penalty). 
+ 
+ 
+Table 3. Lecture Progression and Milestone Map 
+Fall Term 2020 
+Month 
+S 
+O 
+N 
+D 
+Week Start Date 
+6 
+13 
+20 
+27 
+4 
+11 
+18 
+25 
+1 
+8 
+15 
+22 
+29 
+6 
+Lecture Number 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+ 
+Milestone Number 
+1 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+4 
+ 
+Winter Term 2021 
+Month 
+J 
+F 
+M 
+A 
+Week Start Date 
+3 
+10 
+17 
+24 
+31 
+7 
+14 
+21 
+28 
+7 
+14 
+21 
+28 
+4 
+Lecture Number 
+ 
+8 
+ 
+9 
+ 
+10 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+Milestone Number 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+6 
+7 
+8 
+Milestone Number:  1 Team Initiation; 2 Conception Report; 3 Feasibility Report; 4 Interim Presentation 
+ 
+5 Design Basis Report; 6 Detailed Design Report; 7 Final Presentation; 8 Final Report 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 7 of 12 
+7. Course Evaluation 
+ 
+The course evaluation is summarized in Table 4. 
+ 
+Table 4. Course Evaluation 
+Assessment Element 
+Description [Primary Evaluator] 
+Weight 
+Individual Rating –
+Performance 1 
+Evaluates individual performance as part of a project team. 
+[Project Supervisor] 
+25% 
+Team Rating – Four 
+Interim Reports 2,4 
+Evaluates the quality of four interim reports (Conception, 
+Feasibility, Design Basis, and Detailed Design reports) 
+submitted over two academic terms. 
+[Project Supervisor] 
+40% 
+Team Rating – Final 
+Report 2,4 
+Evaluates the quality of the final report. 
+[Project Supervisor] 
+15% 
+Team & Individual 
+Rating – Interim 
+Presentation 3,4 
+Evaluates the quality of the communication skills of the 
+project team and individual for the interim presentation. 
+[Project Supervisor] 
+10% 
+Team & Individual 
+Rating – Final 
+Presentation 3,4 
+Evaluates the quality of the communication skills of the 
+project team and individual for the final presentation. 
+[Professors and TAs] 
+10% 
+ 
+Table 4 Course Evaluation Notes: 
+ 
+1Although the course is centered around group activities, individual students will be assessed 
+based on three performance indicators including (1) attendance, (2) individual performance, and 
+(3) peer review.  
+ 
+Attendance (5% grade) will be recorded during lectures where the attendance grade component 
+will be established at the end of the Winter semester. A Project Registry template is posted on 
+the cuLearn course website site under Resources  for your use (suggested but not mandatory). 
+The Project Registry (or other documentation agreed upon by the project team and Project 
+Supervisor) will be maintained by the Project Team Leader (or assigned project group member). 
+The primary function of the Project Registry is to document action items, meeting objective and 
+agenda, and highlight any constraint, delay or issue being confronted. After each group meeting 
+or project review meeting, the Project Team Leader (or assigned project group member) will 
+submit the Project Registry to the Project Supervisor (or assigned TA). 
+ 
+Individual performance (15% grade) measures the demonstrated level of active participation, 
+engagement, and professionalism by an individual as part of a project team. The grade 
+evaluations will be conducted at three milestones including the fall semester break, winter 
+semester break and near the end of the winter semester using the same weighting (i.e., 5% each). 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 8 of 12 
+The Project Supervisor will lead the evaluation and may integrate the assigned Teaching 
+Assistant (TA) in the grading process. The primary information used to assess individual 
+performance will be reported by each student through a description of how you have satisfied the 
+competency metrics (see the Individual Performance Assessment template on the cuLearn 
+course website site under General Information), which will be submitted as an appendix to each 
+of the four Interim Reports and Final Report (see Notes 4,5,6). The Project Supervisor may incorporate 
+feedback from external parties (e.g. TA, group peers, and mentors), and assess data recorded in 
+the Project Registry. 
+ 
+The final (5% grade) component will be based on peer review (i.e., project team members 
+evaluating other project team members through a confidential grading system), which will be 
+conducted near the end of the winter semester. 
+ 
+In order to pass the course, each student must achieve greater than or equal to 30% of the 45% 
+composite weighting for the two Individual Rating elements (i.e., Attendance & Performance) and 
+two Presentation elements (i.e., Interim & Final Presentation). Failure to meet or exceed the 30% 
+target will result in an assigned letter grade of F. 
+ 
+2Report guidelines are provided on the cuLearn course (under Conception, Feasibility, Design 
+Basis, and Detailed Design folders). Although the reports are submitted as group deliverables, 
+individual grades may be adjusted as warranted based on the Individual Performance 
+Contributions (see Note 2). See §8 Group Selection on the project group selection process.  
+ 
+3Presentation guidelines and the grading rubric are posted on the cuLearn course site (under 
+Presentations folder). The Interim Presentation will be presented to your Project Supervisor who 
+may invite other external parties (e.g., TA, mentor, other Professors, external stakeholders such 
+as industry, government, and municipalities). The Final presentation will be presented to a wider 
+audience (e.g., Project Supervisor, TA, mentor, other Professors, external stakeholders such as 
+industry, government, and municipalities). 
+ 
+4For e-mail correspondence (see also §10 Carleton University & Course Policies), please use the 
+following format in your email subject line: 4918 Group # Subject Heading. 
+ 
+8. Group Selection 
+ 
+Students will form groups using the self-selection tool (see information posted on the cuLearn 
+course website site under Task 1: Initiation) to create project teams. The project team self-
+selection should be completed as per the course milestones (see §6 Course Milestones). Each 
+project team should have 6 team members. The Project Coordinators may have to re-organize 
+project teams through re-distribution of individuals among different groups or assign individuals 
+to groups.  
+ 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 9 of 12 
+9. CSCE National Capstone Design Competition 
+ 
+A National Capstone Design Competition is held during the Canadian Society for Civil Engineering 
+(CSCE) Annual Conference. The competition is based on the CIVE/ENVE 4918 Design Project 
+and is open to all senior undergraduate students in an accredited Canadian civil engineering 
+program. Carleton University can nominate a single entry (team) for the national competition 
+within any speciality area of the field (Structural, Construction, Geotechnical, Geomechanics, 
+Hydraulics and Water Resources, Transportation or Environmental Engineering) for design 
+projects completed during the current academic year. The National Capstone Design Competition 
+provides an opportunity for two project team members to attend the CSCE Annual Conference 
+and present their study (to peers, conference attendees and competition judges) in a poster 
+session – it is uncertain what the format will be this year due to the effects of Covid-19. 
+ 
+Any project team that has an interest to participate in the CSCE National Capstone Design 
+Competition, please contact the Course Coordinator (Dr. Shawn Kenny). If multiple teams are 
+interested, then an internal competition will be required as each university can only nominate one 
+entry. 
+ 
+10. 
+Carleton University & Course Policies 
+ 
+This section summarizes key university and course policies. As a student you must be aware of 
+and follow the regulations of Carleton University for academic behaviour and understand your 
+rights and responsibilities for non-academic behaviour. 
+ 
+Academic Integrity 
+ 
+The Carleton University Academic Integrity Policy addresses the expected behaviour of students 
+with respect to academic integrity, which is essential to the university environment. This policy 
+reflects the values we hold to be important in the pursuit of engagement, learning, and 
+scholarship. Violations of this policy can have a range of repercussions and outcomes (e.g. 
+resubmission of work, change in grade, withdrawal from course(s), suspension).  
+ 
+Academic Petition 
+ 
+For extenuating circumstances that affect your ability to meet your academic obligations, you 
+have the option to submit a petition. 
+ 
+Appeal of Grade 
+ 
+Before initiating the Appeal of Grade process, seek resolution through communication with (1) the 
+assigned Teaching Assistant (TA), and, if the issue remains unresolved, (2) the Primary Evaluator 
+based on Table 3 §7 Course Evaluation.  
+ 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 10 of 12 
+Communications 
+ 
+Course materials will be distributed through the course’s cuLearn page and are protected 
+provided under copyright for personal (academic study) use only. All electronic communications 
+must be conducted through official Carleton university resources (e.g. email accounts, cuLearn). 
+Professionalism is expected in all course communications. The Announcements forum on the 
+cuLearn course page will be the primary communication tool. 
+ 
+Copyright on Materials  
+ 
+All course materials (e.g., assignments, course outline, posted notes, projects, as well as the quiz, 
+exam and solutions) are provided under copyright for personal (academic study) use only. 
+Reproduction, distribution, or transmittal of course materials by any means, without explicit 
+documentation expressing allowance from the copyright holder, violates copyright law. A student 
+who publicly posts or sells an instructor’s work, without the instructor’s express consent, may be 
+charged with misconduct under an academic offence under the Academic Integrity Policy of 
+Carleton University and/or Code of Conduct (Category 2 Offence), and may also face adverse 
+legal consequences for infringement of intellectual property rights. If you have questions about 
+fair dealing and your other rights to use works for educational purposes, please contact 
+copyright@carleton.ca. 
+ 
+Expectations of Student Engagement 
+ 
+As discussed in §7 Course Evaluation, although the course is centered around group activities, 
+individuals will be accountable for their own performance, professionalism, attendance and active 
+participation. Engage with your project team and we all have a responsibility to promote a positive 
+environment through active listening, conflict mediation, consensus building, evidence based 
+decision making, group integration, and open discussion and debate) 
+ 
+During the academic term, circumstances or events may arise that limit or prevent your 
+engagement as a contributing member to your project team over an extended period of time. 
+Provided you do not have to disclose a personal or confidential matter, (see §11 Academic 
+Accommodations) then then it is your responsibility to: 
+  
+• 
+inform your Project Team Leader and Project Supervisor and  
+• 
+either provide supporting documentation or submit a self-declaration form – the link to 
+the Covid-19 self-declaration form is provided as an example.  
+ 
+In accordance with the Academic Integrity guidelines, the “…misrepresentation of facts for any 
+academic purpose…” would be a violation of the Carleton University Academic Integrity Policy. 
+ 
+If the situation involves a personal or confidential matter, please seek out an appropriate resource 
+(see §11 Student Resources) or contact an individual that you feel comfortable with engaging 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 11 of 12 
+(e.g., Engineering Academic Support Office, Faculty of Engineering and Design, Department of 
+Civil and Environmental Engineering). 
+In-Class and Online Behaviour 
+ 
+In the virtual environment of course offering and program delivery, Carleton University has 
+provided some resources (Carleton Online) to support and guide your online study activities. 
+Regardless of your setting, you must follow all Carleton University regulations and are expected 
+to observe behavioural norms within the university environment and engineering profession. 
+ 
+For all virtual meetings in this course, the expectations are to be engaged in the meeting by 
+enabling the live audio and video links, and to observe the “Netiquette” rules of expected 
+behaviour.  However, the audio or video stream shall never be recorded by any means and doing 
+so will constitute a violation of the the Carleton University Academic Integrity Policy, If there is a 
+need for academic accommodations (see §11 Academic Accommodations),0 
+ please seek out an appropriate resource (see §11 Student Resources) or contact an individual 
+that you feel comfortable with engaging (e.g., Engineering Academic Support Office, Faculty of 
+Engineering and Design, Department of Civil and Environmental Engineering). 
+ 
+11. 
+Academic Accommodations 
+ 
+Carleton University is committed to providing access to the educational experience in order to 
+promote academic accessibility for all individuals. Academic accommodation refers to educational 
+practices, systems and support mechanisms designed to accommodate diversity and difference. 
+The purpose of accommodation is to enable students to perform the essential requirements of 
+their academic programs. At no time does academic accommodation undermine or compromise 
+the learning objectives that are established by the academic authorities of the University. The 
+accommodations include: 
+ 
+• 
+pregnancy obligation 
+• 
+religious obligation,  
+• 
+academic accommodation for students with disabilities, 
+• 
+survivors of sexual violence, and 
+• 
+accommodation of student activities. 
+ 
+See the following link for further information on academic accommodations: 
+ 
+https://students.carleton.ca/course-outline/ 
+ 
+CIVE/ENVE 4918 Design Project 
+Department of Civil and Environmental Engineering  
+Faculty of Engineering and Design, Carleton University 
+S Kenny, Ph.D., P.Eng. 
+ 
+CIVE/ENVE 4918 – Course Syllabus Fall 2021 & Winter 2022 
+Page 12 of 12 
+12. 
+ Additional Student Resources 
+ 
+Carleton Online – Connect with resources to support online learning 
+https://carleton.ca/online/ 
+ 
+Counselling Services – Counselling support for physical and mental health 
+https://carleton.ca/health/counselling-services/ 
+ 
+Covid-19 – Information on Covid-19 policies, procedures and FAQs 
+https://newsroom.carleton.ca/coronavirus-covid-19/ 
+ 
+From Intention to Action 
+From Intention to Action - Carleton University 
+ 
+International Students – Services and programs 
+https://carleton.ca/isso/ 
+ 
+Paul Menton Centre – Integration of students with learning disabilities 
+http://www.carleton.ca/pmc/ 
+ 
+Mental Health & Well-Being – Available tools and resources 
+https://carleton.ca/wellness/ 
+ 
+Peer Assisted Study Sessions – Supportive learning environment 
+https://carleton.ca/csas/pass/ 
+ 
+Research Help Desk – Library support services 
+https://library.carleton.ca/contact/service-points/research-help-desk 
+ 
+Student Experience Office – Resources to enhance university experience 
+https://carleton.ca/seo/ 
+ 
+Undergraduate Academic Support – Engineering focused resources  
+https://carleton.ca/engineering-design/current-students/undergrad-academic-support/ 
+ 
+Writing Service – Support to improve writing skills 
+https://carleton.ca/csas/writing-services/ 
+ 
+ 
+  
