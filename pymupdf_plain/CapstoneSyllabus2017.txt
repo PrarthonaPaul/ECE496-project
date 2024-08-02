@@ -1,0 +1,246 @@
+Computational Science and Engineering Capstone 
+Project Course - AC297r 
+Course ID:156202 
+2017 Spring 
+Tuesday 04:00pm - 06:00pm 
+Location: Pierce 301 
+  
+Instructor: Pavlos Protopapas 
+ 
+Canvas site: https://canvas.harvard.edu/courses/20897 
+Project Display Site: ​http://iacs.seas.harvard.edu/capstone 
+ 
+Teaching Fellows:  
+Reinier Maat, maat@g.harvard.edu 
+Isaac Slavitt, isaac.slavitt@gmail.com 
+Teresa Ruiz, truiz@seas.harvard.edu 
+Patrick Ohiomaba, ohiomoba@gmail.com 
+Abdul Wasay, awasay@g.harvard.edu 
+Daniele Foresti,  dforesti@seas.harvard.edu 
+Matt Holman, mholman@cfa.harvard.edu 
+Eleni Kaxiras, ​eleni@seas.harvard.edu 
+[Niv Dayan, dayan@g.harvard.edu] 
+[Orit Peleg, dayan@g.harvard.edu] 
+Syllabus 
+The CSE Capstone Project course will give you the opportunity to work as a team to 
+integrate knowledge acquired in ​other courses and to apply skills and ideas in 
+computational and data science such as data management, machine learning, 
+statistics, and visualization. You will have the opportunity to solve complex 
+real-world problems working across​  knowledge domains and applying cutting-edge 
+tools and methods incorporating critical thinking. 
+ 
+While working on a substantial and challenging project with your partner 
+organization, company, or research lab, you will practice ​professional skills​. Upon 
+completion of the Capstone Project Course you will be prepared to conduct research 
+at a professional level. The projects will be selected so that current statistical, 
+machine learning, computational, and engineering methods can be used. In 
+addition, most projects have been designed to address important contemporary 
+business and societal issues. 
+A significant component of the course will be the ​substantial feedback​ and 
+guidance from the professor and the teaching fellows (TFs)s, including explicit 
+measures of evaluation, feedback on all aspects of the project and its 
+implementation, as well as self-assessment and peer evaluation. This feedback 
+process will begin with the data acquisition and data exploration phase and extend 
+through the design and implementation phase of the project.  
+You will also most likely meet with your ​project partner organizations​ a few 
+times but these meetings are for consultation and feedback only. Goals and 
+guidelines are set during meetings with the professor and the TFs and you will be 
+graded by the professor and the TFs Some partners are more hands-on than others 
+and you will have the opportunity to determine the level of partner involvement 
+jointly during the course. 
+ 
+We expect you to work with your team members to develop your ​collaborative 
+skills​ such as group management and conflict resolution, and to sustain good 
+interpersonal relations. You will be asked to evaluate each team member’s 
+contribution as well as your own contribution to the project. Many employers 
+consider the ability to engage in productive teamwork a requirement for success.  
+Learning Outcomes for this course 
+●
+collaborate with others in conducting research or applied science 
+●
+acquire, organize and process data 
+●
+create and outline solutions using statistics, machine learning and 
+mathematical modeling 
+●
+implement those solutions 
+●
+communicate and defend your work 
+●
+practice professional skills by communicating with partners from outside the 
+University in a courteous and punctual manner. 
+Online Discussion 
+Students are encouraged to talk about their projects, difficulties and all, and to 
+engage with students doing other projects. This will make your experience more 
+fun, and your knowledge base larger. 
+ 
+Each project group will have a private space in Canvas to share documents and 
+private communications. 
+ 
+Notifications and class news will be posted on Canvas and sent via Canvas 
+notifications. Please make sure you have Notifications turned on otherwise you 
+might miss important announcements. 
+Course Structure 
+Town Hall Meetings (a.k.a class time) 
+The nature of Capstone projects is such that you will be mostly working with your 
+group and instructors. There will be a weekly ​Town Hall Meeting​ of the whole 
+class on Tuesdays 4:00pm to 6:00pm in Pierce 301 starting ​January 24th 2017 
+and ending April 25th. During the meeting: 
+ 
+●
+we will have the typical class announcements 
+●
+we will have short tutorials or guest lectures on both technical and 
+non-technical subjects such as communicating in the professional world 
+(being on time, being courteous, wearing the right clothes, etc), all about 
+Intellectual Property, all about Start-ups. 
+ 
+Attendance is mandatory. 
+Weekly meetings with your group’s Teaching Fellow  
+Each project group will be assigned a specific TF, with whom they will work for the 
+whole semester. The group will meet with the TF on a weekly basis. These meetings 
+will be freely structured and will allow for collaborative work while the TF is present 
+to answer any questions. Every other week these meetings will coincide with the 
+meetings with Prof. Protopapas (see below.) 
+Bi-Weekly meetings with the professor (Pavlos)  
+Before each meeting you will share a diary/workbook of your work with the 
+professor and the TFs so they can familiarize themselves with your progress. This 
+communication will make the meetings run more efficiently.  
+ 
+Bi-weekly:​ each group will have update meetings with Pavlos. Regular meetings 
+will be 53 min long.  
+ 
+ 
+ 
+Midterms 
+After the end of each phase, there will be a midterm (see schedule) during which 
+you are expected to present the progress of your work. There are two such 
+midterms. The first one you will present your work to the class, the second  
+Meetings with the partners 
+You will write a report to the partner, have the TF approve it and then send it to the 
+partner. We have high expectations for your meetings with the partners. You need 
+to be courteous, punctual, and well prepared.  
+ 
+Final Presentations and  Showcase 
+On May 8th there will be a poster session for all the projects (mark your calendars) 
+and on May 10-11 we will have the final presentations.  
+ 
+ 
+ 
+Project Phases, Milestones and Midterms 
+Phase 1: team formation - project selection - connect with 
+partners - project re-definition (weeks 1-4) 
+In this phase, the TFs will introduce the projects, you will choose your project, meet 
+the project partner, understand the problem, set up your group including the roles, 
+refine the project goals, and produce a preliminary project plan. 
+Phase 2: Learning and Data exploration or contractual statement 
+(weeks 5-8) 
+In this phase you will review, understand, and if needed, learn the existing 
+state-of-the-art methods in the literature relevant to the project problem. You 
+might need to learn statistical and machine learning methodologies, if you are not 
+already familiar with them (e.g. deep neural networks, variational methods, etc). 
+You will also explore the data (for projects with data), and redefine the project 
+definition and goals. 
+Phase 3: Formulation of solution, implementation (weeks 9-13) 
+In this phase, the heart of the project, you will get to implement and try ideas using 
+the methods you learned in the previous phase. You will also address computational 
+and performance issues. 
+Final Phase : Presentations 
+This is a continuation of the previous phase where you narrow down your 
+methodology, finish the implementation and produce results. This is the final 
+product and result-driven phase.  
+Course Policies 
+Grades:  
+Midterm 1 (including report to partner): 20% 
+Midterm 2 (including report to partner): 20% 
+Poster session: 10%  
+Final Presentation: 30% 
+Final Report: 10%  
+Peer Assessment: 10%  
+ 
+Assessment 
+You will be assessed individually for your contribution to the group’s work. Five (5) 
+pts. will be given for your efforts to create a successful team experience. Your 
+grade will be determined by the points earned during the phases of this course. 
+ 
+Pavlos’ grade rubric is Top, Middle, Low and Inadequate for the following criteria : 
+1. Substantial Effort  
+2. Depth of Investigation  
+3. Explanation of Method  
+4. Choices made and Why  
+5. Thoroughness  
+6. Presentation 
+You will submit reports in Canvas. No work will be accepted after the deadline. Do 
+not leave submission for the last minute as we all know that this is when the web 
+breaks. 
+Peer Assessment 
+10% of the grade for each milestone will be self and peer evaluation. Peer 
+evaluations are an important skill to learn so we expect you to give thorough and 
+constructive feedback. 
+●
+Self and Intra-group evaluation : you will be evaluating your teammates’ and 
+your own contribution during midterm and finals. 
+●
+Inter-group evaluation :  your group will be asked to evaluate another group. 
+At least one member of your group is expected to be present at the 
+presentation of the other team and to write the evaluation.  
+Collaboration Policy 
+You are expected to motivate and help each other in your group. You will ask you to 
+sign a “contract” with your teammates.  
+Questionnaires 
+We might ask you to complete a couple of online questionnaires during the 
+semester. The answers will be used to assess the progress of the course so far and 
+will not affect your grade. 
+Missed classes and Assignment Deadlines 
+It is very important that you attend all presentations. You are allowed only one 
+absence from a presentation for whatever reason provided that the rest of your 
+group is there. If more than one member is absent​ ​the presentation must be 
+rescheduled for the week after. You are allowed only one such extension.  
+Originality and Plagiarism 
+You must do your own work; we have zero tolerance for plagiarization.  
+You must acknowledge any source code that was not written by you by mentioning 
+the original author(s) directly in your source code (comment or header). You can 
+also acknowledge sources in a README.txt file if you used whole classes or 
+libraries. Do not remove any original copyright notices and headers. However, you 
+are encouraged to use libraries, unless explicitly stated otherwise! 
+You may use examples you find on the web as a starting point, provided their 
+licenses allow you to reuse the example. You must quote the source using proper 
+citations (author, year, title, time accessed, URL) both in the source code and in 
+any publicly visible material.  
+If you have any doubts about whether a library is available to use in your work, 
+please direct your question to one of the TFs. 
+Accommodations with students with disabilities  
+Students needing academic adjustments or accommodations because of a 
+documented disability must present their Faculty Letter from the Accessible 
+Education Office (AEO) and speak with me by the end of the second week of the 
+term to identify, discuss, and document any feasible instructional modifications or 
+accommodations. Students from the extension school should contact the extension 
+school disability office at ​disabilities@dcemail.harvard.edu​ or (617) 
+495-0977.Failure to do so may result in inability to respond in a timely manner. All 
+discussions will remain confidential, although I may contact AEO to discuss 
+appropriate implementation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
