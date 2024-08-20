@@ -1,6 +1,0 @@
-APS112.pdf: CER = 1.96%, WER = 0.18%
-APS111.pdf: CER = 2.03%, WER = 0.17%
-CIVE-ENVE-4918.pdf: CER = 3.53%, WER = 0.16%
-1-syllabus.pdf: CER = 1.05%, WER = 0.27%
-Overall CER = 2.22%
-Overall WER = 0.19%
