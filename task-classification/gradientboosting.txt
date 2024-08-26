@@ -1,0 +1,19 @@
+Gradient boosting is available under scikitlearn
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+
+- can use log loss or exponential loss function (log loss by default)
+- Algorithm tries to find F(x) such that the avg value of the loss function over the dataset is minimzed
+- Remember that in linear regression, the difference between observed values and predicted values is called residuals. To differentiate linear regression and gradient boosting, we call them pseudo-residuals
+- sklearn.ensemble.HistGradientBoostingClassifier is a much faster variant of this algorithm for intermediate datasets (n_samples >= 10_000).
+	- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html#sklearn.ensemble.HistGradientBoostingClassifier
+- works well with both small and large datasets 
+- Can improve accuracy using hyperparameter tuning
+- Can be hard to interpret and/or debug due to the complexity of the algorithm
+- Can be computationally heavy for both training and predicting
+- prediction speed is high, as is the accuracy of the algorithm
+
+
+Other links: 
+- https://www.datacamp.com/tutorial/guide-to-the-gradient-boosting-algorithm
+- https://scikit-learn.org/stable/modules/ensemble.html
+- https://www.geeksforgeeks.org/ml-gradient-boosting/

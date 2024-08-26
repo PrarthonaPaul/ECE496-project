@@ -1,0 +1,455 @@
+Engineering Strategies and Practice 
+1 
+ 
+Syllabus 
+Engineering Strategies and Practice (ESP) is a foundational design course sequence that uses the 
+engineering design process as a context for developing skills essential to the practice of 
+engineering:  
+ 
+This two-course sequence – ESP I in the fall term and ESP II in the winter term - will introduce 
+you to these five skills. By designing a solution to a problem for a client you will learn to 
+problem solve with creativity, methodology and credibility. In conducting background research 
+for your project you will practice independent learning skills. You will be required to take into 
+account factors outside of the technical such as environmental, societal, ethical, and human 
+factors and in doing so you will develop a systems thinking approach in your work. In reporting 
+your solution you will make use of effective written, oral, and graphical professional 
+communication. Finally you will achieve all of this while working efficiently in a team. 
+In summary the primary course objective is to encourage you to start synthesizing and 
+integrating your knowledge to make you a better engineer. 
+ESP I 
+ESP I introduces the design process through a common design project given to all teams. In your 
+assigned team you will grapple with the challenges of an engineering design problem while 
+working efficiently in a team. Writing and reading, as engineering activities, are introduced. You 
+will also learn how to identify and take into account factors such as economics, environment, 
+society, and human factors, as frontline design considerations. In the second half of the course, 
+you will participate in a seminar. In small groups you will discuss a topic unique to your seminar 
+that in addition to engineering content requires broader considerations when making a 
+professional recommendation. You will be assigned readings on the topic and required to 
+express your opinion through an oral presentation.  
+Figure 1: ESP Skills 
+Engineering Strategies and Practice 
+2 
+ 
+ESP II 
+Now that you have experience with the engineering design process you will be assigned your 
+own unique design project completed with a real client. You will learn the basics of project 
+management, how to approach a complex problem and break it down into solvable parts, and 
+how to acquire and use information in the design process. Working in a team with a real client, 
+you will go through a complete design process to develop an initial workable solution to meet a 
+client’s need. The end result will be a written final design specification, an oral presentation, 
+and for teams that excel a prototype, proof-of-concept model, or simulation.  
+Lectures 
+Tuesday 9:10 – 10:00 am, Convocation Hall 
+Thursday 9:10 – 10:00 am, Convocation Hall 
+Friday 9:10 – 10:00 am, Convocation Hall  
+Attendance at lectures is mandatory. The first lecture is on Tuesday, January 6, 2015 in 
+Convocation Hall. 
+Tutorials 
+ 
+Attendance at tutorials is mandatory. Check ROSI for the day, time and location of your tutorial. 
+There is no tutorial in Week 1 (January 5-9), however there is a tutorial agenda that lists things 
+you are expected to have completed before your Week 2 tutorial. Tutorials start in Week 2 
+(January 12-16). On Blackboard, check the course schedule for details about tutorial activities 
+and the tutorial agendas for specific expected deliverable for each tutorial. Consult with your 
+ROSI schedule to see which one of the following tutorial sections you are to attend: 
+T01 – T06 
+Monday 
+4:10 p.m. to 6:00 p.m. 
+T07 – T12 
+Tuesday 
+4:10 p.m. to 6:00 p.m. 
+T13 – T18 
+Wednesday 
+4:10 p.m. to 6:00 p.m. 
+T19 – T24 
+Thursday 
+4:10 p.m. to 6:00 p.m. 
+T25 – T30 
+Friday 
+4:10 p.m. to 6:00 p.m. 
+APS113 T01 
+Friday 
+2:10 p.m. to 4:00 p.m. 
+In addition to this weekly tutorial you are encouraged to arrange a weekly meeting with your 
+team to discuss project progress, conduct team business, to make project decisions, and to 
+work on team written documents. Regular meetings with your Communications Instructor 
+would also be beneficial.  
+Textbook  
+ 
+In ESP II we use the same e-textbook that was used in ESP I (APS111 and APS113 Fall 2014). If 
+you already purchased it for ESP I, then you do not need to purchase any other book. You are 
+responsible for readings assigned from the e-book and any additional readings posted on 
+Engineering Strategies and Practice 
+3 
+ 
+Blackboard. Content from these readings will be evaluated even if the material was not covered 
+directly in lecture. It is important to keep up with the readings. Consult the course schedule for 
+the assigned reading list. 
+• Designing Engineers: An Introductory Textbook (S. McCahan, P. Anderson, M. 
+Kortschot, P. Weiss, and K.Woodhouse ) 
+This textbook is a pre-publication version of a design textbook being written by members 
+of the ESP teaching team and other experts in the field. This textbook will not be 
+available in hard copy and instead an e-book version will be available for purchase for a 
+nominal fee. Purchasing the textbook online requires a credit card. If you do not have 
+access to a credit card then you can purchase an a redemption code from the U of T 
+Bookstore. The e-book version is downloadable to a single computer (PC or MAC). After 
+the initial download the book is available offline. The book file is only viewable through 
+the VitalSource viewing software, which can be downloaded from this link:  
+http://www.vitalsource.com/index/wiley 
+This viewing software allows for highlighting text and notations. If you buy a new 
+computer, you can contact VitalSource Technical Support who can help you move the e-
+book to your new computer. Copy protection restricts you to printing 10 pages at a time 
+or copying up to two pages at a time. Those who have purchased the e-book will also be 
+able to access it via a browser from any computer with internet access. Finally there are 
+free apps for both iOS and Android that allow mobile access to purchased books.  
+To purchase the e-book online, please go to this direct link for the correct textbook:  
+http://store.vitalsource.com/show/9781118843956 
+If you go to the general Vital Source website and search for the e-book instead of using 
+the direct link above, you might encounter older versions of the e-book that are 
+different and incomplete. The current correct version of the e-book is:  Designing 
+Engineers: An Introductory E-Text by McCahan for $39.95 US E-ISBN: 9781118843956 
+If you had purchased a redemption code from the U of T Bookstore, please note that you 
+will need to first install the VitalSource Bookshelf software.  After you have successfully 
+installed the software, do the following to redeem and download the textbook: 
+1. Launch the VitalSource Bookshelf. 
+2. Under the “Help” menu (at top), select “activate new content.” 
+3. Login (or register if this is your first time) 
+4. Enter your redemption code. 
+Engineering Strategies and Practice 
+4 
+ 
+5. Click “Redeem.” 
+6. Go to “All Titles. Select the title you just redeemed. 
+7. Click “Download” 
+ 
+Once downloaded, your Wiley E-Text will appear in the VitalSource Bookshelf on your 
+computer.  You can access your digital text anytime since an internet connection is not 
+required. 
+ 
+Note:  If you have purchased a redemption code from the Bookstore, it takes 24 hours 
+from the time of purchase for the code to be activated.  You must wait for the 24 hours 
+to pass before you can redeem your code on VitalSource. 
+Special Supplies 
+Besides your textbooks and standard stationary there are some special supplies required for 
+ESP. These are described below. 
+Engineering Notebook 
+You must document your progress on your project. Standard practice in industry is to use a 
+hardcover notebook. It is recommended you use a standard bound lab notebook such as a black 
+or blue physics or chemistry lab book. The size, color, and/or page format (ruled or quad) does 
+not matter. A loose-leaf binder or spiral bound notebook is not acceptable. An example of a 
+notebook is available here: http://bit.ly/engnotebook  
+If you always have your laptop / tablet with you, you may prefer to use a digital solution for 
+your engineering documentation. If you opt for this you should have some organizational 
+structure such as OneNote, Evernote, Google Docs, etc. You should also have a means of 
+capturing sketches for inclusion in your documentation. This could be a stylus on a tablet or a 
+cell phone camera with high enough resolution.  
+You may reuse your engineering notebook from APS111 if it has sufficient pages left. Clearly 
+indicate in the book where APS111 ends and APS112 begins.  
+Google Account 
+Assignments in this course are required to be written using Google Docs (Google Drive). This 
+requires you to have a Google account. A Google account is different from a Gmail account. If 
+you already have a Google account using your Gmail address, please set your mail.utoronto.ca 
+address as your alternate email address in your Google account, or sign up for another Google 
+account with your mail.utoronto.ca address. If you don’t have a Google account, sign up free of 
+charge using the link below. (Click on “I prefer to use my current email address” to set up an 
+account using your mail.utoronto.ca address.) 
+http://tinyurl.com/6s6vya 
+Engineering Strategies and Practice 
+5 
+ 
+Top Hat (TH) Account 
+Your Professional Development grade requires you to answer in-lecture course concept 
+questions using the TH system. You must be registered with Top Hat (http://www.tophat.com) 
+to earn these marks. The registration fee has already been paid for you by the Faculty. Course 
+instructors will ask course concept questions in lecture to gauge students’ understanding of 
+course material. As well, students may ask instructors questions via TH in lecture. See the Top 
+Hat Instructions posted on Blackboard for more information on registration. See the 
+Professional Development grade section below for more details about the marking.  
+Note:  You must enroll in the ESP II Winter 2015 Top Hat class to receive grades in Winter 
+2015. Please use the Top Hat Instructions posted on Blackboard to enroll correctly. 
+SMS Text-Capable Cell Phone 
+To participate in the in lecture course concept questions via Top Hat you will need an SMS text-
+capable cellular phone. Currently, Convocation Hall does not have WiFi access for you to 
+connect to TH on your laptop. Regular SMS text costs will apply. You can expect to send 
+approximately 60-180 text messages in total for ESP I and ESP II. If you do not have an SMS text-
+capable cellular phone, you may contact the ESP Office for assistance. 
+Marking 
+The marks for ESP II are broken down as indicated in Table 1.  
+Table 1 - ESP II mark breakdown 
+Evaluation  
+% of final mark 
+Team Documents: 
+Project Requirements & Project Management Plan 
+Conceptual Design Specification 
+Final Design Specification 
+30% 
+Presentations:  
+Design Review Gateway in-tutorial presentation: 3%  
+Final presentation: 20%  
+23% 
+Quizzes (2)  
+24% 
+Individual Assessments: 
+Lessons Learned & Strategy 
+Project Manager Report  
+20% 
+Professional Development  
+(PD grade consists of lecture participation and safety training. 
+Other PD activities are bonus. ) 
+3% 
+Total 
+100% 
+ 
+Engineering Strategies and Practice 
+6 
+ 
+Project Manager Report 
+ 
+This is an individual mark assigned by your Project Manager (PM). Your PM will be assessing the 
+overall quality and quantity of your participation in the design project from his/her perspective, 
+including your weekly contributions to the progress of the project, your attendance and 
+participation at the weekly meeting with your PM, and your team dynamic skills. Your PM may 
+use peer evaluations as one source of information in determining the above criteria. See the PM 
+Report document for additional details. 
+Quizzes  
+ 
+There are two quizzes in ESP II. The first takes place roughly midterm, the second takes place at 
+the end of the term. See the course schedule for specific date, time, and location. Quiz logistics 
+will be posted in Blackboard closer to the evaluation date.    
+Both of the quizzes are Type A exams as defined in the Faculty Calendar. This means that no 
+printed materials can be used as an aid during the tests with the exception of a translation-only 
+paper dictionary. The quizzes are closed book and closed notes. No electronic dictionaries are 
+permitted at the exams.  
+Instead of writing a final exam in ESP II, you will be conducting your final oral presentations on 
+your design project. 
+Professional Development (PD) 
+Professional behaviour is a series of habits that you must start developing immediately. You will 
+not be able to “switch on” professionalism once you graduate. It is just as important for you to 
+project a professional image in your lectures and tutorials as it is in client meetings and 
+interviews. A portion of your course grade will be allocated based on indicators of your 
+professional behaviour.  
+The greatest input into this grade is your ability to attend and follow along in ESP lectures. In 
+most lectures the instructor will ask multiple course concept questions through the Top Hat 
+system. For each question, 0.5 mark will be for answering correctly and 0.5 for participating. At 
+the end of the term, the total number of the Top Hat questions plus the point for the Health & 
+Safety Training (posted on Blackboard) will be the total possible marks for Professional 
+Development. 
+NOTE: To answer in lecture questions you must be physically present. Attempting to answer 
+without being physically present is an academic offense.  
+Throughout the term there will be opportunities to earn “bonus PD points.” These opportunities 
+will be announced. Bonus points will be posted on Blackboard at the end of the term. The bonus 
+points will be added to your PD grade on our spreadsheet when we calculate your overall 
+course grade at the end of term.  It is possible to exceed 100% for your PD grade if you amass 
+enough PD bonus points.  
+Engineering Strategies and Practice 
+7 
+ 
+Your ability to collect PD marks will depend on registering for a TH account and having access to 
+an SMS capable cell phone (see the Special Supplies section above and the Top Hat Instructions 
+posted on Blackboard).  
+Attribution Table 
+ 
+For all team assignments an attribution table must be completed and signed by all team 
+members. The attribution table must be reviewed by all of the team members prior to the 
+document debrief session to make sure that all members agree on the information given in the 
+table. The information must be fair and accurate. 
+If the table indicates a substantial discrepancy in contribution (i.e. a large difference in the 
+contributions among the team members) then the marks assigned to individual team members 
+may be reduced to reflect this discrepancy. The TA will give an overall “team mark” on the 
+assignment. The TA will then use the attribution table, the document revision history, and the 
+assignment debrief meeting to ascertain the contribution of each member to the development 
+of the document. If the TA determines an imbalance in contribution, he or she will decide on a 
+reduced mark for the under-contributing team member(s). These marks are simply lost. They 
+are NOT redistributed to the other team members. This is because one of the learning 
+objectives of these team assignments is to mange to work effectively in a team. Under-
+contributing team members mean that the team has failed to achieve this learning objective. 
+Course Communication Mechanisms 
+It is important that you keep in contact with the ESP Teaching Team. These lines of 
+communication are maintained in a number of different ways: 
+Blackboard  
+This site can be accessed through the U of T portal. Go to the U of T homepage and click on 
+“Portal.” You will need your UTOR ID and password to login. 
+The site is where we will post class announcements and all course documents and where you 
+can access your term marks as they become available. This is the primary mode of course 
+communication outside of lecture and tutorial. It is expected that you will check Blackboard 
+frequently for information. 
+Public Course Website 
+The public ESP website (www.esp.engineering.utoronto.ca) is for the general public, such as ESP 
+II clients, and not students. All student information will be found on Blackboard as mentioned 
+above. 
+ 
+ 
+Engineering Strategies and Practice 
+8 
+ 
+Email 
+Do not email questions on course content, instead post the question on Piazza (see below). Only 
+in exceptional cases will course content questions be answered via email. 
+If you do send an email to a member of the teaching team consider it a professional email. This 
+means that you must adhere to the Professional Email Style Requirements posted on 
+Blackboard. Failure to do so may result in no response to your email.  
+Do not put an automatic forward on your U of T email. We have had difficulty in the past with 
+Hotmail and other providers filtering out U of T originated messages. If your email provider has 
+this compatibility problem with the U of T system, you will miss important course information. A 
+missed email will not be considered sufficient justification for the granting of petitions. Be sure 
+you are getting all the course notices. 
+Piazza 
+We will be using Piazza for class discussion. The system is intended help you get answers to your 
+questions as fast and efficiently as possible. The tool allows you to post your question to all your 
+peers and members of the teaching team. We can then collaboratively answer your question. If 
+you are not satisfied with your peers answers you can keep the question unresolved and a 
+member of the teaching team will either answer it themselves or endorse a student’s answer.  
+If you prefer you can use the tool to send a question privately to the teaching team.  
+You are strongly encouraged to use this tool to ask your questions rather than email. Only in 
+exceptional circumstances will a question be answered via email.  
+You can enroll in our class Piazza page at: 
+https://piazza.com/utoronto.ca/winter2015/aps112 
+ 
+Cheating and Plagiarism 
+This course has both team and individual assignments. Check the instruction sheet for each 
+assignment to identify whether it is an individual assignment or a team assignment. When 
+working collaboratively with other members of the class, as with all professional 
+communication, reports must bear all of the names of all the people who contributed to them, 
+and acknowledge their contribution. It is considered plagiarism to submit a paper solely under 
+your own name (i.e. take credit for it) if the content was written all or in part by someone else. 
+While it is acceptable to re-use your own material in the iterative process within a given project, 
+it is considered plagiarism to re-use your own material for another project. If you are ever in 
+doubt whether something constitutes plagiarism ask a member of the teaching team. 
+When submitting assignments that are to be written individually, you must never copy even a 
+portion of another student’s paper, or let another student copy yours. Failure to adhere to this 
+Engineering Strategies and Practice 
+9 
+ 
+rule is considered to be plagiarism – by both parties involved. Do not allow another student to 
+borrow a draft of your assignment and do not leave a copy of your assignment where others 
+may use it. The University takes cheating of any kind very seriously. Possible penalties for 
+cheating include a negative mark on an assignment, zero in the course, annotations on your 
+transcript, or even expulsion from the University. It is simply not a risk worth taking, no matter 
+how desperate you may feel. It is far better to submit a substandard assignment than take the 
+chance of incurring the kinds of academic penalties that the University will impose. For more 
+information on the definition of academic and non-academic offences, procedures and 
+penalties, please review the University of Toronto Faculty of Applied Science and Engineering 
+Calendar. 
+If your workload is such that you are feeling totally overwhelmed, please talk to the Course 
+Coordinator, the Course Administrator, First-Year Counsellor, or the Academic Success Centre 
+(Koffler Centre). There are programs to assist you in learning how to cope with the University 
+workload. 
+In this course you will be submitting your assignments to Turnitin.com, a software package 
+licensed by the University of Toronto that is designed to detect plagiarism. Students agree that 
+by taking this course, all required papers will be subject to submission for textual similarity 
+review to Turnitin.com for detection of plagiarism. All submitted papers will be included as 
+source documents in the Turnitin.com reference database solely for the purpose of detecting 
+plagiarism of such papers. The terms that apply to the University’s use of the Turnitin.com 
+service are described on the Turnitin.com website. 
+Submitting a document to Turnitin that is different than the version you submit for grade 
+evaluation is an academic offense. 
+Sharing Work outside Your Team 
+Giving another team access to documents that you or your team has created constitutes 
+academic offence (cheating):  
+• Because you are enabling plagiarism to occur;  
+• Because for team written documents you, individually, do not have sole ownership of 
+the intellectual property (ideas and words) contained in the team document. It is 
+unethical and illegal to give away intellectual property that does not belong to you 
+without the permission of the owner, in this case the whole team. 
+Sharing Work within Your Team 
+Assignment feedback from a member of the teaching team belongs to the entire team. It is not 
+acceptable for a member of the team to refuse to share this feedback. Also, it is the 
+responsibility of each team member to make available to their team-mates the written work 
+they have prepared for the shared project. This includes meeting minutes, notes from client 
+interviews, drafts of reports, etc. Withholding work that pertains to the team project, or 
+Engineering Strategies and Practice 
+10 
+ 
+feedback, from your team-mates is considered academic dishonesty and demonstrates poor 
+team skills.  
+ 
+If you are frustrated by the dynamics within your team, and/or your team-mates’ behaviour, it is 
+important to address this in an appropriate and effective way. Your TA, CI, and PM (APS112 
+only) can help you resolve these issues and help you, as a team, develop strategies for working 
+successfully with each other. Remember: most projects do NOT fail for technical reasons they 
+fail because of planning and team problems. 
+Late Assignments, Missed Activities and Requests for Re-Marks 
+This course will give you an idea of the professional environment you will likely be working in 
+when you join the workforce. As such we have strict policies in place to govern adherence to 
+deadlines and re-marking of deliverables (i.e. assignments). 
+Late Assignments and Missed Activities 
+Deadlines for course assignments are strictly enforced. Extra time to work on an assignment is 
+not fair to others in the class who have not had the same opportunity. 
+For each portion of 24 hour period past the deadline there is a 10-mark (out of 100) penalty on 
+that assignment. Late assignments will not be accepted beyond 72 hours past the deadline. 
+After that point, a grade of “zero” will be assigned and the assignment will not be evaluated. 
+The weekend counts toward these penalties. 
+Example: If the deadline is Wed Sep 18 at 12:10pm and you submit your 
+assignment on Fri Sep 20 at 12:11pm, your assignment will be accepted but with 
+a 30-mark penalty. If you try to submit your assignment on Sat Sep 21 at 
+12:11pm, it will NOT be accepted and you will receive zero on the assignment. 
+An assignment is only considered submitted once ALL components, as per the assignment 
+instructions, of the assignment are submitted. An assignment with an incomplete submission 
+will continue to accrue late penalties until the additional components are submitted or the 72 
+hour maximum late period passes. 
+Late penalties for team assignments apply to the entire team regardless of who was responsible 
+for submitting the document. You are expected to have a team process in place so that all 
+members of the team can verify that the assignment has been submitted. 
+If you have a reason for a late assignment, a missed quiz or presentation, etc., you must submit 
+a Petition for Consideration in Course Work with supporting documentation to the ESP Office 
+within a week of returning to class from illness, or a week from the assignment deadline.  
+If you know in advance that you will miss a deadline for a mandatory course activity, such as an 
+assignment, quiz or presentation, you must submit the petition before the date of the activity. 
+In addition, you must apply before the deadline or activity to determine if there is a possibility 
+Engineering Strategies and Practice 
+11 
+ 
+for you to make up the work, or if an extension can be granted. Note: a petition does not excuse 
+you from work. 
+If you are missing mandatory course activity due to religious observances, you must submit a 
+petition to the ESP office at least three weeks before the date of the activity. The three-weeks 
+advance notice is in accordance with the University of Toronto’s policy on Accommodations for 
+Religious Observances as students would normally be aware of upcoming religious observances 
+and course activities in advance. 
+Course work petitions for ESP are submitted as follows: 
+• Fill out the Petition for Consideration in Course Work – Fillable PDF form posted in the 
+Course Documents folder on the Blackboard course portal. 
+• Email the completed petition form to ESP:  esp@ecf.utoronto.ca 
+• Include supporting documentation as applicable: 
+o Absence due to: 
+ Illness:  Email to ESP a completed petition form, and bring to the ESP 
+Office 
+in 
+GB149 
+a 
+Verification 
+of 
+Student 
+Illness 
+form 
+(http://www.illnessverification.utoronto.ca/) signed by a registered 
+medical physician. 
+ Participation in athletic or other types of competition:  Email to ESP a 
+completed petition form, and bring to the ESP Office in GB149 an official 
+letter from the coach. 
+o Other types of supporting documentation may be submitted to ESP by email 
+(esp@ecf.utoronto.ca) or in the office (GB149) as appropriate. 
+Re-marking of Assignments 
+Requests for a remark due to an error in the grading will be heard by one of the course 
+coordinators within one week of the return of an assignment to all tutorial sections. Students 
+may request a meeting in person at the ESP Office to give evidence of the error and to explain 
+the problem. Potential errors could include:  
+ 
+• TA misinterpreted a course concept 
+• Disagreement between the rubric and the comments on the document 
+ 
+In the week of the return of an assignment, if there is an error in the marking, go to the ESP 
+Office in GB149 to sign up for a meeting slot.  Prior to the meeting, share your Google Docs 
+assignment file with esp@ecf.utoronto.ca (give us the “can edit” access to look at your revision 
+history). Bring to the meeting the assignment’s marked rubric; a note with your name, student 
+number (and team mates’ names and numbers if applicable) and brief descriptions of the 
+marking errors; and any other supporting documentation/evidence to make your case. 
+ 
+Engineering Strategies and Practice 
+12 
+ 
+The results of the meeting will be provided to you by email. The results are final. Your grade 
+may be raised OR lowered as a result of the remark request. For team assignments only one 
+member of the team must attend, but all team members must have signed a letter indicating 
+their desire to have a remark done.  
+ 
