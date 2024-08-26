@@ -1,0 +1,361 @@
+ΝΨ Capstone Design Syllabus
+Course Overview
+Engineering design integrates mathematics, natural sciences, engineering sciences, and 
+complementary studies in order to develop elements, systems, and processes to meet specific 
+needs. It is a creative, iterative, and open-ended process, subject to constraints which may be 
+governed by standards or legislation to varying degrees depending upon the discipline. These 
+constraints may also relate to economic, health, safety, environmental, societal 
+or other interdisciplinary factors. 
+…
+The engineering curriculum must culminate in a significant design experience … based on the 
+knowledge and skills acquired in earlier work and it preferably gives students an involvement 
+in team work and project management. (Canadian Engineering Accreditation Board 
+Accreditation Criteria and Procedures 2010, Canadian Council of Professional Engineers, 
+sections 3.3.3.3 and 3.3.4.4.)
+The Engineering Science Capstone Design course provides students in different Majors, specifically 
+Biomedical, Electrical and Computer, Nanoengineering, and Physics, with an opportunity to integrate and 
+apply the technical knowledge gained during their undergraduate education to the solution of a given real-
+world engineering design challenge. Students work in small groups1, and have significant latitude to explore 
+and define the given challenge. There are no technical lectures or tutorials in Capstone Design; students are 
+expected to have sufficient technical background that they can successfully address the design challenge 
+with some minimal additional self-study.
+The design challenge for the 20119 session of Engineering Science Capstone Design is:
+Design, or redesign, an experiment for, or from, the 
+Engineering Science undergraduate curriculum
+Each Capstone Design team will (re)design, prototype, and test a working laboratory experiment. Teams are 
+expected to develop both the experiment itself, including all supporting apparatus and equipment, 
+documentation, learning objectives, etc., and a full set of engineering documentation that substantiates their 
+design. The designs produced in Capstone Design must be developed into functioning products 
+suitable for immediate deployment in the classroom or laboratory. In addition to their team 
+activities, each Capstone Design student is individually expected to provide evidence of reflective activities 
+completed during the course.
+Course Instructors
+Jun Nogami (WB140)
+jun.nogami@utoronto.ca
+Co-instructor: TBA
+Given the highly varying nature of upper year student schedules, in lieu of scheduled office hours students 
+who desire additional contact time must make individual appointments with the Course Instructors. During 
+ESC471 – Engineering Science Capstone Design – 20129
+1 Students may choose the composition of their teams to suit their interests and skills. While we recommend 
+that teams have members from multiple Majors, this recommendation will not be mandated.
+the term the Course Instructors may announce one or more scheduled times and locations where individuals 
+or groups of students may obtain additional contact.
+Graduate Attributes
+Having completed ESC471 Engineering Science Capstone Design all student are expected to have 
+demonstrated that they possess the abilities and understandings linked to the following CEAB graduate 
+attributes2:
+3.1.3 Investigation
+3.1.4 Design
+3.1.5 Engineering tools
+3.1.6 Teamwork
+3.1.7 Communication skills
+3.1.8 Professionalism
+3.1.10 Ethics and equity
+3.1.11 Economics and project management
+3.1.12 Lifelong Learning
+Prerequisites
+There are no formal prerequisites for Capstone Design beyond having completed the Engineering Science 
+Foundation curriculum and one year of an Engineering Science Major. As part of their Foundation studies, 
+all students in Capstone Design are expected to have engaged in the design of structures3, circuits4, software 
+programs5, socio-technical systems6, and other forms of engineering. They are also expected to be familiar 
+with engineering design as a distinct topic of study7. Informal prerequisites include having completed 
+laboratory experiments as part of a course, and the use of analytic and simulation tools such as Matlab and 
+Labview.
+Capstone Design builds on the Praxis Approach to Engineering Design Education introduced in the 
+Engineering Science Foundation Curriculum. Accordingly students are expected to be aware of this approach 
+and to use it as the basis of their Capstone Design activities. Key features of this approach include:
+• Having students make and defend design decisions;
+• Encouraging students to explore and question the activities and assignments they are asked to 
+undertake;
+• Exposing students to multiple conceptions of “engineering” and “design” and having students develop 
+their own, individualized conception of “engineering design” that guides their practice;
+• Expecting students to undertake their own investigations and to explore alternate perspectives 
+and approaches to the materials they are presented; and,
+• Having the students responsible for integrating theory and practice, supported by the 
+instructional team.
+The Praxis Approach to Engineering Design Education has as core theoretical underpinnings the Perry 
+Model of Intellectual and Ethical Development and the Kolb Learning Cycle. Students are encouraged to 
+explore these models to better understand the philosophy of the Capstone Design course.
+ESC471 – Engineering Science Capstone Design – 20119
+ 
+Syllabus 
+[2/7]
+2 Further information on the CEAB Graduate Attributes can be found at:
+http://www.engineerscanada.ca/e/files/Accreditation_Criteria_Procedures_2010.pdf
+3 In CIV102 and possibly in ESC101.
+4 In AER201 and possibly in ECE159 and ECE253.
+5 In either CSC192 or in the combination of CSC180 and CSC190, and possibly in AER201.
+6 In ESC102 and possibly in ESC201.
+7 From ESC101, ESC102, AER201, and possible ESC201.
+Resources
+Capstone Design makes use of a number of electronic resources:
+Blackboard:
+available through http://portal.utoronto.ca
+There is no textbook for Capstone Design; any required readings will be made available electronically as the 
+course progresses. Links to these readings will be made available on the Blackboard site.
+Students are required to develop functional, and optionally non-functional, prototypes of their Capstone 
+designs. To support these efforts, students will be reimbursed for their purchases and will have access to 
+machine shop services. To receive reimbursement or gain access to machine shop services, students 
+must obtain prior approval from both the course instructors and from a designated authority.
+Students may also choose to engage in activities that have associated costs, for example having posters 
+printed on large format paper or producing bound, colour copy reports, Students in Capstone Design are 
+expected to spend an amount similar to the cost of a textbook over the course of the term without expectation 
+of compensation.
+As much as possible, assessment will be structured so that the grade and the level of expenditure will not 
+be correlated, allowing students to choose their own level of expenditure. Students should consult with the 
+Course Instructors should they feel that the costs of the course are becoming excessive.
+Activities and Workload
+Design Studios (“Practical”; 5 scheduled hours per week)
+Studios are designed as weekly opportunities for group work and consultation with the Course Instructors. 
+Portions of certain Studios will be used for structured activities including discussions with subject matter 
+experts, presentations by guest speakers, demonstrations, and class discussions. We do not anticipate 
+using the full 5 scheduled hours and will accommodate students with scheduling conflicts.
+Workload
+The nominal expectation is that students spend one hour outside of class for every one hour of classroom 
+time. On a weekly basis this translates to five hours per student per week. Note that is a nominal, average 
+expectation; in any particular week, and for any particular student, the actual amount of time spent on the 
+course may differ from this expectation.
+Course Feedback
+Over the course of the term, students may be requested to provide feedback on the course. This feedback 
+may be solicited by the Division of Engineering Science or the Course Instructors. Any such feedback will be 
+used to improve the course, during both this and future sessions. While students are not required to respond 
+to the requests for feedback, they are encouraged to do so as their feedback can significantly improve both 
+their course experience and that of future students. Should feedback be requested, student anonymity will be 
+preserved unless the student explicitly chooses to share their identity with the Course Instructors.
+Preliminary Timeline
+Note that with the exception of the due dates for assignments, this timeline is subject to change. See the 
+“Composition of Final Grades” section for specific due dates and time.
+ESC471 – Engineering Science Capstone Design – 20119
+ 
+Syllabus 
+[3/7]
+Date
+Session Studio Activities
+2012-09-10
+1
+Course Introduction / Team Formation / Problem Assignment / 
+Field Trip
+2012-09-17
+2
+ESC471 20119 Post-Mortem / Proposal Formation
+2012-09-24
+3
+Critique of Project Proposals with Course Instructors
+2012-10-01
+4
+Team Dynamics and Performance, meetings with Course Instructors
+2012-10-8
+No scheduled ESC471 activities (Thanksgiving)
+No scheduled ESC471 activities (Thanksgiving)
+2012-10-15
+5
+Pre-critique of Preliminary Designs with the Course Instructors
+2012-10-22
+6
+Critique of Preliminary Designs
+2012-10-29
+7
+Scheduled meetings with the Course Instructors
+2012-11-05
+8
+Pre-critique of Final Designs with the Course Instructors
+2012-11-12
+9
+Critique of Final Designs / Final Grade Category Allocation
+2012-11-19
+10
+Scheduled meetings with the Course Instructors
+2012-11-26
+11
+Course Evaluations
+2011-12-03
+12
+Scheduled meetings with the Course Instructors
+Grading Policies
+Composition of Final Grades
+The deliverables associated with a design activity can be broken down into three categories: product, process, 
+and reflection. To provide students with the flexibility to pursue their own learning goals, in Capstone 
+Design each student team is able to select what percentage of their overall grade is allocated to each of those 
+categories. The allocation must sum to 100% while meeting the following restrictions:
+Category
+Definition
+Min.
+Max.
+Product
+Final deliverables and accompanying descriptions. Examples include 
+experimental apparatus, laboratory protocols, technical specifications, WHMIS 
+sheets, schematics, etc.
+Product deliverables focus on answering the question “What is the design?”
+35%
+55%
+Process
+Process deliverables frame, explain, and justify the product. Examples include 
+problem definitions, stakeholder needs assessments, multi-criteria decision 
+making, proposed future changes, etc.
+Process deliverables focus on answering the question “Why is this a credible 
+engineering design?”
+35%
+55%
+Reflection
+Reflection deliverables demonstrate individual changes in knowledge, practice, 
+or attitude. They may also be used to plan future activities.
+Reflection deliverables focus on answering the question “What did you, as an 
+engineering designer, obtain from this design experience?”
+10%
+15%
+Assignments with a weight of “Formative” are submitted to elicit feedback from the Course Instructors and 
+possibly from peer teams. Assignments with a weight of “Varies” will have an exact percent weighting 
+assigned by each team in consultation with the Course Instructors.
+Due Date
+Deliverable
+Type
+Weight
+Submitter
+2012-09-22
+Proposal Draft
+Delivered electronically to the Course Instructors
+Process
+Formative
+Team
+ESC471 – Engineering Science Capstone Design – 20119
+ 
+Syllabus 
+[4/7]
+Due Date
+Deliverable
+Type
+Weight
+Submitter
+2012-09-28@1200
+Proposal
+Delivered electronically to the Client and the 
+Course Instructors
+Process
+5%
+Team
+2012-10-20
+Preliminary Design Draft
+Delivered electronically to the Course Instructors
+Product + 
+Process
+Formative
+Team
+2012-10-26@1200
+Preliminary Design
+Delivered electronically to the Client and 
+the Course Instructors and physically 
+(as appropriate) to the Client.
+Product + 
+Process
+Varies
+Team
+2012-11-19
+Design Critique (group presentation)
+Product
+10%
+Team
+From 2012-12-6
+to 2012-12-14
+Walkthrough
+Scheduled by appointment with the Course 
+Instructors and, schedules permitting, the 
+Client
+Product
+Varies
+Team
+2012-12-21@1200
+Final Design
+Delivered electronically to the Client and to the 
+Course Instructors, and physically to the Client.
+Product + 
+Process
+Varies
+Team
+2012-12-21@1200
+Record of Reflection
+Delivered electronically to the Course Instructors
+Reflection
+Varies
+Individual
+Additional details will be released at a reasonable point in time prior to each deliverable’s due date.
+Team Grades
+When working in teams, students are expected to divide workload in an equitable fashion. The nature of the 
+division is up to the team members, and does not require that all members work the same hours or produce 
+identical volumes of work. Team members are expected to follow practices of good teamwork and to comport 
+themselves as professionals. Students are also expected to report any difficulties with regards to 
+teamwork to the Course Instructors as soon as possible during the term; failure to report such 
+difficulties may result in the instructional team being unable to address student concerns.
+By default, members of a team receive an identical grade on team assignments. Based on solicited, 
+confidential feedback, the Course Instructors may adjust the grade distribution within a team.
+“Double-counting”
+Students who are enrolled in both ESC471 Engineering Science Capstone and PHY427 Advanced Physics 
+Laboratory may use the same experiment as the basis for, and may obtain academic credit in, both courses. 
+Students who wish to base their ESC471 project on an experiment in a different course that they are taking 
+concurrently must receive approval from the ESC471 Course Instructors. Students who do not receive 
+such approval will be assumed to have violated the University of Toronto Code of Behaviour on 
+Academic Matters.
+Late Penalties
+Due dates have been selected such that course workload is spread out over the term and that sufficient time 
+is available to provide formative feedback prior to the submission of summative assignments. Assignments 
+that are submitted late will be subject to a cumulative penalty, as outlined in the respective assignment 
+descriptions. Note that this practice deviates from the more common industry practice of not accepting late 
+deliverables.
+ESC471 – Engineering Science Capstone Design – 20119
+ 
+Syllabus 
+[5/7]
+Support and Accommodation
+Students with diverse learning styles and needs are welcome in this course. Students who have a disability 
+or health consideration that may require accommodations are both encouraged and welcome to approach the 
+Course Instructors as soon as possible. Should accommodations be necessary, by University of 
+Toronto policy students are required to contact the Accessibility Services Office.
+Policies
+Students in Capstone Design are expected to comport themselves professionally and to exercise common 
+sense8. They are also expected to be familiar with, and act according to, the following University policies, 
+guidelines, and interpretations:
+• Code of Behaviour on Academic Matters
+http://www.governingcouncil.utoronto.ca/policies/behaveac.htm
+• Code of Student Conduct
+http://www.governingcouncil.utoronto.ca/policies/studentc.htm
+• Academic Integrity (Student Rights & Responsibilities Series)
+http://www.utoronto.ca/academicintegrity/Academic_integrity.pdf
+• Petitions and Appeals
+http://www.apsc.utoronto.ca/Calendars/2011%2D2012/Academic-Regulations.html#Note105
+• University of Toronto Inventions Policy
+http://www.governingcouncil.utoronto.ca/policies/invent.htm
+• University of Toronto Policy on Official Correspondence with Students
+http://www.governingcouncil.utoronto.ca/policies/studentemail.htm
+Instructional Materials and Copyright
+Students are prohibited from recording or otherwise reproducing any copyrighted materials associated with 
+ESC471 Capstone Design unless they obtain prior permission from the copyright holder. Unless otherwise 
+indicated, tangible instructional materials (e.g. assignments, slides, handouts, etc.) developed by the Course 
+Instructors are released under a Creative Commons license that permits the sharing of the materials, so 
+long as attribution is made, no financial remuneration is asked, and any derivative works are similarly 
+licensed. Tangible instructional materials developed by other parties are assumed to be copyright those 
+parties unless otherwise indicated.
+Intangible instructional materials, in particular spoken or presented content, is assumed to be copyright 
+those providing the materials, including the Course Instructors.
+Public Disclosure
+Students agree that by taking this course all submitted deliverables may be used for teaching and learning 
+purposes, in this or subsequent courses, or to support research into improving engineering education. Should 
+such use take place, any content identifying the student will be removed. Students who are concerned 
+about the intellectual property ramifications of potential disclosure must notify the Course 
+Instructors prior to the end of the 20129 academic session.
+ESC471 – Engineering Science Capstone Design – 20119
+ 
+Syllabus 
+[6/7]
+8 Students are encouraged to consult with the Course Instructors any time that they are uncertain as to 
+whether an activity or decision would be unprofessional or would indicate a lack of common sense.
+Turnitin
+Students agree that by taking this course all required papers may be subject to submission for textual 
+similarity review to Turnitin.com for the detection of plagiarism. All submitted papers will be included as 
+source documents in the Turnitin.com reference database solely for the purpose of detecting plagiarism of 
+such papers. The terms that apply to the University's use of the Turnitin.com service are described on the 
+Turnitin.com web site. The intellectual property of all students submitting to Turnitin.com is protected by 
+the licensing agreement between the University of Toronto and iParadigms.  This agreement further ensures 
+that student papers submitted to Turnitin.com will not be used for commercial purposes.
+ESC471 – Engineering Science Capstone Design – 20119
+ 
+Syllabus 
+[7/7]
