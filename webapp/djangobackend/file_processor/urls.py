@@ -3,7 +3,9 @@ from django.contrib.auth import views as auth_views # django's inbuilt authentic
 from . import views #imports views from file_processor
 
 urlpatterns = [
-    path ('login/', auth_views.LoginView.as_view(template_name = 'login.html'),name='login'), #sets up the login url, using the standard LoginView template to serve the login page
-    path('register/',views.register, name='register') #sets up the registration url
+    path('', views.home, name='home'),
+    path('register/', views.register, name='register'),
+    path('upload/', views.upload_pdf, name='upload_pdf'),
+    path('login/', views.login_view, name='login'),  # Add the login URL here
 ]
 

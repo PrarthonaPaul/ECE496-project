@@ -16,8 +16,8 @@ const LandingPage = () => {
     };
 
     const handleLogin = () => {
-        const loginData = { username: userName, password : password };
-        fetch('http://localhost:5001/api/users/login', {
+        const loginData = { username: userName, password: password };
+        fetch('http://localhost:8000/api/login/', { // Adjust the URL to match your Django server's address
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -26,7 +26,7 @@ const LandingPage = () => {
         })
         .then(response => response.json())
         .then(data => {
-            if (data.token) {
+            if (data.message === "Login successful") {
                 navigate('/user', { state: { userName } });
             }
             else {
@@ -35,6 +35,7 @@ const LandingPage = () => {
         })
         .catch(err => console.error('Login failed:', err));
     };
+    
 
     return (
         <div className={`landing-page ${isRegistering ? 'registration': 'user'}`}>
