@@ -1,0 +1,342 @@
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+Praxis II Syllabus!
+Praxis II builds on the skills and attitudes developed in Praxis I by having students complete a single, more
+in-depth design cycle that spans problem finding and framing through to concept development and
+realization (through prototyping and other means). As such the course provides a forum for students to
+continue to develop their skills, attitudes and aptitudes as engineering designers. Praxis II follows from
+Praxis I and reinforces the key tenets of the Praxis Approach to Engineering Design:
+• Focusing on the quality and credibility of engineering designs;
+• Using research to make and defend design decisions;
+• Developing individualized conceptions of “engineering design” that guide action and exploration; and,
+• Integrating theory and practice.
+1. Course Overview!
+In Praxis II, students are exposed to more advanced engineering design and communication concepts and
+apply this knowledge to more complex situations. Praxis II asks students to take on leadership,
+entrepreneurial, and consulting roles within the context of engineering design by first identifying a suitable
+design challenge and then designing a solution to that challenge.
+Students in Praxis II are presented with following design challenge which guides the entire course:
+!
+The Praxis II schedule is divided into two phases: framing and solving.
+1.1. Framing Phase!
+In the framing phase, students seek out and develop an understanding of a particular community in the
+greater Toronto area. This involves identifying the community, understanding its nature, consulting with its
+members or representatives, and identifying problems that negatively impact that community’s quality of
+life. This understanding must incorporate both technical and nontechnical (e.g. social, political, ethical, etc.)
+perspectives.
+This phase culminates in each team authoring a Request for Proposal (RFP) that codifies the need for
+improvement that has been identified and frames the situation such that a successful engineering design
+solution is possible. A subset of the RFPs developed in the framing phase is selected to proceed to the
+solution phase.
+1.2. Solving Phase!
+During the solving phase, students develop candidate engineering designs that meet the requirements
+outlined in the RFPs. As they develop their solutions, students will explore the uses, advantages and
+limitations of formal engineering design tools and processes. The focus of the solution phase is on developing
+quality, credible, engineering design concepts.
+Praxis II culminates in an open Showcase during which proposed student designs, supported by
+prototype(s), will be reviewed and evaluated on both their technical and nontechnical merits. Students will
+concurrently be evaluated on their communication abilities through the media of written abstracts, posters,
+and oral presentations.
+Effect a real and measurable improvement in the lived
+experience of a community located in the Greater Toronto Area.
+[1! /!8]
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+2. Teaching Team!
+The Teaching Team in Praxis II integrates Engineering Communication instructors and Engineering Design
+instructors, as both are significant stakeholders in the Praxis II learning experience.
+Office hours with the Teaching Team are by appointment on a first-contact, first-scheduled basis.
+3. Assignments and Distribution of Grades!
+Course Instructors
+Jason Foster
+jason.foster@utoronto.ca
+Rob Irish
+r.irish@utoronto.ca
+Studio Teaching Team
+Jenny Lofgreen
+j.lofgreen@utoronto.ca
+Neil Shyminsky
+n.shyminsky@utoronto.ca
+Ted Nolan
+emartin.nolan@utoronto.ca
+James Bateman (1T3 ΝΨ Physics)
+james.bateman@mail.utoronto.ca
+Andrew Flood (0T8 ΝΨ Physics)
+andrew.flood@mail.utoronto.ca
+Ante Lausic (1T0 ΝΨ Nanoengineering)
+ante.lausic@utoronto.ca
+Giorgio Proestos (1T2 ΝΨ Infrastructure)
+giorgio.proestos@mail.utoronto.ca
+Patricia Sheridan (0T9 Mechanical)
+patricia.sheridan@utoronto.ca
+Due Date Deliverable Weight Submitter
+Studio week of 2014-01-13 Community Pitch 5% Individual
+2014-01-17 @ 2400 ESEC Feedback 1% Individual
+2014-02-17 @1800 Request for Proposal (RFP) 20% Team
+2014-03-02 @ 2400 RFP Revision 10% Team
+Studio week of 2014-03-24 Design Critique 10% Team
+TBD
+(Likely 2014-04-11or 2014-04-14)
+Design Showcase
+•Prototype(s) •Poster •Presentation •One-Pager
+25% Team
+At various points during the
+term corresponding to key
+Team experiences
+Praxis II Course Surveys 4% Individual
+7 days after the
+Design Showcase at 2400
+Design Handbook 15% Individual
+7 days after the
+Design Showcase at 2400
+Design Portfolio 10% Individual
+SYLLABUS REV. 0.9 [2! /!8]
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+3.1. Design Handbook!
+The Praxis II Design Handbook is a process- and tools-focused complement to the Praxis I and Praxis II
+Design Portfolios. While the Portfolios focus on deliverables and public presentation, the Design Handbook
+focuses on the design tools and processes that informed those deliverables. Unlike the public audience of the
+Portfolio, the primary audience for the Design Handbook is the designer (as they engage in future design
+activities).
+The Design Handbook is an informal document kept by an individual designer to improve their future
+performance as an engineering designer. The Design Handbook captures the designer’s preferred design
+tools and processes in a format that the designer can use in future design activities (e.g. in AER201) as a
+personalized reference work. The Handbook captures both design theory, sourced primarily but not
+exclusively from engineering design literature (but also lectures, interviews, workshops, etc.), and design
+practice, in the form of worked examples from the designer’s own experience (for example from ESC101 and
+ESC102).
+Practically, students should have already developed a basis for the Design Handbook as part of the Praxis I
+Design Portfolio. Segments such as the design process and worked examples of process can be extracted from
+the Praxis I Design Portfolio to form the foundation of the Praxis II Design Handbook.
+A Design Handbook differs from a Design Notebook , which is also used in professional 1 practice. A Design
+Notebook is a realtime capture of the design activities undertaken during a single project to document what
+was done, when, and by whom, during that single project. A Handbook, on the other hand, draws from
+multiple design activities, and includes a subset of the design activities undertaken during each project. Its
+primary purpose is to collect the key design activities and tools across multiple projects to assist the
+designer in future projects as reference material (or design practice). As such a Design Handbook is usually
+structured around the different phases of an engineering design process.
+3.2. Design Portfolio!
+The Praxis II Design Portfolio extends and builds on the Design Portfolio developed in Praxis I. Students
+received feedback on their Praxis I Portfolios, which offers a starting point for improvement. The Praxis II
+Design Portfolio should continue to demonstrate strengths, areas of progress, and areas for future
+development as an engineering designer. However, it should provide more depth and incorporate more
+experience than the Praxis I Portfolio.
+3.3. ESEC Feedback!
+ESEC is a mandatory event taking place on Friday, January 17, 2014. To earn a “participation mark” for
+ESEC, each student must complete a brief survey that focuses on the talks they attended.
+3.4. Community Pitch!
+The community pitch is a two-to-three minute presentation in which each student proposes a community of
+interest located within the Greater Toronto Area. This community must have the potential to develop into a
+“client” or “key stakeholder” for a design project. The critical points of the pitch are identifying a meaningful
+community, understanding its dynamics and key points for accessing that community, and demonstrating
+that a first-year EngSci team can effect a real and measurable improvement in their lived experience.
+SYLLABUS REV. 0.9 [3! /!8]
+!1 Engineering Design Notebooks are considered to be legal documents, and can be used as evidence in contractual disputes, inquests,
+and intellectual property protection. Students in Praxis II should keep a Design Notebook as a record of their activities; students in
+Praxis II must develop a Design Handbook.
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+3.5. Request for Proposal (RFP) and RFP Revision!
+The Request for Proposal (RFP) builds on the Praxis I Product Design Brief assignment and challenges
+students to frame an engineering challenge to the levels expected by industry and government. Success in
+the RFP assignment requires that teams identify and frame an engineering design challenge, identify and
+directly engage with stakeholders, consult with relevant codes and standards, and develop comprehensive
+engineering requirements. The target audience for an RFP is the engineers who will submit proposed design
+concepts that meet the requirements and address the stakeholder needs codified within the RFP.
+Because of not only the challenges of writing a quality RFP but also the importance of the RFP to the
+second phase of Praxis II, all teams will be required to revise their RFP based on feedback from the Teaching
+Team. As part of the revision, each team will include a summary of their changes to enable efficient and
+effective assessment of the revised RFPs.
+3.6. Design Critique!
+The Design Critique provides an opportunity for teams to receive feedback before the final Design Showcase.
+Teams will present their design concepts formally to their Studio Teaching Team and informally to their
+peers. The Studio Teaching Team will critique the concepts, presentation, and discussion to help teams
+refine their design concepts and design thinking.
+3.7. Design Showcase!
+The Design Showcase is a public event during which student designs, supported by prototype(s), will be
+reviewed and evaluated on both their technical and nontechnical merits. Students will concurrently be
+evaluated on their communication abilities through the media of written summary, posters, and oral
+presentations. For the Design Showcase, each team must produce four deliverables:
+1. A full-colour, large-format, single-sheet poster; the costs of poster production are borne by the team
+2. One or more prototypes of their design(s)
+3. A flexible presentation that can be tailored to the needs of a variety of audiences ranging from curious
+public guests to assessing members of the Teaching Team
+4. A one-page project summary or “pitch” suitable for a general audience. This summary is analogous to
+the written portion of the Praxis I Kickstarter Package.
+3.8. Course Surveys!
+At various points during the term students will be asked to complete surveys that will inform them, their
+teammates, the Teaching Team and other course stakeholders of their performance. These surveys will be
+timed to coincide with key Team experiences and may be used as evidence regarding the fairness of intrateam
+workload allocation.
+4. Resources!
+4.1. Recommended Text!
+Irish, R. and Weiss, P., Engineering Communication From Principles to Practice, Oxford University Press,
+2nd Edition. 2013.
+This textbook (also used in Praxis I) explains the principles for effective engineering communication in detail
+and is useful reference for both future academic and professional engineering communication activities.
+SYLLABUS REV. 0.9 [4! /!8]
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+4.2. Design Critique and Showcase!
+As there are no textbook costs associated with Praxis II, students should expect to spend approximately the
+same amount in this course as they would for textbooks in their other courses on their poster and
+prototype(s) and may engage in additional exploration, experimentation, or construction; the costs of these
+activities are to be borne by the students. Grade and level of expenditure will not be causally linked.
+4.3. Electronic Resources!
+5. Activities and Workload!
+5.1. Lectures (3 scheduled hours per week)!
+Lectures introduce both the concepts required to successfully complete the course and examples of how those
+concepts can be and have been applied. Students are encouraged to ask questions in lecture to help clarify
+their understanding and that of the class.
+5.2. Studios (“Tutorial”; 2 scheduled hours per week)!
+Studios are designed as weekly focused activities and opportunities for group work and consultation with the
+teaching team. The activities of the studio are cumulative, that is one builds on the next and students will
+work both individually and in teams to meet course objectives. Studios have unique deliverables that often
+inform or are prerequisites for further activities in Praxis II; active participation in Studio is essential to
+student success.
+5.3. Workload!
+The nominal expectation is that students spend a minimum of one hour outside of class for every one hour of
+classroom time. On a weekly basis this translates to a minimum of five hours per student per week.
+6. Graduate Attributes and Learning Objectives!
+Having completed Praxis II, all students are expected to have continued on the path to possessing the
+abilities and understandings linked to the following CEAB graduate attributes:
+"
+Blackboard: available through https://portal.utoronto.ca
+Downloads: https://design.engsci.utoronto.ca/courses/esc102/20141/
+Wiki: https://design.engsci.utoronto.ca/wikis/1t7
+Twitter Feed: follow username EngSciPraxis and hashtag #esc102
+Surveys: https://design.engsci.utoronto.ca/surveys
+Tickets: https://design.engsci.utoronto.ca/tickets
+Realtime Communication: ircs://design.engsci.utoronto.ca:6667
+Team-effectiveness
+Learning System:
+https://teamlearning.ilead.utoronto.ca/team-app
+3.1.3 Investigation
+3.1.4 Design
+3.1.5 Engineering tools
+3.1.6 Teamwork
+3.1.7 Communication skills
+3.1.8 Professionalism
+3.1.9 Impact of engineering on society and the environment
+3.1.10 Ethics and equity
+3.1.11 Economics and project management
+3.1.12 Lifelong Learning
+SYLLABUS REV. 0.9 [5! /!8]
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+Having completed Praxis II, all students are expected to be able to:
+1. Engage in quality, credible engineering design praxis
+a. Describe personal, credible, and professionally acceptable definitions of “engineering design”,
+“engineering credibility”, and “engineering quality”;
+b. Enact their engineering definitions
+(for example through defining a process or processes, identifying specific tools that suit their
+definition and personal abilities, through developing suitable metrics, etc.); and,
+c. Frame a challenge in engineering terms such that it can be addressed using engineering design
+methods; and,
+d. Develop credible concept designs in response to a Request for Proposal, using the tools of engineering
+design.
+2. Incorporate rigorous engineering design principles, tools, and techniques into their design practice
+a. Locate, analyze, and synthesize credible engineering design resources including experts, research
+papers, textbooks, handbooks, manuals, etc.;
+b. Demonstrate that their design activities were informed by such resources; and,
+c. Apply the same rigorous practice to the communication of their engineering design.
+3. Express engineering designs and ideas
+a. Select appropriate modes of communication, working within established design related genres such
+as the RFP, poster, and abstract;
+b. Structure the information being expressed;
+c. Adapt established expressive processes; and
+d. Apply established models of expression in both textual and visual domains.
+4. Make engineering arguments
+a. Analyze the audience of an argument and tailor the argument accordingly;
+b. Frame an argument in a manner accepted by the engineering community;
+c. Ground an argument in an established theory of argumentation; and
+d. Apply rhetorical principles to the design of text and visuals.
+7. Assessment!
+The Praxis Assessment Process allows – and encourages – students to discuss the feedback they receive on
+their assignments and activities openly with the Teaching Team as part of an ongoing learning cycle. If
+questions or concerns exist about assessment, students should provide evidence that they have read and
+understood assessor’s comments, and can provide credible justification for reassessment. If differences in
+opinion regarding assessment continue after such discussion, students may request that their work be
+assessed by a Course Instructor. If that occurs, the new assessment will supersede the original
+regardless of whether the resulting grade is higher, lower, or the same.
+7.1. Grading Expectations!
+Obtaining an “A” grade in Praxis requires not only that students demonstrate strong evidence of original
+thinking that goes beyond what is required, but also that they communicate clearly using all appropriate
+media.
+7.2. Team Grades!
+Teams are expected to divide work fairly. Determining “fairness” is up to the team, but may involve equal
+time or equal value of work. Students should report any team difficulties to a member of the Teaching Team
+as early as possible. By default, members of a team receive an identical grade on team assignments.
+However, based on interactions with the Teaching Team and Team Survey feedback, the Course Instructors
+SYLLABUS REV. 0.9 [6! /!8]
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+may adjust the grades within a team. Students may be asked for documentation of team interactions as
+evidence of team function.
+7.3. Late Penalties!
+Assignments that are submitted late will be subject to a cumulative penalty of no less than 5% per calendar
+day or part thereof . Note that this practice deviates from the more common industry practice of not
+accepting late deliverables.
+7.4. Support and Accommodation!
+Students with diverse learning styles and needs are welcome in this course. Students who have a disability
+or health consideration that may require accommodations are both encouraged and welcome to approach the
+a member of the Teaching Team as soon as possible. Should accommodations be necessary, by
+University of Toronto policy students are required to contact the Accessibility Services Office.
+The Accessibility Services staff are available by appointment to assess specific needs, provide referrals, and
+arrange appropriate accommodations.
+8. Policies!
+Engineering Science Students are expected to comport themselves professionally and to exercise common
+sense. They are also expected to be familiar with, and act according to, University policies, guidelines, and
+interpretations. Of particular importance are those mentioned in the “Academic Regulation” section of the
+Faculty of Applied Science and Engineering Academic Calendar.
+8.1. Plagiarism!
+The University of Toronto treats plagiarism as a violation of the Code of Behaviour on Academic Matters.
+Plagiarism is a serious forms of cheating in which a student makes use of someone else’s ideas or words
+without giving appropriate attribution. In academic work, plagiarism usually occurs in one of three ways:
+1. You cut and paste a piece of someone else’s text, code, or figure but do not clearly show the source both
+in a citation and in a list of references.
+2. You hand in work done by others (e.g. teammates) without putting their names on the work
+3. You rephrase someone else’s idea into your own words, but do not give credit to the source of the idea.
+The University takes cheating very seriously. Penalties can include zero on the assignment, zero in the
+course, annotations on your transcript (which would be seen by a potential graduate school or employer), or
+in extreme cases expulsion from the University. If you are concerned about your use of sources, discuss your
+concerns with your Studio Instructor or a Course Instructor before submitting a document for assessment.
+8.2. Instructional Materials and Copyright!
+Students are prohibited from recording or otherwise reproducing any copyrighted materials associated with
+this course unless they obtain prior permission from the copyright holder. All lectures are copyright of the
+lecturers.
+8.3. Intellectual Property!
+Design work undertaken in this course falls under the auspices of the “University of Toronto Inventions
+Policy”, available online at:
+http://www.governingcouncil.utoronto.ca/policies/invent.htm
+SYLLABUS REV. 0.9 [7! /!8]
+ESC102 – ENGINEERING SCIENCE PRAXIS II – 20141
+This policy stipulates that “… the University shall solely own all rights” to such works. Students who believe
+that their design work should be protected must inform the Teaching Team prior to the submission of that
+work.
+Students agree that by taking this course all submitted deliverables may be used for teaching and learning
+purposes, in this or subsequent courses, or to support research into improving engineering education. Should
+such use take place the deliverables will be modified to be FIPPA-compliant. Students who are concerned
+about the intellectual property ramifications of potential disclosure must notify the Course Instructors prior
+to the end of the academic session.
+The intellectual property of all students submitting to Turnitin.com is protected by the licensing agreement
+between the University of Toronto and iParadigms. This agreement further ensures that student papers
+submitted to Turnitin.com will not be used for commercial purposes.
+8.4. English Proficiency Requirement!
+In Engineering Science, successful completion of the written components of Praxis I demonstrated such
+proficiency.
+8.5. Turnitin!
+Students agree that by taking this course all required papers may be subject to submission for textual
+similarity review to Turnitin.com for the detection of plagiarism. All submitted papers will be included as
+source documents in the Turnitin.com reference database solely for the purpose of detecting plagiarism of
+such papers. The terms that apply to the University's use of the Turnitin.com service are described on the
+Turnitin.com web site. The intellectual property of all students submitting to Turnitin.com is protected by
+the licensing agreement between the University of Toronto and iParadigms. This agreement further ensures
+that student papers submitted to Turnitin.com will not be used for commercial purposes.
+8.6. Illness!
+While the Teaching Team will work with students to ensure that they are not disadvantaged should they
+become ill, students have a responsibility to work in good faith with the Teaching Team to make
+appropriate accommodations. Students who become ill and are unable to complete their Praxis and
+Design assignment(s), or whose performance is compromised, have the option of petitioning their
+circumstances by following the information available in the Academic Calendar or online at:
+http://www.undergrad.engineering.utoronto.ca/Office_of_the_Registrar/Petitions.htm
+Note that should you choose to pursue this path, you will need to acquire appropriate medical documentation
+at the time of your illness; documentation acquired after the fact will not be accepted.
+Because much of the student work in Praxis takes place within teams, students should be careful to make
+arrangements with their teammates in order to mitigate the effects of a potential absence. The Teaching
+Team will work with student teams to help them make these arrangements.
+SYLLABUS REV. 0.9 [8! /!8]

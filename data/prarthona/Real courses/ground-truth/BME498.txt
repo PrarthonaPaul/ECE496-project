@@ -1,0 +1,294 @@
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 1 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+BME 498Y: Biomedical Engineering Capstone Design
+1. Calendar Information
+In this project-based design course teams of students from diverse engineering disciplines (enrolled in the biomedical engineering minor) will engage in the bio-medical technology design process to identify, invent and implement a solution to an unmet clinical need. The students will learn about medical technology development and will engage in the process through lectures, guest lectures delivered by medical technology experts, "hands-on" practicums and a student driven design project. Approval to register in the course must be obtained from the Associate Chair, IBBME - Undergraduate.
+2. Course Overview
+BME498 is a capstone design project course intended to have students identify unmet clinical needs and/or healthcare-related problems and define a design challenge. In the course of proposing an innovative solution, students are expected to apply their technical background to address the design challenge. Students will be expected to perform additional self-study to understand their challenge but course expectations will be supported by “hands-on” activities presented in lecture and laboratory periods to orientate each team toward proper engineering design. The student-driven design project will take place over both semesters as each team proposes a project and develops a design from initial concept to final working prototype.
+The goal of this course is to provide students with the opportunity to practice innovation and engineering design skills within a biomedical context and increase awareness of future entrepreneurial activities. Topics will include needs finding, needs screening, product design specifications, concept generation, concept screening, prototyping, risk assessment, and quality control of medical devices.
+NEW FOR FALL 2020:
+• The design studio will be open for students visiting campus to build and test their prototypes. Access will be managed through a booking service and/or request form to ensure that social distancing as safety protocols are followed.
+• Lectures will be held online (see course schedule dates) using Bb Collaborate and accessible through Quercus in sync with timetable shown below. For students working asynchronously, each lecture will be recorded but students not able to attend virtually during scheduled lectures should notify the instructor to make accommodations.
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 2 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+3. Learning Outcomes and Graduate Attributes
+At the end of this course, you will be able to:
+1. Identify user/stakeholder needs through a user-centered approach
+2. Describe a credible and professionally acceptable approach to “engineering design”
+3. Summarize and justify design choices in oral and written formats
+4. Incorporate realistic constraints of medical technology development into engineering design
+5. Plan and manage engineering activities to within time and budget constraints
+6. Document an engineering design in a form suitable for clients to continue project
+7. Develop a functioning engineering prototype of a product or service
+4. Timetable
+Section
+Day of the Week
+Start Time
+End
+Time
+Location
+Lec
+Tuesday
+12:00
+14:00
+Pra
+Friday
+12:00
+15:00
+MB 78/64
+Office hours: Book a time to talk with me with an online meeting with this link: Office Hours
+5. Course Instructors
+Course Coordinators
+Name
+Phone
+Office
+Email
+Chris Bouwmeester
+(416) 978-3702
+MB321A
+chris.bouwmeester@utoronto.ca
+Prof. Bouwmeester is the main point of contact for students and is responsible for evaluating and providing feedback to students.
+Teaching Assistants
+Name
+Phone
+Office
+Email
+Phil Boyer
+philip.boyer@mail.utoronto.ca
+Philippa Gosine
+julien.couture.senecal@mail.utoronto.ca
+Each team will be matched with a project supervisor who should be included in all communication with the project client. They will also attend all your progress meetings to monitor how well individuals are functioning as part of a team and provide evaluations of your team engagement as well as written and oral deliverables.
+Communication Instructor
+Name
+Phone
+Office
+Email
+Nikita Dawe
+nikita.dawe@mail.utoronto.ca
+Ms. Dawe will provide support and feedback regarding your written and oral communications. She will provide feedback that is targeted to how you communicate your written and oral discourse.
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 3 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+Design Studio Coordinator
+Name
+Phone
+Office
+Email
+Gary Hoang
+416-978-8888
+MB325
+design.ibbme@utoronto.ca
+If you need to access the design studio to build prototypes or meet as a team you will need to book a time with this link: Design Studio Prototyping Space Booking
+6. Textbook
+The required textbook for this course is: Biodesign by Yock. This textbook also has a large amount of online resources (http://ebiodesign.org/) helpful. You may also find other design textbooks listed below are helpful to you during the design process and in medical device development in general
+Required Text
+Title
+Biodesign – The Process of Innovating Medical Technologies
+Author(s)
+Yock, Zenios, Makower, Brinton, Kumar, Watkins, Denend
+Edition, Year
+2nd Edition (2015)
+Publisher
+Cambridge University Press
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 4 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+7. Final Grade Determination
+The final grade in this course will be based on the following components:
+Component
+Learning Outcome(s) Evaluated
+Due Date
+Weight
+Course Engagement
+Progress Presentations
+3, 5, 7
+See schedule
+4
+%
+Design Process
+(Team meetings and documentation)
+6
+See schedule
+8
+%
+TELS Survey & iLEAD Workshop
+Dec 8
+3
+%
+Pre-Class Assignments
+4
+See schedule
+5
+%
+Team
+Project Requirements
+1 – 4
+Oct 30
+10
+%
+Project Proposal
+1 – 6
+Dec 4
+10
+%
+Design Review and Critique
+3
+Jan 22
+5
+%
+Demonstration Day
+3
+Mar 30
+15
+%
+Final Report
+1 – 7
+Apr 1
+40
+%
+Bonus
+Design Notebook (Individual)
+2
+TBD
+Total:
+100
+%
+8. Deliverables
+All written submissions must be received by 11:59 PM on the date listed, with the exception of pre-class assignments which must be submitted before the start of class. Additional details related to each deliverable are given in guideline documents posted on Quercus.
+Progress Presentations
+Each progress presentation will consist of 1) three slides to show current work and 2) asana board update to share project management strategy. Presentation duties will be split and team members not presenting will be expected to answer questions. Every member of each team must present twice and provide an answer at least twice (if there is an odd number in a team, accommodations will be made by the instructor).
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 5 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+Points – 2 max
+(each box is worth 1 point)
+Criteria
+
+• Present slides or asana board update
+
+• Answer question on current work or project management
+Table 1: Progress Presentation Rubric
+Design Progress
+4 team meetings will be scheduled approximately every 3 weeks with the project supervisor. The main purpose of these meetings is to review progress using each team’s asana board to uncover problems and plan for future events. The discussions and decisions resulting from the asana board and timeline review will be recorded in the meeting minutes and will be submitted to create a living document of your progress through your design project. Please refer to ‘Guidelines for Meeting Documentation’ for more information. See the table below for the breakdown of grades associated with each separate submission of your progress documentation.
+Points – 10 max
+(each box is worth 1 point)
+Minutes Criteria (Group) must be submitted before deadline
+
+• Minutes indicate the decisions made in the meeting (who will do what and when)
+
+• Board and timeline discussed during meeting
+
+• Complete collection of minutes and agenda (includes previous team and client meetings in reverse chronological order)
+
+• Agenda is created and sent to supervisor before each 30-minute meeting
+Project Management Criteria (Group)
+
+• Clear evidence that board is being used (e.g., Individuals are assigned to tasks and used actively)
+
+• Clear evidence that timeline is being used (e.g., Active tracking of tasks and updates as necessary)
+
+• Screenshot of board attached to minutes
+
+• Screenshot of timeline attached to minutes.
+Participation Criteria (Individual)
+
+• Active participation (e.g., camera on, contributes input to meeting)
+
+• Attend meeting on time (meetings will start at scheduled time)
+Table 2: Progress Documentation Rubric for each Team Meeting
+TELS Survey and iLEAD Workshop
+There is a workshop dedicated to a reflection of teamwork after the project proposal is due, marked as shown:
+Mark – 3 max
+(each box is worth 1 point)
+Criteria
+ 
+• Submit TELS survey before deadline
+
+• Attend TELS debrief workshop
+Table 3: iLEAD Workshop Rubric
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 6 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+Pre-Class Assignments
+The purpose of these short pre-class assignments (PCAs) is to prepare for a synchronous discussion during small and class-wide discussions held during lectures via webcast. Each assignment will be considered complete by submitting it before the class has started or incomplete if submitted after the beginning of each class associated with a PCA.
+Mark
+Completion and Delivery Criteria
+3
+• Assignment submitted before class
+• Complete answers
+2
+• Assignment submitted late but before the end of class
+• Incomplete answers
+1
+• Assignment handed in late
+0
+• Assignment not submitted
+Table 4: Pre-Class Assignment Rubric
+Project Requirements
+Gathering information about your chosen problem and building an accurate understanding of your healthcare-related need will allow you define what a design must do to be an acceptable solution. Furthermore, you must also be able to find ways to differentiate different designs you create and define what a design should be and/or must be in order to be successful. Your team is responsible for submitting a concise document that communicates the design requirements (specifications) of your stated need. Please refer to ‘Guidelines for Project Requirements’ (posted on Quercus) for more information.
+Project Proposal
+Your team is responsible for drafting a project proposal document that: 1) defines the design problem, 2) proposes possible solutions and selects the most promising design, and 3) provides a plan to carry out the proposed solution. Please refer to ‘Guidelines for Project Proposal’ (posted on Quercus) for more information.
+Design Review and Critique
+Each team will present an overview of their project and show preliminary prototypes created so far. The aim of this presentation is to demonstrate your knowledge of a healthcare need and the problem you have chosen to solve. The team will defend their design and key decisions with the aim to set your team up for building a working prototype during the winter term. This deliverable is an external design review with the project client, sponsor, or healthcare professional that the team has connected with and the project supervisor.
+Demonstration Day Presentation
+Each team will present their design and demonstrate their final working prototype to the project supervisors and hopefully some of the users you have connected with as well. Consider this presentation as a pitch to investors or a presentation at a design competition where you still need
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 7 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+to clearly communicate the need you are addressing and the problem you are offering a solution to. The Focus of this presentation should be proving, with test results, that your design solves the problem you have identified. The most successful teams will be able to demonstrate how their design works and this is best achieved by performing a live demonstration. Please refer to ‘Guidelines for Demonstration Day Presentation’ (posted on Quercus) for more information.
+Final Project Report
+Your team must produce a final report that provides enough information for someone to develop your project further. While much of the project proposal can be reused, you are expected to incorporate feedback from your project supervisors and fellow students to demonstrate you have iterated your original goals, ideas, concepts, designs, etc. Please refer to ‘Guidelines for Final Report’ (posted on Quercus) for more information.
+Design Notebook
+There is no expectation of completing a design notebook. However, it may be that some individuals want to demonstrate design excellence by thinking deeply about their design problem in ways that are not easy to include in the final report (or project proposal). In this case, individual students may choose to submit their design notebook (see Guidelines for Design Notebooks) that may boost their individual grade when the final report is submitted. Likewise, it may be that some individuals do not contribute to a project satisfactorily as judged by documented team feedback and a track record of progress documentation and progress updates. Should this situation occur, an individual grade may be reduced below the team grade when the final report is submitted.
+9. Course Policies
+Accommodations for Disabilities
+Students with diverse learning styles and needs are welcome in this course. The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code. This occurs through a collaborative process that acknowledges a collective obligation to develop an accessible learning environment that both meets the needs of students and preserves the essential academic requirements of the University’s courses and programs. For more information on services and resources available to students, please contact Accessibility Services at (416) 978-8060 or http://www.studentlife.utoronto.ca/as. Should you have a Letter of Accommodation, you shall notify the instructor within the first 3 weeks of the term to allow appropriate accommodations to be integrated into the course.
+Lateness Policy
+Graded reports received later than the due date posted will be awarded a 10% deduction compounded for every day that the submission is late. Exceptions may be accommodated for valid reasons (such as severe illness or compassionate grounds), that are out of a student’s
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 8 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+control, and may be considered if supported by written documentation. Examples of invalid reasons would include situations where Quercus submissions were not executed properly by a student, or a student forgot the deadline.
+Attendance Policy
+While no notification of your absence is necessary, if you are absent, you will be responsible for gathering the information you need from your peers. In the case of the progress presentation that you must deliver, you should coordinate with you team to ensure you will be able to present. If you have a time conflict (e.g., religious obligation, varsity team involvement, academic conferences) with one of the lecture dates where your attendance is counted toward your participation grade you must notify the instructor beforehand to make possible alternative arrangements.
+Online Communication Policy
+All course-related questions should be posted in the “Course Q & A” discussion. If you have a question you should: 1) check the syllabus or guidelines for your answer, 2) check the Course Q & A discussion to see if your question has already been answered, or 3) ask a peer directly. Every attempt will be made to respond within 3 business days to posts that need the attention of the corresponding TA. If necessary, you may email the instructor regarding personal issues that may impact this course. BME498 must be used at the beginning of the subject line to ensure prompt response to emails. Every attempt will be made to responded to emails within 3 business days.
+Academic Integrity Message
+Plagiarism is taken very seriously and as per the code of behaviour on academic matters: “it is the students’ responsibility to know what constitutes an academic offense”. As per University of Toronto guidelines: “You need to integrate your acknowledgements into what you're saying. Give the reference as soon as you've mentioned the idea you're using, not just at the end of the paragraph. It's often a good idea to name the authors ("X says" and "Y argues against X,") and then indicate your own stand ("A more inclusive perspective, however, … ")”. Specific instructions on bibliography formats will be given in assignment guideline documents but as a general rule; it is not acceptable to rely on Wikipedia or Google rather than library resources. For more information, please see (www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize) for a practical guide and the following links for more information on University of Toronto policies: (http://academicintegrity.utoronto.ca/) (http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppjun011995.pdf).
+COURSE OUTLINE
+Fall 2020 & Winter 2021
+Page 9 of 9
+Institute of Biomaterials and Biomedical Engineering
+Course Outline
+10. Additional Course Information
+Project budget
+Up to $500/team is provided to each team. An itemized budget will be included with the proposal and will need to be approved by the project supervisor before funds greater than $100 are reimbursed. Additional funds (up to $1000 total) may be approved if a strong justification is made to the course coordinator. Teams requesting extra funds will need to write a one-page grant application justifying the need for the additional funds
+Grading
+Final grades of the project proposal and final report and presentation will be determined with a consensus of the teaching team. Clients will only evaluate your project holistically as a part of the design review and final presentation that will be considered in context by the teaching team. The communication instructor will only provide feedback on written and oral communication and will not grade any materials submitted by students.
+Design Studio
+NEW FOR FALL 2020:
+The design studio will be bookable to ensure that social distancing can be practiced safely.
+IBBME safety policy requires that all students take part in safety training prior to using the Design Studio. This has been scheduled for September 13. If students do NOT pass the safety test, they will be given one additional opportunity to rewrite and pass the test. The Design Studio introduction, safety presentation, and quiz should only take 30 minutes. A teaching assistant will be available every week during practicum time to answer questions or help you with your projects. The design studio will only be available during practicum time (i.e., Mondays from 9 – 12) but you may also be able to connect with the design studio facility at the Myhal Centre to work on your project outside of this time.
+Teaching Lab
+The IBBME Teaching Lab is also reserved for students in BME489 who need access to wet lab facilities. There will be a mandatory training session for students who need access to the Teaching Lab. To use this facility, you must contact the teaching lab coordinator at teachinglab.ibbme@utoronto.ca.
+Awards
+• John W. Senders ($1,000) “For imaginative and successful application of engineering to the design of a medical device capable in generality of its application to restore normal human function.” This award is decided by the Faculty-wide, Multidisciplinary Capstone Design committee.
+• IBBME Director’s Biodesign Award ($500) “To the best BME489/BME498 project.” Decided by the IBBME Director.

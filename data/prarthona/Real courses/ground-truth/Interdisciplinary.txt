@@ -1,0 +1,144 @@
+1
+Official Meeting Times:
+Tu & Th 3:30-4:45 pm (general class sessions in JEB 104,
+team meetings in various locations around the college)
+Course Web Page and Project Archives: https://www.webpages.uidaho.edu/mindworks/capstone_design_20_DC.htm
+(course webpage)
+Faculty:
+Matthew Swenson – ME; Mike Maughan – ME; Paulo Yu – ME; Kip Sikes – ECE; Russell Qualls – BE; Bruce Bolden – CS; John Shovic – CS
+Support Staff:
+Becky Colpaert – ME Admin Assistant EP 324
+Financial Support (engr-finance@uidaho.edu) Ankit Gupta – Instrumentation Specialist GJ 234 Brian Petty – Shop Supervisor GJ 124
+Michael McMenamy – ECE Electronics Specialist GJL 001 Keenan Bryan Grad Student Mentor GJ 113 Tyler Sand Grad Student Mentor GJ 113 Daniel Revard Grad Student Mentor GJ 113
+Ryan Sundburg Grad Student Mentor GJ 113
+Nagendra Tanikella Grad Student Mentor GJ 113
+COURSE OBJECTIVE: Prepare engineering students for professional practice, specifically as encountered in entry-level design engineering positions.
+Prerequisites by department:
+ME 424/426:
+ECE 480/481:
+ECE 482/483:
+CS 480/481:
+BE 478/479:
+ECE 350, 351
+STAT 301 (coreq)
+CS240
+CS270
+ECE 240, 241
+ECE 310, 311
+ECE 340, 341
+ECE 350, 351
+ECE 440 (coreq)
+STAT 301 (coreq)
+CS 383
+ENGL 317
+BE 242
+ENGR 320
+ENGR 335 ENGR 350
+COURSE MATERIALS: Bound personal logbook for notes, calculations, sketches, responses to instructor/mentor questions, and evidence of progress toward course learning outcomes.
+Note: The Mindworks website will act as your course textbook and schedule.
+2
+ABET LEARNING OUTCOMES for BE, EE, CompE, MSE and ME:
+Engineering programs must demonstrate that their students attain:
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics. (ECE, ME, MSE)
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. (BE, ECE, ME, MSE)
+3. An ability to communicate effectively with a range of audiences (BE, ECE, ME, MSE)
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgements, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts. (BE, ECE, ME, MSE)
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. (BE, ECE, ME, MSE)
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions. (ECE, ME, MSE)
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies. (ECE, ME, MSE)
+ABET LEARNING OUTCOMES for CS 480/481:
+1. Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+3. Communicate effectively in a variety of professional contexts.
+4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+3
+CAPSTONE COURSE ROLES & RESPONSIBILITIES
+Course Instructors:
+• secure sponsors, scope projects, set project budgets
+• communicate course objectives, performance standards, milestone dates for project deliverables
+• provide timely feedback on team processes and products
+• monitor team and customer relations, facilitating open communication
+• evaluate project deliverables and assign grades
+Technical Advisors & Other UI faculty:
+• serve as external customer for competition/internal projects
+• provide technical input and leadership to team/sub-teams
+• provide input on evaluation of project deliverables and performance
+Fabrication & Instrumentation Specialists:
+• final word on shop safety and proper equipment/instrument usage
+• inform advisors/guides on shop training and scheduling
+• when requested, review designs for inventiveness & manufacturability
+Shop Mentors:
+• oversee safety, training, sign-up, and use of shop equipment
+• provide consulting on prototypes, software and experimentation
+• first contact for review of drawings/schematics and fabrication plans
+Design Teams:
+• display professional team dynamics, including high personal commitment
+• take responsibility for project decisions and work areas, leading to timely and innovative products that can be attractively presented in short order
+• keep advisors/guides/instructors/customers regularly informed of progress, decisions, and obstacles encountered
+4
+GRADING (COURSE EVALUATION)
+Four Quadrants – Each account for 25% of course grade
+- Design Process Design Product
+25% 25%
+1) Logbook usage 1) Team member citizenship:
+- Individual contributions
+2) Team member citizenship: - Value Added
+- Joint contributions
+- Project time invested 2) Individual Design Assignments
+(i.e. Productivity)
+3) One-on-one communication with
+instructor and mentors 3) Portfolio (documentation)
+25% 25%
+1) Team member citizenship: 1) Team member citizenship:
+- Team Climate - Work Product
+2) Client interaction 2) Design/Product Quality
+(incl. Validation)
+3) Snapshop & EXPO Presentations
+3) Design Reviews
+4) Instructor/Team Meetings
+4) Portfolio and Final Design Report
+5) Project Management
+- Schedule 5) Client Acceptance
+- Budget
+Individual
+Team
+5
+CAPSTONE PERFORMANCE EXPECTATIONS
+We understand and value the learning outcomes for capstone design. We are committed to working together to achieve these at the highest possible level of performance. In doing this, we agree not to compromise the interests of our project sponsor(s), or the rights of other students and staff associated with the course.
+As an engineering professional enrolled in this course, I WILL…
+• Be tactful and honest in giving feedback; open-minded towards new ideas.
+• Take responsibility for my actions as a prepared and trustworthy teammate.
+• Proactively and resourcefully accept tasks and execute decisions.
+• Fully apply all personal skills to produce high quality design work, putting interests of the team above self-interest.
+As an engineering professional enrolled in this course, I WILL NOT…
+• Fail to follow through on commitments I have made, leaving tasks incomplete.
+• Exclude others from decision-making through poor communication.
+• Assign blame to others, contributing to negative team/course energy.
+• Be apathetic toward producing a high-quality product in a timely manner.
+• Marginalize interests of other teams and instructional staff.
+As a member of the instructional staff, I WILL…
+• When requested, provide and accept honest feedback on performance.
+• Take actions to promote self-directed learning and high-quality products.
+• Mediate conflicts early, including team & customer issues.
+• Clearly communicate course expectations and agendas for classes/meetings.
+As a member of the instructional staff, I WILL NOT…
+• Remain passive or equivocal in the face of team conflict or customer issues.
+• Deprive teams of decision-making authority, micro-managing work.
+• Set expectations that cannot be met with resources available.
+• Assign extraneous tasks that add little value.
+6
+HEALTHY VANDAL POLICIES
+It is a longstanding tradition that Vandals take care of Vandals, and we all do our best to look
+out for the Vandal Family. These simple precautions go a long way in reducing the impact of
+coronavirus on our campuses and in our communities. With everyone engaging in these small
+actions, we can continue to participate in our vibrant campus culture where we are able to
+learn, live, and grow. Please bookmark the University of Idaho Covid-19 webpage and visit it
+often for the most up-to-date information about the U of I’s response to Covid-19.
+• All classes are offered in the modality listed in the catalog.
+• All Vandals are highly encouraged to be vaccinated.
+• COVID-19 tests are not required to attend class in person.
+Additionally, faculty and students must follow the Healthy Vandal Pledge:
+Daily Symptom Monitoring and In-Person Class Attendance. Evaluate your own health status before attending in-person classes and refrain from attending class in-person if you are ill, if you are experiencing any of the known symptoms of coronavirus, or if you have tested positive for COVID-19 or have been potentially exposed to someone with COVID-19.
+1. Stay home if you experience any symptoms related to COVID 19 and that are not attributed to a non-infectious health condition regardless of how mild.
+2. Contact your medical provider or local Idaho Public Health District for assessment of symptoms and possible COVID19 testing. Positive COVID 19 tests should be submitted via a VandalCare Report in order to make arrangements that involve classroom absences due to illness, and/or quarantine or isolation requirements directed by a medical provider.

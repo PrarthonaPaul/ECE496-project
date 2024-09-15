@@ -1,0 +1,101 @@
+CSE305 - Software Engineering Project
+University: Silicon Valley Institute of Technology
+Course Duration: Full Year (Fall and Winter)
+Instructor: Dr. John Doe
+Contact Information: john.doe@svit.edu
+Office Hours: Tuesdays and Thursdays, 3:00 PM - 5:00 PM
+Course Description
+In this upper-year course, students develop a large-scale software application, such as a web-based platform or a mobile app. The project is based on requirements provided by a real or fictitious client. Students work in groups to design, implement, and test their software, following industry-standard practices.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Conduct requirements analysis and specification for software projects.
+2.
+Design software architecture and create detailed design documents.
+3.
+Implement software solutions using appropriate programming languages and tools.
+4.
+Perform testing and quality assurance to ensure software reliability.
+5.
+Manage software projects using project management tools and techniques.
+6.
+Communicate project progress and results through written reports and oral presentations.
+Course Timeline and Deliverables
+Fall Semester:
+Table
+Date
+Deliverable
+Description
+Weight
+September 15, 2020
+Team Formation and Project Proposal
+Teams form and submit a proposal outlining the project scope and objectives.
+10%
+October 20, 2020
+Requirements Specification Document
+Detailed requirements analysis and specification document.
+15%
+November 25, 2020
+Preliminary Design Review
+Presentation of initial design, including architecture and key components.
+15%
+December 10, 2020
+Midterm Progress Report
+Report on progress, challenges, and next steps.
+10%
+Winter Semester:
+Table
+Date
+Deliverable
+Description
+Weight
+February 15, 2021
+Detailed Design Document
+Comprehensive design document with detailed architecture and component design.
+15%
+March 20, 2021
+Implementation and Testing Report
+Report on implementation progress and testing results.
+20%
+April 10, 2021
+Final Presentation and Demonstration
+Final presentation and demonstration of the software project.
+15%
+Grading Breakdown
+•
+Team Formation and Project Proposal: 10%
+•
+Requirements Specification Document: 15%
+•
+Preliminary Design Review: 15%
+•
+Midterm Progress Report: 10%
+•
+Detailed Design Document: 15%
+•
+Implementation and Testing Report: 20%
+•
+Final Presentation and Demonstration: 15%
+Total: 100%
+Course Policies
+•
+Attendance: Regular attendance is required. More than three unexcused absences may result in a lower grade.
+•
+Late Submissions: Assignments submitted late will incur a penalty of 5% per day, up to a maximum of 25%.
+•
+Academic Integrity: All students are expected to adhere to the university’s academic integrity policy. Plagiarism or cheating will result in disciplinary action.
+Required Materials
+•
+Textbook: “Software Engineering: A Practitioner’s Approach” by Roger S. Pressman
+•
+Access to version control systems (e.g., Git)
+•
+Development tools and environments (e.g., IDEs, compilers)
+Additional Resources
+•
+University Library
+•
+Software Development Lab
+•
+Online tutorials and workshops
+This syllabus provides a comprehensive overview of the CSE305 course, including key elements such as learning outcomes, a detailed timeline with deliverables, and their respective weights. If you need any further details or adjustments, feel free to ask!

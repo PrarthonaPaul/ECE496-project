@@ -1,0 +1,97 @@
+BIOE360 - Biomedical Engineering Design
+University: Coastal Biomedical Institute
+Course Duration: Full Year (Fall and Winter)
+Instructor: Dr. Sarah Lee
+Contact Information: sarah.lee@cbi.edu
+Office Hours: Mondays and Wednesdays, 3:00 PM - 5:00 PM
+Course Description
+Students in this course tackle real-world biomedical engineering challenges. Projects may involve designing medical devices, developing diagnostic tools, or creating assistive technologies. The course emphasizes interdisciplinary collaboration and user-centered design.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Conduct needs assessment and problem definition for biomedical engineering projects.
+2.
+Generate and select design concepts based on user needs.
+3.
+Develop detailed designs and prototypes for biomedical applications.
+4.
+Perform clinical testing and validation of biomedical devices.
+5.
+Understand regulatory considerations for biomedical engineering.
+Course Timeline and Deliverables
+Fall Semester:
+Date
+Deliverable
+Description
+Weight
+September 15, 2020
+Team Formation and Project Proposal
+Teams form and submit a proposal outlining the project scope and objectives.
+10%
+October 20, 2020
+Needs Assessment and Concept Generation
+Detailed needs assessment and initial concept generation.
+15%
+November 25, 2020
+Preliminary Design Review
+Presentation of initial design, including sketches and initial calculations.
+15%
+December 10, 2020
+Midterm Progress Report
+Report on progress, challenges, and next steps.
+10%
+Winter Semester:
+Date
+Deliverable
+Description
+Weight
+February 15, 2021
+Detailed Design Document
+Comprehensive design document with detailed
+15%
+drawings and specifications.
+March 20, 2021
+Prototype Development and Testing Report
+Report on prototype development and testing results.
+20%
+April 10, 2021
+Final Presentation and Demonstration
+Final presentation and demonstration of the biomedical device.
+15%
+Grading Breakdown
+•
+Team Formation and Project Proposal: 10%
+•
+Needs Assessment and Concept Generation: 15%
+•
+Preliminary Design Review: 15%
+•
+Midterm Progress Report: 10%
+•
+Detailed Design Document: 15%
+•
+Prototype Development and Testing Report: 20%
+•
+Final Presentation and Demonstration: 15%
+Total: 100%
+Course Policies
+•
+Attendance: Regular attendance is required. More than three unexcused absences may result in a lower grade.
+•
+Late Submissions: Assignments submitted late will incur a penalty of 5% per day, up to a maximum of 25%.
+•
+Academic Integrity: All students are expected to adhere to the university's academic integrity policy. Plagiarism or cheating will result in disciplinary action.
+Required Materials
+•
+Textbook: "Introduction to Biomedical Engineering" by John Enderle and Joseph Bronzino
+•
+Access to biomedical engineering software (e.g., MATLAB)
+•
+Prototyping materials (to be specified based on project requirements)
+Additional Resources
+•
+University Library
+•
+Biomedical Engineering Lab
+•
+Online tutorials and workshops

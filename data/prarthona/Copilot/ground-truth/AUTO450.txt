@@ -1,0 +1,160 @@
+Powered by AI
+Copilot
+AUTO450 - Electric and Hybrid Vehicle Design
+University:
+SkyTech Aeronautical University
+Course Duration:
+Full Year (Fall 2023 & Winter 2024)
+Instructor:
+Dr. Karen Mitchell
+Contact Information:
+karen.mitchell@skytech.edu
+Offi ce Hours:
+Mondays and Wednesdays, 2:00 PM - 4:00 PM
+1. Calendar Information
+In this project-based design course, teams of students will engage in the design and development of electric andhybrid vehicles. The course covers the fundamentals of electric and hybrid vehicle systems, including powertraindesign, battery technology, and energy management. Students will work on a comprehensive project to design,prototype, and test an electric or hybrid vehicle system.
+2. Course Overview
+AUTO450 is a capstone design project course intended to have students apply their knowledge of automotiveengineering to the design and development of electric and hybrid vehicles. Students will identify designchallenges, propose innovative solutions, and develop a working prototype. The course includes lectures, guestlectures from industry experts, hands-on practicums, and a student-driven design project.
+The goal of this course is to provide students with the opportunity to practice engineering design skills within thecontext of electric and hybrid vehicles and to increase awareness of future technological advancements in theautomotive industry. Topics will include powertrain design, battery management systems, energy effi ciency, andvehicle dynamics.
+3. Learning Outcomes and Graduate Attributes
+By the end of this course, students will be able to:
+1.
+Identify and analyze the key components of electric and hybrid vehicle systems.
+2.
+Design and optimize powertrain systems for electric and hybrid vehicles.
+3.
+Develop and implement battery management systems.
+4.
+Conduct energy effi ciency analysis and optimization.
+5.
+Prototype and test electric and hybrid vehicle systems.
+6.
+Communicate design choices and project results in oral and written formats.
+7.
+Work effectively in teams to manage and complete a comprehensive design project.
+4. Timetable
+Section
+Lec
+Pra
+Day of the Week
+Tuesday
+Friday
+Start Time
+12:00 PM
+12:00 PM
+End Time
+2:00 PM
+3:00 PM
+Location
+MB 78/64
+MB 78/64
+Offi ce hours: Book a time to talk with me with an online meeting using this link:
+Offi ce Hours
+5. Course Instructors
+Course Coordinators
+Name
+Phone
+Offi ce
+Email
+Dr. Karen Mitchell
+(416) 978-3702
+MB321A
+karen.mitchell@skytech.edu
+Dr. Mitchell is the main point of contact for students and is responsible for evaluating and providing feedback tostudents.
+Teaching Assistants
+Name
+Email
+John Doe
+john.doe@skytech.edu
+Jane Smith
+jane.smith@skytech.edu
+Each team will be matched with a project supervisor who should be included in all communication with theproject client. They will also attend all your progress meetings to monitor how well individuals are functioning aspart of a team and provide evaluations of your team engagement as well as written and oral deliverables.
+Communication Instructor
+Name
+Email
+Nikita Dawe
+nikita.dawe@skytech.edu
+Ms. Dawe will provide support and feedback regarding your written and oral communications. She will providefeedback that is targeted to how you communicate your written and oral discourse.
+6. Textbook
+The required textbook for this course is: “Electric and Hybrid Vehicles: Design Fundamentals” by Iqbal Husain.This textbook also has a large amount of online resources helpful for the design process and in vehicledevelopment in general.
+Required Text
+Title
+Author(s)
+Edition, Year
+Publisher
+Electric and Hybrid Vehicles: Design Fundamentals
+Iqbal Husain
+2nd Edition (2015)
+CRC Press
+7. Final Grade Determination
+The fi nal grade in this course will be based on the following components:
+Component
+Learning Outcome(s)Evaluated
+Due Date
+Weight
+Course Engagement
+3, 5, 7
+Seeschedule
+4%
+Progress Presentations
+3, 5, 7
+Seeschedule
+8%
+Design Process (Team meetings anddocumentation)
+6
+Seeschedule
+10%
+Pre-Class Assignments
+4
+Seeschedule
+5%
+Project Requirements
+1-4
+Oct 30,2023
+10%
+Project Proposal
+1-6
+Dec 4, 2023
+10%
+Design Review and Critique
+3
+Jan 22, 2024
+5%
+Demonstration Day
+3
+Mar 30,2024
+15%
+Final Report
+1-7
+Apr 1, 2024
+40%
+Total: 100%
+8. Deliverables
+All written submissions must be received by 11:59 PM on the date listed, with the exception of pre-classassignments which must be submitted before the start of class. Additional details related to each deliverable aregiven in guideline documents posted on the course platform.
+Progress Presentations
+Each progress presentation will consist of 1) three slides to show current work and 2)project management update. Presentation duties will be split and team members not presenting will be expected toanswer questions. Every member of each team must present twice and provide an answer at least twice.
+Design Progress
+Four team meetings will be scheduled approximately every three weeks with the projectsupervisor. The main purpose of these meetings is to review progress using each team’s project management boardto uncover problems and plan for future events. The discussions and decisions resulting from the board andtimeline review will be recorded in the meeting minutes and will be submitted to create a living document of yourprogress through your design project.
+Pre-Class Assignments
+The purpose of these short pre-class assignments (PCAs) is to prepare for a synchronousdiscussion during small and class-wide discussions held during lectures. Each assignment will be consideredcomplete by submitting it before the class has started or incomplete if submitted after the beginning of each classassociated with a PCA.
+Project Requirements
+Gathering information about your chosen problem and building an accurate understandingof your automotive-related need will allow you to defi ne what a design must do to be an acceptable solution. Yourteam is responsible for submitting a concise document that communicates the design requirements (specifi cations)of your stated need.
+Project Proposal
+Your team is responsible for drafting a project proposal document that: 1) defi nes the designproblem, 2) proposes possible solutions and selects the most promising design, and 3) provides a plan to carry outthe proposed solution.
+Design Review and Critique
+Each team will present an overview of their project and show preliminaryprototypes created so far. The aim of this presentation is to demonstrate your knowledge of the automotive needand the problem you have chosen to solve. The team will defend their design and key decisions with the aim to setyour team up for building a working prototype during the winter term.
+Demonstration Day Presentation
+Each team will present their design and demonstrate their fi nal workingprototype to the project supervisors and hopefully some of the users you have connected with as well. Considerthis presentation as a pitch to investors or a presentation at a design competition where you need to clearlycommunicate the need you are addressing and the problem you are offering a solution to.
+Final Project Report
+Your team must produce a fi nal report that provides enough information for someone todevelop your project further. While much of the project proposal can be reused, you are expected to incorporatefeedback from your project supervisors and fellow students to demonstrate you have iterated your original goals,ideas, concepts, designs, etc.
+9. Course Policies
+Accommodations for Disabilities
+Students with diverse learning styles and needs are welcome in this course. TheUniversity provides academic accommodations for students with disabilities in accordance with the terms of theOntario Human Rights Code. This occurs through a collaborative process that acknowledges a collectiveobligation to develop an accessible learning environment that both meets the needs of students and preserves theessential academic requirements of the University’s courses and programs. For more information on services andresources available to students, please contact Accessibility Services at (416) 978-8060 or
+Accessibility Services
+.
+Lateness Policy
+Graded reports received later than the due date posted will be awarded a 10% deductioncompounded for every day that the submission is late. Exceptions may be accommodated for valid reasons (suchas severe illness or compassionate grounds), that are out of a student’s control, and may be considered if supportedby written documentation.
+Attendance Policy
+While no notifi cation of your absence is necessary, if you are absent, you will be responsiblefor gathering the information you need from your peers. In the case of the progress presentation that you mustdeliver, you should coordinate with your team to ensure you will be able to present. If you have a time confl ict(e.g., religious obligation, varsity team involvement, academic conferences) with one of the lecture dates whereyour attendance is counted toward your participation grade, you must notify the instructor beforehand to makepossible alternative arrangements.
+Online Communication Policy
+All course-related questions should be posted in the “Course Q & A” discussion.If you have a question you should: 1) check the syllabus or guidelines for your answer, 2) check the Course Q & Adiscussion to see if your question has already been answered, or 3) ask a peer directly. Every attempt
