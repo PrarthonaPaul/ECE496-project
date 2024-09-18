@@ -1,0 +1,79 @@
+Syllabus: CHM 481: Inorganic Chemistry Capstone
+Course Title: CHM 481: Inorganic Chemistry Capstone
+Semester: Fall 2024
+Instructor: Dr. John Miller
+Email: jmiller@asu.edu
+Office: SANCA 320B, The Polytechnic School, ASU
+Office Phone: (480) 727-6400
+Office Hours: Mondays 2:00-4:30 PM OR by appointment
+Class Time & Place: Monday or Wednesday 3:00-4:15 PM in SANCA 325
+Course Description:
+This capstone course focuses on the synthesis and characterization of novel inorganic complexes
+with potential applications in catalysis or materials science. Students will design, synthesize, and
+test the catalytic activity of an inorganic complex, culminating in a presentation of their findings at
+the Innovation Showcase. The course includes the development of a project proposal, synthesis
+planning, laboratory work, and a final report.
+Course Objectives:
+Design and synthesize a novel inorganic complex.
+Characterize the complex using advanced techniques.
+Test and optimize the catalytic activity of the complex.
+Effectively present the project at the Innovation Showcase.
+Learning Outcomes:
+Gain expertise in inorganic synthesis and characterization techniques.
+Develop practical skills in laboratory research and catalytic testing.
+Improve communication skills through written reports and presentations.
+Enhance the ability to manage complex chemistry projects from conception to completion.
+Group Project and Required Subtasks:
+The group project for this course will involve the design and synthesis of an inorganic complex with
+potential applications in catalysis or materials science. The project will be broken down into the
+following subtasks:
+1. **Project Proposal (Week 3):**
+- Create a proposal detailing the objectives, the complex being synthesized, and the anticipated
+impact. Include a timeline and assign roles to team members.
+2. **Literature Review and Synthesis Planning (Weeks 4-6):**
+- Conduct a thorough literature review to identify existing methods and gaps. Plan the synthesis
+route, including reagents, conditions, and techniques.
+3. **Synthesis and Characterization (Weeks 7-10):**
+- Carry out the synthesis in the laboratory. Characterize the complex using techniques such as
+X-ray crystallography, UV-Vis, and IR spectroscopy.
+4. **Catalytic Testing and Optimization (Weeks 11-12):**
+- Test the catalytic activity of the complex and optimize conditions for maximum efficiency.
+Conduct additional tests to confirm the structure and properties.
+5. **Final Report and Presentation (Weeks 13-15):**
+- Document the entire synthesis process, including challenges, solutions, and outcomes in a final
+report.
+- Prepare a presentation and poster for the Innovation Showcase that highlights the key aspects of
+the project.
+Groups are expected to collaborate closely, meeting regularly to discuss progress and resolve any
+issues. Instructor check-ins will be scheduled to provide guidance and feedback.
+Evaluation:
+Class meetings (5): 20 points
+Individual meetings (3): 12 points
+Project Proposal: 10 points
+Literature Review and Synthesis Planning: 15 points
+Synthesis and Characterization: 18 points
+Catalytic Testing and Optimization: 10 points
+Final Report: 10 points
+Presentation: 5 points
+Poster: 10 points
+Total: 100 points
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)

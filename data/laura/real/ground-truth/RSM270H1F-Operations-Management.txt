@@ -1,0 +1,213 @@
+Course Outline
+Course Code
+RSM 270 H1 F
+Course Name
+Operations Management
+Term, Year
+Summer, 2024
+Course Meets
+Mondays and Wednesdays 1:00 – 3:00 PM WO
+Web page URL
+https://q.utoronto.ca
+Instructor Details
+Name
+Email
+Phone
+Office Hours
+Virtual Office Link
+Paul Jan
+paul.jan@rotman.utoronto.ca
+416-273-8498
+By appointments only
+Zoom link to be provided
+Course Scope, Mission and Learning Outcomes
+Operations is the term that refers to the process by which an organization converts inputs (e.g., labor, material, knowledge, equipment) into outputs (goods and/or services) for both internal and external markets. In this course, we will study how to manage this process. We will study strategic issues related to how firms determine the way in which they will compete as well as tactical and operational decision making. Topics include: Operations Strategy, Processes in Manufacturing and Services, Waiting-Line Management, Capacity Planning, Inventory Management, Revenue Management, and Linear Programming.
+The objectives of this course are:
+• To develop your decision-making skills;
+• To expose you to the main concepts of operations management in manufacturing and service organizations; and
+• To provide you with useful tools for problem solving in business and government environments.
+Course Prerequisites
+Completion of the Rotman Commerce Guaranteed Admission requirements.
+Course Materials
+Required Readings
+- Operations Management, RSM270, by McGraw-Hill/Irwin. ISBN-13: 9781260068115, ISBN-10: 1260068110. This is a tailored textbook to our needs, based on Operations and Supply Chain Management, 15th Edition by Jacobs, Chase, 2018, McGraw-Hill Irwin. Please note, you may use 15th edition or later.
+2
+Electronic Course Materials
+This course will be using the following electronic course materials:
+Rapid-Fire Fulfillment, Oct 2004, Product # R0411G-PDF-ENG. You may access this case through the following link: https://hbsp.harvard.edu/import/1167745
+The case will cost a total of USD$4.5. The use of these materials complies with all University of Toronto policies which govern fees for course materials.
+Evaluation and Grades
+Grades are a measure of the knowledge and skills developed by a student within individual courses. Each student will receive a grade on the basis of how well they have command of the course materials, skills and learning objectives of the course.
+Work
+Percentage of grade
+Due Date
+Class Participation/Attendance
+10%
+Ongoing (weekly)
+HBR Case Analysis
+10%
+June 10, 2024, in-class discussion
+Mid-Term Test
+30%
+Tentative: May 27 1-3p
+Assignment
+15%
+Ongoing (see due dates in weekly schedule)
+Final Exam
+35%
+Examination Period
+Course Format and Expectations
+All lectures for this course are scheduled to be conducted in person. Throughout the course, students will be required to complete six bi-weekly assignments, corresponding to each set of two lectures. Additionally, there will be two case studies provided—one for each half of the course. These case studies are designed to evaluate your comprehension of all subjects covered in each respective course segment. It is essential that all students actively participate in addressing all questions presented in these case studies. Emphasizing a holistic learning approach, I strongly advise against focusing solely on a subset of the case study questions. By doing so, students risk only gaining a partial understanding of the case study's content. Regular attendance at lectures and active participation in class discussions are expected from all students. To ensure a smooth learning environment, kindly ensure your punctuality by arriving in the classroom at least 5 minutes prior to the commencement of each lecture. This practice will help prevent disruptions once the lecture begins.
+Writing Assignments or Presentations
+A total of 5 individual online assignments will be given. Individual assignments will be posted and are to be handed in online through UTORSubmit (https://submit.utm.utoronto.ca/utorsubmit/).
+How well you communicate your ideas, in writing or orally, will be considered in the evaluation of the assignment. In your written assignments, you should aim for clarity, strong organization, concision, professionalism, and correct grammar. Your presentations should reflect strong planning and organization, clarity of speech, and an engaging demeanour. Sources, whether in written or presentation assignments, should always be correctly attributed.
+Support is available through the RC Centre for Professional Skills (CPS) for students who would like help or feedback on their writing or speaking (presentations). CPS offers both individual and
+3
+group appointments with trained writing instructors and presentation coaches who are familiar with the RC program and common types of business assignments. You can also access your college Writing Centres for help with written assignments.
+You can book an appointment with a writing or presentation coach through the RC Centre for Professional Skills Writing Centre. For more information about writing centres, student supports, and study resources, see the Writing and Presentation Coaching academic support page.
+Class Participation
+Students are expected to prepare thoroughly and make every effort to attend every class. As class participation is a graded component of the course, students will be evaluated on the following:
+• Thoughtful responses
+• Understanding and analysis of topic
+• Idea generation
+• Promoting further discussion
+• Respectful active listening
+• Attentiveness
+• Giving the midterm or final review (more detail to come in lecture 1)
+While attendance is necessary for students to participate in class discussions, attendance on its own will not result in a high participation grade. Students must actively contribute and participate by exhibiting the components listed above.
+Missed Tests and Assignments
+Students who miss a test or assignment for reasons entirely beyond their control (e.g. illness) may request special consideration within 2 business days of the missed midterm/test/assignment due date.
+In such cases, students must:
+1. Complete the Request for Special Consideration form: https://uoft.me/RSMConsideration
+2. Provide documentation to support the request, eg. Absence Declaration from ACORN, medical note etc.
+Please note: As of September 2023, students may use the Absence Declaration on ACORN *one time per term* to report an absence and request consideration. Any subsequent absence will require a Verification of Illness form or other similar relevant documentation.
+Students who do not submit their requests and documentation within 2 days may receive a grade of 0 (zero) on the missed course deliverable.
+The weight of the missed assignment/test will be shifted to the final exam.
+Final Exams: If you miss the final exam in this course for a legitimate reason (illness, etc) you will need to connect with your College Registrar to file a petition for a deferred exam. This deferred exam will be written at a later date as established by the Faculty of Arts & Science. Instructions can be found here: https://www.artsci.utoronto.ca/current/faculty-registrar/petitions-appeals/preparing-petition
+4
+Late Assignments
+All assignments are due on the date and at the time specified in Quercus. The instructor reserves the right to penalize late submissions by 25% per day if the assignment is not received on the specified date, at the specified time.
+Statement on Equity, Diversity and Inclusion
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or harassment against any persons or communities.
+Commitment to Accessibility
+The University is committed to inclusivity and accessibility, and strives to provide support for, and facilitate the accommodation of, individuals with disabilities so that all may share the same level of access to opportunities and activities offered at the University.
+If you require accommodations for a temporary or ongoing disability or health concern, or have any accessibility concerns about the course, the classroom or course materials, please email Accessibility Services or visit the Accessibility Services website for more information as soon as possible. Obtaining your accommodation letter may take up to several weeks, so get in touch with them as soon as possible. If you have general questions or concerns about the accessibility of this course, you are encouraged to reach out to your instructor, course coordinator, or Accessibility Services.
+Generative AI / ChatGPT
+Students are permitted to utilize Generative Artificial Intelligence (AI) tools while completing assignments within this course. However, it is essential to comprehensively document this usage and subsequently upload the documentation as an appendix (or a separate file) upon request for each assignment. Should the instructor require the submission of this documentation, students are obliged to promptly provide the file to the instructor. This documentation should include what tool(s) were used, how they were used, and how the results from the AI were incorporated into the submitted work. Failure to adhere to this guideline, and instances where the usage of AI is detected without appropriate citation, could result in the forfeiture of 100% of the grade allocated for that particular assignment, both for you and your teammates. It is important to emphasize that the use of Generative AI tools is exclusively permissible for assignments and case studies; their utilization is strictly prohibited during examinations, whether administered online or in-person
+Academic Integrity
+Academic Integrity is a fundamental value essential to the pursuit of learning and scholarship at the University of Toronto. Participating honestly, respectfully, responsibly, and fairly in this academic community ensures that the U of T degree that you earn will continue to be valued and respected as a true signifier of a student's individual work and academic achievement. As a result, the University treats cases of academic misconduct very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines the behaviours that constitute academic misconduct, the process for addressing academic offences and the penalties that may be imposed. You are expected to be familiar with the contents of this document. Potential offences include, but are not limited to:
+In papers and assignments
+5
+• Using someone else's ideas or words without appropriate acknowledgement.
+• Submitting your own work in more than one course without the permission of the instructor.
+• Making up sources or facts.
+• Obtaining or providing unauthorized assistance on any assignment (this includes collaborating with others on assignments that are supposed to be completed individually).
+On test and exams
+• Using or possessing any unauthorized aid, including a cell phone.
+• Looking at someone else's answers.
+• Misrepresenting your identity.
+• Submitting an altered test for re-grading.
+Misrepresentation
+• Falsifying institutional documents or grades.
+• Falsifying or altering any documentation required by the University, including (but not limited to) medical notes.
+All suspected cases of academic dishonesty will be investigated by the procedures outlined in the Code of Behaviour on Academic Matters. If you have any questions about what is or is not permitted in the course, please do not hesitate to contact the course instructor. If you have any questions about appropriate research and citation methods, you are expected to seek out additional information from the instructor or other U of T or RC resources such as the RC Centre for Professional Skills, the College Writing Centres or the Academic Success Centre.
+Email
+At times, the course instructor may decide to communicate important course information by email. As such, all U of T students are required to have a valid UTmail+ email address. You are responsible for ensuring that your UTmail+ email address is set up and properly entered on ACORN. For more information visit the Information Commons Help Desk.
+Forwarding your utoronto.ca email to a Gmail or other type of email account is not advisable. In some cases, messages from utoronto.ca addresses sent to Gmail accounts are filtered as junk mail, which means that important messages from your course instructor may end up in your spam or junk mail folder.
+Recording Lectures
+Lectures and course materials prepared by the instructor are considered by the University to be an instructor’s intellectual property covered by the Canadian Copyright Act. Students wishing to record a lecture or other course material in any way are required to ask the instructor’s explicit permission and may not do so unless permission is granted. Students who have been previously granted permission to record lectures as an accommodation for a disability are excepted. This includes tape recording, filming, photographing PowerPoint slides, Quercus materials, etc.
+If permission for recording is granted by the instructor (or via Accessibility Services), it is intended for the individual student’s own study purposes and does not include permission to
+6
+“publish” them in any way. It is forbidden for a student to publish an instructor’s notes to a website or sell them in any other form without formal permission.
+Weekly Schedule
+Please note that the last day you can drop this course without academic penalty is June 3, 2024.
+Session
+Date
+Topics
+Readings
+(Jacobs & Chase)
+Assignments
+Individual
+1
+May
+6
+Introduction and Overview
+Chapters 1 & 2
+1-page intro
+2
+May
+8
+Process Analysis
+Chapter 11
+3
+May
+13
+Little’s Law & Inventory Build-up
+Chapter 11
+Assignment 1
+4
+May 15
+Queueing I
+Chapter 10
+Assignment 2
+May 20
+Victoria Day – No Class
+5
+May
+22
+Queueing II + Midterm Review
+Chapter 10
+Assignment 3
+May
+27
+Midterm tentative date:
+May 27th, 2024 (1pm - 3pm)
+A hand-written 2-sided A4 aid sheet & Calculator Allowed
+6
+May 29
+Demand Forecasting
+Chap 18
+7
+Jun. 3
+Inventory Management I
+Chapter 20
+Assignment 4
+8
+Jun. 5
+Inventory Management II
+Chapter 20
+9
+Jun.
+10
+HBR Case + Inventory Management III
+HBR Case + Chap 20
+Assignment 5
+10
+Jun. 12
+Final Review
+N/A
+Final Exam
+TBA by FAS
+Final Exam (2 hours)
+A hand-written 2-sided A4 aid sheet & Calculator Allowed
+Other Useful Links
+• Become a volunteer note taker
+• Accessibility Services Note Taking Support
+• Credit / No-Credit in RSM courses
+• Rotman Commerce Academic Support
+URL links for print
+• ACORN: http://www.acorn.utoronto.ca/
+• Email Accessibility Services: accessibility.services@utoronto.ca
+• Accessibility Services website: http://studentlife.utoronto.ca/as
+• University's Plagiarism Detection Tool FAQ: https://uoft.me/pdt-faq
+• The University of Toronto’s Code of Behaviour on Academic Matters: http://www.governingcouncil.utoronto.ca/policies/behaveac.htm
+• Information Commons Help Desk: http://help.ic.utoronto.ca/category/3/utmail.html
+• Become a volunteer note taker: https://studentlife.utoronto.ca/program/volunteer-note-taking/
+• Accessibility Services Note Taking Support: https://studentlife.utoronto.ca/service/note-taking-support/
+• Credit / No-Credit in RSM courses: https://rotmancommerce.utoronto.ca/current-students/degree-requirements/credit-no-credit-option/
+• Rotman Commerce Academic Support: https://rotmancommerce.utoronto.ca/current-students/academic-support/
+• Book an appointment with a writing or presentation coach: http://uoft.me/writingcentres
+• Writing and Presentation Coaching academic support page: https://rotmancommerce.utoronto.ca/current-students/academic-support/writing-and-presentation-coaching/
+• Centre for Professional Skills Teamwork Resources page: https://rotmancommerce.utoronto.ca/teamwork-resources
+• Book an appointment with a Teamwork Mentor: http://uoft.me/writingcentres

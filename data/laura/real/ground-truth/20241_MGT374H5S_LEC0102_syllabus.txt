@@ -1,0 +1,364 @@
+DEPARTMENT OF MANAGEMENT
+UNIVERSITY OF TORONTO MISSISSAUGA
+MGT374H5S LEC0102
+Operations Management
+Course Outline - Winter 2024
+Class Location & Time Wed, 11:00 AM - 01:00 PM IB 260
+Instructor David Swanston
+Office Location KN239
+Office Hours Wednesdays 8-9am IB260, Thursdays 3-4pm via ZOOM
+E-mail Address d.swanston@utoronto.ca
+Course Web Site https://q.utoronto.ca
+Course Description
+Operations management is concerned with the facilities and their operation to deliver the goods and services of the organization.
+The course develops this theme and gives a theoretical framework for managing operations. Some of the major themes include
+aggregate planning, materials management, and inventory control. This course introduces students to modern quantitative and
+computing tools necessary for in-depth operational analysis and planning.
+Prerequisite: ECO220Y5 or ECO227Y5 or MGT218H5 or (STA256H5 and STA260H5) or STA218H5 or (STA256H5 and
+STA258H5)
+Exclusion: MGOC20H3 or RSM270H1 (SSc)
+Distribution Requirement: SSc
+Course Objective
+This course will address operations analysis with emphasis on the service industry. The course content will focus on the overall
+goal of planning and managing productivity, quality, and the efficiency and effectiveness of asset utilization. Specific topics
+covered include operations analysis, project management, inventory management, the study of work and applied statistical analysis
+and significance. Students will participate in a simulation game that will provide an opportunity practically apply many of these
+concepts in a business type setting.
+Some of the main objectives of the course will be:
+To understand the unique characteristics of the service sector.
+To understand the concept of productivity and the factors which impact it.
+To understand the various methods used to improve productivity and their applications.
+To understand the challenges that managers face in attempting to achieve service quality.
+To understand the principles of service quality
+Textbooks and Other Materials
+We will use an Etext in this course along with the Connect online learning platform and an online simulation game. The access
+code for the EText and Connect platform will be purchased from the bookstore. Instructions for the EText purchase and download
+will be posted on the course website. The simulation can be purchased directly online. Students must acquire their own copies of
+these materials as soon as possible as there is a significant amount of reading that will be required over the first few weeks. You
+will be assigned a simulation ID that will allow you to access the simulation website. Note that the simulation operates on PCs, but
+is not supported on Apple products (although some students have been able to use it, and some operate their Apple devices in PC
+mode). Students are expected to come to class having done all assigned readings including any handouts.
+1. E-Book, Service Management, 9th Edition, Bordoloi, Fitzsimmons, Fitzsimmons, 2019 McGraw Hill, and McGraw Hill
+Connect
+2. ServiceSim, Service Quality Simulation, Deighan and James, Interpretive Simulations, www.interpretive.com
+Other Materials: Additional readings, assignments or practice questions may be distributed throughout the semester.
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 1 of 10
+Type Description Due Date Weight
+Other Simulation Performance On-going 24%
+Assignment Weekly Quizzes On-going 15%
+Assignment Smartbook Submissions On-going 6%
+Term Test Mid-Term Test 2024-02-07 20%
+Final Exam Date TBA TBA 35%
+Total 100%
+Assessment and Grading Policies
+Note that the Course Schedule, Assessment and Grading Policies detailed in this course outline are contingent on class delivery
+staying unchanged. The course outline may change at the instructors' discretion under unforeseeable circumstances, e.g. lockdown
+due to COVID. For example, if we are required to offer courses via remote delivery during the semester, the instructor will make
+the necessary adjustments, including, but not limited to, the nature and timing of assignments and tests, reweighting of course
+assessments, and other course content. These changes will be communicated via Quercus.
+Requirements and Criteria
+Simulation (ServiceSim)
+Students will work in groups to create and manage the parts and service department of a new auto dealership throughout the
+semester. For eight consecutive operating months you will make decisions about the direction and operations of your company.
+Decisions will be electronically submitted to the simulation web site according to the attached course schedule. Late decisions will
+result in a grade of zero for the round. Teams will receive their own results immediately after submitting their decisions for the
+month, and will receive competitive information during the following class. Decision submission instructions and performance
+measurement criteria will be discussed in class. All team members must have acquired a simulation access code and registered
+online before the team will be able to submit decisions.
+There will be a preliminary group mark determined for your simulation teams' performance. This group mark may then be
+modified for each individual group member based on the results of a confidential peer evaluation. Students will receive an
+individual mark (not a group mark) for the simulation which may, or may not, be the same as the group mark that is originally
+determined or the mark given to other group members. This will help to recognize individual contributions and to promote equal
+participation by group members. Students who do not contribute in a significant manner to their group may receive a grade for the
+simulation as low as zero, at the discretion of the professor. Further instructions will be posted on the course website.
+Students who have not registered for the simulation by January 29th, without prior permission from the instructor, and/or who do
+not submit their simulation peer evaluation by the April 3rd deadline will receive a deduction of two marks (out of 24) from their
+simulation grade for every whole or part day that it is late.
+Weekly Quizzes
+Students will complete ten quizzes worth 1.5 marks each throughout the semester that will test their knowledge on the designated
+concepts. Each quiz will be open for a minimum of one week, and students will be provided with 45 minutes to complete each quiz
+(each quiz should take much less time). Quizzes will be a combination of true/flase, multiple choice, and problem solving
+questions. Students should read and follow the technology instructions, and complete the practice quiz, prior to attempting any quiz
+to ensure compatability. Once a quiz has been started, a student cannot rewright the quiz. Becasue students have at least
+one week to complete the quiz, no accommodations will be made for missed quizzes. Further instructions will be posted on the
+course website.
+Smartbook Submissions
+For most EText chapter readings, the Connect online digital learning platform will provide a Smartbook study aid that will help
+students deepen and strengthen their understanding of the EText material. Stuents will have at least one week to complete each
+Smartbook assignment, and they must be completed along with the assigned readings by the day prior to the class covering the
+subject. Students who complete each of the 13 Smartbook assignments can earn up to six marks based on their performance on their
+best 12 Smartbook submissions to accommodate technical issues or other issues that may prevent a student from completing a
+Smartbook assignment. Further instructions will be posted on the course website.
+Midterm Exam and Final Exam
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 2 of 10
+The mid-term test is 60 minutes in duration and will be held in-class on Wednesday, February 7th. Material covered during all prior
+classes is examinable on the midterm exam. Material covered after the midterm test is examinable on the final examination (noncumulative),
+which will be scheduled during the final exam period and will be two hours in length. Exams will cover chapter
+content, lectures, class discussion, alll other course material including the simulation.
+For both exams, students will be permitted one 8.5x11 page of notes, two-side, and must be original hand-written (no copies,
+printouts scans or computer generated notes). Students will also be allowed to use a non-programmable calculator and writing
+materials. For missed midterms, students will write an altenate make-up midterm (scheduled on Monday February 12th at 9am) as
+per the instructions below. Further instructions will be posted on the course website.
+Conduct of Class
+This course will require students to study the assigned text material and prepare exercises and case study analysis for in-class
+discussion. The lectures and seminars will reinforce key concepts, expand on assigned readings and review topic applications.
+Chapter content will not be given detailed review in class. Students are encouraged to ask questions and to participate in
+discussions.
+There are a variety of topics covered in this course and some students find it difficult to cover all of the material. Practical
+application is the best method to learn the more quantitative topics so it is imperative that students do not fall behind in the chapter
+readings. Preparing case analysis and completing assigned problems prior to class will help to identify areas where further
+information is required and will provide the context for in-class discussion.
+Procedures and Rules
+Special Consideration Request for Academic Accommodation Request - Missed Tests & Quizzes (term work only, no final
+exams):
+To be considered for academic accommodation for missed tests and quizzes (ONLY), please follow the appropriate next steps
+depending on your circumstance (i.e. illness related or non-illness related). Do NOT submit a petition for final exams. Final exam
+deferrals must be submitted through the Registrar's Office. Extension of time requests should follow the same process.
+Special Consideration Request Application: https://uoft.service-now.com/utm_scr
+Illness or Non-illness Related Next Steps
+1. Inform your professor in writing (e-mail is acceptable) no later than 24 hours after the test or quiz date of any
+circumstances that prevent you from writing a test or quiz. Failure to do so will result in your special consideration request
+petition being denied.
+2. Submit an online Special Consideration Request as soon as possible, but no later than 72 hours after the test or quiz
+date. Failure to do so will result in your request being denied. Special Consideration Request Application:
+https://uoft.service-now.com/utm_scr
+3. Provide your supporting documentation on the Special Consideration Request Application by attaching screenshots
+or relevant documents within one week of the missed test/quiz. Supporting documentation may include a screenshot of
+the Absence Declaration tool on ACORN. Please ensure the dates identified in your absence declaration include the actual
+test or quiz date, if applicable. Please refer the course outline for term work exclusions from use of Absence
+Declaration. The Department requires supporting documentation (such as Verification of Illness form) if your course
+outline excludes test/quiz from the one-time ACORN declaration. Illness related documentation include the Verification
+of Illness form which must be in English and completed by a practitioner registered and licensed in the Province of
+Ontario with original signature and business stamp. Non illness related documentation will vary but a death in the family
+requires submission of a death certificate. Requests without supporting documentation will be denied.
+IMPORTANT
+Failure to follow this process will result in your Special Consideration Request being denied.
+If your form is not completed correctly with the necessary details to assess your Special Consideration Request, your
+request may be denied.
+In the case of an illness, you need to follow the specific Missed Tests requirements for your course (see Missed Tests
+section below).
+You may receive a follow up email or response on the Special Consideration Request Application from the UTMM
+petitions committee. If so, you MUST respond within 24 hours.
+If there is concern about your Special Consideration Request, your request may be refused and/or you may be asked to meet
+with an Associate Chair or Program Director.
+If you have multiple Special Consideration Requests your request may be refused.
+If you do not complete the make-up work as and when required, you will receive a grade of zero for the original missed
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 3 of 10
+test; further special consideration is not permitted.
+Holidays and pre-purchased plane tickets, family plans (unless critical, such as death of an immediate family member), your
+friend's wedding, lack of preparation, or too many other tests are not acceptable excuses for missing a quiz, a test, or an item of
+course work.
+The written explanation and documentation that you submit represents an appeal from you, which requests the opportunity to
+account for that portion of your grade in an alternate manner than the normal one that is described in this course outline. If an
+appeal is not received by the deadline specified above, or if the appeal is deemed unacceptable, you will receive a grade of zero.
+Missed Test(s):
+Make-ups (Alternate Procedure): Students who miss the midterm exam due to illness and have submitted a Special Consideration
+Request are expected to write a make-up test. Students should already have been prepared for the mid-term, so a make-up test will
+be scheduled on Monday February 12th at 9 am (subject to room availability). As per the instructions above, Ill students must
+contact the instructor in writing or via email within 24 hours so that arrangements can be made and your online petition must be
+submitted.
+Re-marking: Requests to have term tests remarked will be considered if the following conditions are met:
+1. The request is submitted to the instructor no later than 7 days after the marked test has been reviewed by students and the
+student has not written in pencil;
+2. The student submits a written explanation with his remark request as to why and where he is entitled to more marks;
+3. The instructor has no reason to believe the student has made any changes subsequent to the term test being returned.
+Students should be aware of the following:
+Several tests are randomly photocopied before being returned,
+Items submitted for remarking will be remarked in their entirety and the mark awarded may increase, decrease, or remain
+the same.
+Late Assignment(s):
+Students who do not submit their Smartbook assignments or quizzes by the due date will be assigned a grade of zero. Students who
+have not registered for the simulation by January 29th, without prior permission from the instructor, and/or who do not submit their
+simulation peer evaluation by April 3rd deadline will receive a deduction of two marks (out of 24) from their simulation grade for
+every whole or part day that it is late. Teams that submit their decisions late for any round will result in a grade of zero for the
+round.
+Final Exams:
+Students who cannot complete their final examination due to illness or other serious causes must file an online petition within 72
+hours of the missed examination. Late petitions will NOT be considered. Upon approval of a deferred exam request, a nonrefundable
+fee is required for each examination approved. See the Office of the Registrar Administrative Fees for Services page for
+more information.
+Academic Misconduct:
+Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the
+University of Toronto Mississauga is a strong signal of each student’s individual academic achievement. As a result, UTM treats
+cases of cheating and plagiarism very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines behaviours that constitute academic dishonesty and
+the process for addressing academic offences. Potential offences include, but are not limited to:
+In papers and assignments:
+Using someone else’s ideas or words without appropriate acknowledgement.
+Submitting your own work in more than one course without the permission of the instructor.
+Making up sources or facts.
+Obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 4 of 10
+1. Using or possessing unauthorized aids.
+2. Looking at someone else's answers during an exam or test.
+3. Misrepresenting your identity.
+In academic work:
+1. Falsifying institutional documents or grades.
+2. Falsifying or altering any documentation required, including (but not limited to) doctor's notes.
+Students should note that copying, plagiarizing, or other forms of academic misconduct will not be tolerated. Any student caught
+engaging in such activities will be subject to academic discipline ranging from a mark of zero on the assignment, test or
+examination to dismissal from the university as outlined in the academic handbook. Any student abetting or otherwise assisting in
+such misconduct will also be subject to academic penalties.
+Normally, students will be required to submit their course essays to the University's plagiarism detection tool for a review of textual
+similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in
+the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the
+University’s use of this tool are described on the Centre for Teaching Support & Innovation web site (https://uoft.me/pdt-faq).
+Standard of Conduct in this Course:
+Since this course is part of a degree designed to give you a broad understanding of the world of business, we aim to run the course
+in a way which will be consistent with the world of business - where many of you will spend your working lives. We strive to
+provide accurate information, quality materials and good service, consistent with our obligations to maintain the high academic
+standards of the Department of Management at the University of Toronto Mississauga.
+In return we expect that you will conduct yourself in a way that prepares you for the world of work.
+We start on time, so please do not arrive late and disrupt others.
+Leaving class early is also disruptive to your colleagues and will not be permitted unless you have made prior arrangements
+with the instructor.
+Turn off your cell phone.
+Keep up to date. Make sure that you know the class schedule. Check on the course web page for updates and posted
+materials.
+During the class, respect the learning opportunities of others. Don't distract others by chatting to your neighbour. Our
+expectation is that you will not only contribute in class to your own learning, but also that of others.
+Remote assessments:
+1. Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+2. Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+3. Posting test, essay, or exam questions to message boards or social media.
+4. Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+5. Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources .
+Copyright Notice:
+Please be advised that the intellectual property rights in the material referred to on this syllabus and posted on the course site may
+belong to the course instructor or other persons. You are not authorized to reproduce or distribute such material, in any form or
+medium, without the prior consent of the intellectual property owner. For example, uploading course assignments or solutions to
+Coursehero, Easy Edu, and other tutoring sites and services is strictly prohibited. Violation of intellectual property rights may be a
+violation of the law and University of Toronto policies and may entail significant repercussions for the person found to have
+engaged in such act. If you have any questions regarding your right to use the material in a manner other than as set forth in the
+syllabus, please speak to your instructor.
+Additional Information:
+U of T statement on commitment to equity, human rights, and respect for diversity
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning
+environment in this course should strive to create an atmosphere of mutual respect where all members of our community can
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 5 of 10
+express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or
+harassment against any persons or communities.
+UTM statement on academic integrity
+UTM wishes to remind students that they are expected to adhere to the Code of Behaviour on Academic Matters regardless of
+the course delivery method. UTM expects that students will maintain the same academic honesty and integrity both in a
+classroom setting and online. Potential academic offences related to digital contexts include, but are not limited to:
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+Posting test, essay, or exam questions to message boards or social media.
+Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources.
+RGASC
+The Robert Gillespie Academic Skills Centre (RGASC) is located in Room 3251 on the third floor of the Maanjiwe
+nendamowinan Building. The RGASC offers individual consultations, workshops (many CCR-accredited), and a wide range of
+programs to help students identify and develop the academic skills they need for success in their studies. In Winter 2022, their
+programming will include both in-person and online options. Visit the RGASC website to explore their online resources, book
+an in-person or online appointment, or learn about other programming such as Writing Retreats, the Program for Accessing
+Research Training (PART), Mathematics and Numeracy Support, and dedicated resources for English Language Learners.
+UTM Library's
+UTM Library - The University of Toronto Library provides access to a vast collection of online and print resources to faculty,
+staff, and students and is the largest academic library in Canada. The UTM Library offers Reference and Research Help inperson
+and also virtually, through chat, Zoom, and individual research consultations, to help students navigate library
+databases, find relevant articles for their research, and cite correctly. The Library Workshops and Events help students learn
+about the search techniques and specialized software, needed to be successful in their academic journey. For more information,
+visit http://library.utm.utoronto.ca.
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 6 of 10
+Date Topic
+2024-01-10 Introduction to Operations / Service Quality
+Etext Ch. 1, 2, 6 (not section on statistical process control)
+Review Course Outline and Schedule
+2024-01-12 Practice Quiz Due by 11:59pm
+Quiz is designed to test technology compatibility and does not count towards grade
+2024-01-16 Smartbook Week 2 Submission no later than 11:59
+Chapters 1, 2, 6 (not SPC)
+2024-01-17 Forecasting
+Etext Ch. 14
+2024-01-19 Week 2 Quiz Due by 11:59pm
+Forecasting (Up to Trend Adjusted Exponential Smoothing)
+2024-01-23 Smartbook Week 3 Submission no later than 11:59
+Chapters 14, 13 (Capacity Planning Only 358-360)
+2024-01-24 Forecasting / Capacity Planning
+Etext Ch. 13 (Only initial section on Capacity Planning 358-360)
+Read simulation materials - Student Manual
+2024-01-26 Week 3 Quiz Due by 11:59pm
+Forecasting (Seasonality) and Capacity Planning
+2024-01-29 Must Be Properly Registered For The Simulation
+Simulation Practice Round Decision Submission 7:00pm Deadline
+2024-01-30 Smartbook Week 4 Submission no later than 11:59
+Chapters 8
+2024-01-31 Location Selection
+Etext Ch. 8
+2024-02-02 Week 4 Quiz Due by 11:59pm
+Location Selection
+Course Schedule
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 7 of 10
+2024-02-05 Simulation Round #1 Decision Submission 7:00pm Deadline
+2024-02-07 Midterm Exam - In Class 60 minutes
+2024-02-12 Make-Up Midterm 9am
+Simulation Round #2 Decision Submission 7:00pm Deadline
+2024-02-13 Smartbook Week 6 Submission no later than 11:59
+Chapters 5
+2024-02-14 Facility and Process Design
+Etext Ch. 5
+2024-02-16 Week 6 Quiz Due by 11:59pm
+Facility and Process Design
+2024-02-21 No Class - Reading Week
+2024-02-26 Simulation Round #3 Decision Submission 7:00pm Deadline
+2024-02-27 Smartbook Week 7 Submission no later than 11:59
+Chapters 11
+2024-02-28 Managing Capacity
+Etext Ch. 11
+Yield Management Analyst Case 11.3 (pg. 329)
+2024-03-01 Week 7 Quiz Due by 11:59pm
+Managing Capacity
+2024-03-04 Simulation Round #4 Decision Submission 7:00pm Deadline
+2024-03-05 Smartbook Week 8 Submission no later than 11:59
+Chapters 15 (Not Planned Shortages or IM Under Uncertainty 438-440)
+2024-03-06 Managing Capacity / Inventory Management
+Etext Ch. 15
+2024-03-08 Week 8 Quiz Due by 11:59pm
+Inventory Management (Not Planned Shortages or IM Under Uncertainty)
+2024-03-11 Simulation Round #5 Decision Submission 7:00pm Deadline
+2024-03-12 Smartbook Week 9 Submission no later than 11:59
+Chapters 15 (Planned Shortages or IM Under Uncertainty 438-440)
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 8 of 10
+2024-03-13 Inventory Management
+2024-03-15 Week 9 Quiz Due by 11:59pm
+Inventory Management (Planned Shortages or IM Under Uncertainty 438-440)
+2024-03-18 Simulation Round #6 Decision Submission 7:00pm Deadline
+2024-03-19 Smartbook Week 10 Submission no later than 11:59
+Chapters 16
+2024-03-20 Project Management
+Etext Ch. 16
+2024-03-22 Week 10 Quiz Due by 11:59pm
+Project Management
+2024-03-25 Simulation Round #7 Decision Submission 7:00pm Deadline
+2024-03-26 Smartbook Week 11 Submission no later than 11:59
+Chapters 7
+2024-03-27 Total Quality Management / Process Control
+Etext Ch. 7
+Etext Ch. 6 (section on Statistical Process Control 164-168)
+2024-03-29 Week 11 Quiz Due by 11:59pm
+Total Quality Management
+2024-04-01 Simulation Round #8 Decision Submission 7:00pm Deadline
+Simulation Peer Evaluation Open
+2024-04-02 Smartbook Week 12 Submission no later than 11:59
+Chapters 6 (Statistical Process Control 164-168)
+2024-04-03 Statistical Process Control
+Simulation Final Peer Evaluation Submission Deadline
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 9 of 10
+2024-04-05 Week 12 Quiz Due by 11:59pm
+Statistical Process Control (164-168)
+TBA Final Examination
+Last Date to drop course from Academic Record and GPA is March 11, 2024.
+The Course Schedule above is subject to change due to the constantly evolving nature of COVID public health measures. Please
+check Quercus and emails regularly for any changes to the proposed schedule.
+MGT374H5S - Swanston, David 2024-01-03 12:48:10 Page 10 of 10

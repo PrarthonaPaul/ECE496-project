@@ -1,0 +1,200 @@
+Course Outline
+Course Code
+RSM430 H1F
+Course Name
+Fixed Income Securities
+Term, Year
+Fall, 2024
+Course Meets
+LEC0101: Tuesdays, 9am – 11am
+LEC0201: Tuesdays, 11am – 1pm
+LEC0301/2001: Wednesdays, 9am – 11am
+Web page URL
+https://q.utoronto.ca
+Instructor Details
+Name
+Email
+Phone
+Office Hours
+Eric Kang
+eric.kang@rotman.utoronto.ca
+416-978-0414
+TBA on Quercus
+Course Description
+This course on capital markets delves into the essential aspects of fixed income securities and markets. It emphasizes traditional bond and term structure concepts, pricing, interest rate risk measures, and hedging approaches. Additionally, the course covers corporate bond markets, including credit risk and capital structure, while also integrating discussions on current events and securities that impact market dynamics.
+Learning Outcomes
+By the end of this course, students will be able to:
+• Describe and analyze fixed income securities, including their types, features, and pricing methods.
+• Explain and analyze term structure concepts and how they apply to various market conditions.
+• Assess and measure interest rate risk and its implications to fixed income assets.
+• Evaluate corporate bond markets, focusing on credit risk assessment and capital structure implications.
+• Analyze the impact of current events and emerging securities on the functioning of fixed income markets.
+• Relate course concepts to real-world situations through case studies and current market analyses.
+Course Prerequisites
+Rotman Commerce: RSM332H1; Actuarial Science: ACT349H1
+2
+Course Materials
+Required Readings
+We will not be using a textbook in this course. The slides, associated case documents, and any other materials will be posted on Quercus as required readings.
+Electronic Course Materials
+Rotman Interactive Trader
+The Rotman Interactive Trader is a market-simulator that provides students with a hands-on approach to learning finance. It allows students to practice decision making under uncertainty in a controlled environment where they can immediately observe the outcomes of their decisions. By being able to analyze the consequences of their decisions in different situations, students are able to learn how to make good decisions when the future is uncertain. More information can be found at http://rit.rotman.utoronto.ca.
+Evaluation and Grades
+Grades are a measure of the knowledge and skills developed by a student within individual courses. Each student will receive a grade on the basis of how well they have command of the course materials, skills and learning objectives of the course.
+Work
+Percentage of grade
+Due Date
+Midterm Test
+20%
+Week of Oct 7
+RIT Case Performance
+10%
+Nov 12, 13 (in-class)
+Decision Case Report (Group)
+15%
+11:59PM, Nov 24
+Decision Case Q&A (Group)
+10%
+Week of Nov 25
+Final Term Test
+45%
+TBD
+Course Format and Expectations
+RIT Decision Case Group Assignment: Report and Q&A
+RIT Decision Case Assignment allows students to work in teams of 4 students. Learning to work together in teams is a crucial transferrable skill you will use not only in your coursework, but also in your future careers. Support is available if you encounter common teamwork challenges such as:
+• Team members feeling left out of the team.
+• Team members not responding in a timely manner to communication.
+• Division or quality of work among team members being unequal or unfair.
+Consult the Centre for Professional Skills Teamwork Resources page for tips, strategies, and best practices. You can also book an appointment with a teamwork mentor through the RC Centre for Professional Skills Writing Centre. Teamwork mentors can help you resolve or mitigate conflict, strategize on planning, or improve team communication.
+If you are a student registered with Accessibility Services, and extensions are one of your academic accommodations, consult with your Accessibility Advisor about the teamwork in this course.
+3
+The Group Assignment is designed to help you develop your communication skills. How well you communicate your ideas in writing will be considered in the evaluation of the assignment. In your written work, aim for clarity, strong organization, conciseness, professionalism, and correct grammar. Additionally, a Q&A session will be scheduled for each group to address questions related to the Decision Cases. More detailed information will be provided on the course portal.
+Support is available through the RC Centre for Professional Skills (CPS) for students who would like help or feedback on their writing or speaking (to prepare for the Q&A session). CPS offers both individual and group appointments with trained writing instructors and presentation coaches who are familiar with the RC program and common types of business assignments. You can also access your college Writing Centres for help with written assignments.
+You can book an appointment with a writing or presentation coach through the RC Centre for Professional Skills Writing Centre. For more information about writing centres, student supports, and study resources, see the Writing and Presentation Coaching academic support page.
+RIT Case Performance
+RIT Case Performance provides an opportunity for students to gain hands-on decision-making abilities. Students will consistently apply their critical thinking to analyze problems presented using the RIT Case. They will also be required to translate their thinking into financial models that support real-time decision-making. For the RIT Case Performance, each student’s performance over multiple simulation iterations will be computed to determine the overall individual grade. More detailed performance evaluation documents will be posted on Quercus.
+Missed Tests and Assignments
+Students who miss a term test or assignment for reasons entirely beyond their control (e.g. illness) may request special consideration within 2 business days of the missed midterm/test/ assignment due date.
+In such cases, students must:
+1. Complete the Request for Special Consideration form: https://uoft.me/RSMConsideration
+2. Provide documentation to support the request, eg. Absence Declaration from ACORN, medical note etc.
+Please note: As of September 2023, students may use the Absence Declaration on ACORN *one time per term* to report an absence and request consideration. Any subsequent absence will require a Verification of Illness form or other similar relevant documentation.
+Students who do not submit their requests and documentation within 2 days may receive a grade of 0 (zero) on the missed course deliverable.
+There will be no make-up for the RIT Case Performance. Students who miss the RIT Case Performance for valid documented reasons with an approval will have their grades re-allocated to their final exam.
+Final Exams: If you miss the final exam in this course for a legitimate reason (illness, etc) you will need to contact your College Registrar to file a petition for a deferred exam. This deferred exam will be written at a later date as established by the Faculty of Arts & Science. Instructions
+4
+can be found here: https://www.artsci.utoronto.ca/current/faculty-registrar/petitions-appeals/preparing-petition
+Late Assignments
+All assignments are due on the date and at the time specified in Quercus. Late submissions will normally be penalized by 1% of the overall course grade if the assignment is not received on the specified date, at the specified time. A further penalty of additional 1% deduction will be applied to each subsequent day until the assignment is received or the allocated grade becomes zero as a result.
+Statement on Equity, Diversity and Inclusion
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or harassment against any persons or communities.
+Commitment to Accessibility
+The University is committed to inclusivity and accessibility, and strives to provide support for, and facilitate the accommodation of, individuals with disabilities so that all may share the same level of access to opportunities and activities offered at the University.
+If you require accommodations for a temporary or ongoing disability or health concern, or have any accessibility concerns about the course, the classroom or course materials, please email Accessibility Services or visit the Accessibility Services website for more information as soon as possible. Obtaining your accommodation letter may take up to several weeks, so get in touch with them as soon as possible. If you have general questions or concerns about the accessibility of this course, you are encouraged to reach out to your instructor, course coordinator, or Accessibility Services.
+Plagiarism Detection
+Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool are described on the University's Plagiarism Detection Tool FAQ page from Centre for Teaching Support & Innovation.
+Generative AI / ChatGPT
+Students are allowed to make use of technology, including generative artificial intelligence tools, to contribute to their understanding of course materials as learning aids or to help produce assignments.
+Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats are now providing information on citing generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/).
+5
+The use of generative artificial intelligence tools must be documented in an appendix for each assignment. The documentation should include what tool(s) were used, how they were used, and how the results from the AI were incorporated into the submitted work.
+Academic Integrity
+Academic Integrity is a fundamental value essential to the pursuit of learning and scholarship at the University of Toronto. Participating honestly, respectfully, responsibly, and fairly in this academic community ensures that the U of T degree that you earn will continue to be valued and respected as a true signifier of a student's individual work and academic achievement. As a result, the University treats cases of academic misconduct very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines the behaviours that constitute academic misconduct, the process for addressing academic offences and the penalties that may be imposed. You are expected to be familiar with the contents of this document. Potential offences include, but are not limited to:
+In papers and assignments
+• Using someone else's ideas or words without appropriate acknowledgement.
+• Submitting your own work in more than one course without the permission of the instructor.
+• Making up sources or facts.
+• Obtaining or providing unauthorized assistance on any assignment (this includes collaborating with others on assignments that are supposed to be completed individually).
+On test and exams
+• Using or possessing any unauthorized aid, including a cell phone.
+• Looking at someone else's answers.
+• Misrepresenting your identity.
+• Submitting an altered test for re-grading.
+Misrepresentation
+• Falsifying institutional documents or grades.
+• Falsifying or altering any documentation required by the University, including (but not limited to) medical notes.
+All suspected cases of academic dishonesty will be investigated by the procedures outlined in the Code of Behaviour on Academic Matters. If you have any questions about what is or is not permitted in the course, please do not hesitate to contact the course instructor. If you have any questions about appropriate research and citation methods, you are expected to seek out additional information from the instructor or other U of T or RC resources such as the RC Centre for Professional Skills, the College Writing Centres or the Academic Success Centre.
+Email
+At times, the course instructor may decide to communicate important course information by email. As such, all U of T students are required to have a valid UTmail+ email address. You are
+6
+responsible for ensuring that your UTmail+ email address is set up and properly entered on ACORN. For more information visit the
+Information Commons Help Desk.
+Forwarding your utoronto.ca email to a Gmail or other type of email account is not advisable. In some cases, messages from utoronto.ca addresses sent to Gmail accounts are filtered as junk mail, which means that important messages from your course instructor may end up in your spam or junk mail folder.
+Recording Lectures
+Lectures and course materials prepared by the instructor are considered by the University to be an instructor’s intellectual property covered by the Canadian Copyright Act. Students wishing to record a lecture or other course material in any way are required to ask the instructor’s explicit permission and may not do so unless permission is granted. Students who have been previously granted permission to record lectures as an accommodation for a disability are excepted. This includes tape recording, filming, photographing PowerPoint slides, Quercus materials, etc.
+If permission for recording is granted by the instructor (or via Accessibility Services), it is intended for the individual student’s own study purposes and does not include permission to “publish” them in any way. It is forbidden for a student to publish an instructor’s notes to a website or sell them in any other form without formal permission.
+Weekly Schedule
+Session
+Date
+Topic
+Readings
+1
+Sept 3, 4
+Overview of the fixed income market, participants, bond features & structures
+Lecture slides
+2
+Sept 10, 11
+The Nominal Yield Curve & Interpolation
+Lecture slides
+3
+Sept 17, 18
+Building the Yield Curve: Government Bond Auctions & Repo Transactions
+Lecture slides
+4
+Sept 24, 25
+Understanding the Yield Curve: Spot Rates, Forward Rates, Bootstrapping
+Lecture slides
+5
+Oct 1, 2
+Measuring Interest Rate Risk: Duration, Convexity
+Lecture slides
+6
+Week of Oct 7
+Midterm Test
+7
+Oct 15, 16
+Corporate Bond Market: Credit & Capital Structure
+Lecture slides
+8
+Oct 22, 23
+Introduction to RIT and Fixed Income (FI) Cases: Fixed Income Case 5 (Yield Curve) and 6 (Credit Risk)
+RIT Help files and FI case documents
+No classes – Fall Reading Week
+9
+Nov 5, 6
+RIT FI Capstone case
+RIT FI Capstone case documents
+10
+Nov 12, 13
+RIT FI Case Performance
+11
+Nov 19, 20
+Embedded Calls & Puts
+Course review
+Lecture slides
+12
+Nov 26, 27
+RIT FI Case Group Q&A
+Please note that the last day you can drop this course without academic penalty is November 4, 2024.
+Other Useful Links
+• Become a volunteer note taker
+• Accessibility Services Note Taking Support
+• Credit / No-Credit in RSM courses
+• Rotman Commerce Academic Support
+• Where to find teaching assistant opportunities
+URL links for print
+• ACORN: http://www.acorn.utoronto.ca/
+• Email Accessibility Services: accessibility.services@utoronto.ca
+• Accessibility Services website: http://studentlife.utoronto.ca/as
+• University's Plagiarism Detection Tool FAQ: https://uoft.me/pdt-faq
+• The University of Toronto’s Code of Behaviour on Academic Matters: http://www.governingcouncil.utoronto.ca/policies/behaveac.htm
+• Information Commons Help Desk: http://help.ic.utoronto.ca/category/3/utmail.html
+• Become a volunteer note taker: https://studentlife.utoronto.ca/program/volunteer-note-taking/
+• Accessibility Services Note Taking Support: https://studentlife.utoronto.ca/service/note-taking-support/
+• Credit / No-Credit in RSM courses: https://rotmancommerce.utoronto.ca/current-students/degree-requirements/credit-no-credit-option/
+• Rotman Commerce Academic Support: https://rotmancommerce.utoronto.ca/current-students/academic-support/
+• Book an appointment with a writing or presentation coach: http://uoft.me/writingcentres
+• Writing and Presentation Coaching academic support page: https://rotmancommerce.utoronto.ca/current-students/academic-support/writing-and-presentation-coaching/
+• Centre for Professional Skills Teamwork Resources page: https://rotmancommerce.utoronto.ca/teamwork-resources
+• Book an appointment with a Teamwork Mentor: http://uoft.me/writingcentres

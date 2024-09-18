@@ -1,0 +1,69 @@
+STAT 497/498: Capstone Group Project in Statistics
+Instructors:
+Dr. Jane Doe (Email: jane.doe@university.edu)
+Teaching Assistants:
+John Smith (Email: john.smith@university.edu)
+Emily Brown (Email: emily.brown@university.edu)
+Credits:
+Fall: 4 credits
+Winter: 4 credits
+Day/Time:
+Fall: TR 4:00-5:50 pm
+Winter: MW 4:00-5:50 pm
+Course Overview:
+STAT 497 & STAT 498 is the capstone project sequence for senior statistics majors. This course
+gives students the opportunity to apply statistical theories and methods learned throughout their
+undergraduate program to a real-world group project. The course involves:
+1. Collaborating with industry sponsors to identify and define a statistical problem.
+2. Developing hypotheses and statistical models to address the problem.
+3. Collecting and analyzing data using advanced statistical techniques.
+4. Implementing and testing models or methods.
+5. Evaluating the results based on statistical criteria.
+6. Documenting and presenting findings.
+7. Managing the project to ensure timely completion and high-quality deliverables.
+Course-Specific Learning Outcomes:
+Upon successful completion of this course, students will be able to:
+1. Work with sponsors to define a statistical problem and develop a research plan.
+2. Design and implement appropriate statistical methods and models.
+3. Analyze data and evaluate model performance using statistical measures.
+4. Manage project resources effectively to meet deadlines and goals.
+5. Address ethical issues related to data privacy, bias, and reporting.
+6. Communicate results through written reports and oral presentations.
+7. Function effectively within a team to produce a comprehensive statistical analysis.
+ABET Program Outcomes:
+This course supports the following ABET outcomes:
+- Ability to apply knowledge of mathematics, science, and engineering to solve complex problems.
+- Ability to function on multidisciplinary teams.
+- Ability to communicate effectively with both technical and non-technical audiences.
+- Understanding of professional and ethical responsibilities.
+- Recognition of the need for, and ability to engage in, lifelong learning.
+WIC Program Outcomes:
+Students will:
+1. Develop critical thinking and content knowledge in statistics through regular writing exercises.
+2. Demonstrate an understanding of audience expectations, genres, and conventions in statistical
+communication.
+3. Produce a comprehensive report of at least 2000 words, demonstrating the ability to revise and
+improve based on feedback.
+Key Deadlines:
+Team Charter & Presentation: 50 points - Due: Oct 10
+Background Report: 200 points - Due: Oct 24
+Preliminary Proposal: 200 points - Due: Nov 14
+Final Proposal: 250 points - Due: Dec 9
+Project Notebook: 50 points - Due: Dec 12
+Assignments:
+1. Group Charter and Presentation (50 points):
+- A contract between team members detailing expectations, roles, and project goals.
+2. Project Notebook (50 points):
+- A log of all project-related activities and decisions.
+3. Background Report (200 points):
+- Detailed analysis of the problem domain and current approaches.
+4. Preliminary Proposal (200 points):
+- Initial design and methodology for the project.
+5. Final Proposal (250 points):
+- A comprehensive report detailing the chosen methods and expected outcomes.
+6. Weekly Presentations (100 points):
+- Regular updates on project progress and upcoming milestones.
+7. Project Contribution (150 points):
+- Individual contribution to the team and project.
+8. Project Results (375 points):
+- Evaluation of the final project deliverables and outcomes.

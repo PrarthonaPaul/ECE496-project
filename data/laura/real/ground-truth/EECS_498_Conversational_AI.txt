@@ -1,0 +1,74 @@
+Conversational Artificial Intelligence
+Principles and Practice of Virtual Assistant AI
+EECS 498, FALL 2021
+(prereqs: 280, 281)
+Summary
+The science and art of creating conversational AI spans multiple areas in computer science. Learning about and leveraging advances in these areas to create state-of-the art conversational virtual assistants is the central focus of this course. Throughout the course, students will put into practice the end-to-end creation of a virtual assistant spanning natural language processing, dialogue management, response generation, and other applications. Students will also use tools that span both traditional techniques as well as cutting edge techniques for these AI with the goal of creating new experiences that go beyond existing virtual assistants. Students will be tasked with integrating the AI experiences they create with a set real APIs of their choosing (e.g., Spotify, Fitbit, Unity, etc.). The project culminates in a demo day where creations are shared for others to try, for this semester, these public demos will take the form of video submissions that will be posted on the course website.
+In the creation of these virtual assistants, students will form groups of around 5-7 students to select a use case, design the virtual assistant, train AI capabilities, implement logic, and execute the end to end build out and integration into an existing public API. In class, students will learn about the broad landscape of NLP and Conversational AI from it’s fundamental principles. Students will also learn state of the art techniques for various aspects of modeling language in deep learning, leveraging transfer learning to solve NLP problem, and gain very important experience understanding and interpreting research papers as the state of the art evolves. As an MDE, the grading of the course is predominantly project-based and students will be presenting the evolution of their project in course. Also students will gain valuable experience presenting technical ideas and evaluation through 2 paper presentations per group.
+2
+Instructor: Jason Mars (profmars@umich.edu) (http://www.jasonmars.org)
+GSI: TBA (TBA@umich.edu)
+Lecture: MW 1:30-3, ONLINE / 3150 DOW
+Credits: 4
+Prerequisites: EECS 280, EECS 281 (optional: EECS 485)
+Office Hours: M/F 3:30-4:30 (tentative), and On Demand
+Course Website: TBD
+Schedule by Week *(subject to slight changes)
+8/31, 9/2
+Course Introduction, Natural Language Processing
+- Syllabus and Logistics
+- Introduction to NLP and Course Scope 9/7, 9/9 *(no class 9/7, Labor Day) NLP and AI Overview - Survey of NLP Landscape and Problems - Traditional vs ML based NLP - Group formation due: 9/11
+9/14, 9/16
+Deep Learning – NLP style
+- Deep learning applied to NLP
+- Understanding Papers and Metrics 9/21, 9/23 Project Pitches and Feedback - One page write-up and slides due 9/25
+9/28, 9/30
+Papers – Representing Language / Embeddings
+- Word2Vec, GloVe 10/5, 10/7 Papers – Representing Language / Embeddings - Bert, Elmo, Elactra
+10/12, 10/14
+Papers – Landscape of Embeddings
+- GPT-2 / GPT-3 10/19, 10/21 Group Deep Dives - Mon: Group 1, 2
+3
+- Wed: Group 3, 4, 6
+10/26, 10/28
+Project Updates, Show and Tell
+- One page write-up and slides due 10/30 11/2, 11/4 Recap and Paper - Recap (Lecture), FastText
+11/9, 11/11
+Papers – Dialogue Management
+- Learning Goal Diag, Trans. State Gen 11/16, 11/18 Paper and Guest Lectures - OpenDialKG - Wednesday: Guest Lectures Brian Yang and Yiping Kang
+11/23, 11/25
+Thanksgiving Break!
+TURKEY!! 11/30, 12/2 Final Project Presentations
+12/7
+Last Day Wrap-Up
+- Closing Lecture
+- Project submissions due
+Grading
+This is a very ‘do heavy’ course. A significant portion of the grade is allocated to the project and demos. Lets build some amazing stuff!
+Project write-ups: 10%
+- Pitch (one page): 5%
+- Update (one page): 5%
+Presentations: 30%
+- Pitch: 10%
+- Update: 10%
+- Papers: 5% x 2
+4
+- (Final presentation counted below toward final project)
+Paper Summaries: 10%
+Final Project, Code, and Report: 50%
+- Demo: 15%
+- Code: 15%
+- Final Deck + Writeup: 10%
+- Final Presentation: 10%
+Participation (extra credit): Up to 10% Extra Credit
+Logistics and Details
+Late Policy
+Assignments are expected to be completed on time. However, for unavoidable situations where this is not possible, you may use up to 1 late day (24 hours) per assignment for a penalty of 10%. An additional 10% will be lost for each additional day. If students need special accommodations due to Covid, I’d be happy to make them but would like to be made aware before deadlines.
+Assignment Submission
+Projects should all be submitted in as a .zip file containing project code, and a PDF containing README content (setup / usage instructions).
+MDE Project
+This course will have a large teambased project that will require designing and building a virtual assistant. After group formation, an initial ‘pitch’ document and inclass presentation will help teams get feedback on their ideas. After that, there will be a few milestones on the way to a final project document, presentation, and demos. The objective of this project is to build a system from the ground up that work really well in practice. Be creative!
+Honor Code
+All students (including LS&A and Engineering) are required to observe the Engineering Honor Code in all assignments and exams. A copy of the honor code can be found at
+5
+http://ossa.engin.umich.edu/honorcouncil/. Please make sure that you clearly understand what constitutes cheating. If you are not sure in any specific case, you should ask the teaching staff. The University takes honor code violations seriously, and penalties can be severe. You are not allowed to share your code with anyone other than your partners. You are not allowed to make use of project or homework solutions by others, including solutions from previous semesters. Make sure that you do not upload your code on github public repositories, as this also constitutes violation of the honor code.

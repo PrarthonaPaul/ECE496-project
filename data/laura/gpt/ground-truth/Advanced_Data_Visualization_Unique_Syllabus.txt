@@ -1,0 +1,24 @@
+Advanced Data Visualization Course Syllabus
+Description of Course:
+This course teaches students advanced techniques for visualizing data. Topics include the use of software tools to
+create effective charts, graphs, and interactive dashboards.
+Instructor and Contact Information:
+Dr. Alex Johnson
+Office: Room 303, Academic Building
+Phone: 321-654-0987
+Email: alexjohnson@university.edu
+Office Hours: Thursday, 1-3 PM or by appointment
+Course Goals & Objectives:
+The goal is to enhance students' ability to communicate complex data through visual means, improving their ability to
+create impactful presentations.
+Expected Learning Outcomes:
+- Mastery of data visualization tools
+- Ability to design clear and effective visual representations of data
+- Competence in creating interactive dashboards
+Assignments and Due Dates
+Week Topic Assignments/Activities
+Week 1 Introduction to Data Visualization Discussion Post due 1/16
+Week 2 Chart and Graph Design Submit Chart Design due 1/23
+Week 3 Interactive Dashboards Complete Dashboard Tutorial due 1/30
+Week 4 Advanced Techniques Submit Visualization Project due 2/6
+Week 5 Presentation of Data Submit Final Presentation due 2/13

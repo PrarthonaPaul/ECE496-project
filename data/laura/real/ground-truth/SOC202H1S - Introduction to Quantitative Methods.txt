@@ -1,0 +1,246 @@
+Sociology 202H1S
+Introduction to Quantitative Research Methods
+Winter 2023
+Classroom: SS1073
+Class Hours: Wednesdays, 10:10 AM-12:00 PM
+Tutorial Room: FE36 (371 Bloor Street West)
+Tutorial Times: Thursday, 12:00-1:30; Friday, 10:30-12:00
+Professor: Jonathan Horowitz
+Email: jonathan.horowitz@utoronto.ca
+Office Hours: Thursdays 1:30-2:30 PM
+TA: Leo Henry (Thursday Tutorial)
+Office Hours: TBD
+TA: Mircea Gherghina (Friday Tutorial)
+Office Hours: TBD
+To book appointments on Zoom: Use Quercus Scheduling Tool
+To go to office hours: Click “Office Hours” in navigation menu on Quercus.
+Goals of this course
+Statistics are arguably the most prevalent and persuasive way to summarize large amounts of data. They are used in business, newspaper reporting, social work, medical research, and nearly every other field.
+The ability to perform statistical analyses is extremely valuable. However, despite the almost innumerable statistical procedures available to the modern statistician, there are seven questions that collectively form the basis for nearly all quantitative reasoning. These are:
+1) How do you handle different types of quantitative data?
+2) What are the most useful ways to describe data in your sample?
+3) How can you transform data so that you can compare between samples?
+4) What sorts of trends do you expect to see in your data, and how is your sample the same/different?
+5) How do you formulate specific hypotheses in statistical analysis?
+6) How do you evaluate whether the sample describes a larger population?
+7) How do you determine the accuracy of your results?
+Ultimately, the purpose of this course is to introduce you to the process of statistical analysis, and how these questions work together to form the bedrock of the quantitative social scientific process.
+Required Materials:
+Required Texts
+Healey, Prus & Lieflander. (2019). Statistics: A Tool for Social Research, 5th Canadian Edition.
+You may find this at the University of Toronto Bookstore. With the purchase of the book, you will receive a password for MindTap, the online system this class uses for homework assignments. Excerpts from other required readings are accessible via a link to course reserves on Quercus.
+Statistics Packages
+You will need access to a statistical package to complete laboratory assignments. SPSS is the officially supported package in this course. You can purchase an SPSS license through the UofT’s Licensed Software office. UofT has negotiated a special student price of $70.00 for a 12-month SPSS license, if you purchase through the link above.
+An SPSS license on your own computer is the easiest and most reliable way to complete assignments. You have several alternatives, however, if you choose not to purchase an SPSS licence. First, you can access SPSS through the University of Toronto Libraries Remote Lab. It is possible that accessing SPSS this way will be challenging since it can support only 17 users at a time. Second, SPSS will be available through remote desktop on the Sociology Department lab computers.
+If you choose not to purchase an SPSS license and instead rely on one of the remote access alternatives, be sure to start your assignments early. Remote resources may be busy and technical issues can arise. Ultimately, you are responsible for completing your assignment on time.
+Other Required and Recommended Materials
+You will need a basic calculator for this class that includes the following mathematical functions: square root, addition, subtraction, multiplication, and division. The TI-30x series is good for these purposes. While not strictly required, I strongly urge you to bring paper and pencils for note-taking during class time, and to use them when watching online lectures. Having a laptop computer will be helpful for the tutorial sessions and class activities but is not required.
+You will need to have regular access to the internet for this class, since the lectures will take place online and there may be COVID-related disruptions that necessitate moving online for a few weeks at a time. Most of the actual class period takes place in an interactive format, so you will need to come ready to participate. If we have to do use Zoom to hold class, then a computer camera and microphone are also required.
+Before the Semester Begins:
+Things you need to know to succeed in this class
+Don’t be discouraged if you find the textbook difficult at first—it takes some practice to learn how to read statistics. Try blocking off an hour to read for each assigned chapter and read carefully even if you think you already understand the material. Statistics has its own algebraic language, and the more ways you try to internalize that language, the better off you’ll be down the road.
+Statistical reasoning requires constant practice, and the assignments are designed to keep you consistently working at a moderate level throughout the semester. There should be a few weeks where you do lots of work at one time, but in general you probably need to spend a few hours each week completing reading, watching lectures, and doing homework assignments.
+Additionally, statistics is not math. Statistics is logic taught in the language of algebra. The math you see at the beginning of the semester is the same math you’ll see at the end. But the logic will change and become more complex because statistics is cumulative. What you learn in Week 2 will be necessary for Week 5, and what you learn in Week 5 will be necessary for Week 9. Furthermore, the deeper your understanding of the material in Week 2, the easier Week 5 will be for you. Time spent at the beginning of the semester studying your notes, running over concepts in your head, and reading the textbook can save you a lot of time down the road.
+This class uses an active learning model. In-class lectures are short and complementary to working through actual statistics problems. Active learning models are superior for learning when compared to regular lecture classes, with students learning dramatically more than lecture-based courses. But it also can be a strange experience for students who are used to lectures. While active learning models are rewarding and effective, it may be less familiar at first.
+If you believe that you will be unable to complete any aspect of this course for any reason, I strongly encourage you to inform me sooner rather than later.
+Academic Integrity
+Students are expected to know and adhere to the University’s principle of academic integrity. Any act of unethical behavior will be addressed in accordance with University guidelines. In general, you are expected to do your own work and not provide unauthorized help to other students. These include, but are not limited to:
+• Sharing answers to assignments, including on social media, email, or in person
+• Obtaining or providing unauthorized assistance on any assignment including having someone re/write or add material to your work
+• Lending your work to another student who submits it as his/her own
+• Letting someone else look at your answers on a test
+• Falsifying or altering any documentation required by the University, including doctor’s notes
+• Submitting an altered assignment/test for re-grading
+In general, please read the statement of academic integrity carefully and thoroughly to make certain you understand and adhere to it. Clarifying questions—as they pertain to this class—are welcome. Resources regarding plagiarism can also be found here: https://onesearch.library.utoronto.ca/faq/how-do-i-avoid-plagiarism.
+Before Each Class:
+Preparing for Class
+Prior to most class periods, you will fill out a “Reading Notes” worksheet that I have prepared for you. The purpose of the worksheet is to draw attention to the most relevant and important aspects of the reading, to give you the opportunity to clarify what you do not understand, and to build connections between what you have already learned and the current course material. Do not skip the textbook or the reading notes. You will probably regret it.
+All lectures in this course are recorded and located on Quercus. You will watch the lectures before coming to class. When you are watching the lectures (and when you come to class), I encourage you to take notes with a pencil and paper. There is evidence that taking notes with a pencil and paper is better for learning.
+Finally, you will usually complete a homework assignment on MindTap in between class sessions, and in most weeks a lab assignment as well.
+Contact Information
+Email
+You can reach me by email at jonathan.horowitz@utoronto.ca. For simple questions, that is the fastest and quickest way to reach us. For more difficult questions, please come see us during office hours. I have a policy of trying to answer every email within 48 hours. I am sometimes faster than that, but sometimes need all 48 hours to respond. Thus, if you need to get in touch within 48 hours, we suggest asking us before or after class, or during office hours.
+Office Hours
+Office hours via Zoom are listed on the first page of this document. You are not burdening us by utilizing office hours—we have carved out that time specifically so you can come find us. Note that due to the pandemic, we are holding virtual office hours. Please sign up for an appointment on Quercus using the instructions here. You can access our office hours by clicking the “Office Hours” link in the left-hand navigation menu on our Quercus page.
+The primary purpose of office hours is to help you better understand the course content. To make the best use of your time, you should be prepared with specific questions. Be as specific as you can about how we can help you.
+Late or Missed Assignments
+There are no extensions for MindTap assignments or In-Class Worksheets; the former are a small amount of your grade and you will have several days to complete them, and the latter are graded pass/fail. For other assignments, if you are unable to turn in an assignment at the designated time for medical reasons, you must email me (not the TA) and declare your absence on ACORN. Also, please seek medical attention because your health is important.
+For other reasons, such as family or other personal reasons, please contact your college registrar and have them email me. This is for your benefit, as your registrar will have resources that they can mobilize on your behalf.
+Without permission from the instructor, a late assignment becomes a missed assignment. To avoid this, stay in touch with us. Do not wait until the last minute to tell us about any difficulties you are having, and please address personal issues with your registrar as they come up. The inability to turn an assignment in on time is almost always a symptom of a larger problem.
+During Each Class:
+Rules of the Game
+1. We start and end class on time. No packing up early.
+2. Turn off cell phones, music players, and other hand-held devices.
+3. You may use computers for course materials only. You are on the honor system for this.
+4. Check your utoronto email account daily.
+5. If we are online, mute your microphone and use the chat feature to ask question.
+6. Turn on your camera and your microphone for small group work in class.
+7. Give all other students respect for their efforts.
+Attendance
+Achieving success in this class requires consistent daily attendance. Please don’t schedule any appointments, trips, meetings, or other activities that would require you to miss class. If you know that you will miss a class, please let us know ahead of time. If an emergency comes up, please send us an email as soon as you can to let us know the reason for your absence.
+In my experience, students who don’t show up to class and who don’t contact us are often dealing with extenuating circumstances that may require outside assistance. Thus, if you tend to miss class, tutorials, and/or assignments without explanation, I may contact the registrar at your home college to provide a wellness check.
+Format
+We will mostly be working through statistics problems in class in small groups. The readings help direct your attention to the most important themes in each day's reading, and thus you should bring them to class. Please fill out the reading notes to the best of your ability, as these will be invaluable resources for you later in the semester.
+COVID-19 and Masking
+We are probably in the middle of the worst pandemic in one hundred years, and university policy on masks may fluctuate as the pandemic waxes and wanes. If the University of Toronto permits a masks-only policy, that will be the policy for this course. But if I cannot enforce this policy, I still urge you to wear multi-layer masks covering your mouth and nose at all times during the course. Two-way masking is an incredibly effective method for stopping the spread of coronavirus—if both you and the person you are with are wearing a basic surgical mask, it can reduce the spread of COVID by up to 90%. Additionally, if you have not had at least three doses of a COVID vaccine, please fix this. Unless university policy changes I cannot enforce either of these directives, but your health—and the health of everyone around you—is important. And moreover, it is important that individuals who have underlying health risks in this class (or such individuals who live with students in this class) are safe. Wearing a mask in enclosed spaces like classrooms is a sign of respect for others and an indication that you want everyone to participate regardless of underlying health conditions, and a critical component of inclusion in the present public health context. You can find information on masks at U of T at this page.
+Course Expectations and Evaluation
+All assignments must be submitted on Quercus or on MindTap. All assignments submitted on Quercus must be in a .docx, .doc, .pdf, .odf, or .rtf file. Do not upload a file in a .pages format. It is your responsibility to ensure that the file itself is readable, which can be confirmed by downloading the file once it is uploaded to the assignment submission page on Quercus. If we cannot read it, it will be marked missing.
+1. Expectations Agreement (Mandatory)
+On the first day of class, you will return the expectations agreement, indicating that you have read this syllabus thoroughly and agree to abide by the expectations within it. This is marked complete / incomplete but is mandatory, and you will be docked up to 1% of your final mark if you do not submit it.
+2. In-Class Worksheets (Mandatory)
+In most class periods, you will complete a worksheet in class to help you practice. This is marked complete / incomplete but is mandatory, and you will be docked up to 1% of your final mark for each one you do not submit. If you miss class, you must complete and submit it on your own.
+3. Group Class Participation Grade (15%)
+Every person in the course will receive the same score for this—you live and die together, so build a positive and collaborative atmosphere. Note that we will adjust the group participation downward in a linear adjustment if the overall marks distribution violates the U of T’s Faculty of Arts and Sciences guidelines.
+4. MindTap Assignments (9%)
+You will complete 6 MindTap assignments over the course of the semester; each one is worth 1.5% of your grade. For each of these assignments you will have three chances to complete a topic and each subsequent test can only improve your mark and not lower it; higher scores will be averaged into your current score.
+5. Confidence Interval Assignment (2%)
+You will complete one assignment on Quercus about Confidence Intervals. It is worth 2% of your grade.
+6. Lab Assignments (40%)
+You will complete 4 lab assignments over the course of the semester; each one is worth 9% of your grade. Each one will involve you analyzing General Social Survey data with the statistical program of your choice. The tutorials will provide instruction on using SPSS to complete the assignment.
+7. Take Home Test (10%)
+This timed assignment may be completed at your convenience and tests your ability to conduct hypothesis tests. Notes are allowed, but you are not allowed to obtain help from other students.
+8. Research Poster (24%)
+Using one of our course datasets, you will conduct a simple study using a set of variables and multiple regression. You will identify different types of quantitative data, describe them, formulate hypotheses, conduct hypothesis tests, and evaluate the accuracy of your results.
+Terms and Conditions that Apply
+Accessibility
+The University of Toronto is committed to accessibility. If you require accommodations for a disability, or have any accessibility concerns about the course, the classroom or course materials, please contact Accessibility Services as soon as possible: disability.services@utoronto.ca. Although we do not have in-class examinations if you need to contact them for this or another class you can find out more information about Accommodated Testing Services here: https://lsm.utoronto.ca/ats/.
+Grade Appeals
+We do our very best to grade work fairly, consistently, and accurately. Nevertheless, one of us may unintentionally err in our grading duties. If you believe that your assignment or test has been mismarked, please adhere to the following rules:
+• For simple mathematical errors, simply alert your TA of the mistake.
+• All requests for re-grading tests or course assignments should be made to the person who graded your work. Please wait for 24 hours after the assignment has been returned to the class and submit your request within two weeks of that date. Requests submitted later will not be considered.
+• A short memo that clearly states specific reasons to justify the request and backs up these reasons with evidence from your assignment must be submitted to the person who graded your work.
+If your appeal is deemed appropriate, the entirety of your test/assignment will be re-graded. Not all appeals will be granted; appeals that appear to simply be fishing for extra points will be denied a re-grade. Please note that upon re-grade your mark may go down, stay the same, or go up—and it is likely the instructor and not the TA will conduct the re-grade.
+Ouriginal
+Sometimes, students will be required to submit their assignments to the University’s plagiarism detection tool for a review of textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool are described on the Centre for Teaching Support & Innovation web site (https://uoft.me/pdt-faq).
+For some of your assignments, we will be using the software Ouriginal. It uses text matching technology as a method to uphold the University’s high academic integrity standards to detect any potential plagiarism. Ouriginal is integrated into Quercus. For the assignments set up to use Ouriginal, the software will review your paper when you upload it to Quercus. To learn more about Ouriginal’s privacy policy please review its Privacy Policy.
+Students not wishing their assignment to be submitted through Ouriginal will not be assessed unless a student instead provides, along with their work, sufficient secondary material (e.g., reading notes, outlines of the paper, rough drafts of the final draft, etc.) to establish that the paper they submit is truly their own.
+TENTATIVE COURSE SCHEDULE
+Readings and assignments are listed on the day they are due. Bolded assignments are graded or mandatory.
+Content
+Before Class
+Assignments
+1.11
+Class Expectations
+Levels of Measurement
+• Healey et al: Chapter 1
+• Lecture: The 7 Steps of Quantitative Research
+• Lecture: Levels of Measurement
+• Reading Notes & Pre-Class Preparation
+Expectations Agreement 1.11 by 9 AM
+In-Class Worksheet 1 due 1.11 by 11:59 PM
+[Optional] Chapter 1 Homework (practice working in Mindtap)
+Part I: Descriptive Statistics
+1.18
+Central Tendency
+Dispersion (or Spread)
+• Healey et al: Chapter 3
+• Lecture: Central Tendency
+• Lecture: Dispersion / Spread
+• Reading Notes & Pre-Class Activities
+In-Class Worksheet 2 due 1.18 by 11:59 PM
+MindTap Chapter 3 due SAT 1.21 11:59 PM
+Complete Lab A, Part I (Attend Tutorial)
+1.25
+Frequency
+Distributions
+Standardization
+• Healey et al: Chapter 2
+• Lecture: Frequency Displays, Tables, and Distributions
+• Lecture: Standardization & Normalization
+• Reading Notes & Pre-Class Preparation
+In-Class Worksheet 3 due 1.25 by 11:59 PM
+MindTap Chapter 2 due SAT 1.28 11:59 PM
+Complete Lab A, Part II (Attend Tutorial).
+Lab A Due MON 1.30 11:59 PM
+Part II: Sampling, Distributions, and Tests of Difference
+2.1
+Sampling Distributions
+• Healey et al: Chapter 5
+• Reading Notes & Pre-Class Preparation
+• (Note: No video lecture this week!)
+MindTap Chapter 5 due SAT 2.4 11:59 PM
+Complete Lab B, Part I (Attend Tutorial)
+2.8
+The Normal Curve
+Degrees of Freedom
+• Healey et al: Chapter 4
+• Lecture: The Normal Curve & T-Distribution
+• Lecture: Degrees of Freedom
+• Reading Notes & Pre-Class Activities
+In-Class Worksheet 5 due 2.8 by 11:59 PM
+MindTap Chapter 4 due SAT 2.11 11:59 PM
+Catch up or get ahead (Attend Tutorial)
+2.15
+Confidence Intervals
+• Healey et al: Chapter 6
+• Lecture: Confidence Intervals
+• Reading Notes & Pre-Class Preparation
+In-Class Worksheet 6 due 2.15 by 11:59 PM
+Quercus Homework: Confidence Intervals, due SAT 2.18 11:59 PM
+Complete Lab B, Part II (Attend Tutorial)
+Lab B Due MON 2.20 11:59 PM
+2.22
+Reading Week
+Part III: Bivariate Association
+3.1
+Hypothesis Testing
+Alpha and Beta
+T-Tests
+• Healey et al: Chapter 7, sections 7.1 to 7.4 only
+• Healey et al: Chapter 11
+• Lecture: Hypothesis Testing; Alpha and Beta
+• Lecture: The T-Test
+• Reading Notes & Pre-Class Preparation
+In-Class Worksheet 7 due 3.1 by 11:59 PM
+MindTap Chapter 11 due SAT 3.4 11:59 PM
+Complete Lab C (Attend Tutorial)
+Lab C Due MON 3.6 11:59 PM
+3.8
+Statistical & Substantive Significance
+Correlation
+• Healey et al: Chapter 7, section 7.10 only
+• Healey et al: Chapter 13, sections 13.1, 13.2, 13.5, and 13.6 only
+• Lecture: Correlation and Covariance
+• Reading Notes & Pre-Class Preparation
+In-Class Worksheet 8 due 3.8 by 11:59 PM
+Take Home Test covering Weeks 1-7 Due WED 3.8 at 11:59 PM
+Complete Proposal for Research Poster; go over exploring with data in lab (Lab Session Thursday, March 10)
+3.15
+Linear Regression
+Dummy Variables
+Sum of Squares
+Inference
+• Healey et al: Chapter 13, sections 13.3, 13.4, and 13.6 (again)
+• Lecture: Introduction to Linear Regression
+• Lecture: Sum of Squares and Inference
+• Lecture: Dummy Variables & Predicted Scores
+• Reading Notes & Pre-Class Preparation
+In-Class Worksheet 9 due 3.15 by 11:59 PM
+Chapter 13 MindTap, due SAT 3.18 11:59 PM
+Complete Lab D (Attend Tutorial)
+Lab D Due MON 3.20 11:59 PM
+Part IV: Multiple Regression
+3.22
+Multiple Regression
+Elaboration (Mediation, Spuriousness, Suppression)
+• Healey et al: Chapter 14, sections 14.1, 14.3, and 14.4 only.
+• Lecture: Omnibus and Specific Tests
+• Lecture: Elaboration
+• Reading Notes: Multiple Regression, Omnibus Tests, and Elaboration
+In-Class Worksheet 10 due 3.22 by 11:59 PM
+Research Poster: Research Question, and Hypotheses (prepare for class 3.22)
+Work through Multiple Regression in lab (Attend Tutorial)
+3.29
+Writing up Results
+Interactions
+• Lecture: Interactions
+• Reading Notes: Interactions
+In-Class Worksheet 11 due 3.29 by 11:59 PM
+Research Poster: Descriptive Results, Initial Regression Models (prepare for class 3.29)
+Recap of Multiple Regression in lab (Attend Tutorial)
+Extra Credit Interactions Assignment Due 4.4 at 11.59 PM
+4.5
+Putting Everything Together
+• Lecture: Everything you need to know about statistics, revisited
+Research Poster Due 4.9 at 11:59 PM
+No reading, class, or lab this week.
