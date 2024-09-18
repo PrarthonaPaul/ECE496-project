@@ -1,0 +1,1353 @@
+Engineering Design I/II
+Capstone Design Project Guidance
+Academic Year 2015
+United States Naval Academy
+Engineering Design I/II
+Capstone Design Project Guidance
+Table of Contents
+Overview ............................................................................................................................. 1
+Course Shared Drive ........................................................................................................... 2
+Design Communication: Formatting, Conduct, Submission, and Archiving ..................... 3
+Team Roles ......................................................................................................................... 4
+Purchase Orders .................................................................................................................. 5
+Shop Work Requests ........................................................................................................... 6
+Operational Risk Management Assessment........................................................................ 7
+Design Communication Guidance and Rubrics .................................................................. 8
+Project Proposal Rubric .................................................................................................... 14
+Project Proposal Presentation Rubric................................................................................ 15
+Preliminary Design Report ............................................................................................... 16
+Preliminary Design Report Rubric.................................................................................... 18
+Preliminary Design Presentation Rubric ........................................................................... 19
+Detail Design Report......................................................................................................... 20
+Detail Design Report Rubric ............................................................................................. 23
+Detail Design Presentation Rubric .................................................................................... 24
+TSD Representative Evaluation of Team Performance .................................................... 25
+Prototype Demonstration Rubric ...................................................................................... 28
+Progress Update Report .................................................................................................... 29
+Progress Update Report Rubric ........................................................................................ 31
+Progress Update Presentation Rubric................................................................................ 32
+Final Design Report .......................................................................................................... 33
+Final Design Report Rubric .............................................................................................. 35
+Final Presentation Rubric .................................................................................................. 36
+Capstone Design Project Poster ........................................................................................ 38
+Capstone Project Video..................................................................................................... 39
+Engineering Design I/II
+Capstone Design Project Guidance
+1
+The Capstone Design Project
+This document describes the requirements for the capstone design project. The specific deliverables for the fall and spring semesters are summarized and guidance about the form and content of these deliverables is provided.
+Overview
+All Engineering students must participate in a capstone design project as part of the engineering curriculum. The capstone design project is an opportunity for you and your teammates to solve a practical engineering design problem using the engineering skills and knowledge that you have developed over the past three years. Your team will be challenged to define the problem, develop a number of candidate designs, select from among them, fabricate and test the selected design, revise it, and ultimately present your prototype – demonstrating that the design objectives have been achieved.
+This is no small task! In order for you and your team to have sufficient time to complete the project, you’ll begin the project in the fall and complete it in the spring. During the first semester we’ll work through the initial stages of design, through design selection, and by the time winter break is upon us, you should have a detailed design that is ready for initial fabrication. When you come back in the spring, you’ll focus on testing and evaluation, revising your design, and presenting a solution you are proud of.
+You will document the design process in a report that you’ll revise and add to throughout the academic year. You’ll also present your work regularly to a panel of outside customers, faculty and staff members, and your peers in order to check your progress and offer additional guidance along the way. The due dates for these reports and presentations are detailed in the Course Policy, which includes the syllabus. This schedule represents the maximum time allotted for the design process. In other words, your team may progress more quickly, but must meet this schedule at a minimum.
+Course Administration
+You are scheduled for four class hours per week. One class hour, Monday during sixth period, will be a lecture for about half of the 16 weeks in the fall and about half of the 16 weeks in the spring. All students taking engineering design will meet in Rickover Hall, room 102 (the large lecture hall). Each lecture will start with a review of the reading guide that covers the assigned reading. The reading guides are available in the course shared folder and the lecture topics are listed on the syllabus. One of the remaining hours each week you’ll have a group meeting with your team mentor, technical expert, and your TSD representative. The remaining two hours of class time each week are yours to work on your project tasks, though you will certainly need to work more than these four hours per week to be successful.
+The team mentor, who you’d think of as your traditional instructor, typically has three design teams assigned to him or her. They will help you to manage your project and are responsible for assigning your grade. In addition to the team mentor, each team is assigned a technical expert; someone who is very knowledgeable on a subject related to your capstone project. Technical experts are only assigned one team. Each team is also assigned a TSD
+Engineering Design I/II
+Capstone Design Project Guidance
+2
+representative; a technician from one of the support shops who is also familiar with the subject related to your project and can help you with design and manufacture. TSD representatives may be assigned to more than one team.
+Course Shared Drive
+The course shared drive is the primary repository for all information associated with this course. You can access this folder from anywhere on the yard by mapping the drive to the computer you wish to use. Please keep all files associated with this course in this drive so that all team members, including your team mentor, technical expert, and technician have access to them. Also, using the shared folder allows you to work collaboratively on documents without having to e-mail them back and forth amongst the group members as you revise them, further reducing confusion about which version is the most current.
+Use the following procedure to map the course drive:
+1.
+From the Start menu, select Computer. You can also right-click on the Computer icon on your desktop
+2.
+From the ribbon across the top of the window, select Map network drive
+3.
+In the Drive box, leave the default drive letter (e.g. X:)
+4.
+In the Folder box, copy the following address: \\nautilus\projects$
+5.
+Make sure the Reconnect at login box is checked (default is checked)
+6.
+In the Username box, type your e-mail userID (e.g. m123456)
+7.
+In the Password box, type your e-mail password
+8.
+This should bring up the shared drive. For help contact CSB at x6470 or tsd-csb@lists.usna.edu
+9.
+The course shared folder located in the main projects$ folder and is called Design 1&2. The folder is further divided into academic years.
+One member from each team needs to copy the Design Team Folder and re-name it with your team name. To make it easier on your team mentor, please maintain the file format just as you copied it so that when he or she goes looking for a purchase order, for example, it doesn’t require several e-mails and a search party to find it.
+In the Design Team Folder you’ll find the following subfolders:
+1_Reports and Presentations. In this folder, keep the final version of all reports and presentations. Also scan all rubrics and save the .pdf files in this folder. For presentation rubrics, please save all of the pages, one for each reviewer, as a single file.
+A word of advice with regard to version control: so often we’ve seen student reports titled something like, “Project Proposal FINAL FINAL DO NOT DELETE” followed by “Project Proposal FINAL FINAL FINAL DO NOT DELETE – SERIOUSLY.” Might we suggest using a simple convention: v1, v2, etc. where the largest number is the latest version.
+2_Purchase Orders and Budget. In this folder, keep all purchase order paperwork with files named so as to be able to discern their contents without having to open them. Also, save an up-to-date copy of your team’s budget.
+Engineering Design I/II
+Capstone Design Project Guidance
+3
+3_Work Orders and Shop Hour Tracker. In this folder, keep all work orders including the associated part files, assembly files, and drawing files. You’ll also keep a copy of your shop hour tracker, which will be covered in a later section.
+4_Weekly Meeting Minutes. One member of the team will be charged with keeping a summary of the minutes for each weekly meeting. Please type them up neatly and save them in this folder. Please name the file or files something logical so they are easy to find, 2014-09-20 meeting minutes for example.
+5_ Communications and Correspondence. Following each conversation with customers, technical advisors, etc., either in-person or over the telephone, type a brief summary of the communication and save it in this folder for future reference. Be sure to include who was involved in the discussion. Please use the same file naming convention suggested for meeting minutes. You should also save copies of important e-mails in this folder.
+6_Images and Video. A picture is worth 1,000 words as the old saying goes. Today it is easier than ever to capture the design process with images and video, both of which will add to the effectiveness of your reports and presentations. We, the faculty, also use these pictures and video for everything from Capstone Day programs to plebe recruiting. You’ll be famous!
+Also in the Team Design Folder is a folder called Student Folder. Make a copy for each member of the team and rename it with each student’s last name. You’ll use this folder to submit your weekly assignments and store your personal materials. Prior to each weekly meeting, your team mentor will go into your personal folder, review your work, and provide you with feedback. Please make sure your assignments are clearly labeled so as to be easy to find.
+There will be assignments each week, both individual and group assignments. It’s worth pointing out that these are simply the requirements for the upcoming report or presentation, cut into bite-sized chunks and spread out over a couple of weeks. The checklists can be found in course shared folder. Additionally, in your personal folder you’ll keep your personal activity log, an example of which is saved in the Lecture Materials and Examples folder also in the course shared folder.
+Design Communication: Formatting, Conduct, Submission, and Archiving
+During the fall semester you’ll give three presentations to the review board, which will be composed of the faculty members who teach the course, technical experts, TSD representatives, and often outside customers. These presentations are your Project Proposal, Preliminary Design, and Detail Design Presentations. In the spring you’ll give three additional presentations including the Prototype Demonstration, Progress Update, and the Final Presentation, which is given on Capstone Day. Specific guidance is given below. A corresponding report is due two weeks after each of these presentations. See the syllabus for specific dates. It may sound like a lot, but you’ll see that each successive presentation and report builds upon the last.
+Engineering Design I/II
+Capstone Design Project Guidance
+4
+Unless otherwise specified, all formal written communications will be submitted according to the Design Report Template available in the course shared folder. The goal of all design communication is that it should be professional in appearance and make it easy for the reader to access the content.
+All presentations will be scheduled during class time. All team members must be present for their respective presentation unless otherwise coordinated with your team mentor. Additionally, each student must attend at least one other group’s presentation, preferably one scheduled prior to your own!
+A computer with PowerPoint, access to the Internet, and a projection system will be available in the presentation room. Students are advised to load their presentation ahead of time – before presentations begin for the day - to preclude the delay of downloading and opening the presentation in front of the audience. Also, occasionally the e-mail server or the shared drive is unavailable. Students should have a back-up plan in the event of a technical malfunction.
+Unless otherwise specified by your team mentor, you will submit each report by placing the final revision in the specified folder on the course shared drive. Feedback will be provided via Track Changes and comments. In some cases, you may be asked to print the report for easier reading. Be sure to check with your team mentor as to his or her preference. Presentations will be archived similarly. Also scan your rubrics and include the associated .pdf file(s) for each report and presentation.
+Team Roles
+Each team will identify someone in their group to assume the following roles:
+•
+Leader – tasked with organizing the efforts of the group and managing the project schedule. The team leader is also the primary liaison between the team and the project customer unless otherwise delegated.
+•
+Design Communication Editor – tasked with reviewing reports and presentations for consistency, ensuring all items included in the rubric are included in the presentation or report, and proof-reading for spelling mistakes, proper grammar, etc.
+•
+Purchaser – tasked with obtaining purchase information and submitting purchase orders in accordance with instructions included below. Once submitted, the purchaser is also responsible for tracking the item(s), picking them up as they arrive, and maintaining the team budget.
+•
+Technical Support Detachment (TSD) Liaison – tasked with reviewing shop work requests for completeness, reviewing them with the TSD representative and team mentor, getting them signed by the team mentor, submitting them to the shop managers, and tracking them through the manufacturing process. The TSD liaison is also responsible for keeping track of shop work hours.
+•
+Safety Officer – charged with ensuring adherence to the division safety instruction (E&W Inst 5101.1 Risk Mgmt Procedures for Design Res Projs 20121215), which is contained in the 1_Course Administration folder.
+Engineering Design I/II
+Capstone Design Project Guidance
+5
+For teams with less than five people, some team members will have to have more than one role. The team mentor may assign additional roles as necessary.
+Purchase Orders
+Each team will be provided with project funding. The exact amount of funds and the date they will be available will be determined during the semester, after the new fiscal year which starts on October 1. Identify one member of the team to be the purchaser. The following is a guideline for how purchase orders will be processed:
+1.
+Go online and find what you need. If possible, try not to order one part at a time. The credit card purchase process is time consuming and it’s preferable to keep the total number of orders to a minimum. Order multiple items in a single transaction whenever possible.
+2.
+Once you’ve found what you need, call the vendor on the phone and get a quote. This is very easy. All you have to say is, “Hello, I’d like a quote.” Most vendors are well acquainted with the ordering process, even if you aren’t. This saves a lot of time in ordering because all the purchase card holder has to do is give the vendor the quote number instead of reading off the parts list. This way you’re more likely to get the parts you ordered too! Be sure to request an estimated shipping charge to zip code 21402. DO NOT commit to purchase when requesting quotes.
+3.
+If you can’t get a quote, be sure to save a screen capture for each of the products and of the check-out basket to make things easier on the purchase card holder.
+4.
+Fill in the purchase card order form (.pdf file, located in the course shared folder) and ensure information is accurate. Save the purchase card order form and all other required items in your teams 2_Purchase Orders and Budget folder.
+a.
+If there is a chance representatives from the comptroller’s office might view a purchase as inappropriate (e.g. remote-controlled boats, bicycles, etc. - anything fun really), you may have to write a one-page justification memo explaining why you need this particular item and how you will use it. An example is provided in the course shared folder.
+b.
+Maximum allowed spending is $2,999 per purchase order, including shipping charges. Orders cannot be split (e.g. $5,000 worth of items, purchase from the same company, split between two orders, each totaling $2,500) to accommodate the spending limit.
+c.
+PAYPAL and other third party payments should be avoided. These are only to be used as a last resort.
+d.
+Any order that includes an item that can provide input to or receive output from a computer must be accompanied with an ITPR smartform, also included in the course shared folder. You’ll need help for this one. Ask.
+e.
+HAZMAT purchases require the HAZTRAIN form be filled out and routed to the cardholder with the purchase order. A separate form is required for each line item on the purchase order (each HAZMAT item).
+Engineering Design I/II
+Capstone Design Project Guidance
+6
+f.
+For HAZMAT purchases, please also supply the material safety data sheet (MSDS).
+5.
+Notify your team mentor that you have a purchase order ready to go.
+6.
+Your team mentor will go into your team’s folder and email the purchase order packet to the TSD purchasing manager who will assign your purchase to one of his or her purchase card holders. Team mentors should carbon-copy the students so they have visibility as to who is making the purchase for them.
+7.
+Ideally, once the order is received the cardholder will notify the team purchaser that their items are ready for pick-up. However, it is your responsibility to follow up on purchase orders. Our purchase card holders process many, many orders. You have a vested interest in tracking the purchase. Be proactive!
+Note: We cannot, under any circumstances, reimburse you for purchases. In order to expedite purchases students occasionally buy parts with their own money (though this is not required and is usually the result of poor planning!) but to be clear: in the event you pay out of your own pocket for something, we cannot pay you back out of project funds.
+A blank purchase order package as well as an example have been placed in the course shared folder for your reference.
+Shop Work Requests
+Similarly, teams may request that parts be fabricated by TSD. Prior to submitting any part for manufacture, students are required to consult one of the TSD shop supervisors: Mike Superczynski, Dave Majerowicz, or Brandon Stanley. Once you have talked through your ideas with you TSD representative and one of the gentlemen mentioned above, please submit a shop work request through your team memntor. At a minimum, requests must include:
+•
+Project Work Request Form
+•
+At least one professional engineering drawing (submitted on a separate sheet of paper, as opposed to included in block 9 of the Project Work Request Form). The drawing must have the following features:
+o
+Landscape format
+o
+Three orthographic views (A3 - top, front, right)
+o
+One isometric view (upper right-hand corner)
+o
+Properly scaled, dimensioned, and toleranced
+o
+Title block filled out completely including desired material and correct units
+o
+Other views such as detailed, section, or auxiliary views as required
+o
+Signature from the team mentor or technical expert
+All of the above forms and instructions on how to fill them out are provided in the course shared folder. Work requests submitted with missing or incomplete drawings will be returned. A copy of each work request will be maintained in the team 3_Work Orders and Shop Hour Tracker folder.
+Sometime around the eighth week of the fall semester, each team will meet with the machine shop leadership to discuss their selected design. During that meeting, TSD will provide you
+Engineering Design I/II
+Capstone Design Project Guidance
+7
+with an estimation of how many hours they think will be required to fabricate your design – a figure that will be refined after subsequent meetings. The team TSD liaison will track the number of hours used compared with the number of hours assigned to ensure fair access to shop resources for all teams.
+Our shop technicians are experienced professionals. Each of them has seen hundreds of Capstone projects. They represent an excellent resource and are eager to help you with your project. Be sure to involve them in every stage of the design process.
+Operational Risk Management Assessment
+An Operational Risk Management (ORM) assessment will be conducted any time any evolution could potentially result in the loss of life, limb, or property (outside the conduct of the experiment, i.e. the purpose of the experiment is to break something). Written in memorandum format, the assessment shall include:
+•
+From the team leader or designated team member
+•
+To the project mentor
+•
+For each potentially hazardous evolution
+o
+Brief description of the evolution
+▪
+Include equipment/benchmark spec sheets as enclosures, as appropriate (e.g. the evolution involves benchmark testing on a pneumatic pumpkin launcher, include spec sheets for compressor and pressure vessel)
+o
+Characterization and description of hazard using the risk matrix provided below (Table 1).
+o
+A specific description of what safeguards will be put in place to mitigate the risk (e.g. PPE, fire extinguisher at the ready, supervised by TSD technician, etc.)
+•
+Signature of project mentor signifying that the evolution has been discussed with team supervisors.
+Table 1: ORM Risk Matrix
+Consequence of failure
+Probability
+Negligible
+Marginal
+Critical
+Catastrophic
+Certain High extreme extreme extreme
+Likely Moderate high extreme extreme
+Possible Low moderate high extreme
+Unlikely Low Low moderate High
+Rare Low Low low moderate
+In Table 1, Probability is defined as follows:
+•
+Certain – the hazardous event will occur during the evolution.
+•
+Likely – the hazardous event may not occur immediately, but precedence suggests it is almost certain to occur at some point during the evolution.
+•
+Possible – the hazardous event may not occur during the evolution, but precedence suggests that such events are frequent.
+Engineering Design I/II
+Capstone Design Project Guidance
+8
+•
+Unlikely – the hazardous event likely will not occur during the evolution, but precedence suggests that such events occur, however infrequently.
+•
+Rare – the hazardous event will not occur during the evolution. Precedence suggests that such events are extremely rare, if they occur at all.
+Likewise, Consequences of Failure are defined as follows:
+•
+Catastrophic – death
+•
+Critical – several major injuries, total loss of property
+•
+Marginal – single major injury/several minor injuries, major damage to property
+•
+Negligible – single minor injury, minor damage to property
+Design Communication Guidance and Rubrics
+Specific guidance for each report, presentation, and deliverable is provided in the following pages. Guidance includes the purpose of the document, a detailed description of what content is expected in each section and how it may differ from previous communications, and the rubric that will be used to grade it. The point totals for each category are used as a guide for you and your team mentor. However, team mentors may adjust the points as necessary to motivate teams, especially in cases when revisions from previous reports are unsatisfactory. That said, there are enough opportunities to present and revise that teams should be able to earn the grade they want so long as they are willing to work for it.
+To reiterate, the presentation corresponding to each report is scheduled two weeks prior to the date the written report is due in order to give you the opportunity to add to, subtract from, or otherwise change the material in your report prior to submitting it formally. The content guidance provided below is written from the context of the written report. It is up to you to decide how best to use the time you are allotted to communicate your progress during your presentation. Be sure to use the presentation and report rubrics as guides in addition to consultation with your project mentor and technical expert. Generally speaking, you should have at least one slide for each row in the presentation rubric, addressing that particular topic, most likely in the order shown on the rubric.
+Engineering Design I/II
+Capstone Design Project Guidance
+9
+Project Proposal
+Purpose
+The Project Proposal is the initial design communication. The client initiates the design process by soliciting design teams to submit proposals for future work, called a bid. The client then decides which bid it likes best and hires the design team to provide a design solution.
+For this course, the purpose of the Project Proposal is to define as specifically as possible the problem and what will be undertaken over the course of the project to solve it. It should communicate to the reader that a specific need exists, provide background and context on the problem, present the problem statement, outline specific design requirements, and convince him or her that a solution can be achieved in a timely and cost effective manner.
+Content
+Title Page: The title page shall include the team logo and name, project short title (from the Course Policy), the name of report (in this case the Project Proposal), the name of the course (Engineering Design I or II), the date submitted, the names of each team member, and the names of the team leadership.
+The team name and logo should be colorful, creative, and professional.
+Executive Summary: The executive summary is a brief summary of the contents of the report. At its longest, when submitted affixed to your final report in April, it will be no longer than a page. It is used to help the reader decide if the report as a whole contains information that is of interest. The executive summary for the Project Proposal should contain a statement of the problem and a summary of the five most important customer requirements.
+The executive summary should be on its own page and precede the table of contents as shown in the template.
+Table of Contents/List of Figures/List of Tables: Each report shall include a Table of Contents followed by a List of Figures and a List of Tables. These come after the executive summary and are not generally paginated except with lower-case Roman numerals.
+Problem Definition: This section should begin with the customer’s problem statement – the one you were provided at the start of the project. Next, it should include a discussion of the essential questions and answers derived from preliminary research on the customer’s wants and needs.
+These include but are not limited to:
+1.
+What is the problem? Why is the current situation unsatisfactory?
+2.
+Who is having this problem? Who are the would-be customers for a solution?
+3.
+What basic functions must the design perform?
+4.
+How will the design be used by the customer(s)? Under what circumstances and in what environment? Don’t limit your considerations only to those of the end user!
+5.
+What additional attributes does the customer want, need, and/or expect from the
+Engineering Design I/II
+Capstone Design Project Guidance
+10
+design? These might be different from the basic function.
+6.
+What products, currently available, perform a similar function?
+7.
+What products, currently available, were not designed or intended for this particular application but could be used to perform a similar function?
+This section should include all relevant material collected by the team, including figures (images!) and tables, edited and organized so as to provide the unfamiliar reader with all the information he or she needs to appreciate the work included thereafter. Provide ample evidence that you have used all sources of information mentioned in the text that are applicable to your project. For example, students are often reluctant to consult technical papers, product literature, and patent literature. This should serve as your fair warning that we will be looking for these.
+There will likely be some engineering modeling/calculation required to answer some of these questions, even at this early stage. For example, if one of the customer requirements is to create a human powered vehicle capable of winning a competition, you must determine what a winning time is and how fast the vehicle must travel to achieve it. Another example would be a project aimed at melting snow to provide drinking water. Even before the first drop is drunk, you should be able to figure out how much water the customer needs, how much snow is required to provide it, and how much energy it takes to turn one into the other. This sort of information is solution-neutral which is to say it doesn’t matter what your final design looks like, this is information that must be known in order to provide a solution – any solution.
+Also, regardless of the design, there are most likely associated codes and standards that may place particular constraints on the design. For example, if the goal of your project is to reduce emissions for a vehicle, then you need to know what the associated test standards are (the EPA Federal Test Procedure (FTP) for Light Duty Vehicles and Trucks and Motorcycles, if you’re wondering). Please ensure these are referenced and the pertinent portions included in the discussion.
+Now that you have a better understanding of the problem you’re trying to solve, with the help of the customer, revise the original problem statement. Be sure to include what you intend to do and who you intend to do it for.
+Page numbering should start with this section.
+Need Identification: In this section you will define the goals toward which the entire rest of your project will be focused. Practically speaking, you’re giving a tour of the House of Quality, as discussed in the assigned reading (Dieter and Schmidt 2013, section 3.6) and reviewed in lecture.
+First, include a table of your customer requirements, listed in order from most important to least important (Room 1). Be sure to explain any customer requirements that require it. Accompany the table with a brief summary – how you developed them, with whom you spoke to confirm them, and which are most important. Please include images wherever useful in communicating the necessary details.
+Engineering Design I/II
+Capstone Design Project Guidance
+11
+Next, include a table of your engineering characteristics (Room 2) - listed from most to least important - including units, and direction of improvement, as appropriate. Specify which of these design parameters are design variables (a parameter over which the team has a choice) and which are design constraints (a parameter whose value has been fixed). Discuss the top five ECs and describe how they relate to your customer requirements.
+Then, include a table of Customer Assessment of Competing Products (Room 6) and describe how you determined customer preference. Did you use a focus group? A survey? What did you learn about what your customer wants and needs?
+Also include a table of the Technical Assessment (Room 7). Instead of scaling the competing products with regard to your ECs as it says to in the text, include the actual value. For example, say your problem statement is to design a quarterback for the robotic football team. Suppose one of your ECs was pass accuracy, measured in inches from the target, and the direction of improvement is down (the actual pass lands fewer inches from the target). The Technical Assessment would list the pass accuracy for all the competing designs, if known: those of other universities plus last year’s design. You may not be able to fill out the table completely, but you should do your best to fill in what you can.
+Finally, include a table of Target Values (Room 8). For design variables, include a range. For design constraints, include the constraint limit itself. Continuing with the previous example, the team would define success with regard to pass accuracy as ±2 in. from the intended target point. Do your best to set achievable target goals. It is unlikely that you will be able to achieve the best value in each of the categories listed in the Technical Assessment. Focus on the ECs which will please your customers the most.
+Note: It is not enough to simply copy and paste the table from your House of Quality in your report. Every figure and table must be discussed. Tell the reader explicitly what the figure or table tells you.
+Deliverables: Talk to your customer(s). Together, develop a list of what you will provide them at the conclusion of the project. Think of it in terms of answering the question, “What are we going to give the customer in exchange for their patronage” be it their time, material support, or financial support.
+Project Management: Understanding many of the specifics will not have been determined yet, this section should provide the customer with a proposed timeline by which progress can be tracked and judged as well as a general schedule as to when they can expect your project deliverables. Following a brief introduction, include a table of project-specific milestones (in addition to those listed on the syllabus). Tasks should be assigned to specific group members as appropriate.
+This may seem like putting the cart in front of the horse, but providing a projected timeline with a project bid is common practice in industry. Work with your team leadership to develop a detailed, project-specific timeline.
+Engineering Design I/II
+Capstone Design Project Guidance
+12
+Budget: Likewise, it may seem a bit premature to propose a budget for a project for which the details have yet to be determined. However, projects are almost never proposed without preliminary budget estimates. In fact, the proposed budget is likely to be a deciding factor in determining which firm the client will select.
+This section should include an accounting of the anticipated expenditures for the project, provided in table format. For reasons mentioned above, teams shall include a discussion of which costs are estimated and which are well-defined. For example, because you have not yet selected a design, you do not know what parts you’ll need to purchase, let alone how much they cost. In this case, your accounting would be estimated and perhaps be apportioned according to the stage in the design process (e.g. $200 for testing, fabrication, and redesign), and/or design subsystems (e.g. $100 for structures, $50 for control, $50 for power, etc.). On the other hand, if you are traveling to a design competition with well-documented travel and entry fees, these expenditures should be considered well-defined. This budget will be used to request project funds. For reference, a typical project budget is approximately $1000.
+References: Technical documentation should always be written such that without direct contact with any of the group members someone could follow the design process and continue or revise the design without reconstructing the project themselves. Thus, documenting references is crucial. In this course the Chicago Manual of Style format is recommended for the List of References. You may use endnotes, so long as they appear prior to the appendices as described in the Design Report Template.
+Note: Appendices should be lettered A – Z and appear in the order they are referenced in the text. Appendices are composed of any information that does not complement the narrative flow of the in-text discussion, but must be included for the sake of completeness. For example, the reader would gain little from having Rooms 4 and 5 (the Relationship Matrix and associated Importance Ranking) included in the body text in their entirety. The idea here would be to provide a bulleted list of the most important ECs and include the House of Quality in an appendix so anyone who is interested in how you arrived at a particular ranking (your team mentor perhaps?) could review your calculations and procedure.
+Appendix – House of Quality. Divide as necessary in order to maintain readability.
+It’s important to keep in mind, the House of Quality is a tool for honing in on the needs of the customer, and recording them in one tidy diagram. A quick look at your House of Quality should show us what your customer wants and needs from your design and where you intend to apply your time and resources in an effort to give it to them.
+Appendix – Team Charter. The charter is your agreement, as a team, about what your goals are and how you are going to work together to accomplish them. It should include:
+•
+Team name and logo
+•
+Team goal(s) (different from problem statement)
+Engineering Design I/II
+Capstone Design Project Guidance
+13
+•
+A table with student information including names, team roles, and cell phone numbers
+•
+A table with faculty member (team mentor, technical expert, and TSD representative) information including names, roles, office numbers, and desk phone numbers
+•
+Weekly meeting schedule (where and when)
+•
+Conflict resolution statement: Describe how you, as a team, intend to work together and to resolve disagreements
+•
+Personal statement: For each individual, briefly discuss what you hope to gain from this experience
+Engineering Design I/II
+Capstone Design Project Guidance
+14
+Project Proposal Rubric
+Team: ___________________________________
+Reviewer:_____________________________________
+Grading Criteria or Requirement
+Comments
+Points
+Front Matter
+Title Page – team name and logo, project title, course and number, name of report, date submitted, and student signatures.
+Executive Summary – problem statement and description of top five ECs
+Concise and on its own page; ahead of ToC/LoF/LoT, no page #s
+Table of Contents, List of Figures, and List of Tables
+/5
+Problem Definition
+Customer’s problem statement
+Customers (at least three stated explicitly)
+Essential questions and answers (in the form of a discussion, not in a list); includes all relevant information: figures, tables, etc.
+Engineering modeling/calculation
+Applicable codes and standards
+Revised problem statement
+/25
+Need Identification
+Table of CRs, in order of importance, discussion.
+Table of ECs including units and direction of improvement; identification of which are variables and which are constraints, discussion
+Customer and Technical Assessment tables; benchmark specs and images included; discussion of agreement between customer and technical assessment
+Table of targets; description of how targets/ranges defined
+/25
+Project Deliverables
+Complete listing – everything you’ll hand over upon completion
+/5
+Project Management
+Table of project-specific milestones in addition to those included in the syllabus. Specific members tasked as appropriate. Discussion sufficient to explain timeline detail.
+/5
+Budget
+Table of expenditures; appropriate level of detail
+Discussion of anticipated costs (well-researched versus estimated)
+/5
+References
+Complete listing
+Proper format: CMS
+/5
+Appendix – House of Quality
+Divided as necessary in order to maintain readability.
+2
+Appendix - Team Charter
+Team name and logo, goal, table with student information, table with faculty and staff information, team meeting schedule, conflict resolution, personal statements
+/3
+Formatting
+Figure/table formatting (centered, numbered, captioned, referenced)
+Justification and pagination
+Clean and professional appearance
+/10
+Style
+Strong, logical narrative
+Correct voice (third person)
+Appropriate tense – consistent with narrative for each section
+Grammar and spelling; evidence of proofreading
+/10
+Overall
+/100
+15
+Engineering Design I/II - Capstone Design Project Guidance
+Project Proposal Presentation Rubric
+Team: _______________________________________________
+Reviewer:____________________________________________
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Problem statement
+Not included or significantly incomplete
+Problem statement contains errors, biases, or implied solutions
+Describes who and what; refined to succinctly describe design intent
+5
+Customer Identification
+Not included or significantly incomplete
+Three listed but poorly correlated; background included but incomplete
+All customers ID’d; thoughtful, detailed background investigation
+10
+Essential Questions and Answers
+Not included or significantly incomplete
+Problem explored, but not thoroughly; missing key pieces of information necessary to define the problem
+Thorough and detailed exploration of the problem, with all information necessary to define it
+10
+Customer Requirements
+Not included or significantly incomplete, no contact with customer
+Included, but without customer input, limited discussion of methods
+Complete list; importance ratings defined; thorough disc. of methods
+10
+Customer Assessment
+Not included or significantly incomplete
+Limited search, some information on competitors/customer preference
+Thorough investigation of bench-
+marks including cust. preferences
+10
+Engineering Characteristics
+Not included or significantly incomplete
+ECs incl., but incomplete; not well correlated to CRs; EC ranking incl.
+Complete with units and DOI; strongly describe CRs; measurable/observable
+10
+Technical Assessment and Targets
+Not included or significantly incomplete
+Incl. but limited benchmark research; presented tech. specs. limited; targets vague or unrealistic
+Clearly ranked ECs, numerical comparison of BMs, targets and constraints clearly identified
+10
+Deliverables
+Not included or significantly incomplete
+Incl., but missing key items; includes items that are not deliverable; did not discuss with customer
+All deliverables clearly identified and included, based on agreement with customer
+5
+Project Management
+Not included or significantly incomplete
+Milestones only or primarily from syllabus, few project-specific; tasks unassigned
+Considered project management plan with all major milestones, tasks, and personnel assigned
+5
+Budget
+Not included or significantly incomplete
+Too vague to be useful; too detailed to be correct; missing items; limited discussion of researched vs. est. costs
+Major expenses identified and researched; sufficient discussion of researched versus estimated costs
+5
+Communication Clarity and Visual Presentation
+Unpracticed, unorganized, and unengaging; not focused on audience
+Evidence of preparation but some rambling or tangents; slides adequate
+Obvious preparation; professional speech; slides visually stimulating
+10
+Complete Within Time Allotted
+10 min > time > 18 min
+10 min < time < 13 min or
+15 min < time < 18 min
+13 min < time < 15 min
+10
+Comments: Total Score (out of 100) ______
+Engineering Design I/II
+Capstone Design Project Guidance
+16
+Preliminary Design Report
+Purpose
+The purpose of the Preliminary Design Report (PDR) it to document the process of design evaluation and selection. In it, all design concepts are included – at least one for each member of the team. In order to select a single design from these alternatives they must be compared on an impartial basis, based on each concept’s predicted performance with regards to the engineering characteristics developed in the Project Proposal. In other words, the design which is predicted by modeling and experimentation to do the best job of meeting the engineering characteristics, and thus the customer requirements, wins.
+Content
+The Preliminary Design Report (and each subsequent report) builds upon work previously submitted. Begin by revising your Project Proposal, as marked up by and discussed with your project mentor. Be sure also to continually revise the content of previously-written sections to reflect new information gained since the last time it was submitted. Sections that do not require any specific additions are omitted from the description below but should appear in the report. As a matter of course, the report should also contain the most up-to-date table of contents, list of figures, list of tables, project management information, budget, and references. In addition to those sections included in the Project Proposal, the PDR shall include sections describing the Design Concepts and Concept Evaluation and Selection.
+Executive Summary: In addition to what was included in the Project Proposal, include a brief summary of the design concepts proposed. State which of the concepts was ultimately selected by the team for detail design and why.
+Design Concepts: Included after the Need Identification section, the purpose of this section is to describe each of your design concepts and demonstrate, using research, analysis, modeling, and/or experimentation, how each design concept will perform with regard to each of the top five ECs stated in your Project Proposal.
+Following a brief introduction – including a description of all proposed design concepts – briefly summarize which concept generation methods were used by the team and why they were selected.
+Each student will develop a unique design concept. For each design concept, you must have a separate, independent subsection that provides a complete description of a proposed solution to the problem. It should be able to stand alone without reference to the other concept subsections. It should describe a specific configuration for the design, including specification of the major components and/or subsystems. The description of each design concept should refer to solid models and/or drawings (notice the word sketches was not used) in order to communicate the design concept. Three-dimensional models such as foam-board or poster-board mock-ups can be extremely helpful, however, in most cases computer rendering or professional quality drawings are also required.
+Engineering Design I/II
+Capstone Design Project Guidance
+17
+Note: cell phone images or other photographs taken of drawings used in lieu of scanning will be torn from the report and burned in a public forum.
+Through research, analysis, modeling, and/or experimentation, you must predict how each of your designs is predicted to perform with regard to your top five ECs. You must also state explicitly how the proposed design will meet all the design constraints (even those that are not in your top 5 ECs), supporting your assertion with objective proof as opposed to wild speculation (however sincere).
+The more specific you are in this section, the more informed your selection process and the more well-defined your tasks will be for the Detail Design Report.
+Concept Evaluation and Selection: Once you have an objective view of how each of your candidate designs is expected to perform with respect to each of your top five ECs, you can use this information to make an informed evaluation and select from among your design concepts. Keep in mind that if there is little variation between the design concepts with regard to your ECs, you may have to expand your consideration to the next five ECs. This section follows the Design Concepts section.
+Summarize the predicted performance of each of your design concepts by creating a table with the design concepts in the rows and the ECs in the columns. Include the predicted performance parameters for each. Include the weighted-decision matrix and state explicitly, referencing the matrix, which design was selected and why.
+There is an opportunity here to consider combining the best parts of each of the individual design concepts into a single concept. If your team is inclined to do this, please briefly describe what you chose to do and why.
+Budget: The budget for the project should be clearer now than it was in the previous stage, so crude estimates should be revised in favor or more accurate estimates. For example, you may not have sized and selected a particular pump, but you know about how big it will need to be and about how much pumps that size cost.
+A note on the presentation: you’ll notice that for this and each subsequent presentation, including the final presentation, you are still limited to 15 minutes even though you have more to talk about each time. The intent here is not to torment you but to force you to think carefully about what you need to talk about and how to efficiently present it. Keep in mind, not matter how important your topic, no Admiral or General listens to a brief longer than 15 minutes unless it’s his or her own. You’ve got to learn to make your point efficiently.
+To that end, the project motivation/problem definition slide(s) should provide the necessary information to bring the audience up to speed on the problem and any necessary background information quickly (1-2 minutes at most). The purpose of this is to jog the respective memories the review panel members, who have to try and keep all 20-odd projects straight in their minds. Careful consideration will pay dividends.
+Engineering Design I/II
+Capstone Design Project Guidance
+18
+Preliminary Design Report Rubric
+Team: ___________________________________
+Reviewer:_____________________________________
+Criteria or Requirement
+Comments
+Points
+Front Matter
+Title page – revised as required
+Executive Summary – revised and expanded to include discussion of design concepts and design selection
+ToC/LoF/LoT revised and updated
+/2
+Problem Definition
+Section revised and updated
+/2
+Need Identification
+Section revised and updated
+/2
+Design Concepts
+Introduction
+Discussion of conceptual design process; including tools
+/5
+The following points will be awarded for each design concept (4 assumed)
+Description of configuration including systems and subsystems
+Solid models and/or professional drawings
+Performance prediction for each EC
+Description of how each concept meets constraints
+/15
+For a total of 60
+Concept Evaluation and Selection
+Table and description of design concepts vs. ECs and discussion
+Weighted-decision matrix and discussion
+Statement of design selected and explanation as to why
+/10
+Project Deliverables
+Section revised and updated
+/1
+Project Management
+Section revised and updated
+/1
+Budget
+Section revised and updated
+/1
+References
+Section revised and updated
+/1
+Formatting
+Figure/table formatting (centered, numbered, captioned, referenced)
+Justification and pagination
+Clean and professional appearance
+/5
+Style
+Strong, logical narrative
+Correct voice (third person)
+Appropriate tense – consistent with narrative for each section
+Grammar and spelling; evidence of proofreading
+/10
+Overall
+/100
+Note: the overall points add up to 100 assuming there are four design concepts (15 points each). If additional design concepts are included, the overall points will be increased to reflect this and the score for the report will be taken out of the new overall score. For example, if five design concepts were included, the overall score would be 115. The grade for the PDR would be calculated using 115 as the total score.
+19
+Engineering Design I/II - Capstone Design Project Guidance
+Preliminary Design Presentation Rubric
+Team: _______________________________________________
+Reviewer:____________________________________________
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Project Motivation/
+Problem Definition
+Not included or significantly incomplete
+Included, but insufficient detail for an unfamiliar audience
+Problem presented in a clear and concise manner; context understood
+5
+Summary of CRs/ECs
+Not included, significantly incomplete, or unrelated
+Included but incomplete or unrevised from previous presentation
+Well-defined, concise list with quantitative descriptors
+5
+Design Concepts
+Not included or significantly incomplete
+Three DCs included but under-developed; prediction insufficient;
+unclear if meets constraints
+One DC per team member; well-developed; complete, thoughtful analysis; shown to meet constraints
+40
+Concept Evaluation and Selection
+Not included or significantly incomplete
+Design selected but methods unclear or of questionable objectivity
+Design selected; clear description of methods and outcome
+20
+Plans for Completion
+Missing milestones or unrealistic expectations
+Optimistic expectations; likely will require significant extra time
+Key milestones clearly identified; timely completion expected
+5
+Budget
+Missing or incomplete
+Insufficient revision/level of detail for conclusive projection
+Detailed and complete with revised cost estimates
+5
+Communication Clarity and Visual Presentation
+Unpracticed, unorganized, and unengaging; not focused on audience
+Evidence of preparation but some rambling or tangents; slides adequate
+Obvious preparation; professional speech; slides visually stimulating
+10
+Complete Within Time Allotted
+10 min > time > 18 min
+10 min < time < 13 min or
+15 min < time < 18 min
+13 min < time < 15 min
+10
+Comments: Total Score (out of 100) ______
+Engineering Design I/II
+Capstone Design Project Guidance
+20
+Detail Design Report
+Purpose
+Design is a process which involves making decisions at successively finer levels of detail; from enumerating functions, to identifying systems and subsystems to carry out those functions, to designing and selecting specific components, to manufacturing and assembling those components. The purpose of the Detail Design Report (DDR) is to capture these choices in a process that will ultimately result in the first generation prototype, ready for testing and evaluation.
+Content
+As with each previous report, the DDR should build upon the previous iteration. The Embodiment Design section and Prototype Test Plan should follow the Design Selection section.
+Embodiment Design: Begin by providing a short overview of the prototype (not the process of creating it), including an image of the envisioned completed system. The purpose of this is to help the reader or members of the audience better understand your detailed explanation to follow.
+Next, discuss system or product architecture (Dieter and Schmidt 2013, sections 8.2-3). Start with your decomposition as appropriate. Identify the necessary components and summarize the key energy, mass, and information flows. Review your different designs with regard to product architecture, discuss how you arrived at the final layout, and what factors influenced your decision. Be sure to include visual aids – simple block diagrams or flow charts are fine – and identify the interactions between the modules (important because this is the most likely point of failure).
+Then, discuss configuration design (Dieter and Schmidt 2013, sections 8.4-5). This section should include a drawing of the entire assembly, preferably expanded to show detail. For each standard part (i.e. any part that can be purchased and won’t need to be manufactured), provide justification in terms of calculations and analysis as to why that particular part was selected. For example, if your project involves a high pressure hydraulic system, show that the pump you selected will operate at the required pressure range and provide the required flow rate. For special purpose parts (i.e. any part that cannot be purchased and will need to be manufactured), state explicitly what the performance, processing, and environmental considerations are for material selection. State which material and process was selected to manufacture the part, and justify your decision. Also, be sure to discuss how configuration design best practices were incorporated into your design.
+For code that is to be developed, specify the inputs, outputs, and a detailed process flow. Specify the format for all data and the processing environment, and include any necessary pseudo code.
+As applicable, this section should reference a complete collection of detailed engineering drawings, contained in an appendix. At a minimum, the collection must include an assembly drawing in exploded view, a bill of materials, a three-view orthographic drawing of each special-purpose part to be submitted to the shop, and any additional drawings necessary to communicate
+Engineering Design I/II
+Capstone Design Project Guidance
+21
+design detail. Standard parts need not be modeled in detail. You may use a surrogate (a rough approximation) so long as the envelope is the same and the interface is detailed and correct. Also, solid models of many standard parts are available from the manufacturer or from sources like McMaster-Carr and the Thomas Register. You are encouraged to use these but be sure to cite your sources. All three-view orthographic and auxiliary drawings must be dimensioned and toleranced. Also, the title block must be filled in completely including the required material, units of measure, and justified in the body text.
+In the event your design is more of a system than a machine or mechanism, your team mentor may elect to have you create a detailed schematic and/or some other means of communicating design detail. However, you’ll still be required to produce a Bill of Materials and create drawings for any special purpose parts you propose. If you think this may apply to your group, please speak with your team mentor.
+The goal of this section is not to bore you or anyone else to death! You are encouraged to make lots of models and/or mockups and try them out! There’s a great quote from Tom Kelley, the director of IDEO, an iconic product design firm, “Fail often so you can succeed sooner.” The idea is to ensure you’ve considered the elements of embodiment design and that you’ve made your design choices based on some objective engineering judgment rather than your design experience or lack thereof. Also, nothing says these reports have to be dry and boring (they must, however, remain professional). Please feel free to write in a narrative (still third person!) style including all attempts and failures, and plenty of photos!
+Prototype Test Plan: At this point in your academic career, you’ve completed many lab experiments and written many lab reports. Now it’s your turn to design the experiment.
+You’ll need to test each of your top five ECs (and perhaps more) to determine whether or not you’ve satisfied your customer(s) and met his/her/their constraints. You’ll also compare the performance of your design to your targets to determine where to apply your additional time and resources in order to best satisfy your customer(s).
+As such, create one or more test plans for evaluating each of your top five ECs. Keep in mind, one experiment may provide measurement/observation for more than one EC. For this report, you will write the Objectives, Background (as necessary), and Procedures sections for each experiment. Unlike the Procedures section in a typical lab report which are outlined in a handout provided by your instructor, you’ll have to provide the level of detail that would otherwise be given in the handout. Be sure to include what parameters will be fixed (some of which might need to be measured such as ambient temperature or pressure), which will be varied and how, which will be measured, where the test will take place, who will conduct the test, what equipment is needed, and what safety measures are required. Include a safety plan in accordance with the division safety instruction as necessary. Next semester you’ll write the Results, Analysis, and Discussion sections after you’ve done the experiments.
+For each test, create a test plan matrix and include them in an appendix.
+Project Management: For the report, include a summary table as before including major,
+Engineering Design I/II
+Capstone Design Project Guidance
+22
+project-specific (i.e. not the syllabus dates) tasks, the dates they are to be completed, and the personnel to which they are assigned. Include your Gantt chart in calendar output format, as an appendix. For the presentation, please be prepared to show your Gantt chart in MS Project (or similar) in its entirety. This means you will have to have your updated Project file preloaded and stop your presentation (hit Esc). Show only major tasks (black overbars), but be prepared to expand them to reveal subtasks. Give a general description of major tasks (again, specific to your project) and once complete, switch back to your presentation, already in progress (hit Ctrl + F5 to resume from where you left off).
+It’s important to be detailed and realistic in your planning. Be sure to review your project management plan with your team mentor, technical expert, and TSD representative at a minimum. If your design requires fabrication by one of the shops, be sure to check how long it is estimated to take and when it is scheduled to be complete. Students often ask the first question but not the second, the difference being, each design may only take a day or two to put together, but if they’re all dropped off at once, few of them will be ready within the week.
+This project management plan will be used to judge your progress during the spring semester’s Progress Update Presentation and Report. Consider it a contract between you and your team mentor stating clearly what you are going to do and by when.
+Budget: With detail design complete, the budget should be a translation of the purchase orders you are ready to submit. There should be little uncertainty in your accounting.
+Appendix – Engineering Drawings: as described above.
+Appendix – Prototype Test Plan test matrices: as described above.
+Appendix – Project Management Gantt Chart: as described above.
+Engineering Design I/II
+Capstone Design Project Guidance
+23
+Detail Design Report Rubric
+Team: ___________________________________
+Reviewer:_____________________________________
+Criteria or Requirement
+Comments
+Points
+Front Matter
+Title page revised as required
+Executive Summary revised and updated
+ToC/LoF/LoT revised and updated
+/2
+Problem Definition
+Section revised and updated
+/1
+Need Identification
+Section revised and updated
+/1
+Design Concepts
+Section revised and updated
+/5
+Concept Evaluation and Selection
+Section revised and updated
+/5
+Embodiment Design
+Decomposition (physical and/or functional)
+Product architecture
+-Spatial layout including visual aids; discussion of final decision and determining factors
+-Discussion of interaction between modules
+-Inputs, outputs
+Configuration design
+-Assembly and description
+-Standard parts; description and justification
+-Special purpose parts; requirements, material and process selection and justification
+-Calculations required to support design/selection choices
+-Discussion of employment of best practices
+-Detailed process flow, data format, processing environment including pseudo-code
+/25
+Prototype Test Plan
+Objectives necessary to evaluate prototype performance for each EC
+Procedures – detailed; include conduct, logistics, and safety
+/18
+Project Deliverables
+Section revised and updated
+/1
+Project Management
+Section revised and updated, Gantt chart in calendar format included as an appendix
+/5
+Budget
+Section revised and updated
+/1
+References
+Section revised and updated
+/1
+Appendix - Engineering Drawings
+Assembly drawing; exploded view
+Bill of materials
+Special purpose parts; three-view A3 drawings including dimensions, tolerances, and complete title block with material specified; auxiliary views as necessary
+/10
+Appendix – Prototype Test Plan
+Complete; matrix ready for use in testing and evaluation
+/5
+Appendix - Project Management Gantt Chart
+Section revised and updated
+/5
+Formatting
+Figure/table formatting (centered, numbered, captioned, referenced)
+Justification and pagination
+Clean and professional appearance
+/5
+Style
+Strong, logical narrative
+Correct voice (third person)
+Appropriate tense – consistent with narrative for each section
+Grammar and spelling; evidence of proofreading
+/10
+Overall
+/100
+24
+Engineering Design I/II - Capstone Design Project Guidance
+Detail Design Presentation Rubric
+Team: _______________________________________________
+Reviewer:____________________________________________
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Project Motivation/
+Problem Definition
+Not included or significantly incomplete
+Included, but insufficient detail for an unfamiliar audience
+Problem presented in a clear and concise manner; context understood
+5
+Summary of CRs/ECs
+Not included, significantly incomplete, or unrelated
+Included but incomplete or unrevised from previous presentation
+Well-defined, concise list with quantitative descriptors
+5
+Detail Design Overview
+Not included or significantly incomplete
+Assembly represented; limited detail; limited description of form/function
+Assembly complete; high level of detail; concise summary of form/function
+5
+Decomposition
+Not included or significantly incomplete
+Limited consideration of energy, mass, and information flows; level of detail insufficient to provide insight
+Detailed consideration of energy, mass, and information flows; level of detail illustrates components and interactions
+5
+Product Architecture
+Not included or significantly incomplete
+Schematic; unclear if alternatives and/or module interactions considered
+Multiple layouts; justification for final design; module interactions detailed
+10
+Configuration Design
+Not included or significantly incomplete
+Components/functions listed, but specifics undetermined or unclear
+All components/details specified; consideration of best practices
+20
+Analysis and Calcs to Support Design/Selection
+Not included or significantly incomplete
+Analysis incomplete or not well correlated to design choices
+Clear justification for design choices and sound supporting analysis
+10
+Prototype Test Plan
+Not included or significantly incomplete
+All or most necessary info. presented but unprepared to test immediately
+Detailed testing plan; prepared to begin prototype evaluation immediately
+10
+Plans for Completion
+Project Management
+Missing milestones or unrealistic expectations
+Optimistic expectations; likely will require significant extra time
+Key milestones clearly identified; timely completion expected
+5
+Budget
+Missing or incomplete
+Insufficient revision/level of detail for conclusive projection
+Detailed and complete with revised cost estimates
+5
+Communication clarity and visual presentation
+Unpracticed, unorganized, and unengaging; not focused on audience
+Evidence of preparation but some rambling or tangents; slides adequate
+Obvious preparation; professional speech; slides visually stimulating
+10
+Complete within time allotted
+10 min > time > 18 min
+10 min < time < 13 min or
+15 min < time < 18 min
+13 min < time < 15 min
+10
+Comments: Total Score (out of 100) ______
+25
+Engineering Design I/II - Capstone Design Project Guidance
+TSD Representative Evaluation of Team Performance
+Team: _______________________________________________
+Instructor:____________________________________________
+Please read the following questions and circle the value or descriptor that best represents your answer. If, for a particular group, the question is not applicable, don’t circle anything.
+6 weeks: Frequency and quality of face to face interaction
+Question
+0
+1
+2
+3
+4
+How often have you met with the team?
+Never
+Once or twice
+A few times
+Regularly
+Weekly
+Do you feel the team has sought you out as a resource?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+How much information have the students shared with you about their project?
+Nothing
+Very little
+I have some idea
+I have a good idea
+I have a firm grasp
+Have the students involved you in defining the problem they are trying to solve?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+12 weeks: Quality of informal written communication – the ability of the students to communicate their preliminary design ideas
+Question
+0
+1
+2
+3
+4
+In the last six weeks, how often have you met with the team?
+Never
+Once or twice
+A few times
+Regularly
+Weekly
+Have the students involved you in generating or reviewing design concepts?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Have the students discussed the feasibility of their design concepts with you?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Please rate the quality of student design sketches
+Very poor
+Poor
+Satisfactory
+Good
+Very good
+26
+16 weeks: Quality of formal written communication – the ability of the students to create a detailed design
+Question
+0
+1
+2
+3
+4
+In the last four weeks, how often have you met with the team?
+Never
+Once
+Twice
+A few times
+Weekly
+Have the students involved you in generating a detailed design?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Have the students sought your input with regard to material selection?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Have the students sought your input with regard to design for manufacturing?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Have the students sought your guidance on the creation of engineering drawings?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Do you have a good idea of what parts are required and how they fit/work together?
+Definitely not
+Not really
+Somewhat
+More or less
+Yes, definitely
+Please rate the quality of student engineering drawings
+Very poor
+Poor
+Satisfactory
+Good
+Very good
+Engineering Design I/II
+Capstone Design Project Guidance
+27
+Prototype Demonstration
+Purpose
+There is no formal report or PowerPoint presentation associated with this milestone. The purpose of this assignment is to provide faculty and staff an opportunity to evaluate your progress toward project completion by demonstrating your design prototype. Think of it as your investors visiting to ensure their start-up capital is being well spent!
+Content
+Much like the formal presentations you gave first semester, you will have 15 minutes to discuss your prototype with the faculty and staff. The venue need not be room 301. You can demonstrate your prototype anywhere in the complex so long as you arrange it with your project mentor in advance.
+Practice your presentation just as you would any other presentation. Ensure all group members give a portion of the presentation. Be sure to discuss the following at a minimum:
+•
+Team and project introduction
+•
+Problem statement
+•
+General description of prototype
+•
+Description of subsystems
+•
+Description and demonstration of operation
+•
+Fabrication/manufacturing
+•
+Summary of prototype test plan
+•
+Summary of next steps
+The absence of a screen upon which to communicate your ideas may prompt you to want to create handouts for faculty members. Please avoid this if possible. The idea here is to focus on “pitching” your design without the use of visual aids other than your prototype. For example, when discussing your prototype test plan, instead of pointing to your Gantt Chart and saying, “Static load tests will begin on February 5” you might say, “Next week, we’ll begin static load testing with dynamic loading scheduled for the following week. Preliminary testing and evaluation will be complete one week prior to the Progress Update presentation.”
+Expect this presentation to be much more interactive than previous presentations - be prepared to answer questions on the spot. It might also be a good idea to have tools and/or spare parts ready in the event a quick fix needs to be made. If PPE is required, please be sure to have it ready and available. Invite your customers, if possible!
+28
+Engineering Design I/II - Capstone Design Project Guidance
+Prototype Demonstration Rubric
+Team: _______________________________________________
+Reviewer:____________________________________________
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Team and Project Introduction
+Not included or significantly incomplete
+Assumed too much familiarity with project; audience confused
+Sufficient to bring audience up to speed and provide context
+5
+Problem Statement
+Not included, significantly incomplete, or unrelated
+Incl., but imprecise or not updated to reflect revisions; unpracticed delivery
+Problem presented in a clear, concise manner; up-to-date and polished
+5
+General Description of Prototype
+Not included or significantly incomplete
+Audience not well oriented; form/function not well understood
+Concise summary of form/function
+5
+Description of Subsystems
+Not included or significantly incomplete
+Major components/subsystems omitted from description
+All modules/subsystems introduced, interaction sufficiently described
+10
+Description/Demonstration of Operation
+Not included or significantly incomplete
+Audience unsure of what is being demonstrated; op. details unclear
+Objective described; operational details summarized, test conducted safely
+30
+Fabrication/Manufacturing
+Not included or significantly incomplete
+Fabrication/decision-making process unclear or not well considered
+Concise summary of fabrication incl. resources, materials, and processes
+10
+Prototype Test Plan
+Little to no development since detail design completed
+All or most necessary info. presented but unprepared to test immediately
+Concise summary; prepared to begin prototype evaluation immediately
+10
+Plans for Completion
+Project Management
+Missing milestones or unrealistic expectations
+Optimistic expectations; likely will require significant extra time
+Key milestones clearly identified; timely completion expected
+5
+Communication clarity and visual presentation
+Unpracticed, unorganized, and unengaging; not focused on audience
+Evidence of preparation but some rambling or tangents
+Obvious preparation; professional speech; well-focused and rehearsed
+10
+Complete within time allotted
+10 min > time > 18 min
+10 min < time < 13 min or
+15 min < time < 18 min
+13 min < time < 15 min
+10
+Comments: Total Score (out of 100) ______
+Engineering Design I/II
+Capstone Design Project Guidance
+29
+Progress Update Report
+Purpose
+Up to this point, the design process has likely been fairly linear: complete step A, move on to step B. However, as you enter the first phase of testing and evaluation, you’ll find that the design process may become much more recursive: design, build, test, break, repeat. There may not be a clear delineation between versions 1.0 and 2.0 or even 1.0 and 1.1. Thus, the purpose of the Progress Update Report (PUR) is to provide a formal opportunity for reflection and to capture what you’ve done, summarize what you plan to do with what time you have left, and plan out how you’re going to do it.
+Content
+As with each previous report, the PUR should build upon the previous iteration. This report focuses on the execution of the Prototype Test Plan.
+General Guidance
+All projects fall somewhere on a broad spectrum of scope and complexity. Some projects are small in scope with designs that take little time to fabricate and test. Teams with these sorts of projects may get the opportunity to go through several iterations - cycles of design, build, test. With regard to the PUR, these teams should present the results, analysis, and discussion – including how the design has or will change as a result of fabrication and testing – for each of the experiments conducted in accordance with their prototype test plan. Teams in this category should also show, in the Project Management section, how well they are following the project management plan as stated in the Detail Design Report. Discuss any significant deviations as an opportunity to reflect on the efficacy of your predictions.
+Other projects are of such scope and complexity that teams may only get one or two opportunities to test their design. If your team’s project lies on this end of the spectrum, you may still be working toward executing your prototype test plan. In this case, the focus is twofold: 1) capture your design decision-making process, and 2) communicate your progress with regard to the established project management plan.
+In capturing your decision-making process the intent here is not to digress into a day-to-day design journal, but to summarize the group’s thought process: what design decisions did you face? What were the considerations surrounding each design decision? What did the team choose to do and why? For example, one year a team was tasked with building a hydrofoil – essentially an underwater airplane. They had ordered aluminum extrusions in the shape of an airfoil that they were going to use for wings. However, there was a significant delay in the purchasing process and the students had to explore other options. Why record this information you may ask? This project was sponsored by Boeing. Several years down the road, if Boeing engineers want to build upon the efforts of this student team, knowing what decisions were made and why is likely to save the Boeing engineers a great deal of time and effort in not repeating what was already done.
+Tracking and communicating your progress with regard to the project management plan is especially critical for team whose projects have a significant scope and/or are fairly complex.
+Engineering Design I/II
+Capstone Design Project Guidance
+30
+This is because you may only have time enough time to get one or two tests in before Capstone Day. It is equally critical that you establish a well-considered project management plan and prove to yourselves, your team leadership, and the review board, that you are aware of your current progress with respect to the timeline and have a detailed plan of execution. This discussion should be included in the Project Management section.
+Regardless of where you fall on the spectrum of scope and complexity, the overall intent is communicate your progress and to assure the board that you will finish what you set out to achieve by the end of the semester. Exactly what content is required to communicate this should come from a discussion with your team mentor and technical expert.
+Project Management: See guidance in preceding section.
+Appendix – Engineering Drawings: Include all updated engineering drawings, paired with the original versions (i.e. keep drawing revisions together in this appendix so the reader can see how the design progressed).
+Engineering Design I/II
+Capstone Design Project Guidance
+31
+Progress Update Report Rubric
+Team: ___________________________________
+Reviewer:_____________________________________
+Criteria or Requirement
+Comments
+Points
+Front Matter
+Title page revised as required
+Executive Summary revised and updated including summary of progress to date
+ToC/LoF/LoT revised and updated
+/2
+Problem Definition
+Section revised and updated
+/1
+Need Identification
+Section revised and updated
+/1
+Design Concepts
+Section revised and updated
+/1
+Concept Evaluation and Selection
+Section revised and updated
+/1
+Embodiment Design
+Section revised and updated
+/5
+Progress
+Ideally includes results, analysis, and discussion of prototype test plan
+Discussion includes redesign considerations including calculations, modeling, and updated drawings, as necessary
+At a minimum describes the decision making process from detail design to present capturing decision points, considerations, choices, implementation, and outcomes if available
+/40
+Project Deliverables
+Section revised and updated
+/1
+Project Management
+Discussion of progress with respect to the project management plan established in the detail design report
+Includes detailed plan of execution
+/26
+Budget
+Section revised and updated
+/1
+References
+Section revised and updated
+/1
+Appendix - Engineering Drawings
+Section revised and updated
+/5
+Formatting
+Figure/table formatting (centered, numbered, captioned, referenced)
+Justification and pagination
+Clean and professional appearance
+/5
+Style
+Strong, logical narrative
+Correct voice (third person)
+Appropriate tense – consistent with narrative for each section
+Grammar and spelling; evidence of proofreading
+/10
+Overall
+/100
+32
+Engineering Design I/II - Capstone Design Project Guidance
+Progress Update Presentation Rubric
+Team: _______________________________________________
+Reviewer:____________________________________________
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Project Motivation/
+Problem Definition
+Not included or significantly incomplete
+Included, but insufficient detail for an unfamiliar audience
+Problem presented in a clear and concise manner; context understood
+5
+Summary of CRs/ECs
+Not included, significantly incomplete, or unrelated
+Included but incomplete or unrevised from previous presentation
+Well-defined, concise list with quantitative descriptors
+5
+Detail Design Overview
+Not included or significantly incomplete
+Assembly represented; limited detail; limited description of form/function
+Assembly complete; high level of detail; concise summary of form/function
+5
+Progress
+Not included or significantly incomplete
+Moving forward; correlation between results, analysis, and discussion insufficient or unclear; insufficient capture of decision-making process. Some social loafing evident.
+Detailed discussion of progress capturing results, analysis, and discussion and/or decision-making process. All team members working together to achieve project objectives
+30
+Plans for Completion
+Project management
+Extremely poor time management; unrealistic expectations. Successful completion unlikely.
+Behind on project management plan due largely to avoidable challenges. Current stage unclear or unsupported with evidence. Optimistic expectations for completion. Likely will require significant extra time
+On track with established project management plan. Current stage clearly stated, supported with evidence. Detailed plan of execution for project completion.
+Successful completion likely
+30
+Budget
+Missing or incomplete
+Insufficient revision/level of detail for conclusive projection
+Detailed and complete with revised cost estimates
+5
+Communication clarity and visual presentation
+Unpracticed, unorganized, and unengaging; not focused on audience
+Evidence of preparation but some rambling or tangents; slides adequate
+Obvious preparation; professional speech; slides visually stimulating
+10
+Complete within time allotted
+10 min > time > 18 min
+10 min < time < 13 min or
+15 min < time < 18 min
+13 min < time < 15 min
+10
+Comments: Total Score (out of 100) ______
+Engineering Design I/II
+Capstone Design Project Guidance
+33
+Final Design Report
+Purpose
+The purpose of the final design report is to capture the details of your entire design process. Specific additions since the Progress Update Report should include the results, analysis, and discussion from your prototype test plan, competition results from applicable projects, customer feedback, and what further revisions you might make if you had more time and money.
+Content
+As with each previous report, the Final Design Report should build upon the previous iteration. It should include:
+Executive Summary: include a brief summary of your testing, evaluation, and redesign process. Also include a brief summary of final evaluation results, including competition results for applicable projects. Please break up into paragraphs, but the entire summary should be less than one page in length. You may have to winnow down earlier paragraphs to make sure it all fits.
+Prototype Test Plan: if your team had the opportunity to do one test or a dozen, please ensure all testing and evaluation details are captured here. Ensure the discussion is held together with a strong, logical narrative, but the specific formatting of this final version is up to you and your team mentor.
+For a given EC you may have multiple modifications/redesigns and multiple associated tests. Please try and capture, to the best of your ability, what changes were made to the design and how those changes affected the performance of the design. Make sure to compare initial and subsequent design performance and comment as to whether or not the design changes made resulted in better performance and thus increased customer satisfaction.
+Future Work: hopefully, your communication with your customer has been candid and regular. In this section, the idea is to try and capture your customers’ level of satisfaction with your design.
+Start by demonstrating your final design to your customer. Provide them with a list of the customer requirements as you interpreted them, and ask them to rate the performance of your design, much like they did for the customer assessment of competing products portion of the House of Quality (Room 6). Ask them what they like about the design. Ask them what improvements they’d like to see. As a team, evaluate and discuss the difference between the customer requirements as you understood them, and the feedback you got from the customer about what they actually wanted. Detail specific opportunities for future work and improvement. Please limit your comments to technical evaluations. There will be an opportunity for more qualitative comments in the close-out memo.
+Engineering Design I/II
+Capstone Design Project Guidance
+34
+Appendix - Closeout Memo: each member of the team will write a memo, addressed to his or her project mentor, no more than two pages in length addressing the following questions in order:
+1.
+What did you do, specifically? What were your roles in the team – official and un-official.
+2.
+What did you learn about engineering, project management, team dynamics, etc.? How does this compare to your original personal statement in the team charter?
+3.
+What would you do differently, given the opportunity? (i.e. from a personal as opposed to a technical standpoint)
+4.
+What advice would you give to the next class?
+5.
+What resources (i.e. people, books, programs, etc.) were most useful to you and how?
+6.
+What grade to you think you’ve earned and why?
+Include the closeout memos in alphabetical order by last name.
+Engineering Design I/II
+Capstone Design Project Guidance
+35
+Final Design Report Rubric
+Criteria or Requirement
+Comments
+Points
+Front Matter
+Title page revised as required
+Executive Summary revised and updated including summary of progress to date
+ToC/LoF/LoT revised and updated
+/2
+Problem Definition
+Section revised and updated
+/1
+Need Identification
+Section revised and updated
+/1
+Design Concepts
+Section revised and updated
+/1
+Concept Evaluation and Selection
+Section revised and updated
+/1
+Embodiment Design
+Section revised and updated
+/1
+Prototype Test Plan for each experiment
+Section revised and updated
+Includes table of final performance values corresponding to the top five ECs and demonstrates that all design constraints were met
+/30
+Future Work
+Summary of prototype demonstration to customer(s)
+Qualitative customer assessment, referenced to each CR
+Customer requests for future work
+Discussion of the difference between understood CRs and actual CRs
+Detailed description of future work from the team standpoint
+/20
+Project Deliverables
+Section revised and updated
+/1
+Project Management
+Accurate summary of project; Gantt chart in calendar format included as Appendix
+/2
+Budget
+Section revised and updated; including all purchases, total project cost, amount remaining
+/2
+References
+Section revised and updated
+/1
+Appendix - Team Charter
+Section revised and updated
+/1
+Appendix - Engineering Drawings
+Section revised and updated
+/5
+Appendix – Prototype Test Matrices
+Section revised and updated
+/5
+Appendix - Project Management Gantt Chart
+Section revised and updated; calendar format
+/1
+Appendix - Closeout Memos
+Included and complete; one for each member of the group; alphabetical order
+/10
+Formatting
+Figure/table formatting (centered, numbered, captioned, referenced)
+Justification and pagination
+Clean and professional appearance
+/5
+Style
+Strong, logical narrative
+Correct voice (third person)
+Appropriate tense – consistent with narrative for each section
+Grammar and spelling; evidence of proofreading
+/10
+Overall
+/100
+36
+Engineering Design I/II
+Final Presentation Rubric
+Team: _______________________________________________
+Reviewer:____________________________________________
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Project Motivation/
+Problem Definition
+“I have no idea what problem the team is trying to solve or why. It feels like I came in in the middle of the discussion. The discussion is very jargon-heavy.”
+“I am not completely clear as to what problem the team is trying to solve or why. They assume I know more than I do about the context or subject. I could use some more background and /or definition of terms.”
+“I understand what problem the team was trying to solve and why. They have also provided sufficient background and definition of terms so that I understand what they were talking about.”
+5
+Summary of Customer Requirements and Engineering Characteristics
+“It seems like the team may have ignored the customer all together. The performance measures don’t appear to be correlated with any picture I would have of success.”
+“I’m not quite sure what the customer wanted and/or how what the team measured relates. It’s not entirely clear to me what success looks like for this project.”
+“It’s clear to me what the customer wanted, how the team defined those wants in terms of measurable objectives, and what target goals they were shooting for.”
+5
+Detail Design Overview
+“I have no idea how this design works or why it looks like it does.”
+“The team showed me the final design, but I’m not exactly sure how it works from their description. I could have used a little more explanation.”
+“The final design looks to be well-developed and well-considered. They did a good job of describing the form and function. I understand enough to appreciate a detailed discussion of manufacturing, testing, and evaluation.”
+5
+Prototype Test Plan
+“I think there was some sort of testing conducted, but I have no idea what it was meant to accomplish or if there was any method to its execution.”
+“I have some idea of what the team was trying to accomplish, but I’m not sure how the testing that was conducted demonstrates performance with regard to the engineering characteristics and/or how the testing was conducted.”
+“I understand what the objectives of each of the tests conducted, how they correlate to the engineering characteristics and targets previously described, and how the tests were conducted.”
+5
+Results, Analysis, and Discussion
+“It seems as though tests were only conducted because they were required. There appears to be no connection between the learning opportunity presented by testing and design modifications that followed.”
+“The results of testing and evaluation are not entirely clear to me. I’m unsure if the objectives were met and/or how the design performed with regard to target values. I’m having trouble drawing a direct line between results and design modifications.”
+“The team clearly related the outcome of the testing process to their engineering characteristics, comparing them to specific target values. Redesigns were based on sound engineering observation and judgment.”
+5
+37
+Topic
+Unsatisfactory
+Below Expectations
+Meets Expectations
+Possible
+Awarded
+Customer Feedback and Future Work
+“No feedback was solicited from the customer and no attempt to figure out how customer needs compare to the teams interpretation of them. Outline of future work is superficial or too vague to be useful.”
+“I’m unsure of what the customer thinks of the final design. I’m also unsure if there was much consideration of how customer requirements compare to the team’s interpretation of those requirements. Future work mentioned but not in much detail.”
+“The team presented their design to the customer and gathered their feedback. They enumerated how customer requirements were different than their interpretations, and summarized opportunities for future work.”
+10
+Budget
+“I believe the members of this team have a future in the accounting office of Enron.”
+“I can see that they had some money and spent some of it, but the exact items and amounts are still unclear to me.”
+“I know how much money the team was given, how much they spent, what they spent it on, and how much they have left.”
+5
+Communication clarity and visual presentation
+“This presentation looks like it was thrown together at the last minute. There was little if any evidence of practice or preparation.”
+“That was a good presentation. The slides could have been a bit clearer. The team probably practiced, but execution was a little uneven.”
+“That was a great presentation. The slides were clear and uncluttered and the team’s pitch was polished and professional.”
+10
+Complete within time allotted
+10 min > time > 18 min
+10 min < time < 13 min or
+15 min < time < 18 min
+13 min < time < 15 min
+10
+Comments: Total Score (out of 100) ______
+Engineering Design I/II
+Capstone Design Project Guidance
+38
+Capstone Design Project Poster
+The purpose of the poster is to present a summary of each team’s capstone design project to fellow students, faculty, staff, and visitors in a professional, eye-catching visual format. Teams should emphasize visual/graphical versus textual explanations to the maximum extent appropriate. The textual portions of the poster should be written with the non-technical reader in mind. Specifically, the poster should have the following:
+1.
+Project title, department name, course number, group member names, and project advisor’s name
+2.
+Concise problem statement
+3.
+Brief explanation of the project background
+4.
+List of customer requirements
+5.
+Figures of design concepts
+6.
+Figure of selected design
+7.
+Brief explanation of testing and evaluation (including images!)
+8.
+Brief summary of the project outcome
+9.
+Group picture with caption including group member names
+Items 3-5, may be truncated or omitted as necessary to preserve presentation clarity. Creative formatting, layout, and style are highly encouraged so long as they do not detract from the purpose of the poster. Additional pictures showing design efforts, fabrication, installation, testing, and design use are also highly encouraged.
+Formatting:
+1.
+Create all posters in PowerPoint (2010 version is preferred).
+2.
+Size poster
+a.
+Click on the “design” tab, and select “Page setup”
+b.
+Select Landscape orientation
+c.
+Make width 40” and height 30”
+3.
+Insert text
+a.
+As a general rule:
+i.
+Title: 100 point font
+ii.
+Body: 40 point font
+4.
+Insert pictures
+a.
+Use .jpg format
+b.
+Use image files larger than 80k
+c.
+Check images at 100% size to ensure images are not overly pixilated
+i.
+Click on “View”, then “Zoom” and select the “100%” radio button
+For more information, please visit the MSC poster instructions page, linked from the MSC main page.
+Submission: once you and your team mentor have agreed on the final poster design, print a copy on an 8.5” x 11” sheet of paper and have your team mentor sign it. Take this to the MSC graphics studio on the ground floor of Nimitz Hall. They will help you make any final revisions to ensure a quality product. You do not need to pick up your poster from MSC. The Capstone Day Committee will do this for you and hang them in the passageways on the Lab Deck of Rickover Hall in time for the poster session on Capstone Day. However, please keep a final copy in your shared folder and include a copy of the 8.5” x 11” poster as an appendix in your final report.
+Engineering Design I/II
+Capstone Design Project Guidance
+39
+Capstone Project Video
+The purpose of the project video is to provide a brief, entertaining, visual summary of your capstone design experience. It will be shown on during Capstone Day and during senior awards presentation. It may also be shown to perspective students.
+Please provide a short video (<2 minutes) that can be shown with or without sound, which provides the viewer with a summary of your design and capstone design experience. Videos should be professional, but are highly encouraged to be funny and creative. Please include lots of pictures and video clips of testing and working; group shots; funny moments; mishaps, etc.
+Submission: Please include the video file in your team folder on the course shared drive.

@@ -1,0 +1,362 @@
+DEPARTMENT OF MANAGEMENT
+UNIVERSITY OF TORONTO MISSISSAUGA
+MGT428H5S LEC0101
+Management Control
+Course Outline - Winter 2024
+Class Location & Time Mon, 09:00 AM - 11:00 AM IB 200
+Instructor Jenny Gao
+Office Location
+Office Hours
+E-mail Address jenny.gao@mail.utoronto.ca
+Course Web Site https://q.utoronto.ca
+Course Description
+Management control includes all the processes and systems, many accounting-based, by which key managers allegedly ensure that
+resources are acquired and used effectively and efficiently in the accomplishment of an organization's goals. The case method is
+used to provide an understanding of the issues and environment of management control. [24L]
+Prerequisite: MGT323H5
+Exclusion: MGAD40H3 or RSM422H1 (SSc)
+Distribution Requirement: SSc
+Course Objective
+The overall objectives of the course are two-fold. First, after taking the course, students should develop a solid understanding of
+management control framework. Management control systems must be integrated with an organization's goals and strategy. A good
+management control system aims at facilitating the execution of an organization's business strategy. Second, after taking the
+course, students will obtain basic skills in assessing the effectiveness of a management control system in the organizational context.
+The design of a management control system consists of many choices and options and not all of them are equally effective in
+different business environments and organizational contexts.
+This course is designed to broaden and deepen your conceptual and technical understanding of management control systems
+(MCS). MCS are considered broadly to include everything that managers do to ensure good performance or, more specifically, to
+ensure that the company's strategies get implemented effectively. But the emphasis in the course is on financial controls, which
+dominate in importance at managerial levels in all but the smallest organizations. Using financial controls requires managers to
+make decisions about: (1) responsibility structures (e.g., cost centers, profit centers), (2) performance measures (e.g., market,
+financial, and/or nonfinancial measures and their combinations), (3) performance evaluations, which take into consideration
+performance targets or other benchmarks, and (4) rewards (including performance-dependent compensation).
+Discussions in class will not be limited to the case or articles assigned for the week. Discussions can also include any topic, issue or
+event that is relevant to management control in a broad sense.
+Cases are used in most sessions and students will be required to present one case in class as part of a team of students during the
+term. The cases are both a learning tool for the class as well as for each presenting student team. The cases tend to be focused on the
+subjects that are being discussed in that session and have the major objective of enforcing the learning of the subject matter and
+illustrating the use of the subject in real life. The cases are all real companies, which allows the students presenting the case in class
+to relate the time period and events in the case to the present-day situation of the organization and its competitors.
+A final objective of the course is to give students a chance to practice their oral and written presentation skills, as well as their
+ability to work effectively in a group.
+Textbooks and Other Materials
+Materials will also be distributed on Quercus.
+Students are expected to read the required for the week BEFORE coming to class.
+The focus of most of the classes will be on discussions of cases. The readings are intended to provide background that is useful for
+informing the case discussions. For each case assignment, I will provide some Discussion Questions. These questions are intended
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 1 of 9
+Type Description Due Date Weight
+Presentations Student-led case discussion (Group) On-going 20%
+Class Participation Participation (Individual) On-going 15%
+Assignment Weekly case submissions and peer evaluations (Individual) On-going 35%
+Final Exam Final exam (Individual) TBA 30%
+Total 100%
+to help frame and focus your reading and consideration of the course materials. Class discussion will normally go beyond these
+questions.
+Assessment and Grading Policies
+Note that the Course Schedule, Assessment and Grading Policies detailed in this course outline are contingent on class delivery
+staying unchanged. The course outline may change at the instructors' discretion under unforeseeable circumstances, e.g. lockdown
+due to COVID. For example, if we are required to offer courses via remote delivery during the semester, the instructor will make
+the necessary adjustments, including, but not limited to, the nature and timing of assignments and tests, reweighting of course
+assessments, and other course content. These changes will be communicated via Quercus.
+Requirements and Criteria
+Student-led Case Discussions
+To develop presentation and communication skills, there will be groups presenting cases in class. The instructor will select the
+groups, with each group consisting of around 3 to 5 students depending on class enrolment. Each group will be assigned a case in
+the first class. In general, plan for a 45-minute presentation. Handouts, overheads, etc. are encouraged and are the responsibility of
+the presenting group.
+Groups are encouraged to meet with the instructor to discuss their preparations for the presentation. It is advisable to carry out
+further research beyond the required readings to make the presentation more interesting and insightful. Innovations in presentation
+style and organization that will enhance the understanding of the issues and facilitate class participation are especially encouraged.
+Each group is required to hand in a hard copy handout of PowerPoint slides (if applicable) to the instructor before the class, and to
+upload the PowerPoint slides immediately after the presentation. The first slide should clearly list the names of all group members
+and the last slide should list the key references and important information sources, if applicable.
+Groups are responsible for their internal management, but the instructor is always available for consultation if difficulties
+persist. It is each student's responsibility to communicate with the other members of the group. In cases where it is clear that an
+individual has made little or no contribution to the group work, the instructor reserves the right to adjust that individual's mark on
+the group part of the project grade to a mark less than that given to the group as a whole. For example, in a situation in which no
+contribution has been made, a mark of zero will be given.
+Further guidelines on the student-led case discussion, including how it will be graded, will be posted on Quercus.
+ALL STUDENTS are expected to have read the material assignment for that week. This includes the case for the week,
+irrespective of whether your group is presenting that week or not. Everyone is expected to have read the required readings and the
+case and to have prepared the assigned discussion questions before coming to class. You should be able to ask intelligent questions
+and make constructive comments about the case.
+Weekly Case Submissions
+This course is structured to optimize student-to-student learning. As a fourth-year student, you are expected to not only learn from
+the interactions with other students in the class, but also constructively contribute to the learning of other students. This places a
+significant responsibility on each student to take each week's class seriously and prepare for each class.
+Questions will be posted each week on Quercus relating to the cases under discussion that week. One or two questions will be
+assigned to each student on a random basis. The length of the answers depends on the questions, but answers are generally about
+one page (500 words max) in length.
+Students must submit their answers for the case for the week to Quercus by Sunday midnight prior to Monday's class.
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 2 of 9
+The answers will be graded based on the quality of the answers, the insight shown by the student and the application of theory to the
+case as appropriate.
+Students who are responsible for leading the week's case discussion do not have to take part in the weekly, but can if they want to.
+The final grade will be based on the highest seven marks for the weekly hand-ins.
+Class Participation
+This course is case-based with extensive reading requirements. The best way to learn from cases and to address practical issues in
+management control is through open debate and discussion in class to share our views and insights. Everyone is expected to have
+read the required readings and the case and to have prepared the assigned discussion questions before coming to class. You can
+participate by answering my questions or questions from other students in class, by raising relevant questions about the case, or by
+participating in a discussion during the presentation.
+Some things the instructor will consider in allocating a participation mark are:
+Are the points that are made relevant to the discussion with respect to increasing understanding, or do they merely restate
+case facts, but not in support of good, interesting ideas?
+Do the comments take into consideration ideas offered by others earlier in the class, or are they points in isolation? Good
+comments often (but of course not always) tend to reflect not only good preparation, but also good listening, interpretation,
+and integration skills. In other words, do the comments move the conversation forward?
+Do the comments distinguish among different kinds of data: facts; opinions; assumptions; inferences?
+Do the comments reflect a thorough knowledge of the case and its details?
+To encourage all students to participate, the instructor will randomly select students from the class list to answer questions and
+provide comments on specific issues during class.
+Some students may feel anxious or even intimidated to speak openly in class. The best way to overcome this anxiety is to prepare
+well before the class. You can take a brief note of key facts in each case and write down any issues or questions you may have
+when reading the article or the case. You can also attempt to answer the discussion questions listed in the course outline for each
+class. That way, you will be able to ask relevant questions and contribute to class discussion. You can also achieve a better
+understanding of the key learning points from each case or article.
+Finally, to facilitate the instructor's assessment of class participation, students are asked to bring a name card to each class and place
+the card in front of them.
+Class participation will be assessed based on the quality of the comment, not the quantity, and how these comments relate to the
+ongoing discussion. CLASS ATTENDANCE ALONE DOES NOT CONSTITUTE CLASS PARTICIPATION.
+Final Exam
+Please note that your final exams for this course will be written on a laptop computer in the classroom. You will therefore need to
+bring a laptop computer to class for your final exam. If you do not have access to a laptop for your final exam, please email me at
+jenny.gao@mail.utoronto.ca by January 15, 2024 at the latest so that I can arrange a laptop for you to borrow for the Final Exam. I
+will confirm with you on January 30, 2024 that the Department has a laptop for you to borrow for your final exam. If you do not
+hear from me by then, please follow up with me by midnight on January 30.
+The final exam will cover all topics and issues we discuss in this course. It is an open book and will consist of a case similar to the
+cases discussed in class each week, plus questions relating to the topics and cases discussed each week.
+The best way to prepare for the final examination is to carefully read the required readings and prepare for the assigned discussion
+questions for each class. and participate in class. It is not a good strategy to skip classes and wait until the last week to prepare for
+the final examination.
+Conduct of Class
+Punctuality: Please be on time for class as coming late or leaving early will disturb the class.
+Class Structure: Most classes will consist of a discussion of the case and topic of the week. The discussion will be led by a group
+of students. (see Student-led Case Discussion above).
+Class Preparation: Please note that there is a significant amount of reading required for this course. It is the student's
+responsibility to do all the readings. There will be a minimal amount of "lecturing of the theory" of topics from the textbook.
+Students are therefore required to study the textbook on their own.
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 3 of 9
+A significant amount of the learning in this course will come from interaction with your peers. As fourth-year students, you
+have obtained enough skills and knowledge to constructively contribute to the learning of your peers. This means that you
+have an important responsibility to make quality contributions to the course.
+Keep in mind:
+(a) Usually there are no perfectly good management control systems or perfectly bad management control systems.
+(b) Studying good systems is useful since we can learn what makes them good.
+(c) Studying poor management control systems is also (perhaps even more) useful, since we can learn a lot from failures.
+(d) Weaknesses exist in even a good management control systems.
+(e) Weaknesses should be evaluated relative to resources (money; talent; etc.)
+(f) Recommendations for change should be accompanied by implementation recommendations. Costs (both easy-to-measure and
+hard-to-measure) as well as benefits (again both easy and hard to measure) should accompany each suggestion for change.
+Contacting the Instructor by Email: The instructor works during normal business hours. Students can expect a response to emails
+within 1 to 2 business days. If you haven't heard back within that time frame, check your spam folder and then send a brief followup
+query if necessary. Please follow professional norms when sending emails and use your UToronto e-mail address. In the subject
+link, make sure your email starts with "[MGT428H5S] ...".
+Procedures and Rules
+Special Consideration Request for Academic Accommodation Request - Missed Tests & Quizzes (term work only, no final
+exams):
+To be considered for academic accommodation for missed tests and quizzes (ONLY), please follow the appropriate next steps
+depending on your circumstance (i.e. illness related or non-illness related). Do NOT submit a petition for final exams. Final exam
+deferrals must be submitted through the Registrar's Office. Extension of time requests should follow the same process.
+Special Consideration Request Application: https://uoft.service-now.com/utm_scr
+Illness or Non-illness Related Next Steps
+1. Inform your professor in writing (e-mail is acceptable) no later than 24 hours after the test or quiz date of any
+circumstances that prevent you from writing a test or quiz. Failure to do so will result in your special consideration request
+petition being denied.
+2. Submit an online Special Consideration Request as soon as possible, but no later than 72 hours after the test or quiz
+date. Failure to do so will result in your request being denied. Special Consideration Request Application:
+https://uoft.service-now.com/utm_scr
+3. Provide your supporting documentation on the Special Consideration Request Application by attaching screenshots
+or relevant documents within one week of the missed test/quiz. Supporting documentation may include a screenshot of
+the Absence Declaration tool on ACORN. Please ensure the dates identified in your absence declaration include the actual
+test or quiz date, if applicable. Please refer the course outline for term work exclusions from use of Absence
+Declaration. The Department requires supporting documentation (such as Verification of Illness form) if your course
+outline excludes test/quiz from the one-time ACORN declaration. Illness related documentation include the Verification
+of Illness form which must be in English and completed by a practitioner registered and licensed in the Province of
+Ontario with original signature and business stamp. Non illness related documentation will vary but a death in the family
+requires submission of a death certificate. Requests without supporting documentation will be denied.
+IMPORTANT
+Failure to follow this process will result in your Special Consideration Request being denied.
+If your form is not completed correctly with the necessary details to assess your Special Consideration Request, your
+request may be denied.
+In the case of an illness, you need to follow the specific Missed Tests requirements for your course (see Missed Tests
+section below).
+You may receive a follow up email or response on the Special Consideration Request Application from the UTMM
+petitions committee. If so, you MUST respond within 24 hours.
+If there is concern about your Special Consideration Request, your request may be refused and/or you may be asked to meet
+with an Associate Chair or Program Director.
+If you have multiple Special Consideration Requests your request may be refused.
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 4 of 9
+If you do not complete the make-up work as and when required, you will receive a grade of zero for the original missed
+test; further special consideration is not permitted.
+Holidays and pre-purchased plane tickets, family plans (unless critical, such as death of an immediate family member), your
+friend's wedding, lack of preparation, or too many other tests are not acceptable excuses for missing a quiz, a test, or an item of
+course work.
+The written explanation and documentation that you submit represents an appeal from you, which requests the opportunity to
+account for that portion of your grade in an alternate manner than the normal one that is described in this course outline. If an
+appeal is not received by the deadline specified above, or if the appeal is deemed unacceptable, you will receive a grade of zero.
+Late Assignment(s):
+The individual components of the weekly assignments are due at the times indicated above. No late assignments will be accepted.
+The weekly assignment grade will be based on the seven highest weekly grades. Students can therefore choose to not complete a
+maximum of four weekly assignments without any penalty. If a student cannot complete a weekly assignment for any reason, it
+will count towards the four weekly assignments that the student can choose not to complete.
+Final Exams:
+Students who cannot complete their final examination due to illness or other serious causes must file an online petition within 72
+hours of the missed examination. Late petitions will NOT be considered. Upon approval of a deferred exam request, a nonrefundable
+fee is required for each examination approved. See the Office of the Registrar Administrative Fees for Services page for
+more information.
+Academic Misconduct:
+Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the
+University of Toronto Mississauga is a strong signal of each student’s individual academic achievement. As a result, UTM treats
+cases of cheating and plagiarism very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines behaviours that constitute academic dishonesty and
+the process for addressing academic offences. Potential offences include, but are not limited to:
+In papers and assignments:
+Using someone else’s ideas or words without appropriate acknowledgement.
+Submitting your own work in more than one course without the permission of the instructor.
+Making up sources or facts.
+Obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+1. Using or possessing unauthorized aids.
+2. Looking at someone else's answers during an exam or test.
+3. Misrepresenting your identity.
+In academic work:
+1. Falsifying institutional documents or grades.
+2. Falsifying or altering any documentation required, including (but not limited to) doctor's notes.
+Students should note that copying, plagiarizing, or other forms of academic misconduct will not be tolerated. Any student caught
+engaging in such activities will be subject to academic discipline ranging from a mark of zero on the assignment, test or
+examination to dismissal from the university as outlined in the academic handbook. Any student abetting or otherwise assisting in
+such misconduct will also be subject to academic penalties.
+Normally, students will be required to submit their course essays to the University's plagiarism detection tool for a review of textual
+similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in
+the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the
+University’s use of this tool are described on the Centre for Teaching Support & Innovation web site (https://uoft.me/pdt-faq).
+Standard of Conduct in this Course:
+Since this course is part of a degree designed to give you a broad understanding of the world of business, we aim to run the course
+in a way which will be consistent with the world of business - where many of you will spend your working lives. We strive to
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 5 of 9
+provide accurate information, quality materials and good service, consistent with our obligations to maintain the high academic
+standards of the Department of Management at the University of Toronto Mississauga.
+In return we expect that you will conduct yourself in a way that prepares you for the world of work.
+We start on time, so please do not arrive late and disrupt others.
+Leaving class early is also disruptive to your colleagues and will not be permitted unless you have made prior arrangements
+with the instructor.
+Turn off your cell phone.
+Keep up to date. Make sure that you know the class schedule. Check on the course web page for updates and posted
+materials.
+During the class, respect the learning opportunities of others. Don't distract others by chatting to your neighbour. Our
+expectation is that you will not only contribute in class to your own learning, but also that of others.
+Remote assessments:
+1. Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+2. Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+3. Posting test, essay, or exam questions to message boards or social media.
+4. Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+5. Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources .
+Copyright Notice:
+Please be advised that the intellectual property rights in the material referred to on this syllabus and posted on the course site may
+belong to the course instructor or other persons. You are not authorized to reproduce or distribute such material, in any form or
+medium, without the prior consent of the intellectual property owner. For example, uploading course assignments or solutions to
+Coursehero, Easy Edu, and other tutoring sites and services is strictly prohibited. Violation of intellectual property rights may be a
+violation of the law and University of Toronto policies and may entail significant repercussions for the person found to have
+engaged in such act. If you have any questions regarding your right to use the material in a manner other than as set forth in the
+syllabus, please speak to your instructor.
+Additional Information:
+U of T statement on commitment to equity, human rights, and respect for diversity
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning
+environment in this course should strive to create an atmosphere of mutual respect where all members of our community can
+express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or
+harassment against any persons or communities.
+UTM statement on academic integrity
+UTM wishes to remind students that they are expected to adhere to the Code of Behaviour on Academic Matters regardless of
+the course delivery method. UTM expects that students will maintain the same academic honesty and integrity both in a
+classroom setting and online. Potential academic offences related to digital contexts include, but are not limited to:
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+Posting test, essay, or exam questions to message boards or social media.
+Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources.
+RGASC
+The Robert Gillespie Academic Skills Centre (RGASC) is located in Room 3251 on the third floor of the Maanjiwe
+nendamowinan Building. The RGASC offers individual consultations, workshops (many CCR-accredited), and a wide range of
+programs to help students identify and develop the academic skills they need for success in their studies. In Winter 2022, their
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 6 of 9
+programming will include both in-person and online options. Visit the RGASC website to explore their online resources, book
+an in-person or online appointment, or learn about other programming such as Writing Retreats, the Program for Accessing
+Research Training (PART), Mathematics and Numeracy Support, and dedicated resources for English Language Learners.
+UTM Library's
+UTM Library - The University of Toronto Library provides access to a vast collection of online and print resources to faculty,
+staff, and students and is the largest academic library in Canada. The UTM Library offers Reference and Research Help inperson
+and also virtually, through chat, Zoom, and individual research consultations, to help students navigate library
+databases, find relevant articles for their research, and cite correctly. The Library Workshops and Events help students learn
+about the search techniques and specialized software, needed to be successful in their academic journey. For more information,
+visit http://library.utm.utoronto.ca.
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 7 of 9
+Date Topic
+2024-01-08 Week 1: INTRODUCTION
+Introduction to the course
+Course expectations and logistics
+Overview of management and control
+No preparation needed for this class
+2024-01-15 Week 2: GENERAL MANAGEMENT CONTROL
+Readings: See Quercus
+Case: Westchester Distribution
+This case discussion will be led by the instructor.
+2024-01-22 Week 3: RESULTS CONTROLS
+Readings: See Quercus
+Case: Atlanta Schools: Measures to Improve Performance
+This discussion will be led by Group A
+2024-01-29 Week 4: ACTION AND PERSONNEL CONTROLS AND CONTROL SYSTEMS TIGHTNESS
+Readings: See Quercus
+Case: Controls at the Bellagio Casino Resort
+This discussion will be led by Group B
+2024-02-05 Week 5: CULTURE CONTROL
+Readings: See Quercus
+Case: Patagonia, Inc.
+This discussion will be led by Group C
+2024-02-12 Week 6: INCENTIVES & MYOPIA
+Readings: See Quercus
+Case: Janalakshmi Financial Services' HR Dilemma
+This discussion will be led by Group D
+2024-02-19 Week 7: READING WEEK
+2024-02-26 Week 8: INCENTIVES & MYOPIA
+Readings: See Quercus
+Case: Southern California Edison
+This discussion will be led by Group E
+Course Schedule
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 8 of 9
+2024-03-04 Week 9: FRAUD
+Readings: See Quercus
+Case: Punjab National Bank - The Modi Fraud-System Failure or People Failure
+This discussion will be led by Group F
+2024-03-11 Week 10: CORPORATE GOVERNANCE AND BOARD OF DIRECTORS
+Readings: See Quercus
+Case: Governance Failure at Satyam
+This discussion will be led by Group G
+2024-03-18 Week 11: ENVIRONMENTAL, SOCIAL & GOVERNANCE - SOCIAL
+Readings: See Quercus
+Case: De Beers Canada - The Attawapiskat Context
+This discussion will be led by Group H
+2024-03-25 Week 12: ETHICS
+Readings: See Quercus
+See course website for discussion questions and possible further readings
+Case: Fiji Water & Corporate Social Responsibility
+This discussion will be led by Group I
+2024-04-01 Week 13: NOT-FOR-PROFIT ORGANIZATIONS
+Readings: See Quercus
+Discussion: Management control at the University of Toronto - the good, bad and ugly and how you would
+change it.
+This discussion will be led by Group J
+TBA Final Examination
+Last Date to drop course from Academic Record and GPA is March 11, 2024.
+The Course Schedule above is subject to change due to the constantly evolving nature of COVID public health measures. Please
+check Quercus and emails regularly for any changes to the proposed schedule.
+MGT428H5S - Gao, Jenny 2024-01-04 18:54:45 Page 9 of 9

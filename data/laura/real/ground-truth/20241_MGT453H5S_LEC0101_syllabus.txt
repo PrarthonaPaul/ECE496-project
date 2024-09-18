@@ -1,0 +1,365 @@
+DEPARTMENT OF MANAGEMENT
+UNIVERSITY OF TORONTO MISSISSAUGA
+MGT453H5S LEC0101
+Marketing Research
+Course Outline - Winter 2024
+Class Location & Time Wed, 03:00 PM - 05:00 PM DH 2080
+Instructor Hemant Sangwan
+Office Location
+Office Hours By appointment
+E-mail Address h.sangwan@utoronto.ca
+Course Web Site https://q.utoronto.ca
+Teaching Assistant Rddhi Chhabra
+Office Hours By appointment
+E-mail Address rddhi.chhabra@mail.utoronto.ca
+Course Description
+Marketing research is studied from the perspective of the marketing manager. The course focuses on the initiation, design, and
+interpretation of research as an aid to marketing decision making. Case studies and projects are used to provide students with some
+practical research experiences.
+Prerequisite: MGT353H5 and [MGT218H5 or ECO220Y5 or ECO227Y5 or STA218H5 or (STA256H5 and STA260H5) or
+(STA256H5 and STA258H5)]
+Exclusion: MGMC01H3 (SSc)
+Distribution Requirement: SSc
+Course Objective
+The objectives of this course are:
+1. Identify opportunities for marketing research when faced with marketing challenges
+2. Write marketing research objectives derived from marketing research problems
+3. Design research instruments (e.g., surveys, focus group guidelines, etc.) to support marketing research questions
+4. Conduct secondary research in adherence with academic integrity guidelines
+5. Evaluate research methods to support business objectives
+6. Assess ethical and privacy concerns in marketing research and business situations
+7. Analyze data using marketing research and statistical techniques
+8. Prepare a market research brief, with secondary research support, a timeline and budget constraints that adhere to ethical
+guidelines
+9. Present research results, limitations, and recommendations to stakeholders
+Textbooks and Other Materials
+Required
+Textbook: Essentials of Marketing Research. Joseph F Hair, David J Ortinau, Dana E Harrison. McGraw Hill. Sixth
+Edition. ISBN: 978-1-26-6261503
+Materials posted on Quercus (e.g., slides, articles, links, videos, etc.)
+Recommedned
+Market Research Industry Trend report (GRIT Report) https://www.greenbook.org/grit
+The Personal Information Protection and Electronic Documents Act (PIPEDA) https://www.priv.gc.ca/en/privacytopics/
+privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/
+U of T Library: Marketing Research Reports https://guides.library.utoronto.ca/c.php?g=250479&p=1670803
+Business Development Bank of Canada: https://www.bdc.ca/en
+Assessment and Grading Policies
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 1 of 9
+Type Description Due Date Weight
+Class Participation In-class discussion, online discussion board, course reflection On-going 8%
+Assignment Online module on Research Ethics (TCPS 2 certification) 2024-01-23 2%
+Term Test Term Test-1 2024-02-14 17%
+Term Test Term Test-2 2024-03-20 18%
+Term Test Term Test-3 (Cumulative) 2024-04-03 25%
+Assignment Group Project -Part 1 (Proposal) 2024-02-06 5%
+Assignment Group Project -Part 2 (Final Report) 2024-03-26 20%
+Presentations Group Project -Part 3 (Presentation) 2024-03-27 5%
+Total 100%
+Note that the Course Schedule, Assessment and Grading Policies detailed in this course outline are contingent on class delivery
+staying unchanged. The course outline may change at the instructors' discretion under unforeseeable circumstances, e.g. lockdown
+due to COVID. For example, if we are required to offer courses via remote delivery during the semester, the instructor will make
+the necessary adjustments, including, but not limited to, the nature and timing of assignments and tests, reweighting of course
+assessments, and other course content. These changes will be communicated via Quercus.
+Requirements and Criteria
+In-class discussion, online discussion board, course reflection (8%)
+Discussion is an important element of learning and case analysis, and this makes class participation a critical component of
+students' leaning experience. Participation is all about building a learning community and it will be your contribution to this
+community that counts. The instructor's role during a case discussion is that of a facilitator and moderator. In the classes, we are
+less concerned with "right" or "wrong" answers than we are with thoughtful contributions, which follow the discussion and either
+add to the debate or move it in a new direction. Furthermore, we do not want to have a situation where everyone is competing for
+airtime: this works against building a learning community.
+Although everyone will be encouraged to participate, students may be called on randomly during the discussions. E.g., I
+may ask a student a follow-up question in response to another student's answer.
+You should generally speak up in class. Try to have something valuable to say in at least one case discussion session. You
+should be aware that good participation means quality of participation, as opposed to quantity. Airtime is limited, so please
+do not talk for the sake of talking. The following questions will be considered in grading participation:
+Do comments interpret or integrate case facts using theories, concepts, and analytical tools presented in the readings and
+lectures?
+Can the participant provide insights on why certain market phenomena (that are being discussed in class) are observed?
+Further, can he/she add to the concepts discussed in class with suitable examples?
+Can the participant show the ability to challenge the concepts discussed in class by giving counter examples/reasons?
+Is the participant an effective communicator? i.e., comments presented in a concise and convincing manner.Does the
+participant listen to other comments? Is the participant able to build on and evaluate other comments? Does the participant
+learn from and show respect for other speakers and their points of view?
+There will be a discussion board topic for certain weeks where students need to write their point of views (PoVs) on a given topic.
+The topic could be related to analytics / decision-making / methodology, and the PoVs should reflect your position on the given
+topic and/or suggestions to a specific problem, and not a Yes/No type of response. The objectives of the discussion board topic is to
+learn from each other's PoV, develop critical thinking, and take a position on a given topic based on logic, knowledge, and personal
+preferences. The PoVs are not "right" or "wrong" and present an opportunity to show creativity, analysis, and ability to critically
+examine a situation and ask meaningful questions.
+One of the discussion board topics would be about course reflection, where students need to write key learnings from the course,
+their experience with completing discussion board activities, and if they completed these activities in a gradual timely manner or all
+at once!
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 2 of 9
+Online module - TCPS 2 (Course on Research Ethics) 2%
+There will be an online module on Research Ethics. The modules will require students to read/watch content on a specific topic
+(e.g., consent, fairness, equity, research ethics, etc.) and then answer a set of MC / short answer questions related to the topics.
+The module can be freely accessed at https://tcps2core.ca/welcome
+Once a module is completed (3-5 hours), the platform will provide a certificate of completion - indicating the name of the student,
+and the date of completion.
+Students need to submit the certificate of completion as a PDF file on Quercus by the due date as proof of completing the modules.
+No other proof will be accepted.
+Individual term tests (17% + 18% + 25%):
+There will be three term tests, worth 17%, 18%, and 25% of the total weight of the course. The tests will be in the form of (MC / TF
+/ and/or short answer questions / and or mini case-based scenarios). The term test-3 will cover ALL the topics discussed in the
+course (cumulative). Specific details will be provided in advance during the class discussion / and will also be posted on Quercus.
+Students are not expected to consult with each other or take external help regarding the concepts and principles asked in tests.
+Group project (5%+ 20%+ 5% = 30%)
+Students will form groups of four to six people and complete a group project assignment. There will be three parts for the group
+assignment - part 1 (proposal, 5%), part 2 (final report, 20%), and part 3 (presentation, 5%).
+In the group project, students will collaborate with others to learn, discuss, and come up with specific solutions and
+recommendations to a set of business problems involving Marketing Research.
+The groups will be formed based on mutual consensus among students and/or the instructor can also advise about the same.
+The data / materials / articles used for group projects can be sourced/suggested by students and / or provided by the instructor. In all
+cases, the students need to take a formal/informal approval from the instructor before finalizing data and start working on the
+project. Additional details/ specific information about each part will be discussed during the class/ and will also be posted on
+Canvas well in advance.
+Group project - part 1 (proposal, 5%): In this part students will analyze the business situation to formulate the problem,
+finalize key objectives and propose a plan to meet the business objectives (PPTX format)
+Group project - part 2 (final report, 20%): In this part, students will execute the plan proposed in part 1 based on
+authentic research and analysis, present the findings, and provide key recommendations to the stakeholders in a form of a
+professional business report (PPTX format)
+Group project - part 3 (presentation, 5%): In this part, students need to present their findings, either live in class or in a
+form of a pre-recorded professional business video presentation. The video presentation must be based on slides, with a
+flexibility of adding some creativity (animation, visuals, etc.) which enhances the appeal of the presentation. Specific
+details will be provided in advance during the class discussion/ and will also be posted on Quercus.
+Peer Assessments: As part of the group project, you (individual and confidential) may be asked to submit a form
+describing contributions of each team member (including yours), overall experience working with the team, and highlight
+any area for improvement in the future. In addition, you need to communicate with the instructor, in a timely manner, any
+concerns which can negatively affect the timeline/overall experience of working in the group.
+The expectation is that each member in the group will contribute their fair share to the best of their abilities and not engage
+in "free riding" behaviour. It is perfectly fine to have differences with your team members on ideas, working plans, etc. and
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 3 of 9
+you need to manage those differences based on mutual discussion with your team members in a professional manner. The
+instructor will not micromanage day-to-day operational issues of working in the group project. However, if there is credible
+evidence that a member is completely missing from the work or making marginal or not meaningful contribution to the
+group work, it will reflect in grades for that member.
+Conduct of Class
+Course Format and Expectations
+The course is composed of a great deal of active discussion on your part during lectures. The purpose of the lectures is to present
+and discuss theories, concepts, analytical techniques, and empirical findings. We will discuss many examples and cases with the
+goal of applying the concepts in real-world contexts.
+You are expected to do each week's assigned readings before coming to class.
+Everyone is expected to be present and fully prepared during live sessions. If you miss a class, please let the instructor (and the TA)
+know about it well in advance, including a brief explanation for your absence.
+As professional undergraduate courses, standards of professional conduct in the classroom apply, and the classroom should be
+treated as a professional business setting. This includes:
+1. Timeliness: do not arrive late and disrupt others. Leaving class early is also disruptive to your colleagues and will not be
+permitted unless you have made prior arrangements with the instructor.
+2. Keep your phone silent and do not engage in the use of phones or laptops in class for purposes other than classroom
+learning.
+3. Be prepared for class, including completion of all preparatory activities, and be prepared to participate.
+4. During the class, respect the learning opportunities of others. This includes exhibiting respect and openness to your
+classmates and colleagues, their experiences, and their viewpoints.
+Communication: For any course related inquires (e.g., grades, clarifications, contents, etc.), please email the TA, cc the instructor
+and add the course code in the subject line.
+Remarking / Re-Grading: Requests to have assignments / deliverables remarked would be considered if ALL the following
+conditions are met:
+The request is made within 4 working days of grades posted and available on Quercus.
+The student (or all members of the group in case it is a group assignment) submits with his/her request a written
+explanation as to why and where he/she believes he/she is entitled to more marks.
+The instructor has no reason to believe the student has made any changes after the assignment being returned.
+If I accept your re-marking request, we will regrade the entire assignment. Hence, the final grade of the assignment can go
+either up or down or stays the same.
+Procedures and Rules
+Special Consideration Request for Academic Accommodation Request - Missed Tests & Quizzes (term work only, no final
+exams):
+To be considered for academic accommodation for missed tests and quizzes (ONLY), please follow the appropriate next steps
+depending on your circumstance (i.e. illness related or non-illness related). Do NOT submit a petition for final exams. Final exam
+deferrals must be submitted through the Registrar's Office. Extension of time requests should follow the same process.
+Special Consideration Request Application: https://uoft.service-now.com/utm_scr
+Illness or Non-illness Related Next Steps
+1. Inform your professor in writing (e-mail is acceptable) no later than 24 hours after the test or quiz date of any
+circumstances that prevent you from writing a test or quiz. Failure to do so will result in your special consideration request
+petition being denied.
+2. Submit an online Special Consideration Request as soon as possible, but no later than 72 hours after the test or quiz
+date. Failure to do so will result in your request being denied. Special Consideration Request Application:
+https://uoft.service-now.com/utm_scr
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 4 of 9
+3. Provide your supporting documentation on the Special Consideration Request Application by attaching screenshots
+or relevant documents within one week of the missed test/quiz. Supporting documentation may include a screenshot of
+the Absence Declaration tool on ACORN. Please ensure the dates identified in your absence declaration include the actual
+test or quiz date, if applicable. Please refer the course outline for term work exclusions from use of Absence
+Declaration. The Department requires supporting documentation (such as Verification of Illness form) if your course
+outline excludes test/quiz from the one-time ACORN declaration. Illness related documentation include the Verification
+of Illness form which must be in English and completed by a practitioner registered and licensed in the Province of
+Ontario with original signature and business stamp. Non illness related documentation will vary but a death in the family
+requires submission of a death certificate. Requests without supporting documentation will be denied.
+IMPORTANT
+Failure to follow this process will result in your Special Consideration Request being denied.
+If your form is not completed correctly with the necessary details to assess your Special Consideration Request, your
+request may be denied.
+In the case of an illness, you need to follow the specific Missed Tests requirements for your course (see Missed Tests
+section below).
+You may receive a follow up email or response on the Special Consideration Request Application from the UTMM
+petitions committee. If so, you MUST respond within 24 hours.
+If there is concern about your Special Consideration Request, your request may be refused and/or you may be asked to meet
+with an Associate Chair or Program Director.
+If you have multiple Special Consideration Requests your request may be refused.
+If you do not complete the make-up work as and when required, you will receive a grade of zero for the original missed
+test; further special consideration is not permitted.
+Holidays and pre-purchased plane tickets, family plans (unless critical, such as death of an immediate family member), your
+friend's wedding, lack of preparation, or too many other tests are not acceptable excuses for missing a quiz, a test, or an item of
+course work.
+The written explanation and documentation that you submit represents an appeal from you, which requests the opportunity to
+account for that portion of your grade in an alternate manner than the normal one that is described in this course outline. If an
+appeal is not received by the deadline specified above, or if the appeal is deemed unacceptable, you will receive a grade of zero.
+Missed Test(s):
+Missed Tests and Assignments
+Students who miss a test or assignment for reasons entirely beyond their control (e.g. illness) may request special consideration
+within the timeline specified by the school.
+If you miss any assignment or term test-1 for unforeseen reasons and submit appropriate documentation, you could be asked to
+submit your work late, as decided by the instructor. In a situation, when you are not able to submit the assignment within 2 weeks
+of the original deadline, your grades will be reweighted based on your performance in the remaining individual assignments
+(provided you submitted necessary documents explaining your reasons for not submitting it).
+You must take both term test 2 and term test 3. If you miss either term test 2 or 3 or both - you must take makeup tests and you can
+be assigned additional work in the form of individual assessments (e.g., reviewing a paper, assignment, or any combination of
+these, etc.)
+Late Assignment(s):
+Please note that all assignments are due by the specified deadlines. The exact date and time will be given in the Quercus
+assignment. No late assignments will be accepted, except for students who, for reasons beyond their control, are unable to submit
+an assignment by its deadline and must obtain approval from the instructor for an extension. Supporting documentation will be
+required as per the policy on missed tests and assignments.
+Late assignments, when it requires electronic submission, will carry a 20% grade penalty per day. No exceptions!
+Academic Misconduct:
+Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the
+University of Toronto Mississauga is a strong signal of each student’s individual academic achievement. As a result, UTM treats
+cases of cheating and plagiarism very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines behaviours that constitute academic dishonesty and
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 5 of 9
+the process for addressing academic offences. Potential offences include, but are not limited to:
+In papers and assignments:
+Using someone else’s ideas or words without appropriate acknowledgement.
+Submitting your own work in more than one course without the permission of the instructor.
+Making up sources or facts.
+Obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+1. Using or possessing unauthorized aids.
+2. Looking at someone else's answers during an exam or test.
+3. Misrepresenting your identity.
+In academic work:
+1. Falsifying institutional documents or grades.
+2. Falsifying or altering any documentation required, including (but not limited to) doctor's notes.
+Students should note that copying, plagiarizing, or other forms of academic misconduct will not be tolerated. Any student caught
+engaging in such activities will be subject to academic discipline ranging from a mark of zero on the assignment, test or
+examination to dismissal from the university as outlined in the academic handbook. Any student abetting or otherwise assisting in
+such misconduct will also be subject to academic penalties.
+Normally, students will be required to submit their course essays to the University's plagiarism detection tool for a review of textual
+similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in
+the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the
+University’s use of this tool are described on the Centre for Teaching Support & Innovation web site (https://uoft.me/pdt-faq).
+Standard of Conduct in this Course:
+Since this course is part of a degree designed to give you a broad understanding of the world of business, we aim to run the course
+in a way which will be consistent with the world of business - where many of you will spend your working lives. We strive to
+provide accurate information, quality materials and good service, consistent with our obligations to maintain the high academic
+standards of the Department of Management at the University of Toronto Mississauga.
+In return we expect that you will conduct yourself in a way that prepares you for the world of work.
+We start on time, so please do not arrive late and disrupt others.
+Leaving class early is also disruptive to your colleagues and will not be permitted unless you have made prior arrangements
+with the instructor.
+Turn off your cell phone.
+Keep up to date. Make sure that you know the class schedule. Check on the course web page for updates and posted
+materials.
+During the class, respect the learning opportunities of others. Don't distract others by chatting to your neighbour. Our
+expectation is that you will not only contribute in class to your own learning, but also that of others.
+Remote assessments:
+1. Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+2. Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+3. Posting test, essay, or exam questions to message boards or social media.
+4. Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+5. Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources .
+Copyright Notice:
+Please be advised that the intellectual property rights in the material referred to on this syllabus and posted on the course site may
+belong to the course instructor or other persons. You are not authorized to reproduce or distribute such material, in any form or
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 6 of 9
+medium, without the prior consent of the intellectual property owner. For example, uploading course assignments or solutions to
+Coursehero, Easy Edu, and other tutoring sites and services is strictly prohibited. Violation of intellectual property rights may be a
+violation of the law and University of Toronto policies and may entail significant repercussions for the person found to have
+engaged in such act. If you have any questions regarding your right to use the material in a manner other than as set forth in the
+syllabus, please speak to your instructor.
+Additional Information:
+U of T statement on commitment to equity, human rights, and respect for diversity
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning
+environment in this course should strive to create an atmosphere of mutual respect where all members of our community can
+express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or
+harassment against any persons or communities.
+UTM statement on academic integrity
+UTM wishes to remind students that they are expected to adhere to the Code of Behaviour on Academic Matters regardless of
+the course delivery method. UTM expects that students will maintain the same academic honesty and integrity both in a
+classroom setting and online. Potential academic offences related to digital contexts include, but are not limited to:
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+Posting test, essay, or exam questions to message boards or social media.
+Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources.
+RGASC
+The Robert Gillespie Academic Skills Centre (RGASC) is located in Room 3251 on the third floor of the Maanjiwe
+nendamowinan Building. The RGASC offers individual consultations, workshops (many CCR-accredited), and a wide range of
+programs to help students identify and develop the academic skills they need for success in their studies. In Winter 2022, their
+programming will include both in-person and online options. Visit the RGASC website to explore their online resources, book
+an in-person or online appointment, or learn about other programming such as Writing Retreats, the Program for Accessing
+Research Training (PART), Mathematics and Numeracy Support, and dedicated resources for English Language Learners.
+UTM Library's
+UTM Library - The University of Toronto Library provides access to a vast collection of online and print resources to faculty,
+staff, and students and is the largest academic library in Canada. The UTM Library offers Reference and Research Help inperson
+and also virtually, through chat, Zoom, and individual research consultations, to help students navigate library
+databases, find relevant articles for their research, and cite correctly. The Library Workshops and Events help students learn
+about the search techniques and specialized software, needed to be successful in their academic journey. For more information,
+visit http://library.utm.utoronto.ca.
+Generative AI / ChatGPT
+This course policy is designed to promote your learning and intellectual development and to help you reach course learning
+outcomes.
+Students may choose to use generative artificial intelligence tools as they work through the assignments in this course; this
+use must be documented in an appendix for each assignment. The documentation should include what tool(s) were used,
+how they were used, and how the results from the AI were incorporated into the submitted work.
+Students may use artificial intelligence tools for creating an outline for an assignment, but the final submitted assignment
+must be original work produced by the individual student alone.
+Representing one's own ideas, or expression of an idea, that was AI-generated may be considered an academic offence in
+this course. Students are ultimately accountable for the work they submit.
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 7 of 9
+Date Topic
+2024-01-10 Introduction to Marketing research - Managerial decision making.
+Marketing research process and proposal
+Textbook Chapters 1,2
+2024-01-17 Qualitative research - exploratory, interaction, and observation based
+Textbook Chapter 4
+Due: Group formation
+2024-01-24 Quantitative research - descriptive, predictive, and causal
+Marketing research with secondary data and research
+Textbook Chapters 3,5
+Due: Jan 23rd - TCPS 2 Core certification (2%) https://tcps2core.ca/welcome
+2024-01-31 Measurement and scaling
+Textbook Chapter 7
+2024-02-07 Questionnaire Design
+Textbook Chapter 8
+Due: Feb 6th - Group project, part 1 (5%)
+2024-02-14 Term Test -1 (17%)
+During the class time (Based on chapters 1, 2, 3, 4, 5, 7, 8 + topics discussed in the class week 1-5)
+2024-02-21 Reading Week - no class
+2024-02-28 Sampling techniques and methods. Biases in sampling
+Textbook Chapter 6
+2024-03-06 Qualitative data analysis
+Quantitative data analysis -1
+Textbook Chapter 9, 10
+2024-03-13 Quantitative data analysis - 2
+Textbook Chapter 11, 12
+2024-03-20 Term Test 2 (18%)
+During the class time (Based on chapters 6, 9, 10, 11, 12 + topics discussed in the class week 9-11)
+Course Schedule
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 8 of 9
+2024-03-27 Due: March 26th: Group project - part 2 - Final report (20%)
+Due: March 27th: Group Project - part 3 - Presentation (5%)
+2024-04-03 Term Test-3 (25%, Cumulative, ALL topics covered in the course)
+During the class time.
+Last Date to drop course from Academic Record and GPA is March 11, 2024.
+The Course Schedule above is subject to change due to the constantly evolving nature of COVID public health measures. Please
+check Quercus and emails regularly for any changes to the proposed schedule.
+MGT453H5S - Sangwan, Hemant 2024-01-04 18:55:33 Page 9 of 9

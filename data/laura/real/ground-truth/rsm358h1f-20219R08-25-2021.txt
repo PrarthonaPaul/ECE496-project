@@ -1,0 +1,161 @@
+Syllabus – draft
+The syllabus is tentative at this point and may change in the first weeks of the semester.
+RSM 358 H1 F
+Foundations of Artificial Intelligence for Management
+Fall 2021
+Course Meets: Monday, 11am-1pm – RT 142
+Instructor: Professor Arik Senderovich
+Email: arik.senderovich@(Rotman.)utoronto.ca
+Webpage: https://q.utoronto.ca
+Office Hours: TBD
+Teaching Assistant: [Mr. Pooyan Habibi – pooyan.habibi@mail.utoronto.ca]
+Course Scope and Mission
+In this course instances, we shall consider Artificial Intelligence (AI) as the application of machine learning (ML) techniques to solve prediction problems historically performed by humans. AI is transforming business and society. This course provides a hands-on introduction to the wide variety of algorithms used in applications of ML with accent on supervised ML. The technical topics will include linear regression models, classification algorithms, and more recent machine-learning techniques rooted in neuroscience like reinforcement learning and deep learning. Application topics will include predicting consumer choices, MLB salaries, and Super Mario Bros. There will be an emphasis on conceptual understanding, so that students can interpret the results of these techniques to support effective decision-making. The course will be complemented by many hands-on exercises using the R programming language.
+Course Prerequisites
+ECO 220 or ECO 227 (fas.calendar.utoronto.ca/section/Rotman-Commerce).
+Statement on Equity, Diversity and Inclusion
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or harassment against any persons or communities.
+Required Technology
+For the first two weeks (until September 23rd), this course will be conducted entirely online. To participate fully and to complete the course successfully, you should ensure you have access to a computer that meets the University of Toronto guidelines. For further details, please visit this link: Recommended Technology Requirements for Remote/Online Learning
+Course Delivery:
+Section L0101 will be offered in person during the appointed time.
+Required Readings
+Item
+Title
+Required
+Instructions
+Text
+An Introduction to Statistical Learning
+By James, Witten, Hastie, Tibshirani
+Yes
+This will be the main text for the course. It is available in hardcopy or online here
+Text
+Reinforcement Learning
+By Sutton and Barto
+No
+Some material will be drawn from this textbook, but it is not mandatory reading
+Evaluation and Grades
+Grades are a measure of the performance of a student in individual courses. Each student shall be judged on the basis of how well they have command of the course materials.
+Work Due Date
+Class Participation/Attendance 10% Ongoing
+Assignments 30% See Quercus
+Mid-Term Test 20% TBD
+Final Term Test 40% TBD
+Final grades in the course are given in numerical format 0-100. They reflect your overall performance in achieving the stated Course Learning Outcomes. Assessment on interim deliverables can take many forms and they are intended to give you an indication where you stand relative to others. This will allow you to make adjustments to your approach, your expectations, and your performance. In this class, each student will receive a numerical raw score for their individual/group work. At the end of the course, the raw scores will be scaled, and then weighted according to the table above. The overall weighted average scaled score is then converted to a letter grade that reflects the student’s performance in the entire course. Please contact the instructor if you would like more guidance on your individual course performance.
+Course Format and Expectations
+All assignment will be submitted via Quercus. Students are expected to compete the assignments individually and be familiar with the University of Toronto standards of Academic Integrity (see below). The midterm and final assessments will be in-person. Participation will not be assessed during the first two weeks of the course due to their online nature. Students are encouraged to post course-content related questions to the “Discussion” section of Quercus.
+Weekly Schedule
+Week
+Topic
+Readings
+1
+Course Overview and Introduction
+ISL: 2.1
+2
+Assessing Model Accuracy
+ISL: 2.2
+3
+Linear Regression Review
+ISL: 3.1-3.5
+4
+Classification – Logistic Regression
+ISL: 4.1-4.3
+5
+Resampling – Cross-Validation and Bootstrapping
+ISL: 5
+6
+MIDTERM (in-class)
+7
+Model Selection – Subset and Shrinkage Methods
+ISL: 6.1, 6.2
+8
+Non-Linearities – Polynomial Regression, Splines, and Local Regression
+ISL: 7.1 - 7.6
+9
+Trees – Pruning, Bagging, Random Forests, Boosting
+ISL: 8
+10
+Support Vector Machines – Separating Hyperplanes and Maximal Margin Classifier
+ISL: 9.1 – 9.3, 9.4
+11
+Reinforcement Learning – Multi-Armed Bandits and Value Function Methods, Markov Decision Problems and TD Learning
+S&B: 2.1-2.5
+12
+Deep Learning – Introduction to Neural Networks and their applications.
+Reading material TBD
+Please note that the last day you can drop this course without academic penalty is November 8, 2021.
+RC Centre for Professional Skills Writing and Presentation Support:
+Please note that clear, concise, and correct writing and/or speaking will be considered in the evaluation of your assignments. You may lose points for writing or presenting that impedes communication: poor organization, excessive wordiness, hard-to-follow sentence structure, grammatical errors, or distracting tone, pace or body language. Students who require support or would like to develop their writing or presenting skills are encouraged to book an appointment with writing and presentation coaches offered by the RC Centre for Professional Skills. CPS offers both individual and group appointments with trained writing instructors and presentation coaches who are familiar with the RC program and common genres of business assignments. For students seeking help with writing skills, these coaches can provide feedback on idea organization, paragraph development, sentence structure, or spelling mistakes and grammatical errors. For students seeking help with presentation skills, coaches can help with the structure of your presentation, with voice, body language and proper transitions, as well as persuasive speaking and connecting with the audience.
+To book an appointment for writing or presentation coaching, go to uoft.me/writingcentres and select “Rotman Commerce Centre for Professional Skills” > Register for a WCONLINE account or login to your account (if you have one). For team / group assignments, assign one student from the group to book an appointment for the team.
+1. Register for an account using your @mail.utoronto.ca email address and follow the confirmation prompts you receive via email. At the bottom of the registration page, click on “yes” next to “include iCal links with appointment confirmation messages”.
+2. Once your registration is complete, select the schedule: Writing and Presentation Coaching on the drop-down menu.
+3. Click on the white box for an appointment slot. Each appointment will be 45 mins. You may attach a draft of your assignment or any other documents. If your draft is not ready, you may also share a Google link (or other live document sharing link) of your draft during your appointment.
+4. You will receive an appointment confirmation email with your appointment details and meeting link.
+For questions or registration support, please email rotmancommerce.cps@utoronto.ca.
+In addition to appointments offered by the RC Centre for Professional Skills, all RC students have access to their College Writing Centres. Students who require additional support and/or tutoring with respect to their writing skills are encouraged to visit the Academic Success Centre (http://www.studentlife.utoronto.ca/asc) or one of the College Writing Centres (writing.utoronto.ca/writing-centres). These Centres, as well as the RC Centre for Professional Skills, are teaching facilities – not editing services – where trained staff can assist students in developing their academic writing skills. There is no charge for the instruction and support.
+If you are a student registered with Accessibility Services, and extensions are one of your academic accommodations, you should consult with your Accessibility Advisor about this course. For considerations pertaining to teamwork and accessibility, please see information in the section on Accessibility Needs below under the Policies and Procedures heading.
+Class Participation
+Students are expected to prepare thoroughly and make every effort to attend every class. As class participation is a graded component of the course, students will be evaluated on the following:
+• Thoughtful responses
+• Understanding and analysis of topic
+• Idea generation
+• Promotes further discussion
+• Novelty of the proposed ideas and approaches
+Credit/No-Credit Option in Rotman Commerce
+You may request to Credit/No-Credit (CR/NCR) an RSM course in the following cases only:
+• The course will not be used for any specialist or focus, including the 8.0 RSM FCE requirement.
+• The course does not have a group work component.
+If you wish to request CR/NCR for an RSM course, you must contact a Rotman Commerce academic advisor by the drop deadline for the current term. The deadline for this term is TBA
+Final approval is on a case-by-case basis with the permission of the Director, Rotman Commerce.
+Policies and Procedures
+Missed Tests and Assignments (including mid-term and final-term assessments)
+Students who miss a test or assignment for reasons entirely beyond their control (e.g. illness) may request special consideration.
+In such cases, students must:
+1. Notify the instructor AND the Rotman Commerce Program Office on the date of the missed course deliverable, e.g. missed test, final assessments, assignment or class (in the case of participation marks).
+2. Complete a Request for Special Consideration Form and submit it along with your Absence Declaration on ACORN (please read the instructions on how to use the Absence Declaration in ACORN) within 2 business days of the originally scheduled course deliverable.
+Students who do not provide this information will be given a grade of 0 (zero) for the missed course deliverable.
+In case you miss a test or a deliverable, a make-up test or re-weighting of another deliverable/test will be performed.
+Late Assignments
+Late submissions will normally be penalized by 5% if the assignment is not received on the specified date, at the specified time. A further penalty of 10% will be applied to each subsequent day.
+Students who, for reasons beyond their control, are unable to submit an assignment by its deadline must obtain approval from the instructor for an extension. Supporting documentation will be required as per the policy on missed tests and assignments.
+Accessibility Needs
+The University of Toronto is committed to accessibility. If you require accommodations for a temporary or ongoing disability or health concern, or have any accessibility concerns about the course, the classroom or course materials, please contact Accessibility Services as soon as possible at accessibility.services@utoronto.ca or studentlife.utoronto.ca/as. It is important that you get in touch with them as soon as possible because the process for obtaining your accommodation letter may take up to several weeks. If you have general questions or concerns about the accessibility of this course, you are encouraged to reach out to your instructor, course coordinator, or Accessibility Services.
+If you’re interested in helping make this course more accessible, consider volunteering to be a note taker. Accessibility Services needs dependable volunteer note takers to assist students living with a disability to achieve academic success. All you have to do is attend classes regularly and submit your notes consistently. Follow these steps:
+1. Register online as a Volunteer Note Taker at https://clockwork.studentlife.utoronto.ca/custom/misc/home.aspx
+2. Follow the link that says “Volunteer Notetakers”
+3. Select your course and upload a sample of your notes
+4. Once you have been selected as a note taker, you’ll get an email notifying you to upload your notes.
+If you have questions or require assistance, please email as.notetaking@utoronto.ca. Volunteers may receive co-curricular credit or a certificate of appreciation.
+For courses with deliverables that require you to work in teams, please note the following. If you are a student registered with Accessibility Services, and extensions are one of your academic accommodations, requests for extensions impact everyone in the group. As a result, requests for late submissions of any component of teamwork will require compelling reasons, advance notice, and must work for everyone in the team. You are encouraged to discuss with your course instructor, Accessibility Advisor, and other team members what you need in order to successfully complete your coursework. Additionally, the Rotman Commerce Centre for Professional Skills offers Teamwork Mentors (see section above) who can help you and your team discuss how to support you effectively and how to develop a work plan that meets the needs and constraints of all team members.
+Academic Integrity
+Academic Integrity is a fundamental value essential to the pursuit of learning and scholarship at the University of Toronto. Participating honestly, respectively, responsibly and fairly in this academic community ensures that the U of T degree that you earn will continue to be valued and respected as a true signifier of a student’s individual work and academic achievement. As a result, the University treats cases of academic misconduct very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines the behaviours that constitute academic misconduct, the process for addressing academic offences and the penalties that may be imposed. You are expected to be familiar with the contents of this document. Potential offences include, but are not limited to:
+In papers and assignments:
+• Using someone else’s ideas or words without appropriate acknowledgement.
+• Submitting your own work in more than one course without the permission of the instructor.
+• Making up sources or facts.
+• Obtaining or providing unauthorized assistance on any assignment (this includes collaborating with others on assignments that are supposed to be completed individually).
+On test and exams:
+• Using or possessing any unauthorized aid, including a cell phone.
+• Looking at someone else’s answers
+• Misrepresenting your identity.
+• Submitting an altered test for re-grading.
+Misrepresentation:
+• Falsifying institutional documents or grades.
+• Falsifying or altering any documentation required by the University, including (but not limited to) medical notes.
+All suspected cases of academic dishonesty will be investigated by the following procedures outlined in the Code of Behaviour on Academic Matters. If you have any question about what is or is not permitted in the course, please do not hesitate to contact the course instructor. If you have any questions about appropriate research and citation methods, you are expected to seek out additional information from the instructor or other U of T resources such as College Writing Centres or the Academic Success Centre.
+Email
+At times, the course instructor may decide to communicate important course information by email. As such, all U of T students are required to have a valid UTmail+ email address. You are responsible for ensuring that your Utmail+ email address is set up and properly entered on ACORN. For more information visit help.ic.utoronto.ca/category/3/utmail.html.
+Forwarding your utoronto.ca email to a Gmail or other type of email account is not advisable. In some cases, messages from utoronto.ca addresses sent to Gmail accounts are filtered as junk mail, which means that important messages from your course instructor may end up in your spam or junk mail folder.
+Quercus and the Course Page
+The online course page for this course is accessed through Quercus. To access the course page, go to q.utoronto.ca and log in using your UTORid and password. Once you have logged in, you will be at the Quercus Dashboard. On this page you will see all of the courses you are presently enrolled in. If you don’t see the course listed here but you are properly registered for the course in ACORN, wait 48 hours.
+UCheck
+When attending in-person lectures, tutorials, and other activities please be sure to complete the self-assessment process as part of UCheck. The instructions located here: https://www.utoronto.ca/utogether/ucheck
+Recording Lectures
+Lectures and course materials prepared by the instructor are considered by the University to be an instructor’s intellectual property covered by the Canadian Copyright Act. Students wishing to record a lecture or other course material in any way are required to ask the instructor’s explicit permission, and may not do so unless permission is granted. Students who have been previously granted permission to record lectures as an accommodation for a disability are excepted. This includes tape recording, filming, photographing PowerPoint slides, Quercus materials, etc.
+If permission for recording is granted by the instructor (or via Accessibility Services), it is intended for the individual student’s own study purposes and does not include permission to “publish” them in any way. It is forbidden for a student to publish an instructor’s notes to a website or sell them in any other form without formal permission.
+FIPPA Language
+Notice of video recording and sharing (Download permissible; re-use prohibited)
+This course, including your participation, will be recorded on video and will be available to students in the course for viewing remotely and after each session.
+Course videos and materials belong to your instructor, the University, and/or other source depending on the specific facts of each situation, and are protected by copyright. In this course, you are permitted to download session videos and materials for your own academic use, but you should not copy, share, or use them for any other purpose without the explicit permission of the instructor.
+For questions about recording and use of videos in which you appear please contact your instructor.

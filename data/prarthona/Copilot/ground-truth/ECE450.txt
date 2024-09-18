@@ -1,0 +1,98 @@
+ECE450 - Embedded Systems Design
+University: Midwest Engineering College
+Course Duration: Full Year (Fall and Winter)
+Instructor: Dr. Emily Johnson
+Contact Information: emily.johnson@mec.edu
+Office Hours: Mondays and Wednesdays, 1:00 PM - 3:00 PM
+Course Description
+This course focuses on the design and development of embedded systems. Students work on projects such as building a fully functional radio, developing a home automation system, or creating a component for a robot. The course emphasizes hands-on experience with microcontrollers, sensors, and actuators.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Program microcontrollers for various applications.
+2.
+Integrate sensors and actuators into embedded systems.
+3.
+Design and implement embedded system software.
+4.
+Test and debug embedded systems.
+5.
+Document and present their design and implementation process.
+Course Schedule and Deliverables
+Fall Semester:
+Table
+Date
+Deliverable
+Description
+Weight
+September 15, 2020
+Team Formation and Project Proposal
+Teams form and submit a proposal outlining the project scope and objectives.
+10%
+October 20, 2020
+Requirements Specification Document
+Detailed requirements analysis and specification document.
+15%
+November 25, 2020
+Preliminary Design Review
+Presentation of initial design, including architecture and key components.
+15%
+December 10, 2020
+Midterm Progress Report
+Report on progress, challenges, and next steps.
+10%
+Winter Semester:
+Table
+Date
+Deliverable
+Description
+Weight
+February 15, 2021
+Detailed Design Document
+Comprehensive design document with detailed architecture and component design.
+15%
+March 20, 2021
+Implementation and Testing Report
+Report on implementation progress and testing results.
+20%
+April 10, 2021
+Final Presentation and Demonstration
+Final presentation and demonstration of the embedded system project.
+15%
+Grading Breakdown
+•
+Team Formation and Project Proposal: 10%
+•
+Requirements Specification Document: 15%
+•
+Preliminary Design Review: 15%
+•
+Midterm Progress Report: 10%
+•
+Detailed Design Document: 15%
+•
+Implementation and Testing Report: 20%
+•
+Final Presentation and Demonstration: 15%
+Total: 100%
+Course Policies
+•
+Attendance: Regular attendance is required. More than three unexcused absences may result in a lower grade.
+•
+Late Submissions: Assignments submitted late will incur a penalty of 5% per day, up to a maximum of 25%.
+•
+Academic Integrity: All students are expected to adhere to the university’s academic integrity policy. Plagiarism or cheating will result in disciplinary action.
+Required Materials
+•
+Textbook: “Embedded Systems: Real-Time Interfacing to Arm Cortex-M Microcontrollers” by Jonathan W. Valvano
+•
+Access to microcontroller development kits (e.g., Arduino, Raspberry Pi)
+•
+Prototyping materials (to be specified based on project requirements)
+Additional Resources
+•
+University Library
+•
+Embedded Systems Lab
+•
+Online tutorials and workshops

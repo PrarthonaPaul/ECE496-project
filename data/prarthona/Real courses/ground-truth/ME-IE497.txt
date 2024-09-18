@@ -1,0 +1,431 @@
+ME / IE 497 SAE Section Syllabus
+Fall 2013
+Instructors
+Dr. Robert Paasch
+Teaching Assistants
+Trevor Takaro (Rogers 128 trevor.
+takaro@globalformularacing.
+com)
+Sam Kopp (Rogers 128 sam.
+kopp@globalformularacing.
+com)
+Phil Arscott (Rogers 128 phillip.
+arscott@globalformularacing.
+com)
+Paul Weitzman (Rogers 110 paul.
+weitzman@globalformularacing.
+com)
+Derek Duncan (Rogers 128 derek.duncan@globalformularacing.
+com)
+SAE Graduate Students
+Robert Culbertson (Rogers 110 robert.
+culbertson@globalformularacing.
+com)
+Robert Story (Rogers 110 robert.
+story@globalformularacing.
+com)
+Credits: Fall: 4
+Winter: 4
+Day/Time: Fall: TR 4:00–5:50 pm
+Winter: MW 4:00–5:50 pm
+COURSE OVERVIEW
+IE/ME 497 & IE/ME 498 (MIME Capstone Design), the School of Mechanical, Industrial and
+Manufacturing Engineering’s capstone design sequence, gives MIME seniors the
+opportunity to integrate the engineering knowledge and experience they’ve gained
+throughout their undergraduate program and apply their skills to work on realworld
+engineering projects. To complete these projects, teams of students (1) work with
+sponsors, perform analyses, and conduct research to develop requirements for a
+mechanical or industrial system or solution to a mechanical or industrial engineering
+problem; (2) design the system or solution methods; (3) implement a prototype, model, or
+method according to the system or solution design; (4) operate the prototype, model, or
+method; (5) evaluate the prototype, model, or method with respect to the project
+requirements; (6) document the process, products, and results; and (7) manage the
+projects.
+Each student team works on a distinct project. In addition to being supervised and
+evaluated by one of the course instructors, each team works with a representative of the
+project’s sponsor or customer (“sponsor mentor”) and a MIME advisor who provides
+technical guidance and consulting. In addition to their technical roles, the sponsor mentor
+and MIME advisor evaluate student performance and provide input to the course instructors
+for grading purposes. For some projects, the sponsor mentor and MIME advisor may be the
+same person. In rare cases, one of the course instructors may fill all three roles.
+MIME Capstone Design is also the School of MIME’s designated writingintensive
+course
+sequence that satisfies the university’s WIC requirement. Course participants complete a
+variety of written and oral assignments that support the engineering design process, further
+their engineering communication skills, and otherwise prepare them for success in their
+chosen profession. In completing these assignments, students are expected to review and
+respond to one another’s writing in a professional and collegial manner; revise individually
+and collaboratively produced drafts; and use informal writing techniques to explore and
+solve engineering analysis, design, and evaluation problems.
+COURSESPECIFIC
+LEARNING OUTCOMES
+At the completion of MIME Capstone Design, students will be able to perform the following
+tasks:
+1. Starting from a sponsor’s statements of need, work with the sponsor, perform
+appropriate research and analyses, and apply relevant engineering standards to
+develop formal requirements for a mechanical system, an industrial system, or the
+solution to a mechanical or industrial problem.
+2. Considering multiple alternative approaches, design and implement a prototype,
+model, or method to meet those requirements by correctly applying appropriate
+engineering principles.
+3. Operate or implement the prototype, model, or method and evaluate the results
+against the requirements using objective performance measures.
+4. Plan and manage the project so as to use team resources efficiently and meet
+project requirements on time and on or under budget.
+5. Recognize and constructively address ethical dilemmas that may arise and potential
+adverse environmental, safety, health, and social impacts.
+6. Collaboratively produce written and oral reports that effectively communicate project
+information to target audiences—i.e., that are at the appropriate technical level for
+these audiences and follow disciplinary conventions of usage, vocabulary, format,
+and citation.
+7. Function effectively on a team, contributing to all major aspects of the design,
+implementation, and testing of an engineering project.
+ABET PROGRAM OUTCOMES
+In developing your skills in product design and development, MIME Capstone Design
+directly supports ABET Program Outcome c, “Ability to design a system, component, or
+process to meet desired needs within realistic constraints such as economic,
+environmental, social, political, ethical, health and safety, manufacturability, and
+sustainability.”
+In focusing on the communication and teamwork skills needed for producing formal
+engineering reports and preparing and delivering professionalquality
+oral presentations,
+thinking critically about local and global design issues, and working collaboratively on
+engineering projects, this course sequence also supports ABET Program Outcome d,
+“Ability to focus on multidisciplinary teams,” and g, “Ability to communicate effectively.”
+Finally, the content of this capstone design course sequence also supports ABET Program
+Outcome f, “Understanding of professional and ethical responsibility” and i “Recognition of
+the need for, and ability to engage in, lifelong learning.”
+WIC PROGRAM OUTCOMES
+Students will
+1. Develop and articulate content knowledge and critical thinking in the discipline
+through frequent practice of informal and formal writing.
+2. Demonstrate knowledge/understanding of audience expectations, genres, and
+conventions appropriate to communicating in the discipline.
+3. Demonstrate the ability to compose a document of at least 2000 words through
+multiple aspects of writing, including brainstorming, drafting, using sources
+appropriately, and revising comprehensively after receiving feedback on a draft.
+POLICY REGARDING STUDENTS WITH DISABILITIES
+Accommodations are collaborative efforts between students, faculty and Disability Access
+Services (DAS). Students with accommodations approved through DAS are responsible
+for contacting the faculty member in charge of the course prior to or during the first week of
+the term to discuss accommodations. Students who believe they are eligible for
+accommodations but who have not yet obtained approval through DAS should contact DAS
+immediately at 5417374098.
+POLICY REGARDING STUDENT ACADEMIC DISHONESTY AND CONDUCT
+Instances of student academic dishonesty and improper conduct will be dealt with
+according to University policy. Students are referred to
+http://oregonstate.edu/admin/stucon/achon.htm for a definition and examples of academic
+dishonesty and improper conduct.
+MACHINING LAB CERTIFICATION
+For students completing senior projects with significant mechanical design requirements,
+certification to work in the MIME machining lab is strongly encouraged. If you are not
+certified, contact Brian Jensen immediately to schedule your certification. Lack of
+machining lab certification is not a valid excuse for your project being over budget or behind
+schedule or otherwise failing to meet course requirements.
+Key Deadlines
+Topic Points Date
+Team Charter & Presentation 50 Tues. 10Oct13
+Background Report 200 Thurs. 24Oct13
+Preliminary Proposal 200 Thurs. 14Nov13
+Final Proposal 250 Thurs. 9Dec13
+Project Notebook 50 Thurs. 12Dec13
+Course Notes
+1. Google will be used as the primary communication and information tool (Gmail, Google
+Drive, Sites, Calendar, etc.)
+2. Team charter must be completed in google sites.
+3. Team presentations must be completed in google presentation and embedded in google
+sites.
+4. Reports must be completed in google docs.
+5. Assignments are expected to be properly completed and formatted by 23:59 PST on the
+due date.
+6. Proper formatting and general writing requirements can be found in the GFR14 Senior
+Project and Baja 2014 Senior Project folders on the Mohr Drive, as well as in the GFR14
+senior project folder on google drive
+7. Assignment descriptions & grading rubrics for all reports are located as stated above. You
+are responsible for ensuring your assignments fulfill requirements.
+8. The class will be divided into two groups
+a. Group A: Baja and Formula management projects
+b. Group B: All other Formula Projects
+c. Both groups attend Group A presentation days, only Group B attends Group B
+presentation days
+ME/IE 497 Assignment Summary
+(See full Assignment Description in Senior Project folders)
+Group Charter and Presentation (50 points)
+● The Group Charter is a contract between you and your team members stating the
+expectations of each other and of the project, to be updated as the term progresses.
+● Presentation should be approximately 5 min/team andin
+4 slidespresent:
+○ Team Goals
+○ Group Member Roles and Responsibilities
+○ Potential Barriers and Coping Strategies
+○ Standards for Availability
+Project Notebook (50 points)
+● Your senior project notebook is a log of all your engineering work which is not on google
+● You must carry your notebook with you at all times and record the results/decisions of all
+meetings
+● Organization of the notebook is up to you
+● Anything you are writing down as part of your project should be in this notebook
+● Notebooks will be checked at the end of the term
+Background Report (200 points)
+● Follow the Example Report template through section 2.1 Current
+State Analysis.
+● Additional requirements in the GFR14 OSU Project Group Report Instructions and
+Requirements.
+● Graded using the Fall 2013 ME/IE 497 SAE Grading Rubrics.
+Preliminary Proposal (200 points)
+● Follow the Example Report template through section 3 Design
+Analysis, with previous
+sections updated per critique.
+● Additional requirements in the GFR14 OSU Project Group Report Instructions and
+Requirements.
+● Graded using the Fall 2013 ME/IE 497 SAE Grading Rubrics.
+Final Proposal (250 points)
+● Follow the Example Report template through section 4 Design
+Selected, with previous
+sections updated per critique.
+● Additional requirements in the GFR14 OSU Project Group Report Instructions and
+Requirements.
+● Graded using the Fall 2013 ME/IE 497 SAE Grading Rubrics.
+Weekly Presentations (100 points)
+● Google Presentation should be short (58
+min/group incl. questions) and must be done in
+Google Presentations, embedded in Google Sites They will include:
+○ Progress made since last presentation
+○ Planned progress till next presentation
+○ Issues that need to be resolved on a higher level then your project group
+○ Up to date schedule
+Project Contribution Subjective
+(150 points)
+● Completion of objectives and effort put for to complete your project, as well as your
+contribution to the overall subteam goals
+● Attendance to all the ME 306 classes and work sessions
+● Completion of project management requirements (Part Evaluation Sheet, Gantt Chart,
+etc.) (Formula members)
+2013 Fall Term Schedule
+Activity / Task Week Date
+Full Senior Project Group for SAE Team Members 1 1Oct13
+1st SAE Class Introduction,
+Project Description/Choice 1 3Oct13
+Group Assignments, Introduction to Google, Group Charter creation 2 8Oct13
+Team Charter Presentations in Class, GROUP CHARTER DUE 2 10Oct13
+Individual Project Group Meetings A 3 15Oct13
+Individual Project Group Meetings B Reading quiz! 3 17Oct13
+Full Class: Status Presentations A 4 22Oct13
+Full Class: Status Presentations B; BACKGROUND REPORTS DUE 4 24Oct13
+Individual Project Group Meetings A 5 29Oct13
+Individual Project Group Meetings B 5 31Oct13
+Full Class: Status Presentations A; Background Reports Returned 6 5Nov13
+Full Class: Status Presentations A Background
+Report Critique 6 7Nov13
+Individual Project Group Meetings A 7 12Nov13
+Individual Project Group Meetings B 7 14Nov13
+PRELIMINARY PROPOSAL DUE 8 18Nov13
+Full Class: Status Presentations A 8 19Nov13
+Full Class: Status Presentations B 8 21Nov13
+Individual Project Group Meetings (likely occur over ME348 hours also) 9 26Nov13
+Thanksgiving! 9 28Nov13
+Full Class: Status Presentations 10 3Dec13
+Full Class: Status Presentations 10 5Dec13
+FINAL PROPOSAL DUE Finals 9Dec13
+Project notebook due Finals 12Dec13
+Winter work week: Optional if your project is complete. 1st week break 1620Dec13
+ME / IE 498 SAE Section Syllabus
+Winter 2013
+Instructors
+Dr. Robert Paasch (robert.paasch@globalformularacing.
+com)
+Teaching Assistant
+Trevor Takaro (Rogers 128 trevor.
+takaro@globalformularacing.
+com)
+Robert Story (Rogers 110 robert.
+story@globalformularacing.
+com)
+Sam Kopp (Rogers 128 sam.
+kopp@globalformularacing.
+com)
+Derek Duncan (Rogers 128 derek.
+duncan@globalformularacing.
+com)
+Credits: Fall: 4
+Winter: 4
+Day/Time: Fall: TR 4:00–5:50 pm
+Winter: MW 4:00–5:50 pm
+COURSE OVERVIEW
+IE/ME 497 & IE/ME 498 (MIME Capstone Design), the School of Mechanical, Industrial and
+Manufacturing Engineering’s capstone design sequence, gives MIME seniors the opportunity to
+integrate the engineering knowledge and experience they’ve gained throughout their
+undergraduate program and apply their skills to work on realworld
+engineering projects. To
+complete these projects, teams of students (1) work with sponsors, perform analyses, and
+conduct research to develop requirements for a mechanical or industrial system or solution to a
+mechanical or industrial engineering problem; (2) design the system or solution methods; (3)
+implement a prototype, model, or method according to the system or solution design; (4) operate
+the prototype, model, or method; (5) evaluate the prototype, model, or method with respect to the
+project requirements; (6) document the process, products, and results; and (7) manage the
+projects.
+Each student team works on a distinct project. In addition to being supervised and evaluated by
+one of the course instructors, each team works with a representative of the project’s sponsor or
+customer (“sponsor mentor”) and a MIME advisor who provides technical guidance and
+consulting. In addition to their technical roles, the sponsor mentor and MIME advisor evaluate
+student performance and provide input to the course instructors for grading purposes. For some
+projects, the sponsor mentor and MIME advisor may be the same person. In rare cases, one of
+the course instructors may fill all three roles.
+MIME Capstone Design is also the School of MIME’s designated writingintensive
+course
+sequence that satisfies the university’s WIC requirement. Course participants complete a variety
+of written and oral assignments that support the engineering design process, further their
+engineering communication skills, and otherwise prepare them for success in their chosen
+profession. In completing these assignments, students are expected to review and respond to
+one another’s writing in a professional and collegial manner; revise individually and collaboratively
+produced drafts; and use informal writing techniques to explore and solve engineering analysis,
+design, and evaluation problems.
+COURSESPECIFIC
+LEARNING OUTCOMES
+At the completion of MIME Capstone Design, students will be able to perform the following tasks:
+1. Starting from a sponsor’s statements of need, work with the sponsor, perform appropriate
+research and analyses, and apply relevant engineering standards to develop formal
+requirements for a mechanical system, an industrial system, or the solution to a mechanical
+or industrial problem.
+2. Considering multiple alternative approaches, design and implement a prototype, model, or
+method to meet those requirements by correctly applying appropriate engineering
+principles.
+3. Operate or implement the prototype, model, or method and evaluate the results against the
+requirements using objective performance measures.
+4. Plan and manage the project so as to use team resources efficiently and meet project
+requirements on time and on or under budget.
+5. Recognize and constructively address ethical dilemmas that may arise and potential
+adverse environmental, safety, health, and social impacts.
+6. Collaboratively produce written and oral reports that effectively communicate project
+information to target audiences—i.e., that are at the appropriate technical level for these
+audiences and follow disciplinary conventions of usage, vocabulary, format, and citation.
+7. Function effectively on a team, contributing to all major aspects of the design,
+implementation, and testing of an engineering project.
+ABET PROGRAM OUTCOMES
+In developing your skills in product design and development, MIME Capstone Design directly
+supports ABET Program Outcome c, “Ability to design a system, component, or process to meet
+desired needs within realistic constraints such as economic, environmental, social, political,
+ethical, health and safety, manufacturability, and sustainability.”
+In focusing on the communication and teamwork skills needed for producing formal engineering
+reports and preparing and delivering professionalquality
+oral presentations, thinking critically
+about local and global design issues, and working collaboratively on engineering projects, this
+course sequence also supports ABET Program Outcome d, “Ability to focus on multidisciplinary
+teams,” and g, “Ability to communicate effectively.”
+Finally, the content of this capstone design course sequence also supports ABET Program
+Outcome f, “Understanding of professional and ethical responsibility” and i “Recognition of the
+need for, and ability to engage in, lifelong learning.”
+WIC PROGRAM OUTCOMES
+Students will
+1. Develop and articulate content knowledge and critical thinking in the discipline through
+frequent practice of informal and formal writing.
+2. Demonstrate knowledge/understanding of audience expectations, genres, and
+conventions appropriate to communicating in the discipline.
+3. Demonstrate the ability to compose a document of at least 2000 words through multiple
+aspects of writing, including brainstorming, drafting, using sources appropriately, and
+revising comprehensively after receiving feedback on a draft.
+POLICY REGARDING STUDENTS WITH DISABILITIES
+Accommodations are collaborative efforts between students, faculty and Disability Access
+Services (DAS). Students with accommodations approved through DAS are responsible for
+contacting the faculty member in charge of the course prior to or during the first week of the term
+to discuss accommodations. Students who believe they are eligible for accommodations but who
+have not yet obtained approval through DAS should contact DAS immediately at 5417374098.
+POLICY REGARDING STUDENT ACADEMIC DISHONESTY AND CONDUCT
+Instances of student academic dishonesty and improper conduct will be dealt with according to
+University policy. Students are referred to http://oregonstate.edu/admin/stucon/achon.htm for a
+definition and examples of academic dishonesty and improper conduct.
+MACHINING LAB CERTIFICATION
+For students completing senior projects with significant mechanical design requirements,
+certification to work in the MIME machining lab is strongly encouraged. If you are not certified,
+contact Brian Jensen immediately to schedule your certification. Lack of machining lab
+certification is not a valid excuse for your project being over budget or behind schedule or
+otherwise failing to meet course requirements.
+Key Deadlines
+Topic Points Date
+Final Report 375 Wed. 13Mar13
+General Writing Requirements
+● The target audience for all your reports is incoming seniors of the following years.
+● All writing is required to be completed in Google Sites.
+● All reports are expected to be properly formatted and complete by the end of the day of the day
+on the date of submission. (23:59 PST)
+● Use Bold text to put emphasis on key statements and points. This should show what you
+perceive to be the most important points within text. See the Formula design report for a good
+example.
+● Citations should be included as hyperlinks
+in text whenever possible. These citations
+should link to papers uploaded into the Published Documentation folder in Google docs, to other
+Team reports that have been uploaded to the Google docs folder structure, or to credible
+websites. If referencing a paper or book that you do not have a digital copy of to link to, include a
+intext
+citation, with a link to where the paper or book can be purchased if possible. (Race Car
+Vehicle Dynamics, 1995, pg 3015).
+● Links to Data that you are discussing should also be included whenever possible.
+● No Attachments nor References sections should be included at the end because all attached
+documents should be linked in text throughout the report.
+● Google keeps a revision history for every page that includes a new revision every time you edit a
+page. In order for this to be useful a manual record of all the major editing changes to the
+content of the page must be kept. All report versions as submitted on the date are required
+must be documented in the form below at a minimum.
+● Grading Rubrics for all Reports can be found HERE!
+ME/IE 498 Assignments
+1000 total course points
+Final Report (375 points)
+● Follow the Example Report template through Section 7 Conclusion.
+● Make all corrections and/or modifications suggested in the critique of the Final Proposal.
+Weekly Presentations (100 points)
+● All Presentations should be done in Google Presentations and embedded in Google
+Sites according to the *Project Group Template (Formula) / *Project Group Template (Baja).
+● For every Project Group according to the Google sites structure there should be 1 presentation
+● Google Presentation should be short (58
+min/group incl. questions).
+Key Slides:
+○ Progress made since last presentation
+○ Planned progress till next presentation
+○ Issues that need to be resolved on a higher level then your project group
+○ Smartsheet Gantt chart (navigate to current sheet in Google Sites)
+● Use concrete and measurable language as much as possible. (e.g. Part design xxxx complete)
+Avoid accomplishments and task plans that are trivial or ambiguous amounts of time. (e.g.
+Called xxxxx machining, or worked on xxxxxx)
+● If you have pictures of modeling, finished parts, problems, simulation results or data analysis,
+Show them, but keep discussion during presentation to a minimum. Details can be
+discussed later as necessary.
+● Smartsheet Gantt chart should be kept current throughout the term for each project group
+and include all critical tasks and major milestones.
+Project Contribution Subjective
+(150 points)
+● Have you put forth a strong effort to complete your project within the best of your abilities?
+● Have you worked with and helped your fellow group and team members to make the overall
+project successful?
+Project Results Subjective
+(375 points)
+● All parts you are responsible for have been manufactured and are on the vehicle.
+● All process improvements you are responsible for have been tested and are ready to be
+implemented.
+● Have you met the objectives originally discussed in the project description/with team leaders?
+● All parts you are responsible for have been kept in a reasonably updated state in the Part
+Evaluation Sheet throughout the term (Formula members).
+Winter Term Schedule
+Activity / Task Week Date
+Syllabus and Deadlines; Full Class Presentations Winter
+Break Progress A 1 7Jan12
+Full Class Presentations Winter
+Break Progress B 1 9Jan12
+Individual Group Meetings A 2 14Jan12
+Individual Group Meetings B 2 16Jan12
+MLK Holiday No
+Class 3 21Jan12
+Full Class Meeting: TBD 3 23Jan12
+Full Class Presentations A 4 28Jan12
+Full Class Presentations B 4 30Jan12
+Individual Group Meetings A 5 4Feb12
+Individual Group Meetings B 5 6Feb12
+Full Class Presentations A 6 11Feb12
+Full Class Presentations B 6 13Feb12
+Individual Group Meetings A 7 18Feb12
+Individual Group Meetings B 7 20Feb12
+Full Class Presentations A 8 25Feb12
+Full Class Presentations B 8 27Feb12
+Individual Group Meetings A 9 4Mar12
+Individual Group Meetings B 9 6Mar12
+Full Class Presentations A 10 11Mar12
+Full Class Presentations B; Final Proposal Due 10 13Mar12

@@ -1,0 +1,164 @@
+Powered by AI
+Copilot
+EDU450 - Technology Integration in Engineering Education
+University:
+Central Technical University
+Course Duration:
+Fall 2023
+Instructor:
+Dr. Emily Carter
+Contact Information:
+emily.carter@ctu.edu
+Offi ce Hours:
+Mondays and Wednesdays, 2:00 PM - 4:00 PM
+COURSE INFORMATION
+Class Meeting Schedule:
+Meets 9/5/2023 through 12/12/2023
+Class Meeting Dates:
+Weekly meetings; Wednesday 10:00 AM - 12:50 PM
+Classroom:
+AGIT 214
+Course Format:
+This course includes project-based learning, practical applications, simulations, project reports,and presentations.
+Materials - Textbooks, Readings, Supplementary Readings
+Textbook Required:
+“Integrating Educational Technology into Teaching” by M.D. Roblyer and Aaron H. Doering
+Software Recommended:
+Microsoft Offi ce - MS Word, Excel, PowerPoint
+Educational technology tools (e.g., Google Classroom, Moodle)
+Course Description
+This course focuses on the integration of technology into engineering education. Students will explore variouseducational technologies and their applications in teaching and learning. The course emphasizes hands-onexperience with technology tools, designing technology-enhanced learning activities, and evaluating the impact oftechnology on student learning.
+Prerequisites:
+EDU 350 with a minimum grade of C. Senior Classifi cation, Education Majors only. Course mustbe scheduled in the fi nal fall semester of graduation and with Instructor’s consent.
+Learning Outcomes of Instruction
+By the end of this course, students will be able to:
+1.
+Design technology-enhanced learning activities for engineering education.
+2.
+Evaluate the effectiveness of educational technologies in teaching and learning.
+3.
+Demonstrate knowledge of contemporary issues in educational technology.
+4.
+Demonstrate leadership and teamwork in technology integration projects.
+5.
+Use modern educational technology tools and techniques.
+6.
+Write a fi nal technical report on technology integration in education.
+COURSE REQUIREMENTS
+Minimal Technical Skills Needed:
+Microsoft Offi ce - MS Word, Excel, PowerPoint
+Educational technology tools (e.g., Google Classroom, Moodle)
+Instructional Methods:
+The instructional methods in this course include: writing proposals, class discussions, course projects, progressreports, weekly meetings, problem-solving, writing technical reports, design demonstrations, and oralpresentations. Course materials will be posted on the course website.
+Student Responsibilities or Tips for Success in the Course:
+Students must attend course meetings, participate in class work and discussions, and perform required courseassessments supporting the anticipated learning objectives, such as progress reports and design demonstrations.Students are expected to regularly log into the course website to download course material, submit theircoursework as instructed, and follow up on new announcements. This course covers advanced content thatrequires at least 6 hours of extensive work per week.
+Attendance Policy
+Class Attendance Requirement (one lateness = 1/2 absence):
+# of Absences
+Point Deduction
+0 - 3
+0
+4 - 5
+-2
+6 - 7
+-4
+>7
+-30
+GRADING
+Final grades in this course will be based on the following scale:
+Grade
+Percentage
+A
+90%-100%
+B
+80%-89%
+Grade
+Percentage
+C
+70%-79%
+D
+60%-69%
+F
+59% or Below
+Assessments
+The following assessments will be performed during this course to assess individual progress towards learningoutcomes:
+Assessment
+Weight
+Due Time
+Progress Reports
+20%
+Biweekly
+Midterm Presentation and Design
+20%
+Week 8
+Progress Demonstration
+20%
+Week 8
+Final Project Report
+30%
+Week 15
+Final Design Presentation and Demo
+30%
+Week 16
+Relationship between Assessments and Course/Student Learning Outcomes
+Learning Outcomes of Instruction
+Assessment
+1. Design technology-enhanced learning activities forengineering education.
+Progress reports, Presentations, Reports,Demonstrations
+2. Evaluate the effectiveness of educational technologies inteaching and learning.
+Reports, Presentations
+3. Demonstrate knowledge of contemporary issues ineducational technology.
+Reports, Presentations
+4. Demonstrate leadership and teamwork in technologyintegration projects.
+Presentations, Work Progress
+5. Use modern educational technology tools and techniques.
+Designs, Reports
+6. Write a fi nal technical report on technology integration ineducation.
+Final Report
+Capstone Project
+Students are required to work on their senior design project, present their work progress on a regular basis,perform design demonstrations of their design, and submit a comprehensive fi nal report of their design by the end
+of the course. Students will work in groups. The project design process includes problem statements, objectives,technical design specifi cations, component selections, design constraints, professional codes and standards, andproject management and implementation. This project should demonstrate the student’s ability to transfer theknowledge and skills acquired in their EDU courses to provide solutions for real-world applications.
+Student Outcomes (ABET)
+The EDU program must have documented student outcomes that support the program educational objectives.Attainment of these outcomes prepares graduates to enter the professional practice of engineering education.Student outcomes are outcomes (1) through (7), plus any additional outcomes that may be articulated by the EDUprogram. This course will assess the achievement of the following student outcomes:
+1.
+An ability to apply educational design to produce solutions that meet specifi ed needs with consideration ofpublic health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+2.
+An ability to communicate effectively with a range of audiences.
+3.
+An ability to recognize ethical and professional responsibilities in educational situations and make informedjudgments, which must consider the impact of educational solutions in global, economic, environmental,and societal contexts.
+4.
+An ability to function effectively on a team whose members together provide leadership, create acollaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+5.
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+TECHNOLOGY REQUIREMENTS
+LMS:
+All course sections offered by Central Technical University have a corresponding course shell in the myLeoOnline Learning Management System (LMS). Below are technical requirements:
+LMS Requirements:
+LMS Requirements
+YouSeeU Virtual Classroom Requirements:
+YouSeeU Requirements
+ACCESS AND NAVIGATION
+You will need your campus-wide ID (CWID) and password to log into the course. If you do not know your CWIDor have forgotten your password, contact the Center for IT Excellence (CITE) at 903.468.6000 orhelpdesk@ctu.edu.
+Note: Personal computer and internet connection problems do not excuse the requirement to complete allcoursework in a timely and satisfactory manner. Each student needs to have a backup method to deal with theseinevitable problems. These methods might include the availability of a backup PC at home or work, the temporaryuse of a computer at a friend’s home, the local library, offi ce service companies, Starbucks, a CTU campus opencomputer lab, etc.
+COMMUNICATION AND SUPPORT
+If you have any questions or are having diffi culties with the course material, please contact your Instructor.
+Technical Support:
+If you are having technical diffi culty with any part of Brightspace, please contact Brightspace Technical Support at1-877-325-7778. Other support options can be found here:
+Brightspace Support
+COURSE AND UNIVERSITY PROCEDURES/POLICIES
+Course Specifi c Procedures/Policies:
+Syllabus Change Policy:
+The syllabus is a guide. Circumstances and events, such as student progress, may make it necessary for theinstructor to modify the syllabus during the semester. Any changes made to the syllabus will be announced inadvance.
+University Specifi c Procedures:
+Student Conduct:
+All students enrolled at the University shall follow the tenets of common decency and acceptable behaviorconducive to a positive learning environment. The Code of Student Conduct is described in detail in the StudentGuidebook.
+Student Guidebook
+Students should also consult the Rules of Netiquette for more information regarding how to interact with studentsin an online forum:
+Netiquette
+Attendance:
+For more information about the attendance policy please visit the Attendance webpage and Procedure13.99.99.R0.01.
+Attendance Policy
+Academic Integrity:
+Students at Central Technical University are expected to maintain high standards of integrity and honesty in all oftheir scholastic work. For more details and the defi nition of academic dishonesty see the following procedures:
+Undergraduate Academic Dishonesty 13.99.99.R0.03
+Undergraduate Student Academic Dishonesty Form [Academic Dishonesty Form](http://www.ctu.edu/aboutUs/policiesProceduresStandardsStatements
