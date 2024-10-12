@@ -1,0 +1,227 @@
+Winter 2024 - Department of Psychology Page 1
+PSY379H5S – Cognitive Psychology Laboratory Friday 9:00am - 12:00pm
+MN 4107 (Maanjiwe Nendamowinan) IN-PERSON Contact Information
+Prof. Caitlin Tozios
+email: caitlin.tozios@mail.utoronto.ca
+Office Hours: Fridays 2-4pm
+Office Location: CCT 4166
+Students should reserve an appointment through Quercus by booking it through the calendar. Zoom meetings can also be accommodated by request.
+Teaching Assistant:
+Tiana Simovic
+email: tiana.simovic@mail.utoronto.ca
+Email and Re-grade Policy
+The instructor and TA request that students treat email as formal correspondence. As such, please heed the following:
+•
+Use your utoronto.ca email address as emails sent through Quercus may not be seen
+•
+Please include the course title (PSY379) in the subject line of your email
+•
+Questions regarding graded material should be first directed to the TA
+•
+Any other questions along with follow-up on the TA’s grading can be directed to the instructor (see re-grade policy below)
+We make every attempt to respond to emails that adhere to the email policy in a timely manner. Responses can be expected within 48 hours (not including weekends). If you do not receive a reply within this timeframe, please follow-up by resending the email or forwarding your request to the instructor.
+Re-grade policy. For any work that is graded by the TA, students have the choice to have their work re-graded by the instructor. In this case, please reach out to the TA for feedback before sending a request to the instructor. Following this, the instructor will re-grade the work and the final grade of the work may increase, decrease, or stay the same.
+Course Description
+In this course, students will learn how to design and propose original experiments to answer scientific questions of their interest in the field of cognitive psychology. Students will discover the mechanisms involved in the processing of information by engaging with various methodologies used by cognitive psychologists and learn to analyze real data using advanced computational and statistical software.
+Learning Outcomes
+By the end of this course, students should be able to:
+•
+Describe major terms, concepts, and theories in cognitive psychology
+•
+Explain how empirical findings can support or refute psychological theories
+•
+Identify key variables in empirical research and infer evidence-based conclusions
+•
+Analyze and critique published research in cognitive psychology
+•
+Communicate scientific data in the form of an oral presentation and written reports
+Winter 2024 - Department of Psychology Page 2
+•
+Analyze and interpret a variety of behavioural data obtained from human participants
+•
+Design and propose experiments to test theory-based hypotheses
+Reading Material
+Readings: A selection of research articles (1-2 a week) will be posted to Quercus
+Software:
+•
+Microsoft Excel: for data processing, Microsoft Office can be downloaded from the University (https://onesearch.library.utoronto.ca/ic/microsoft-365-personal-workstations)
+•
+JASP: software for statistical analyses (https://jasp-stats.org/)
+•
+Inquisit 6 Player app: to run experiments (https://www.millisecond.com/download/inquisitweb6)
+Course Evaluation
+Assessment Due Date Grade Percentage (%)
+Experiment Worksheets
+Multiple dates (see course outline)
+40%
+Research Proposal
+April 05
+30%
+Oral Presentation
+March 22 or April 05
+20%
+Participation
+Multiple dates
+10%
+Experiment Worksheets: Following each experiment conducted in class, students will submit a worksheet answering some questions about the experiment (8% each). Each worksheet is designed to help students understand experiment details and materials covered in lecture in preparation for the other assignments in the course.
+Research Proposal: A 10-page (double-spaced) research proposal will be due on April 05. The paper will propose an experiment and cover the following: an introduction of background literature and existing knowledge gaps, statement of the research question and hypotheses, description of experimental procedures and predicted results, and discussion of potential outcomes and implications. The paper will be submitted through Quercus and subjected to screening by Ouriginal (see Ouriginal statement below).
+Oral Presentation: Each student will deliver a 20-minute presentation on their research proposal on March 22 or April 05. More instructions on effective presentation skills will be given during class.
+Participation: Students are expected to complete all four experiments throughout the course (1% each) to contribute to the data used in analyses and exercises. All data will be anonymous and not shared outside of the class. Experiment completion will be due the Tuesday after it is assigned in class.
+In addition, students will be assigned to one classmate and will be required to provide a brief commentary and at least two questions on their presentation (6% of final grade). Presentation comments will be due the night (11:59pm) of the classmate’s presentation.
+Ouriginal Conditions: “Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool are described on the Centre for Teaching Support & Innovation web site (https://uoft.me/pdt-faq).”
+Winter 2024 - Department of Psychology Page 3
+Course Outline
+Date
+Topic
+Readings
+Assignment Due
+January 12
+Introduction & Change Detection
+Fukuda et al. (2015)
+January 19
+Continuous Colour Estimation
+Zhang & Luck (2008)
+January 26
+Continuous Colour Estimation cont.
+Worksheet 1 January 26
+February 02
+Visual Search
+Wolfe (2020)
+Worksheet 2 February 02
+February 09
+Visual Search cont.
+February 16
+Judgement of Learning (JOL)
+Nelson & Dunlosky (1991)
+Worksheet 3 February 16 February 23 Reading week (no class)
+March 01
+JOL cont.
+March 08
+Memorability
+Bainbridge et al. (2013)
+Worksheet 4 March 08
+March 15
+Guest Lecture & Research Proposal Consultations
+Worksheet 5 March 15
+March 22
+Presentations
+March 29 Good Friday (no class)
+April 05
+Presentations cont.
+Research Proposal April 05
+Please note that this outline is subject to change depending on the needs of the class (e.g., we may need additional time to cover a topic). Any changes to the syllabus will be announced in class one week before and a revised syllabus will be posted to Quercus. However, the assignment and test dates are fixed.
+Course Webpage
+The course website is accessed via http://q.utoronto.ca, which uses your UTORid login credentials. If you have any questions regarding the course website system, please visit https://library.utm.utoronto.ca/faculty/canvas IMPORTANT COURSE POLICIES **PLEASE READ**
+Missed Test Special Consideration Request Process Please review below Supporting Documentation section, Quercus page, and the Special Consideration request process for term work and final exams found on the Department of Psychology website.
+Students who miss a test due to circumstances beyond their control (e.g., illness or an accident) can request that the Department grant them special consideration. Students must present their case to the Department (NOT the Instructor) by submitting a request via the online Special Consideration Request Pilot at https://uoft.service-now.com/utm_scr as soon as possible, but no later than 72 hours after the test date. Failure to do so will result in your request being denied.
+If your request is approved by the department, the weight of the missed test will be redistributed. Weighting will be shifted to the Research Proposal assignment.
+Important Note: If, on the day of your test, you feel you’re unable to write or have an approved Special Consideration Request to miss the assessment, DO NOT access or begin to write the test.
+Supporting Documentation ACORN Absence Declaration Tool
+•
+Students who miss an academic obligation during the term (i.e., in-class assessment, quiz, paper or lab report) may use the ACORN Absence Declaration Tool to record an absence in one or more courses.
+o
+Students may utilize this option once per term for a single absence period of up to seven consecutive days. The declaration period must include the day of declaration and may include past and/or future dates, for a total of up to 7 calendar days.
+o
+Use of this declaration does not require supporting documentation and should be used in addition to the missed term work policy outlined in the course syllabus.
+Winter 2024 - Department of Psychology Page 4
+Important Notes:
+•
+Please ensure to include the instructor's email when declaring an absence on the ACORN Absence Declaration Tool
+•
+Students are still required to submit a Special Consideration Request in addition to submitting an ACORN Absence Declaration.
+•
+Instructors may exclude one test or quiz from the one-time absence declaration, in which case the student would be required to provide supporting documentation.
+•
+Learn more about the ACORN Absence Declaration Tool process by visiting the Registrar’s Office website:
+•
+https://registrar.utoronto.ca/policies-and-guidelines/absence-declaration/
+Extension of Time Special Consideration Request Process Students who seek to be granted more time to complete their term work beyond the due date without penalty, owing to circumstances beyond their control (e.g., illness, or an accident), must do so by submitting a request directly to the instructor for the period up to and including the last day of the term through the Special Consideration Request Pilot at https://uoft.service-now.com/utm_scr. The decision whether or not to apply a penalty for the specified period rests with the instructor.
+Students who seek to be granted more time to complete term work beyond the last day of the term must submit their request directly to the Department. This request covers the period following the last day of classes and ends the last day of the exam period. This is done by submitting a request via the online Special Consideration Request Pilot at https://uoft.service-now.com/utm_scr. If you have questions about this process, contact the Department prior to the deadline: utmpsych.utm@utoronto.ca
+Missed Final Exam or Extension of Time beyond exam period For missed final exams, or for extensions of time beyond the examination period, you must submit a petition through the Office of the Registrar: http://www.utm.utoronto.ca/registrar/current-students/petitions and follow their procedures.
+Penalties for Lateness A penalty of 10% per calendar day (i.e., including weekends and holidays) up to and including the last day of classes, will be applied by the instructor. After the last day of classes, the penalty of 10% per calendar day will be applied by the Undergraduate Counsellor on behalf of the Department.
+No penalty will be assigned if a request for special consideration, described above, was successful.
+Academic Guidelines It is your responsibility to ensure you have met all prerequisites listed in the UTM Calendar for this course. If you lack any prerequisites, you WILL BE REMOVED from the course, up until the last day to add a course. Information about academic regulations, course withdrawal dates, and credits can be found in the UTM Calendar at: https://utm.calendar.utoronto.ca/ You are encouraged to read this material.
+Privacy and Copyright Disclaimer Notice of video recording and sharing, if applicable
+This course, including your participation, may be recorded on video and be available to students in the course for viewing remotely and after each session. Course videos and materials belong to your instructor, the
+University, and/or other source depending on the specific facts of each situation and are protected by copyright.
+In this course, you may be permitted to download session videos and materials for your own academic use, but you should not copy, share, or use them for any other purpose without the explicit permission of the instructor. For questions about the recording and use of videos in which you appear, please contact your instructor.
+Winter 2024 - Department of Psychology Page 5
+Academic Honesty and Plagiarism Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the University of Toronto Mississauga is a strong signal of each student’s individual academic achievement. As a result, UTM treats cases of cheating and plagiarism very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines behaviours that constitute academic dishonesty and the process for addressing academic offences. Potential offences include, but are not limited to: In papers and assignments:
+1.
+Using someone else’s ideas or words without appropriate acknowledgement.
+2.
+Submitting your own work in more than one course without the permission of the instructor.
+3.
+Making up sources or facts.
+4.
+Obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+1.
+Using or possessing unauthorized aids.
+2.
+Looking at someone else’s answers during an exam or test.
+3.
+Misrepresenting your identity.
+In academic work:
+1.
+Falsifying institutional documents or grades.
+2.
+Falsifying or altering any documentation required, including (but not limited to) doctor’s notes.
+With regard to remote learning and online courses, UTM wishes to remind students that they are expected to adhere to the Code of Behaviour on Academic Matters regardless of the course delivery method. By offering students the opportunity to learn remotely, UTM expects that students will maintain the same academic honesty and integrity that they would in a classroom setting. Potential academic offences in a digital context include but are not limited to:
+Remote assessments:
+1.
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+2.
+Using technological aids (e.g., software) beyond what is listed as permitted in an assessment.
+3.
+Posting test, essay, or exam questions to message boards or social media.
+4.
+Creating, accessing, and sharing assessment questions and answers in virtual “course groups”.
+5.
+Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on Academic Matters. If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or from other institutional resources.
+Plagiarism Detection
+Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool are described on the Centre for Teaching Support & Innovation website (https://uoft.me/pdt-faq)
+Opt-out. Students may opt out of this requirement by emailing the instructor with their intent to opt out before January 19, 11:59pm. As an alternative, students will need to submit all rough work used to complete their work (e.g., personal notes, website addresses associated with cited references, call numbers, etc.)
+Winter 2024 - Department of Psychology Page 6
+Generative AI:
+The knowing use of generative artificial intelligence tools, including ChatGPT and other AI writing and coding assistants, for the completion of, or to support the completion of, an examination, term test, assignment, or any other form of academic assessment, may be considered an academic offense in this course.
+Equity Statement:
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or harassment against any persons or communities.
+Academic Rights
+You, as a student at UTM, have the right to:
+−
+Receive a syllabus by the first day of class.
+−
+Rely upon a syllabus once a course is started. An instructor may only change marks' assignments by following the University Assessment and Grading Practices Policy provision 1.3.
+−
+Have access to your instructor for consultation during a course or follow up with the department if the instructor is unavailable. - Ask the person who marked your term work for a re-evaluation if you feel it was not fairly graded. You have up to one month from the date of return of the item to inquire about the mark. If you are not satisfied with a re-evaluation, you may appeal to the instructor in chargeof the course if the instructor did not mark the work. If your work is remarked, you must accept the resulting mark. You may only appeal a mark beyond the instructor if the term work was worth at least 20% of the course mark.
+−
+Receive at least one significant mark (15% for H courses) before the last day you can drop a course for H courses.
+−
+Submit handwritten essays so long as they are neatly written.
+−
+Have no assignment worth 100% of your final grade.
+−
+Not have a term test worth 25% or more in the last two weeks of class.
+−
+Retain intellectual property rights to your research.
+−
+Receive all your assignments once graded.
+−
+View your final exams. To see a final exam, you must submit an online Exam Reproduction Request within 6 months of the exam. There is a small non-refundable fee.
+−
+Privacy of your final grades.
+−
+Arrange for representation from Downtown Legal Services (DLS), a representative from the UTM Students' Union (UTMSU), and/or other forms of support if you are charged with an academic offence.
+Student Supports
+Students have access to campus and community supports:
+•
+Building resilience: https://www.utm.utoronto.ca/sas/student-resources/resilience-utm
+•
+Students experiencing distress: https://www.utm.utoronto.ca/health/resources/utm-mental-health-resources
+•
+RGASC: If you need advice about studying, preparing for exams, note taking or time management, free workshops, individual consultations, and programs are available through the Robert Gillespie Academic Skills Centre at 905-828-5406 or https://www.utm.utoronto.ca/asc/
+•
+Accessibility Services: The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario Human Rights Code. This occurs through a collaborative process that acknowledges a collective obligation to develop an accessible learning environment that both meets the needs of students and preserves the essential academic requirements of the University’s courses and programs. Students requiring academic accommodations for learning, physical, sensory, or mental health disabilities or medical conditions should contact the Accessibility Services Office (2037B Davis Building), 905-569-4699 or https://www.utm.utoronto.ca/accessibility/

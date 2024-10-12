@@ -1,0 +1,91 @@
+Powered by AI
+Copilot
+CSCI250 - Data Structures and Algorithms Project
+University:
+Tech Valley University
+Course Duration:
+Full Year (Fall and Winter)
+Instructor:
+Dr. Mark Johnson
+Contact Information:
+mark.johnson@tvu.edu
+Offi ce Hours:
+Tuesdays and Thursdays, 3:00 PM - 5:00 PM
+Course Description
+In this second-year course, students develop software projects that require the implementation of advanced datastructures and algorithms. Projects may include developing a search engine, a sorting algorithm, or a datavisualization tool. The course emphasizes hands-on experience with data structures, algorithm design, andsoftware development.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Implement and analyze various data structures.
+2.
+Design and evaluate algorithms for effi ciency and effectiveness.
+3.
+Develop software applications that utilize advanced data structures and algorithms.
+4.
+Test and debug software projects.
+5.
+Document and present their design and implementation process.
+Course Timeline and Deliverables
+Fall Semester:
+Date
+Deliverable
+Description
+Weight
+September 15,2020
+Team Formation and ProjectProposal
+Teams form and submit a proposal outliningthe project scope and objectives.
+10%
+October 20,2020
+Data StructuresImplementation Assignment
+Implementation of basic data structures suchas linked lists, stacks, and queues.
+15%
+November 25,2020
+Algorithm DesignAssignment
+Design and implementation of algorithms forspecifi c tasks.
+15%
+December 10,2020
+Midterm Progress Report
+Report on progress, challenges, and nextsteps.
+10%
+Winter Semester:
+Date
+Deliverable
+Description
+Weight
+February 15,2021
+Advanced Data Structures andAlgorithms
+Implementation of advanced datastructures and algorithms.
+15%
+March 20,2021
+Prototype Development andTesting Report
+Report on prototype development andtesting results.
+20%
+April 10, 2021
+Final Presentation andDemonstration
+Final presentation and demonstration of thesoftware project.
+15%
+Grading Breakdown
+Team Formation and Project Proposal: 10%
+Data Structures Implementation Assignment: 15%
+Algorithm Design Assignment: 15%
+Midterm Progress Report: 10%
+Advanced Data Structures and Algorithms: 15%
+Prototype Development and Testing Report: 20%
+Final Presentation and Demonstration: 15%
+Total: 100%
+Course Policies
+Attendance:
+Regular attendance is required. More than three unexcused absences may result in a lowergrade.
+Late Submissions:
+Assignments submitted late will incur a penalty of 5% per day, up to a maximum of25%.
+Academic Integrity:
+All students are expected to adhere to the university’s academic integrity policy.Plagiarism or cheating will result in disciplinary action.
+Required Materials
+Textbook: “Introduction to Algorithms” by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, andClifford Stein
+Access to a programming environment (e.g., Eclipse, IntelliJ IDEA)
+Prototyping materials (to be specifi ed based on project requirements)
+Additional Resources
+University Library
+Computer Science Lab
+Online tutorials and workshops
+This syllabus provides a comprehensive overview of the CSCI250 course, including key elements such as learningoutcomes, a detailed timeline with deliverables, and their respective weights. If you need any further details oradjustments, feel free to ask!

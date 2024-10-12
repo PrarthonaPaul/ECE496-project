@@ -1,0 +1,293 @@
+Course Outline
+Course Code
+RSM 352H1F
+Course Name
+Marketing Research
+Term, Year
+Fall, 2024
+Course Meets
+Monday 3-5 PM
+Web page URL
+https://q.utoronto.ca
+Instructor Details
+Name
+Email
+Phone
+Office Hours
+Virtual Office Link
+Inez Blackburn
+Inez.blackburn@rotman.utoronto.ca
+416-399-4563.
+TBC
+TBC
+Course Description
+Course Overview: Data-Driven Marketing Decision Making
+This course champions marketing decision-making rooted in deep customer insights. Its primary objective is to transform students into bi-modal thinkers who adeptly understand data analytics and business challenges. By mastering the initiation, design, implementation, and interpretation of research, students will enhance their ability to make effective marketing decisions.
+Key Course Objectives:
+1. Business Problem Analysis:
+o Sharpen your skills in analyzing business problems and identifying crucial information needs for strategic decision-making.
+2. Research Methodology:
+o Gain a comprehensive understanding of both quantitative and qualitative marketing research methods, essential for gathering and interpreting valuable data.
+3. Bias and Limitations Awareness:
+o Develop a keen sensitivity to the biases and limitations inherent in various marketing research tools, ensuring more accurate and reliable outcomes.
+4. Actionable Insights:
+o Learn to translate marketing research into actionable insights and define strategic recommendations based on research findings.
+5. Traditional and Modern Techniques:
+o Familiarize yourself with traditional and innovative research methods commonly used in advertising, branding, product development, pricing, and promotional strategies.
+2
+Learning Outcomes
+Key Learning Objectives:
+1. Understanding the Role of Market Research:
+o Comprehend the importance and purpose of market research in business decision-making.
+o Recognize the ethical considerations and responsibilities of conducting market research.
+2. Research Design and Methodology:
+o Develop the ability to design effective market research studies, including formulating research questions and hypotheses.
+o Understand and apply various research methodologies, both quantitative and qualitative, such as surveys, experiments, focus groups, and observational studies.
+3. Data Collection and Analysis:
+o Gain proficiency in collecting data using various tools and techniques.
+o Analyze data using statistical software and interpret the results accurately to derive meaningful insights.
+4. Critical Evaluation of Research:
+o Increase awareness of the potential biases and limitations inherent in different research methods and how to mitigate them.
+o Critically evaluate the validity and reliability of market research findings.
+5. Application of Research Findings:
+o Translate research findings into actionable marketing strategies and recommendations.
+o Communicate research results effectively to stakeholders through reports and presentations.
+6. New and Traditional Research Techniques:
+o Familiarize with traditional and innovative research techniques, including digital and social media analytics.
+o Apply appropriate research techniques to various marketing problems, such as product development, branding, pricing, and promotion.
+7. Ethical and Legal Considerations:
+o Understand market research's ethical and legal aspects, including privacy issues and informed consent.
+Course Prerequisites
+ECO220Y1/ECO227Y1/(STA220H1, STA255H1)/(STA237H1,STA238H1)/(STA257H1, STA261H1)
+Course Co-requisites
+RSM251H1/RSM350H1
+If you drop course RSM251H1/RSM350H1 during the academic term, you must also drop this course. Contact Rotman Commerce Academic Program Services for academic advising if needed.
+3
+Course Materials
+Required Readings
+• There is a REQUIRED textbook for this course.
+• In addition, there are supplemental readings/cases in the Course Package, available at the University of Toronto bookstore.
+• You are expected to do each week’s assigned readings before that week’s lecture.
+Required Textbook
+McDaniel, Carl, Roger Gates and Subramanian Sivaramakrishnan. “Marketing Research Essentials, 2nd Canadian ed.” John Wiley and Sons, 2014
+Any of the following versions are acceptable:
+• E-Text (ISBN : 978-1-118-82336-1)
+• Loose-leaf - Binder-Ready Version (ISBN : 978-1-118-82300-2)
+• Paperback (ISBN : 978-1-118-04317-2)
+Electronic Course Materials
+This course will be using the following electronic course materials:
+https://hbsp.harvard.edu/import/1200759
+These materials will cost a total of 24.95. Using these materials complies with all University of Toronto policies governing fees for course materials.
+Readings:
+1. Amazon Shopper Panel: Paying Customers for Their Data By: Eva Ascarza, Ayelet Israeli Publication Date: Jan 2021 (Revised May 02, 2021) Product Number: 521058-PDF-ENG
+2. “NASCAR: Leading a Marketing Transformation in a Time of Crisis,” by Eric T. Anderson (2015), #KEL: 889, Kellogg School of Management.
+3. Hot Wheels Launching Mixed Play Experience By: Elie Ofek, Andres Terech, Nicole Tempest Keller Product Number: 521017-PDF-ENG
+4. A Risk Versus Reward Approach to Market Research By: Sheri Lambert, Sara Honovich Publication Date: Jul 2022 Product Number: W27947-PDF-ENG Product Number: 521017-PDF-ENG
+5. “Generating Perceptual Maps from Social Media Data,” by Oded Netzer (2014), #CU136, Columbia Business School.
+6. Note on Sensory Marketing: Shaping Consumer Perception and Behavior Aradhna Krishna Publication Date: Feb 2019 Product Number: W01C76-PDF-ENG
+Evaluation and Grades
+Grades are a measure of the knowledge and skills developed by a student within individual courses. Each student will receive a grade on the basis of how well they have command of the course materials, skills and learning objectives of the course.
+Evaluation and Grades
+Grades are a measure of the performance of a student in individual courses. Each student shall be judged based on how well he or she has a command of the course materials.
+4
+Work
+Percentage of grade
+Due Date
+Class Participation
+17%
+Ongoing
+Case Write Up
+15%
+November 15
+Mid-Term Test
+30%
+November 4
+Group Presentation
+35%
+Last week of class
+Research
+3%
+Ongoing
+Total
+100%
+Date
+Course Format and Expectations
+The course is composed of a great deal of active discussion on your part during lectures. The purpose of the lectures is to present and discuss theories, concepts, analytical techniques and empirical findings.
+We will discuss many examples and cases with the goal of applying the concepts in real-world contexts.
+You are expected to do each week’s assigned readings before coming to class.
+Class Participation (17 Points) and there will be weekly discussion boards to participate.
+These class participation points are given to encourage your active participation in class discussions. The final participation grade will be an average of attendance and contribution scores during the semester. Each student should display a name card in the first three classes.
+You are expected to prepare thoroughly and make every effort to attend every class. Given its very nature, the learning and quality of a marketing class are directly related to your willingness and ability to contribute to the class discussions. Please feel free to raise an opinion or offer an analysis, no matter how different it is from the emerging theme in the classroom or how unusual it may be. However, focus on quality, not quantity, while contributing to the discussion. Also, civility and respect for others’ opinions are important attributes to possess in the give-and-take of classroom debate. In general, your contribution will be evaluated based on the following: Thoughtful responses, understanding and analysis of the topic, idea generation, and promotion of further discussion.
+Contribution: Are you a good listener? Do your comments help advance everyone’s learning? Are you willing to interact with others in the classroom? Do your comments show evidence of assimilating and integrating what has been discussed in the course so far?
+Research Participation (3 Points)
+Marketing and Organizational Behaviour researchers run experimental studies to test theories about human behaviour. The research requirement is intended to supplement this course’s material, by giving you direct exposure to research in these fields. You may fulfill this requirement by:
+1. Participation in three hours (credits) of research studies, or
+2. Analysis of three research articles, or
+3. A combination of research studies and article analyses
+Note, this is not an extra credit assignment; credit-hours of participation translate into real percentage values, as determined by the professor (check your syllabus). You will receive one
+5
+credit for each one-hour of research participation you complete, up to a maximum of three credits.
+Writing Assignments or Presentations
+All Assignments are intended to help you develop your communication skills. How well you communicate your ideas, in writing or orally, will be considered in the evaluation of the assignment. It would be best if you aimed for clarity, strong organization, concision, professionalism, and correct grammar in your written assignments. Your presentations should reflect strong planning and organization, clarity of speech, and an engaging demeanour. Whether in written or presentation assignments, sources should always be correctly attributed.
+Support is available through the RC Centre for Professional Skills (CPS) for students who want help or feedback on their writing or speaking (presentations). CPS offers individual and group appointments with trained writing instructors and presentation coaches familiar with the RC program and common types of business assignments. You can also access your college Writing Centres for help with written assignments.
+You can book an appointment with a writing or presentation coach through the RC Centre for Professional Skills Writing Centre. For more information about writing centres, student support, and study resources, see the Writing and Presentation Coaching academic support page.
+Team or Group Assignments
+The Group Project requires students to work in teams of 4-6. Learning to work together in teams is a crucial transferrable skill you will use in your coursework and future careers. Support is available if you encounter common teamwork challenges such as:
+• Team members feeling left out of the team.
+• Team members not responding in a timely manner to communication.
+• Division or quality of work among team members being unequal or unfair.
+Consult the Centre for Professional Skills Teamwork Resources page for tips, strategies, and best practices. You can also book an appointment with a teamwork mentor through the RC Centre for Professional Skills Writing Centre. Teamwork mentors can help you resolve or mitigate conflict, strategize on planning, or improve team communication.
+If you are a student registered with Accessibility Services, and extensions are one of your academic accommodations, consult with your Accessibility Advisor about the teamwork in this course.
+Class Participation
+Students are expected to prepare thoroughly and make every effort to attend every class. As class participation is a graded component of the course, students will be evaluated on the following:
+• Thoughtful responses
+• Understanding and analysis of the topic
+• Idea generation
+• Promoting further discussion
+• Respectful, active listening
+• Attentiveness
+While attendance is necessary for students to participate in class discussions, attendance on its own will not result in a high participation grade. Students must actively contribute and participate by exhibiting the components listed above.
+6
+Missed Tests and Assignments
+Students who miss a term test or assignment for reasons entirely beyond their control (e.g. illness) may request special consideration within 2 business days of the missed midterm/test/assignment due date.
+In such cases, students must:
+1. Complete the Request for Special Consideration form: https://uoft.me/RSMConsideration
+2. Provide documentation to support the request, eg. Absence Declaration from ACORN, medical note etc.
+Please note: As of September 2023, students may use the Absence Declaration on ACORN *one time per term* to report an absence and request consideration. Any subsequent absence will require a Verification of Illness form or other similar relevant documentation.
+Students who do not submit their requests and documentation within 2 days may receive a grade of 0 (zero) on the missed course deliverable.
+Final Exams: If you miss the midterm or final exam in this course for a legitimate reason (illness, etc), you must contact your College Registrar to file a petition for a deferred exam. This deferred exam will be written at a later date as established by the Faculty of Arts & Science. Instructions can be found here: https://www.artsci.utoronto.ca/current/faculty-registrar/petitions-appeals/preparing-petition
+Late Assignments
+All assignments are due on the date and at the time specified in Quercus. Late submissions will normally be penalized by 10% if the assignment is not received on the specified date at the specified time. A further penalty of 5% will be applied to each subsequent day.
+Statement on Equity, Diversity and Inclusion
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another's differences. U of T does not condone discrimination or harassment against any persons or communities.
+Commitment to Accessibility
+The University is committed to inclusivity and accessibility, and strives to provide support for, and facilitate the accommodation of, individuals with disabilities so that all may share the same level of access to opportunities and activities offered at the University.
+If you require accommodations for a temporary or ongoing disability or health concern, or have any accessibility concerns about the course, the classroom or course materials, please email Accessibility Services or visit the Accessibility Services website for more information as soon as possible. Obtaining your accommodation letter may take up to several weeks, so get in touch with them as soon as possible. If you have general questions or concerns about the accessibility of this course, you are encouraged to reach out to your instructor, course coordinator, or Accessibility Services.
+7
+Plagiarism Detection
+Typically, students will be required to submit their course essays to the University's plagiarism detection tool to review textual similarity and detect possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool's reference database, where they will be used solely to detect plagiarism. The terms that apply to the University's use of this tool are described on the University's Plagiarism Detection Tool FAQ page from the Centre for Teaching Support & Innovation.
+Generative AI / ChatGPT
+Students can use Generative AI such as ChatGPT and other AI writing assistants in certain instances or specific ways, namely:
+• Students are encouraged to make use of technology, including generative artificial intelligence tools, to contribute to their understanding of course materials. • Students may use artificial intelligence tools, including generative AI, in this course as learning aids or to help produce assignments. However, students are ultimately accountable for the work they submit. • Students must submit, as an appendix with their assignments, any content produced by an artificial intelligence tool, and the prompt used to generate the content. • Any content produced by an artificial intelligence tool must be cited appropriately.
+• Many organizations that publish standard citation formats are now providing information on citing generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/ ). • Students may choose to use generative artificial intelligence tools as they work through the assignments in this course; this use must be documented in an appendix for each assignment. The documentation should include what tool(s) were used, how they were used, and how the results from the AI were incorporated into the submitted work.
+• Students may use artificial intelligence tools to create an outline for an assignment. Still, the final submitted assignment must be original work produced by the individual student alone or in a group (as applicable for different assignments).
+• Students may not use artificial intelligence tools to take tests, write research papers, create computer code, or complete major course assignments. However, these tools may be useful when gathering information from across sources and assimilating it for understanding.
+• Students may not use artificial intelligence tools for the final exam in this course.
+• This course policy is designed to promote your learning and intellectual development and to help you reach course learning outcomes.
+.
+Academic Integrity
+Academic Integrity is a fundamental value essential to the pursuit of learning and scholarship at the University of Toronto. Participating honestly, respectfully, responsibly, and fairly in this
+8
+academic community ensures that the U of T degree that you earn will continue to be valued and respected as a true signifier of a student's individual work and academic achievement. As a result, the University treats cases of academic misconduct very seriously.
+The University of Toronto's Code of Behaviour on Academic Matters outlines the behaviours that constitute academic misconduct, the process for addressing academic offences and the penalties that may be imposed. You are expected to be familiar with the contents of this document. Potential offences include, but are not limited to:
+In papers and assignments
+• Using someone else's ideas or words without appropriate acknowledgement.
+• Submitting your own work in more than one course without the permission of the instructor.
+• Making up sources or facts.
+• Obtaining or providing unauthorized assistance on any assignment (this includes collaborating with others on assignments that are supposed to be completed individually).
+On test and exams
+• Using or possessing any unauthorized aid, including a cell phone.
+• Looking at someone else's answers.
+• Misrepresenting your identity.
+• Submitting an altered test for re-grading.
+Misrepresentation
+• Falsifying institutional documents or grades.
+• Falsifying or altering any documentation required by the University, including (but not limited to) medical notes.
+All suspected cases of academic dishonesty will be investigated by the procedures outlined in the Code of Behaviour on Academic Matters. If you have any questions about what is or is not permitted in the course, please do not hesitate to contact the course instructor. If you have any questions about appropriate research and citation methods, you are expected to seek out additional information from the instructor or other U of T or RC resources such as the RC Centre for Professional Skills, the College Writing Centres or the Academic Success Centre.
+Email
+At times, the course instructor may decide to communicate important course information by email. As such, all U of T students are required to have a valid UTmail+ email address. You are responsible for ensuring that your UTmail+ email address is set up and properly entered on ACORN. For more information visit the Information Commons Help Desk.
+Forwarding your utoronto.ca email to a Gmail or other type of email account is not advisable. In some cases, messages from utoronto.ca addresses sent to Gmail accounts are filtered as junk mail, which means that important messages from your course instructor may end up in your spam or junk mail folder.
+9
+Recording Lectures
+Lectures and course materials prepared by the instructor are considered by the University to be an instructor's intellectual property covered by the Canadian Copyright Act. Students wishing to record a lecture or other course material in any way are required to ask the instructor's explicit permission and may not do so unless permission is granted. Students who have been previously granted permission to record lectures as an accommodation for a disability are excepted. This includes tape recording, filming, photographing PowerPoint slides, Quercus materials, etc.
+If permission for recording is granted by the instructor (or via Accessibility Services), it is intended for the individual student's own study purposes and does not include permission to "publish" them in any way. It is forbidden for a student to publish an instructor's notes to a website or sell them in any other form without formal permission.
+Please note that the last day you can drop this course without academic penalty is November 4, 2024.
+Session
+Date
+Topic
+Readings
+Week 1
+September 9
+• Ch 1 Role of Market Research in Marketing
+• Ch 2 Problem Definition & Research Process
+Read: Chapter 1 &2
+Week 2
+September 16
+• Ch 3 Secondary Data Collection
+• Ch 4 Qualitative Research
+Read: Chapter 3 &4
+Group Project Overview
+Week 3
+September 23
+• CH 5 Primary Data Collection
+• CH 6 Concept of Measurement & Attitude Scales
+Read: Chapter 5
+Chapter 6
+Week 4
+September 30
+• CH 7 Questionnaire Design
+• Questionnaire Development Group Assignments
+Read: Chapter 7
+Week 5
+October 7
+• CH 8 Primary Data Collection
+• CH 9 Online Marketing Research
+Read: Chapter 8
+Read Chapter 9
+Due: Group Project Phase 1
+Week 6
+October 21
+• Mid-Term
+TBC
+October 28
+• No Classes Reading Week
+Week 7
+November 4
+• Case Discussion: NASCAR
+• Laddering
+NASCAR: Leading a Marketing Transformation in a Time of Crisis" 15 - Case Risk versus Reward
+(Problem, Definition, Questionnaire & Sampling Plan)
+Week 8
+November 11
+• CH 11 Basic Sampling Issues
+• CH 12 Sampling Size Determination
+Read Ch 11
+Read Ch 12
+Week 9
+November 18
+• Database Research
+Read: "Generating Perceptual Maps from Social Media Data" case
+Individual Case Assignment Due Amazon Shopper Panel
+Week 10
+November 25
+• Chapter 15 Communicating Research Results
+Read: Ch 15 & “Note on Sensory Marketing
+Week 11
+December 2
+• Group Project Presentations
+Due: Group Project written Reports and Group Presentations for assigned groups
+Week 12
+December 3
+• Group Project Presentations
+Due: Group Presentation for assigned groups
+Other Useful Links
+• Become a volunteer note taker
+• Accessibility Services Note Taking Support
+• Credit / No-Credit in RSM courses
+• Rotman Commerce Academic Support
+• Where to find teaching assistant opportunities
+URL links for print
+• ACORN: http://www.acorn.utoronto.ca/
+• Email Accessibility Services: accessibility.services@utoronto.ca
+• Accessibility Services website: http://studentlife.utoronto.ca/as
+• University's Plagiarism Detection Tool FAQ: https://uoft.me/pdt-faq
+• The University of Toronto's Code of Behaviour on Academic Matters: http://www.governingcouncil.utoronto.ca/policies/behaveac.htm
+• Information Commons Help Desk: http://help.ic.utoronto.ca/category/3/utmail.html
+• Become a volunteer note taker: https://studentlife.utoronto.ca/program/volunteer-note-taking/
+• Accessibility Services Note Taking Support: https://studentlife.utoronto.ca/service/note-taking-support/
+• Credit / No-Credit in RSM courses: https://rotmancommerce.utoronto.ca/current-students/degree-requirements/credit-no-credit-option/
+• Rotman Commerce Academic Support: https://rotmancommerce.utoronto.ca/current-students/academic-support/
+• Book an appointment with a writing or presentation coach: http://uoft.me/writingcentres
+• Writing and Presentation Coaching academic support page: https://rotmancommerce.utoronto.ca/current-students/academic-support/writing-and-presentation-coaching/
+• Centre for Professional Skills Teamwork Resources page: https://rotmancommerce.utoronto.ca/teamwork-resources
+• Book an appointment with a Teamwork Mentor: http://uoft.me/writingcentres

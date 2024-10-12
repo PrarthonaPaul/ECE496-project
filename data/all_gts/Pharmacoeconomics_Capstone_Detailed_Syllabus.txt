@@ -1,0 +1,78 @@
+Syllabus: PHM 484: Pharmacoeconomics Capstone
+Course Title: PHM 484: Pharmacoeconomics Capstone
+Semester: Fall 2024
+Instructor: Dr. James Smith
+Email: jsmith@asu.edu
+Office: SANCA 450E, The Polytechnic School, ASU
+Office Phone: (480) 727-7800
+Office Hours: Fridays 2:00-4:30 PM OR by appointment
+Class Time & Place: Tuesday or Thursday 3:00-4:15 PM in SANCA 455
+Course Description:
+This capstone course focuses on the economic evaluation of pharmaceutical interventions or
+healthcare policies. Students will conduct economic modeling and analysis, culminating in a
+presentation of their findings at the Innovation Showcase. The course includes the development of a
+project proposal, data collection, economic modeling, and a final report.
+Course Objectives:
+Evaluate the cost-effectiveness and budget impact of pharmaceutical interventions or healthcare
+policies.
+Develop economic models to analyze costs, health outcomes, and patient preferences.
+Conduct scenario analyses to test the robustness of the economic models.
+Effectively present the project at the Innovation Showcase.
+Learning Outcomes:
+Gain expertise in pharmacoeconomics and economic evaluation.
+Develop practical skills in economic modeling and analysis.
+Improve communication skills through written reports and presentations.
+Enhance the ability to manage pharmacoeconomics projects from conception to completion.
+Group Project and Required Subtasks:
+The group project for this course will involve the economic evaluation of a pharmaceutical
+intervention or healthcare policy. The project will be broken down into the following subtasks:
+1. **Project Proposal (Week 3):**
+- Create a proposal detailing the pharmaceutical intervention or policy, the research objectives,
+and the anticipated outcomes. Include a timeline and assign roles to team members.
+2. **Literature Review and Data Collection (Weeks 4-6):**
+- Conduct a thorough literature review to identify existing economic evaluations and gaps. Collect
+data on costs, health outcomes, and patient preferences.
+3. **Economic Modeling and Analysis (Weeks 7-10):**
+- Develop economic models to evaluate the cost-effectiveness and budget impact of the
+intervention or policy. Analyze the data to identify trends and make recommendations.
+4. **Scenario Analysis and Optimization (Weeks 11-12):**
+- Conduct scenario analyses to test the robustness of the economic models. Optimize the
+intervention or policy based on the findings.
+5. **Final Report and Presentation (Weeks 13-15):**
+- Document the entire economic evaluation process, including challenges, solutions, and
+outcomes in a final report.
+- Prepare a presentation and poster for the Innovation Showcase that highlights the key aspects of
+the project.
+Groups are expected to collaborate closely, meeting regularly to discuss progress and resolve any
+issues. Instructor check-ins will be scheduled to provide guidance and feedback.
+Evaluation:
+Class meetings (5): 20 points
+Individual meetings (3): 12 points
+Project Proposal: 10 points
+Literature Review and Data Collection: 15 points
+Economic Modeling and Analysis: 18 points
+Scenario Analysis and Optimization: 10 points
+Final Report: 10 points
+Presentation: 5 points
+Poster: 10 points
+Total: 100 points
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)
