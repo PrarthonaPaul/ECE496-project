@@ -1,0 +1,103 @@
+Department of Geography and Planning, University of Toronto Page 1 of 4
+GGR462/JPG1914: GIS Research Project
+Course Description
+Students learn how to design, manage, and complete a research project that emphasizes the use of a geographic information system (GIS). Students work in groups of four to six. Groups will agree with the instructor on a suitable problem and then solve it by acquiring, organizing, and analyzing data using a GIS. Projects must include a substantive analytical component where GIS is central to the methods used.
+Although real issues in geographical analysis are addressed, the focus of the course evaluation is on the project's methodological and organizational design, the application of appropriate GIS techniques, and proper reporting of the results. The GIS component is accomplished through independent work. It is assumed that students already know the GIS concepts and functions required or are capable of learning them, and are proficient in the use of GIS software. This is a time-consuming course that simulates a team-oriented, workplace environment. Students must be highly motivated and able to make progress without constant supervision, manage their time effectively, meet strict deadlines, and be prepared to contribute to their group.
+Each group has the freedom to choose their own project topic. The instructor may suggest some project ideas, but students are welcome to develop their own. If you have an idea for a group project, you are encouraged to discuss it with the instructor as soon as possible to see if it is feasible and to start the process of data acquisition, which can be time consuming. Ideas may come from a variety of sources, such as a current or previous employer, work done as a volunteer, or work done in another course or on a field trip. Just keep in mind that the project topic must appeal to all members of your group. If you plan to work with an outside organization, you are encouraged to contact them as early as possible, as it often takes a while to arrange for data acquisition.
+There are some lectures during the term but at least some time in several of the classes is used for groups to work on their projects and for informal progress reports and consultation with the instructor. Students are expected to participate in discussions.
+Class Meetings
+Tuesday, 1:10-3:00, Myhal Centre for Engineering Innovation & Entrepreneurship, room 440.
+All students are expected to attend all classes in person. The instructor will discuss any absence with each student, as it affects their contribution to their group.
+Lab Sessions
+There are no scheduled lab sessions in this course. Students will be given computer accounts and are expected to work in the IIT labs or on their own computers as needed. Note: students can download a free, one-year student edition of ArcGIS from the Map and Data Library (Robarts Library, 5th floor). For instructions, click here and if you need installation assistance, contact gis.maps@utoronto.ca.
+Textbook
+There are no specific textbooks or readings. You are expected to identify relevant material for your particular project.
+Department of Geography and Planning, University of Toronto Page 2 of 4
+Prerequisites
+GGR 462S: GGR 272, 273, 373, and two other GGR courses. Other combinations of courses may also be suitable, with permission of the instructor. Knowledge of basic statistics is recommended.
+JPG 1914S: Graduate students require permission from the instructor (please contact me before the course begins). A strong GIS background is required (i.e., several GIS courses at the university level; JPG1906 or online training courses are not sufficient preparation). This a project-based course, where students use concepts and skills they have learned in previous courses. This is not an introductory course and is not a substitute for JPG1906. Note: Graduate students are expected to complete a group project. Groups may be composed entirely of graduate students if there are sufficient numbers and common interests. If not (which is usually the case), graduate students will work in a group with undergraduate students, while participating and contributing at a graduate level. Due to the workload in this course, students are not allowed to complete a project on their own.
+Evaluation
+The evaluation components build on each other. There are three written components: a proposal, a progress report, and a final report, as well as a presentation of the final report. The progress report will include material from the proposal, and the final report will build on the progress report. Each student must participate in the presentation.
+Proposal:
+10%
+Progress report:
+25%
+Final report:
+50%
+Presentation of final report:
+15%
+Several classes will be devoted to project updates from each group, in which each member of each group is expected to briefly summarize their progress. These sessions provide an opportunity to discuss challenges and get suggestions from the instructor.
+Please note that for each submitted document (i.e., the proposal, progress report, and final report), you will submit a separate page at the end, stating the role and contributions of each team member. It does not have to be lengthy, but must be specific enough that it is clear who did what tasks. All marks are assigned to each group. However, the instructor reserves the right to adjust the final mark of any student up or down (including course failure) based on their performance and contribution to their group project.
+Instructor
+Don Boyes, Department of Geography and Program in Planning
+Office:
+5011, Sidney Smith Hall
+Phone:
+(416) 978-1585
+E-mail: don.boyes@utoronto.ca
+Website: http://donboyes.com
+Office hours
+In person: open-door policy; drop by or make an appointment. Sidney Smith Hall room 5011.
+Online: by appointment (just e-mail me). http://geogutoronto.adobeconnect.com/donboyes/
+Department of Geography and Planning, University of Toronto Page 3 of 4
+Course Schedule
+WEEK
+DATE
+TOPICS AND DEADLINES
+Proposal
+1
+Jan. 8
+Course introduction; preliminary group formation
+2
+Jan. 15
+Designing a GIS research project; proposal requirements; finalize groups;
+Submit: List of group members, roles, and tentative topic
+3
+Jan. 22
+Project management; effective use of MS Word for report writing
+4
+Jan. 29
+Status reports, consultation with instructor, free time for group work;
+Submit: Proposal document via Canvas by 5:00 pm
+Progress Report
+5
+Feb. 5
+Progress report requirements; Consultation with instructor, free time for group work
+6
+Feb. 12
+Project week (no class – please schedule an appointment if needed)
+*
+Feb. 19
+Reading week
+7
+Feb. 26
+Status reports, consultation with instructor, free time for group work
+8
+Mar. 5
+Status reports, consultation with instructor, free time for group work;
+Submit: Progress report via Canvas by 5:00 pm
+Final Report
+9
+Mar. 12
+Final report requirements; Effective use of PowerPoint; Status reports, consultation with instructor, free time for group work
+10
+Mar. 19
+Project week (no class – please schedule an appointment if needed)
+11
+Mar. 26
+Status reports, consultation with instructor, free time for group work
+12
+April 2
+Final presentations (submit PowerPoint file to the instructor);
+Submit: Final report via Canvas by 11:00 am
+The instructor reserves the right to modify the topics and schedule during the term.
+Department of Geography and Planning, University of Toronto Page 4 of 4
+Course Policies
+Late penalty: In keeping with the professional environment promoted in the course, there will be no provision for late submissions (i.e. a late submission will result in a mark of zero) without medical documentation.
+Technical problems: This course requires the use of computers, and many things can go wrong when using them. You are responsible for ensuring that you maintain regular backup copies of your files, use antivirus software (if using your own computer), and schedule enough time to allow for delays due to technical difficulties. Computer viruses, crashed hard drives, lost or corrupted files, incompatible file formats, etc. are common issues when using technology, and are not acceptable grounds for a deadline extension.
+In case of illness: Requests for deadline extensions must be made to the instructor within five business days after the deadline, and must be accompanied by an original copy of the official university medical form. Medical forms are accepted at the discretion of the instructor, and must clearly indicate that you were incapacitated for the date of a test or for several days in the case of an assignment (being ill right before the deadline for a two-week assignment is not sufficient grounds for a deadline extension).
+Inquiries about graded term work: Any inquiries about marking must be made within two weeks of the return date of the work. This is in accordance with Arts and Science rules as stated in the calendar. Please contact the person that did the marking first. If, after discussing the issue with the marker, you are still not satisfied with the explanation for your mark, you should then contact the instructor.
+Accessibility needs: The University of Toronto and the course instructor are committed to accessibility. If you require accommodations or have any accessibility concerns, please visit the Accessibility Services website.
+Academic offences: Plagiarism and other academic offences including impersonating another student or providing false or altered medical forms, death certificates, or similar documents will not be tolerated. For more information, please refer to the Code of Behaviour on Academic Matters.
+Use of class materials and copyright notice: The materials used in this class including, but not limited to lecture notes, video recordings, exams, quizzes, and assignments are copyright protected works. If a student wishes to photograph, record audio and/or video, or otherwise reproduce lecture presentations, course notes or other similar materials provided by the instructor, he or she must obtain the instructor's written consent beforehand. Otherwise, all such reproduction is an infringement of copyright and is absolutely prohibited. In the case of private use by students with disabilities, the instructor's consent will not be unreasonably withheld.
+Learner support available at the University of Toronto: The university provides a range of student support related to student life and academic success, including services related to university life, library and academic skills support, IT support and more. See Learner Support Available at the University of Toronto.

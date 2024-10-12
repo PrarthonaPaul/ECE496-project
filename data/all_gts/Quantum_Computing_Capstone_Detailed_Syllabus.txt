@@ -1,0 +1,79 @@
+Syllabus: QNT 480: Quantum Computing Capstone
+Course Title: QNT 480: Quantum Computing Capstone
+Semester: Fall 2024
+Instructor: Dr. Sarah Parker
+Email: sparker@asu.edu
+Office: SANCA 270B, The Polytechnic School, ASU
+Office Phone: (480) 727-5900
+Office Hours: Mondays 2:00-4:30 PM OR by appointment
+Class Time & Place: Monday or Wednesday 3:00-4:15 PM in SANCA 275
+Course Description:
+This capstone course explores the application of quantum computing to solve complex problems.
+Students will design, implement, and test a quantum algorithm or system that addresses a specific
+challenge in the field. The course includes the development of a project proposal, algorithm design,
+quantum implementation, and presentation of findings through a report and at the Innovation
+Showcase.
+Course Objectives:
+Design and implement a quantum algorithm to solve a complex problem.
+Conduct simulations and performance analysis of quantum systems.
+Optimize the quantum algorithm for efficiency and accuracy.
+Effectively present the project at the Innovation Showcase.
+Learning Outcomes:
+Gain expertise in quantum computing algorithms and systems.
+Develop practical skills in quantum algorithm design and optimization.
+Improve communication skills through written reports and presentations.
+Enhance the ability to manage quantum computing projects from conception to completion.
+Group Project and Required Subtasks:
+The group project for this course will involve the development and implementation of a quantum
+algorithm or quantum system to solve a complex problem. The project will be broken down into the
+following subtasks:
+1. **Project Proposal (Week 3):**
+- Create a proposal outlining the quantum problem being addressed, the proposed quantum
+solution, and the anticipated impact. Include a timeline and assign roles to team members.
+2. **Algorithm Design and Simulation (Weeks 4-6):**
+- Design the quantum algorithm or system, and develop a simulation to test its functionality in a
+classical environment before implementation on a quantum computer.
+3. **Quantum Implementation (Weeks 7-10):**
+- Implement the quantum algorithm on a quantum computing platform. Test and refine the
+algorithm to ensure it meets the project's objectives.
+4. **Performance Analysis and Optimization (Weeks 11-12):**
+- Analyze the performance of the quantum algorithm, identify areas for optimization, and make
+necessary improvements.
+5. **Final Report and Presentation (Weeks 13-15):**
+- Document the entire development process, including design decisions, challenges, and
+outcomes in a final report.
+- Prepare a presentation and poster for the Innovation Showcase that highlights the key aspects of
+the project.
+Groups are expected to collaborate closely, meeting regularly to discuss progress and resolve any
+issues. Instructor check-ins will be scheduled to provide guidance and feedback.
+Evaluation:
+Class meetings (5): 20 points
+Individual meetings (3): 12 points
+Project Proposal: 10 points
+Algorithm Design and Simulation: 15 points
+Quantum Implementation: 18 points
+Performance Analysis and Optimization: 10 points
+Final Report: 10 points
+Presentation: 5 points
+Poster: 10 points
+Total: 100 points
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)

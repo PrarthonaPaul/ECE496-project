@@ -1,0 +1,93 @@
+Powered by AI
+Copilot
+ENVE330 - Environmental Engineering Design
+University:
+Green Valley University
+Course Duration:
+Full Year (Fall and Winter)
+Instructor:
+Dr. Linda Martinez
+Contact Information:
+linda.martinez@gvu.edu
+Offi ce Hours:
+Mondays and Wednesdays, 2:00 PM - 4:00 PM
+Course Description
+This third-year course involves designing solutions to environmental engineering problems, such as wastemanagement systems, water treatment plants, or air pollution control devices. The course emphasizes sustainabledesign practices, regulatory compliance, and community engagement.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Conduct environmental impact assessments for engineering projects.
+2.
+Apply sustainable design principles to environmental engineering challenges.
+3.
+Develop detailed designs for environmental systems.
+4.
+Ensure regulatory compliance and standards are met in their designs.
+5.
+Engage with community stakeholders and incorporate their feedback.
+6.
+Communicate design concepts and results through written reports and oral presentations.
+Course Timeline and Deliverables
+Fall Semester:
+Date
+Deliverable
+Description
+Weight
+September 15,2020
+Team Formation andProject Proposal
+Teams form and submit a proposal outliningthe project scope and objectives.
+10%
+October 20,2020
+Environmental ImpactAssessment Report
+Detailed assessment of the environmentalimpacts of the proposed project.
+15%
+November 25,2020
+Preliminary Design Review
+Presentation of initial design, includingsustainability and regulatory considerations.
+15%
+December 10,2020
+Midterm Progress Report
+Report on progress, challenges, and next steps.
+10%
+Winter Semester:
+Date
+Deliverable
+Description
+Weight
+February 15,2021
+Detailed Design Document
+Comprehensive design document with detaileddrawings and specifi cations.
+15%
+March 20,2021
+Prototype Development andTesting Report
+Report on prototype development and testingresults.
+20%
+April 10,2021
+Final Presentation andDemonstration
+Final presentation and demonstration of theenvironmental engineering project.
+15%
+Grading Breakdown
+Team Formation and Project Proposal: 10%
+Environmental Impact Assessment Report: 15%
+Preliminary Design Review: 15%
+Midterm Progress Report: 10%
+Detailed Design Document: 15%
+Prototype Development and Testing Report: 20%
+Final Presentation and Demonstration: 15%
+Total: 100%
+Course Policies
+Attendance:
+Regular attendance is required. More than three unexcused absences may result in a lowergrade.
+Late Submissions:
+Assignments submitted late will incur a penalty of 5% per day, up to a maximum of25%.
+Academic Integrity:
+All students are expected to adhere to the university’s academic integrity policy.Plagiarism or cheating will result in disciplinary action.
+Required Materials
+Textbook: “Introduction to Environmental Engineering” by Mackenzie L. Davis and David A. Cornwell
+Access to environmental modeling software (e.g., EPANET, SWMM)
+Prototyping materials (to be specifi ed based on project requirements)
+Additional Resources
+University Library
+Environmental Engineering Lab
+Online tutorials and workshops
+This syllabus provides a comprehensive overview of the ENVE330 course, including key elements such aslearning outcomes, a detailed timeline with deliverables, and their respective weights. If you need any furtherdetails or adjustments, feel free to ask!

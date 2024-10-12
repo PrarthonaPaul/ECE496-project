@@ -1,0 +1,318 @@
+ECE 297 – Design and Communication
+Course Syllabus, January 2015
+Lecturers and Office Hours:
+Design Communication
+Lecturer Vaughn Betz Ken Tallman
+Office Location 311 Engineering Annex Sanford Fleming, SF B670 (Engineering
+Communication Program)
+Email vaughn@eecg.utoronto.ca k.tallman@utoronto.ca
+Office Hours Any time you find me in my office, or
+email to book an appointment
+TBA
+“Design is not just what it looks like and feels like. Design is how it works.”
+- Steve Jobs
+“The art of communication is the language of leadership.”
+- James Humes (Presidential speechwriter & author of Apollo 11 plaque left on the moon)
+Course Overview: This course involves designing and completing a large software project in a
+team, and communicating effectively with both technical supervisors and clientfacing
+business managers. The course focuses on practical skills in all these
+areas -- design, software development, oral communication and written
+communication – as these skills are essential to having a successful engineering
+career. The evaluation is similarly practical: your grade will be based on the
+quality of your software design, and the calibre of your oral and written
+communication.
+The information concerning the course project and evaluation is subject to
+change if circumstances warrant; such changes will communicated to students
+as early as possible if they are necessary.
+Recommended Text: Made to Stick: Why Some Ideas Survive and Others Die, Chip and Dan Heath,
+Random House, 2007. Available in the U of Toronto bookstore, or you can buy it
+for ~$20 from Amazon.ca.
+Course Web Page: http://www.eecg.toronto.edu/~vaughn/ece297
+Lecture Notes: We will post any PowerPoint slides we present on the course website after the
+lecture.
+Prerequisites: ECE 244 (Programming Fundamentals) or equivalent. The course project is
+completed in C++ so you must be familiar with this programming language.
+Lectures: Monday, 9 am – 10 am, MC 102
+Friday, 11 am – noon, MC 102
+Key information on programming, algorithms and communication will be presented during
+lectures; you will need this information to complete the course project.
+Tutorials: Three time slots; depending on your section you will attend one time slot:
+Wed 1 – 3 pm (GB 404 / SF 3201)
+Friday 9 – 11 am (GB 412 / GB SF 2202)
+and Friday 3 – 5 pm (GB 412 / GB 244)
+From January 5 to 16, important programming information (how to use the C++ STL library
+that will be essential to completing your project) will be taught in the tutorials and you
+should attend the entire two-hour tutorial time slot for your section. The week of Jan. 19 you
+will meet your CI during the tutorial and choose a weekly meeting time; from Jan. 26
+onwards you will meet with your Communication Instructor in a team of three that agreedupon
+time.
+Labs: Three time slots; depending on your section you will attend one time slot:
+Mon. 3 – 5 pm (SF 2102 / GB 251 / GB 243 / SF 2204)
+Wed. 10 am - noon (SF 2102 / GB 251 / GB 243 / SF 2204)
+Thurs. 9 – 11 am (SF 2102 / GB 251 / GB 243 / SF 2204).
+Labs begin immediately, on Jan. 5. For the first two weeks you will work individually in the
+labs to learn and demonstrate the software tools we use this term. From January 19
+onwards, you will work in teams of three in the lab and will be assigned a specific TA to
+mentor & grade your team; you must meet weekly with this TA.
+Project and Organization:
+In this course you will build a software program that will provide functionality similar to Google Maps,
+plus some other features. By the end of the course your program will be able to
+• Read in a database of all the intersections and streets in a city.
+• Draw the resulting map nicely and let the user interact (pan, zoom, highlight, etc.) with it.
+• Find travel routes between two intersections in the city and give directions to a user.
+• Find a good order of deliveries and a good driving path for a courier company driver to complete
+his/her list of daily deliveries.
+You will be evaluated by two people in this course.
+1. A Teaching Assistant (TA), who is a graduate student in engineering and will mentor you on
+design and software development, and evaluate the quality of your design and software.
+2. A Communication Instructor (CI), who is trained in effective communication and will mentor
+you on effective oral and written communication, and who will evaluate your oral presentations
+and the majority of your written documents.
+You will work in teams of three students, and you will choose your teammates. All three team
+members must be in the same time slot for labs and for tutorials (there are 3 slots), to make scheduling
+meetings with the teaching assistants and communication instructors feasible. Each team will be
+assigned one TA and one CI, who will mentor you and grade you for the duration of the course.
+Each week you will meet with your TA during your lab period to update him/her on your status and
+sometimes to demonstrate your progress toward a project milestone. Each week after January 23 you
+will also meet with your CI to update him/her on your progress in creating presentations and documents
+and to get feedback on these deliverables and potentially on the user interface of your software design.
+Your team will also have a wiki page (an easy-to-edit web page), and you should always update your wiki
+page before your status meeting to highlight what you have achieved each week, any challenges you
+have encountered, and what the steps for the next week are.
+Detailed Deliverables and Evaluation:
+There is no midterm or final in this course; your mark will be determined entirely by the quality of your
+design and software, your oral and written communication, and how well and professionally you
+communicate your status throughout the course. The detailed list of deliverables and the mark
+distribution are given below. Full details on the requirements for each software or communication
+deliverable will be given in separate documents distributed when that deliverable is assigned later in the
+course.
+Deliverable Marks Due Date Marked by
+Milestone 0 - basic SW tools
+& debugging (individual) 2
+Friday, Jan.
+16
+TA and automarker. You will debug a program
+we give you, submit the fixed code & demo
+that you can use source code control and
+debugging tools to the TA.
+Milestone 1 – create & load
+data structures, answer
+simple queries 9
+Monday,
+Feb. 2
+TA and automarker. Submit code. The code
+will be graded for correctness and style.
+Code review 2
+Monday,
+Feb. 9
+TA. You will be given another team’s
+Milestone 1 code, and will write a brief
+document detailing what you like and don’t
+like about the code style. The TA will mark the
+quality of your feedback.
+Milestone 2 - graphics: draw
+map 11
+Monday,
+Feb. 23
+TA. Submit code & demo to TA. Your mark will
+be based on the quality of your map
+visualization, and on the code style.
+Milestone 3 – finding travel
+routes between points 11
+Monday,
+March 16
+TA and automarker. Submit code & demo to
+TA. You will be marked on the performance of
+your path-finding algorithm, the style of your
+code, and the usability of your user interface.
+Milestone 4 – find an order
+and route for a set of courier
+deliveries to minimize travel
+time 11
+Thursday,
+April 2
+TA and automarker. Submit code & demo to
+TA. You will be marked on the performance of
+your route-finding algorithm, the style of your
+code, and the usability of your user interface.
+Weekly status reporting to
+TA 4
+All
+Semester
+TA. Write status reports on wiki each week.
+Arrive at lab prepared to show code status,
+and summarize progress and next steps well.
+Weekly status reporting to
+CI 4
+All
+Semester
+CI. Write status reports on wiki each week.
+Arrive at tutorial prepared to show document
+and program user interface status, and
+summarize progress and next steps well.
+Written Document 1:
+Graphics Proposal 8
+Friday, Feb.
+13
+CI. This is a written document summarizing
+your plan of how to visualize a city map, and
+any interesting features. It should be written
+for a client (person paying you to develop the
+program).
+Oral Presentation 1:
+graphics functionality /
+demo 8
+Scheduled
+Feb. 23 to
+March 6
+CI. Oral progress presentation detailing your
+original plan for visualizing the map, your
+evaluation of the implementation and any
+changes that you made.
+Oral 1 Analysis (Individual) 2
+Monday,
+March 9
+CI. A brief written analysis of your own oral
+presentation performance: what did you do
+well and what could you improve?
+Written Document 2: final
+report & plan 14
+Friday ,
+April 10
+CI and TA. Part of this final report is “clientfacing”
+and should detail the interesting
+features of your program, and list a plan for a
+future project / set of features that could be
+built into the program to address some
+interesting business opportunity. The CI will
+mark this portion. The other half of the report
+will be technical (in industry, it would be
+intended for engineering management) and
+will be marked by the TA. This part of the
+report will give an overview of your software
+organization choices, algorithm and data
+structure choices, and performance data.
+Oral Presentation 2: project
+summary & pitch 14
+Monday,
+April 13
+CI and TA. This is a final presentation
+summarizing what you achieved in your
+program, and it is intended for both a client
+and engineering management audience. You
+should describe the interesting features of
+your program, including screenshots (and
+possibly a brief demo), and you should give a
+“pitch” for a future feature(s) that you could
+add to the program to address some business
+opportunity; you want to convince the client
+(CI) to fund development of these new
+feature(s).
+All deliverables except those shaded and marked as “individual” will be completed in a team of three
+students. Note that while you will complete most deliverables as a team, the marks of individual team
+members can and will be different in some cases, based on the relative contribution of each team
+member and the quality and scope of the portion of the design / document / presentation created by
+each team member.
+Submission deadlines will be at 5:00 pm of the date in question. When a demo is required it will be done
+during your lab period in the week of the submission deadline.
+You are expected to meet each week with both your TA and CI, and have a written (on your wiki page)
+status update. If you cannot be present some week for some reason, it is up to you to make alternative
+arrangements with your TA and/or CI in advance. The screen shot below gives an idea of what a short
+status report might look like:
+There will be prizes (bonus marks and small gifts) for the teams that achieve the best solutions to
+Milestone 4 and for the teams that have the best final design documents.
+Note that the new feature(s) you propose in your final report and final presentation will not be
+implemented during the course. You are making a “pitch” for funding to the client, so the key is to show
+an interesting idea and a compelling case of why it makes sense to build; you are completely
+unconstrained by any need to actually build it!
+Suggestions and Workload:
+To spread the workload of this course, we begin the labs and tutorials immediately (Jan. 5). Get started
+on Milestone 0 right away! Later software milestones will depend on the code you write for earlier
+milestones, so it is important you do not fall behind on the early milestones, and that you create highquality,
+maintainable software so you can keep extending it through the course.
+By Monday, Jan. 19 you will need to have formed a group of three, with all three teammates being in
+the same time slot (for both tutorial and labs – there are three different time slots). Get started on
+finding teammates right away, and be strategic in your choices. You want to choose teammates that:
+• Have complementary skill sets (e.g. a good writer plus a good coder plus a good presenter)
+• Have similar work ethics
+• Get along and work together well on a personal level.
+You will enter your team composition from the Team Selection System on the course webpage.
+Balancing work well across the three team members (and having a solid contribution from each) is key
+to doing well in this course with a reasonable workload.
+Lecture Material:
+The material presented in lectures and during the first three weeks of tutorials will include:
+First three weeks of tutorials:
+• C++ templates
+• The C++ Standard Template Library classes, including vectors, lists (linked lists), maps (binary
+trees) and iterators.
+Lectures:
+• Course goals and organization
+• Source code control and Subversion (Milestone 0)
+• Team formation and project management basics
+• Graphs and data structures to represent them (Milestone 1)
+• Good software style
+• Testing and unit tests
+• Introduction to computer graphics (Milestone 2)
+• Effective written communication
+• Effective oral communication
+• Finding paths/routes in graphs (Milestone 3)
+• Software tools: profilers (for speed) and debugging techniques
+• The traveling salesman problem (Milestone 4)
+• Integrating text and graphics in communications
+• User-focused communication
+• Advanced oral communication
+• Choosing the right communication mode and adapting to your audience
+• Design case studies
+Laboratory Computers and Working from Home:
+In addition to the computers in your lab room, you may also use your home computer to work on
+assignments. You may do so by remotely accessing the lab machines (e.g. ug150.eecg.utoronto.ca) from
+home through your Internet Service Provider (ISP). To do so, you must connect to ECE using a secure
+shell (ssh) and if you want to display graphics, through the Virtual Network Computing (VNC) program.
+For more information on using the ECE lab computers remotely, please consult the VNC Quick Start
+Guide on the course website.
+You may also use your home computer by downloading the programs you need (e.g., NetBeans,
+compiler, debugger, svn client, various libraries, etc.) directly to your computer. This is significantly more
+work than remotely logging into the lab computers and the exact steps you need to follow will vary
+depending on your home computer setup. Consequently we recommend you use VNC instead to
+remotely work on the lab machines from home. If you decide to install all the tools and work on your
+project directly on your home computer, you must still ensure your code works correctly on the lab ECE
+computers. A program that does not work correctly on ECE, even if it works correctly on your home
+machine, will be marked as incorrect! Plan ahead, and give yourself the time to test what you
+developed at home on ECE before the deadline.
+Getting Help via the Discussion Board:
+If you have a question outside of your regular lab (TA) or tutorial (CI) time, you can post it to the course
+discussion board; we will use piazza for the discussion board and there is a link to it on the course
+website. The TAs as well as the instructors will regularly check this board to answer questions and the
+answers become available to all students. Thus, it pays to check the board before posting a question to
+make sure that the question has not been posted and answered earlier.
+You are encouraged to use the discussion board, and to engage in discussions about the assignments
+with fellow students on the board. However, do not post code on the discussion board. Doing so will be
+treated as an academic offense (see below). Also, if the message is to be directed to a specific TA, CI or
+instructor, use email instead of the discussion board.
+Independent Work and Academic Integrity:
+Students from different teams are encouraged to discuss with one another issues and problems that
+arise in the course of completing the design project. Such discussions often provide interesting contrasts
+in design choices and can be very valuable learning experiences.
+However, work submitted for credit must be the student/team’s own work. It is one thing to discuss
+and compare, but quite another to rely on some other team's work to obtain credit for an assignment. It
+is also an offence to knowingly allow a copy of your work to be submitted by another person/team for
+credit. It is also an offense not to put in place protections to prevent your code from being copied
+without your knowledge!
+A reasonable rule of thumb to follow during a discussion that crosses teams is that nobody leaves the
+discussion with written notes of what was said. It is also unwise to detail the entire algorithm or set of
+data structure choices that one team is making to another team. It is unlikely that two teams who have
+discussed only high-level approaches to a problem with no written notes will write highly similar
+programs.
+All programs submitted for credit in this course will be compared pair-wise to identify cases of collusion,
+copying, and similar offenses. A sophisticated program that is capable of detecting similar programs
+even if considerable effort has been taken to conceal their similarity does the comparison.
+All written reports and oral presentations must similarly be the work of a single team and will be
+submitted to turnitin.com for comparison to the documents of other groups and to published works for
+plagiarism detection.
+Any work submitted for credit that is not the work of the person submitting it will be treated as an
+offense under the Code of Academic Discipline of the University. Similarly, aiding anyone in the
+submission of work that is not the work of the submitter will also be treated as an offense under the
+Code of Academic Discipline of the University. The Code of Academic Discipline will be rigidly enforced in
+this course. Penalties can range from grade penalties in the course to suspension from the University.
+The Dean, as advised by the instructor and the Departmental Chair, determines the penalty for each
+case.

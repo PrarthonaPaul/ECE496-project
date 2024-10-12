@@ -1,0 +1,497 @@
+Course Outline (F2023-W2024)
+COE70AB: Computer Engineering Capstone Design
+Instructor(s)
+Dr. Naimul Mefraz Khan [Coordinator]
+Office: ENG438
+Phone: (416) 979-5000 x 556479
+Email: n77khan@torontomu.ca
+Office Hours: By Appointment
+Dr. Alagan Anpalagan
+Office: ENG447
+Phone: (416) 979-5000 x 556079
+Email: alagan@torontomu.ca
+Office Hours: Wednesdays, 12 noon - 1 pm
+Dr. Truman Yang
+Office: ENG435
+Phone: (416) 979-5000 x 554175
+Email: cungang@torontomu.ca
+Office Hours: By Appointment
+Dr. Gul Khan
+Office: ENG448
+Phone: (416) 979-5000 x 556084
+Email: gnkhan@torontomu.ca
+Office Hours: 3:00-4:00PM Monday
+Dr. Andy Ye
+Office: ENG319
+Phone: (416) 979-5000 x 554901
+Email: agye@torontomu.ca
+Office Hours: TBA
+Dr. Muhammad Jaseemuddin
+Office: EPH406A
+Phone: (416) 979-5000 x 556073
+Email: jaseem@torontomu.ca
+Office Hours: Wed 12-1pm and online upon request
+Dr. Vadim Geurkov
+Office: ENG430
+Phone: (416) 979-5000 x 556088
+Email: vgeurkov@torontomu.ca
+Office Hours: TBD
+Dr. Reza Samavi
+Office: ENG457
+Phone: (416) 979-5000 x 554903
+Email: samavi@torontomu.ca
+Office Hours: Mon 14:00-16:00 on Zoom or otherwise communicated-please email to make anappointment
+CalendarDescription
+This two-term course provides a training platform for systematic open-ended design process andproject management. Student groups apply their acquired knowledge and engineering skills to
+develop and build a design project from concept to working prototype. The lecture componentprovides advice and information on the design process, project management, reliability, systemcomponents, documentation, safety, and program specific aspects. In the laboratory component,once a project topic is assigned, student groups plan, design, source components, build,test/debug, and analyze, under the supervision of a faculty lab coordinator and submit a finaldesign project report.
+Prerequisites
+COE 528, COE 608, COE 628, MEC 511, MTH 514 and [(COE 501, ELE 632, ELE 635, and ELE639) or (COE 501, CPS 688, ELE 632, and ELE 635) or (COE 501, ELE 632, ELE 639, and CPS688) or ( COE 691, COE 692, CPS 688, and ELE 532)]
+Antirequisites
+None
+Corerequisites
+None
+CompulsoryText(s):
+1.
+1. Fundamentals of Project Management, J. Heagney, 5th edition, AMACOM, 2016.2.Teamwork and Project Management, Karl A. Smith, 4th edition, McGraw Hill, 2013 - Aportion of the required text from this book is provided under library e-reserve (D2L) for allstudents.
+ReferenceText(s):
+1.
+Design Concepts for Engineers, M. Horenstein, 3 rd edition, Prentice Hall, 2006.
+2.
+Engineering Design, R. Eggert, Pearson Prentice Hall, 2005.
+3.
+Fundamentals of Engineering Design, B. Hyman, Prentice Hall, 2003.
+4.
+Design for Electrical and Computer Engineers, J. Salt and R. Rothery, John Wiley & Sons,Inc., 2002.
+LearningObjectives(Indicators)
+At the end of this course, the successful student will be able to:
+1.
+Develop students' ability and technical skills to make decisions in engineering designsusing judgment in solving problems with uncertainty and imprecise information, andselecting optimal choice among alternatives applying known constraints identified in theproject definition. (
+2a
+)
+2.
+Appraises the validity/reliability of data relative to the degrees of error and limitations oftheory and measurement. Creates simulated data for pre-analysis. Integrates thecalculations of error and uncertainty as integral components of investigations. (
+3a
+)
+3.
+Integrates the calculations of error and uncertainty as integral components ofinvestigations. Practices critical and continual assessment of experimental data andassociated models. Creates predictions of outcomes and experimental uncertainties.Justifies the assumptions given test conditions. Draws on other knowledge to aid thedecision-making process. Proposes improvements to investigative procedures andmethods. (
+3b
+)
+4.
+Anticipates the needs of the project, customizes design processes, analyzes progress, andrevises plans as necessary. Consistency of produced problem definition with needsstatement and reality. Predicts unstated customer and user needs. Defines designparameter uncertainties and their impacts. Gathers information and identifies constraints(e.g. health and safety risks, codes, economic, environmental, cultural, and societal).Generates solutions for more complex design engineering problems/systems. (
+4a
+), (
+4b
+)
+5.
+Develop students' ability and technical skills to make decisions in engineering designsusing judgment in solving problems with uncertainty and imprecise information, andselecting optimal choice among alternatives applying known constraints identified in theproject definition. (
+4c
+)
+6.
+Designs and develops simple tools (software, hardware) to perform given tasks as requiredby the project. Evaluates skills and tools to identify their limitations with respect to theproject needs. Evaluates results using several skills and tools to determine the one thatbest explains Ã¢â‚¬ËoerealityÃ¢â‚¬â„¢. (
+5a
+)
+7.
+Train students with project management and teamwork skills, which includes leadership,organization, planning, motivation, conflict resolution, design process management,
+cooperation and contribution, decomposing project into key tasks, determining tasksinterrelationship, and managing project to meet budget and time line. Mentors and acceptsmentoring from others in technical and team issues. Demonstrates capacity for technical orteam leadership while respecting other's roles. Evaluates team effectiveness and plans forimprovements. (
+6a
+), (
+6b
+)
+8.
+Demonstrates written and oral communication skill through the ability of constructingeffective arguments and drawing conclusions using evidence in discussing design choices,using technical vocabulary, and presenting information clearly and concisely. (
+7a
+), (
+7b
+)
+9.
+Contributes to teamwork in an equitable and timely manner. (
+8a
+)
+10.
+Integrates standards and codes of practice relevant to the discipline into decision-makingprocesses. Knows regulations governing professional practice (e.g. Professional EngineersAct). Adheres to guidelines dictating use of intellectual property and contractual issues. (
+8c
+)
+11.
+Negotiates project scope, critical assumptions, and deliverables with stakeholders.Systematically decomposes project into key tasks and allocates resources to each taskaccording to project timelines. Understands task inter-relationships and manages projectaccordingly to meet budget and time deadlines. Allocates tasks to team members andcoordinates dynamically as problems or opportunities emerge. Identifies issues related toimplementing projects in ways that are sensitive to the needs of all stakeholders. Displaysawareness of environmental, safety, economic, social, and other risks associated with theproject and ability to respond proactively to minimise these risks. (
+11b
+)
+12.
+Designs economic evaluation approaches to support decision making at a system level withreal world constraints and demands. (
+11a
+)
+13.
+Build up students' creative thinking and capabilities of conducting research/interconnectingvarious engineering knowledge to formation of realistic designs. Recognize the need forself-education and developing relationships with experts in the field. (
+12b
+)
+NOTE:
+Numbers in parentheses refer to the graduate attributes required by the CanadianEngineering Accreditation Board (CEAB).
+CourseOrganization
+1.0 hours of lecture per week for 13 weeks
+5.0 hours of lab per week for 12 weeks
+0.0 hours of tutorial per week for 12 weeks
+TeachingAssistants
+TBA
+CourseEvaluation
+Theory
+Design Process and Project Management Exam (A)
+6.25 %
+Quizzes (A)
+2.5 %
+Report summarizing design activities (A)
+7.5 %
+Final Engineering Design Report (B)
+22.5 %
+Laboratory
+Milestones and Milestones Compliance Reports (A)
+3.75 %
+Project Oral Exam (A)
+5 %
+Project Management and Team Work (B)
+11.25 %
+Milestone Compliance Reports (B)
+11.25 %
+Milestones and Final Demonstrations (B)
+11.25 %
+Project Oral Exam (B)
+15 %
+Open-House Participation (B)
+3.75 %
+TOTAL:
+100 %
+Note:
+In order for a student to pass a course, a minimum overall course mark of 50% must beobtained. In addition, for courses that have both
+"Theory and Laboratory"
+components, thestudent must pass the Laboratory and Theory portions separately by achieving a minimum of 50%in the combined Laboratory components and 50% in the combined Theory components. Pleaserefer to the
+"Course Evaluation"
+section above for details on the Theory and Laboratorycomponents (if applicable).
+Examinations
+IMPORTANT NOTE: COE70A/B is a two-term course. If the course is dropped in either of theterms or receive an "F" grade in the course, the entire course has to be repeated.
+Course evaluation will be based on students' performance and design reports. Each project groupconsists of 4 students. Each student will be evaluated both individually and as a group.
+COE 70A (Fall Term)
+===================
+Please refer to "Activity Schedule" table at the end of the course outline for the time line forexams, evaluation, and deadlines.
+Examination on â€oeDesign Process and Project Managementâ€ is carried out in Week F6(tentative).
+Students must attend specified seminars (& quizzes).
+Students must submit project milestones and milestones compliance reports as per the "ActivitySchedule" to their FLC for evaluation prior to meeting with their FLCs.
+Project design oral exam will be conducted in weeks F12-F13 (tentative). Studentsâ€oeindividuallyâ€ should demonstrate a thorough knowledge of their EDP through the oralexamination by their assigned FLC.
+The written report at the end of the Fall term (week F13) will be assessed not only on theirtechnical merit, but also on the communication skills of the authors as exhibited through thereports. The written report will be evaluated as follows:
+i) Introduction and Objective
+-Statement of the problem, clarification of need and requirements
+ii) Approach and Methods
+-Relevant literature review, use of suitable engineering concepts and methods
+-Alternative design approaches examined and analyzed
+iii) Design Analysis and Synthesis
+-Design specifications, challenges and methodology
+-Use of modern concepts and methods for data gathering, analysis, and synthesis
+-Charts on the design process
+iv) Technical Writing and General Organization
+-English, spelling, conciseness, clarity, cover page, index, sequence of chapters, references,
+appendices, overall adequacy, and integration of the report
+COE 70B (Winter Term)
+====================
+Please refer to "Activity Schedule" table at the end of the course outline for the timeline forexams, evaluation, and deadlines.
+(a) Project Management & Teamwork (B): The FLC will mark each student in each phase inhis/her role as a Manager/Team Leader (Leadership, Conductor of meetings,Organizer/planner/motivator, Conflict resolution) or as a Team Member (Co-operation,Contribution, Conflict resolution). More details on project management are given at the end of thiscourse outline.
+(b) Milestones Compliance Report, Milestones & Final Demonstration (B): Students are requiredto demonstrate milestone compliance ( & submit milestone compliance report) during the 4 phasesof the project, and build a working prototype. Failure to do so will automatically result in a FAILgrade.
+Students who do not keep their FLC advised of their progress on a weekly basis may be refused
+an oral examination because authorship and contribution to the project is questionable.
+(c) Project design oral exam will be conducted in weeks W12-W13 (tentative). Studentsâ€oeindividuallyâ€ should demonstrate a thorough knowledge of their EDP through the oralexamination by their assigned FLC.
+(c) Open House Presentation (B): Students are required to participate in an "Open House"exhibition that will be scheduled by the department. Please advise prospective employers of thisrequirement. At the Open House, students will demonstrate and discuss their project with visitorsfrom the academic community, their peers, and visitors from industry. Participation in this exhibitmay result in a grade revision for enhancements or improvements to the project. Students absentfrom the Open House will have their grade reflect this.
+(d) Final Engineering Design Report (W13)(B): The main body of the report is limited to 40 pages,including text, analysis equations/algorithms diagrams, schematics, tables and references list.
+Additional material (e.g. source code, datasheets, etc.), not subjected to grading, can be insertedin the APPENDIX. Mark reduction will be applied for report exceeding the 40-page limit. Oneunbound copy of your group final Engineering Design report is required to submit to your FLC bythe deadline set by dept/Course Coordinator. A report submitted without prior satisfactorydemonstration of your group project will automatically be given a FAIL grade. The format of thereport should conform to professional standards and adequately document the design activities. Ifthe project includes software,the source code must be included/uploaded with the report. The finalreport will be returned to the students during the Open House together with corrections andsuggestions for improvement. The students must make the necessary revisions and submit thefinal version by the deadline set by the department/CC. If the deadline set by the department/CCis not met for Engineering Design Report submission, the student will not be eligible to graduate.All written reports will be assessed not only on their technical merit, but also on the communicationskills of the author as exhibited through these reports.
+OtherEvaluationInformation
+The EDP grade awarded to a student who has completed all the requirements, including asuccessful and timely project demonstration and oral examination, is based on an assessmentmade by their FLC. Though the wide variation in EDP topics, approach, and challengesencountered by the student does not allow a precise marking scheme to be uniformly applied, thefactors described below will be weighted by the FLC in determining the student grade.
+(a) Laboratory Work
+====================
+All EDPs require that a concept, an idea, bounded by design specifications in the EDP topicdescription be researched to provide sufficient knowledge to enable a realistic design be fleshedout. This design is implemented in the laboratory. The foundations for the EDP grade rest on thedesign and implementation process. Unless the design is sound and based on solid engineering,the laboratory time will be inefficiently used and the effort frustrating to all involved including theFLC.
+Even with a good design, the student will be challenged with implementation and bringing thedesign to life. The key aspect is the process by which the student tackles the challengesencountered. Is a problem analysed to thoroughly understand its root and a logical decision madeas to what options are viable and a strategy devised to confirm the diagnosis and attempt asolution, or is a trial and error quick-fix method employed? How systematic and skilled are thetroubleshooting procedures employed; for instance, are results studied carefully or program flowexamined etc?
+Other factors used in evaluating lab performance include time and project management skills.How well did the student meet milestones and GANTT chart schedules, and the consistency withwhich the project was tackled and ongoing technical documentation?
+The variations in project topic and approach, student creativity, ingenuity, novelty and complexityof implementation or success in meeting practical implementation challenges are all factors ingrading decisions. Although a project that has been demonstrated as meeting or exceeding theinitial requirements is fundamental for a good grade, the FLC will consider all the aspects inestablishing the final grade.
+(b) Reports
+==============
+The reports (70A & 70B) are essential and important course components. These are thedocuments on which anyone not intimately involved with the laboratory work assesses the project.The report should adequately describe the design activities undertaken in the project. Poor EDPreports will certainly demerit even excellent laboratory performance and will be reflected in the
+overall course grade.
+Report (70A): The report summarizing design activities at the end of 70A will normally contain thefollowing standard sections:
+Title Page, Acknowledgements, Certification of Authorship, Table of Contents, Abstract,Introduction & Background, Objectives, Approach and Methods, Design Analysis and Synthesis,Conclusions, Appendices, and References.
+Final EDP Report (70B): The Final EDP report (70B) will normally contain the following standardsections:
+Title Page, Acknowledgements, Certification of Authorship, Table of Contents, Abstract,Introduction & Background, Objectives, Theory and Design, Documentation including Schematicsand Parts Lists, Measurement Procedure, Performance Measurements, Analysis of Performance,Conclusions, Appendices, and References.
+Additional Information: Particularly in engineering, it is essential that a project be properlydesigned. A designer must satisfy the examiner, the FLC, that the program or circuit will performits tasks to specification under all or at least the usual, variations in the operating or manufacturingenvironment.
+Such issues as component tolerance, voltage variations, maximum and minimum computer cycletimes and data throughputs are examples of variables. In other words, the examiner must beconvinced that the project is battle-proof and its operation at the demonstration is not an unusualevent. Another guide used to assess whether the design is competent is to consider the massproduction of this prototype. Could one anticipate a reasonable yield and customer satisfaction?The working prototype performance must be measured to quantify the extent to which it meets thedesign specifications. The procedure used to measure performance is to be described in sufficientdetail that the reader can repeat it. The measured results must be documented in conjunction withappropriate schematics or flow charts. The results should be analysed to ensure that they fit theanticipated performance and if not an explanation is called for. The abstract must accuratelyprÃ©cis the entire report contents in half a
+page or less. The conclusions should address the project's objectives; to what extent were theymet? Where schematics and quotations are taken verbatim from other sources, these sourcesmust be acknowledged to avoid the potentially serious charges of plagiarism. It is recommendedthat the hardware be photographed with a digital camera along with a photograph of the studentauthor. These photographs are to be included in the final report.
+(c) Project Management
+=======================
+The project teams are required to demonstrate their project management skills by implementingthe theory learnt in COE70A into practice in COE70B. The objectives of the evaluation process are as follows:
+â€¢Each team member receives fair amount of training in project management, and is requiredto demonstrate the skills of a project manager.
+â€¢A project manager is evaluated for his/her capability of planning and achieving a tangibledeliverable that can be demonstrated.
+â€¢Each student is also required to demonstrate the behavior of a professional team member.
+Following management attributes and skills are used in the evaluation process:
+- Project Management Attributes
+- Leadership
+- Manager of design process
+- Motivator
+- Organizer/planner
+â€¢Skills used to exhibit project management attributes
+-Understanding and managing scope of work/deliverables
+-Design review meeting, recording of minutes and design discussion
+-Timely follow-up
+-Learn to identify strengths/weaknesses
+-Conflict resolution
+-GANTT chart, Critical Path analysis
+The winter semester (COE70B) is divided into four phases of three weeks each:
+-Phase 1: Week 1, 2 and 3
+-Phase 2: Week 4, 5 and 6
+-Phase 3: Week 7, 8 and 9
+-Phase 4: Week 10, 11, and 12
+â€¢One student will act as a manager/team leader within a phase, thus each student will get achance to play the role of manager/team leader
+â€¢The team will select their manager/team leader for each phase at the beginning of therespective phases and provide the names to the FLC
+â€¢Each student is marked in each phase in his/her role according to the following metric:
+-Manager/Team Leader
+--Leadership
+--Conductor of meetings
+--Organizer/planner/motivator
+--Conflict resolution
+-Team Member
+--Co-operation
+--Contribution
+--Conflict resolution
+Project management evaluation:
+------------------------------
+-FLC may attend one group meeting in each phase as an observer
+-Each project manager is required to submit a tangible deliverable that can be demonstrated inthe lab at the end of his/her term, and a plan to achieve that deliverable.
+-Studentâ€™s role is evaluated during the weekly progress meeting, through milestonesubmissions, milestones compliance reports, and exhibits.
+-The group may be requested to provide necessary information/documents that help FLC inevaluating their project management role.
+If there are any changes, announcements will be posted in the Course D2L. Please check thecourse site regularly.
+TeachingMethods
+1. Lectures will be delivered in-person during the scheduled class hours.
+2. Relevant notes/slides from the seminars and lectures will be posted on D2L.
+OtherInformation
+Approved Project List
+----------------------------
+In order to assist students in selecting a suitable project, a list of EDP Topics is posted on theDepartmental EDP website (http://www.ee.ryerson.ca/capstone/). All topics are 4-student projects.The website description contains a preamble that gives an overview of the project and explainswhy it is of interest. Partial specifications, objectives, and suggested approach are included.
+*Note: COE students can only choose project topics from COE70AB approved list of projects.
+Once the EDP topics are posted on the website, students can contact the professors teaching thiscourse termed the Faculty Lab Coordinators (FLCs) to discuss their project topics available forstudent selection and the design challenges for those projects. Once they are assigned a topic bythe computer selection process, they can then discuss with their assigned FLC to modify theirtopics subjected to the approval of their respective FLCs.
+Course Organization Details (COE70A) [1 hr Lec + 1 hr Lab/Tut]
+------------------------------------
+In Week 3 (tentative) lecture hour, a seminar on Design Process and Project Management isscheduled.
+During Week 2, students must select their project topics online. The actual dates of the computertopic selection and the procedure will be announced. If more than one group of students selects aparticular project topic, the approval of the selection is based on a random process; those who donot get the approval will re-select another topic.
+Once topics are assigned to the groups, the students will start the design activities and meet withtheir FLCs regularly the following weeks of the course. course. Students must attend specifiedseminars (& quizzes) and submit project milestones and milestones compliance reports as per the"Activity Schedule" to their FLC for evaluation prior to meeting with their FLCs. During the weekswhen in-class seminars/quizzes/exams are scheduled, it is students responsibility to discuss withtheir FLCs ahead of time and identify alternate meeting times.
+In Week 6 (tentative) lecture hours, students must do an examination on the subject of DesignProcess and Project Management. During Weeks 7 to 11, students attend seminars* (that will beannounced on the course D2L web site) and/or carry out design work in a specific location orlaboratory and report to their designated FLC. Seminars may be team taught by the guestspeakers or FLCs. These seminars will be scheduled and announced on the course D2L website.
+*Note: Weeks 7-11 are tentatively planned for seminars/quizzes, the actual weeks will beannounced subjected to the availability of the guest speakers.
+During Weeks 12/13, students must do their Oral Exam with their designated FLCs and submittheir Final Report in Week 13.
+Course Organization Details (COE 70B) [5 hrs Lab]
+=================================================
+COE70B is divided into four Phases (I, II, III, and IV). Each phase consists of three weeks. Onestudent will act as a project manager/team leader within a phase, thus each student will have achance to play the role of manager/team leader. The team will select their manager/team leaderfor each phase at the beginning of each of the phases and provide the names to the FLC. In eachof the phases, students will decide on the project manager/team leader for that Phase. Afterdiscussing with the team members the project manager will submit the milestones & deliverablesfor that Phase to the FLC (please refer to the GANTT chart for due dates). The team will worktowards completing the milestones, submit a milestone compliance report, and demonstrate thedeliverables for that Phase by the end of the Phase. This cycle repeats until all four phases arecompleted and the deliverables are demonstrated to the FLC.
+In Week 6, the project manager responsible for Phase II will also submit the theory and designsections of the EDP report. During each of the phases (i.e., the 3 weeks period) the respectiveproject managers are responsible for submitting 3 weekly minutes of the meeting and 1 milestonecompliance report to the FLC. During the FLC evaluations of deliverables, it will be the projectmanager's responsibility to explain and discuss with FLC on what was accomplished towards thestated milestone deliverables; what each member accomplished; and to conduct and manage thedemo session. The FLC may ask any member of the team for further verification of his/her aspectsof the contributions.
+In Week 12, individual project contribution summary will be submitted to the FLCs. Individual oralexam are scheduled during the Week 12 and/or 13. The team will submit their final EDP reportduring Week 13. Following Week 13, the team will present their project during the open housescheduled by the department and will submit the final EDP report to the department and FLC.
+Project Cost Equipment, and Laboratories
+=================================================
+Project costs for components and other supplies will be borne by the students. Some specializedcomponents may be provided by the Department. This will be noted in the project description.Students should carefully assess the cost implications of a particular project before making acommitment. Requests for equipment or laboratory usage outside of your scheduled lab hours
+should be directed to your FLC.
+Course Content
+Week
+Hours
+Chapters /
+Section
+Topic, description
+F1-13+W1-13=26weeks
+Engineering Capstone Design
+Laboratory(L)/Tutorials(T)/Activity(A) Schedule
+Week
+L/T/A
+Description
+F1
+-
+Presenters/Evaluators: EDP Coordinator, FLCs, Staff
+Activities: Course Management, EDP Topics
+F2
+-
+Presenters/Evaluators: EDP Coordinator, FLCs, Staff
+Activities: Computer Selection of EDP Topics, Lab Safety, Begin Meetings with FLCs
+F3
+-
+Presenters/Evaluators: EDP Coordinator, FLCs, PM Faculty
+Activities: Design Process and Project Management Seminar/ FLCs Meetings and DesignActivities/ Project Milestone Submission
+F4
+-
+Presenters/Evaluators: FLCs
+Activities: FLCs Meetings and Design Activities
+F5
+-
+Presenters/Evaluators: FLCs Activities: FLCs Meetings and Design
+Activities/ Milestone Compliance Report (St1)
+F6
+-
+Presenters/Evaluators: EDP Coordinator, FLCs
+Activities: Design Process and Project Management Exam/ FLCs Meetings and DesignActivities
+F7
+-
+Presenters/Evaluators: Guest Speakers, EDP Coordinator,FLCs
+Activities: Seminar*/ FLCs Meetings and Design Activities/ Milestone Compliance Report(St2).
+*Note: Weeks 7-11 are tentatively planned for seminars/quizzes, the actual weeks will beannounced subjected to the availability of the guest speakers.
+F8
+-
+Presenters/Evaluators: Guest Speakers, EDP Coordinator,FLCs
+Activities: Seminar/ FLCs Meetings and Design Activities
+F9
+-
+Presenters/Evaluators: Guest Speakers, EDP Coordinator,FLCs
+Activities: Seminar/ FLCs Meetings and Design Activities/ Milestone Compliance Report(St3)
+F10
+-
+Presenters/Evaluators: Guest Speakers, EDP Coordinator,FLCs
+Activities: Seminar/ FLCs Meetings and Design Activities
+F11
+-
+Presenters/Evaluators: Guest Speakers, EDP Coordinator,FLCs
+Activities: Seminar/ FLCs Meetings and Design Activities/ Milestone Compliance Report(St4)
+F12
+-
+Presenters/Evaluators: FLCs
+Activities: Project Design Oral Exam
+F13
+-
+Presenters/Evaluators: FLCs
+Activities: Project Design Oral Exam/ Final Report Submission/ Submission of COE70Bplan for all 4 phases
+W1
+-
+Presenters/Evaluators: Course Coordinator (CC)
+Activities: Course Introduction, FLC meetings, Submission of Phase I milestones and
+deliverables by project manager of Phase I to FLCs.
+W2
+-
+Presenters/Evaluators: FLCs
+Activities: FLCs Meetings and Design/Implementation Activities
+W3
+-
+Presenters/Evaluators: FLCs
+Activities: Phase I MCR submission, deliverables demo., and evaluation, Selection ofproject
+manager for Phase II
+W4
+-
+Presenters/Evaluators: FLCs
+Activities: Submission of Phase II milestones and deliverables by project manager ofPhase II to FLCs.
+W5
+-
+Presenters/Evaluators: FLCs
+Activities: FLCs Meetings and Design/Implementation Activities, Theory and designsections
+of report submission
+W6
+-
+Presenters/Evaluators: FLCs
+Activities: Phase II MCR submission, deliverables demo., and evaluation, Selection ofproject
+manager for Phase III
+W7
+-
+Presenters/Evaluators: FLCs
+Activities: Submission of Phase III milestones and deliverables by project manager ofPhase III
+to FLCs.
+W8
+-
+Presenters/Evaluators: FLCs
+Activities: FLCs Meetings and Design/Implementation Activities
+W9
+-
+Presenters/Evaluators: FLCs
+Activities: Phase III MCR submission, deliverables demo., and evaluation, Selection ofproject
+manager for Phase IV
+W10
+-
+Presenters/Evaluators: FLCs
+Activities: Submission of Phase IV milestones and deliverables by project manager ofPhase IV
+to FLCs.
+W11
+-
+Presenters/Evaluators: FLCs
+Activities: FLCs Meetings and Design/Implementation Activities
+W12
+-
+Presenters/Evaluators: FLCs
+Activities: Phase IV MCR submission, deliverables demo., final project demo, andevaluation.
+Submission of Individual project contribution summary prior to oral exam. (Your FLC may
+choose to conduct oral exams in week 12 and/or week 13)
+W13
+-
+Presenters/Evaluators: FLCs
+Activities: Project oral exams and Final report submission
+TBD
+-
+Open House Exhibition/Participation
+-
+-
+Additional IMPORTANT Information:
+=================================
+- Seminars will be arranged and the details will be posted on D2L. During the weeks within-
+class activities, please arrange alternate meeting times with your FLCs.
+- Please refer to the GANTT chart (for 70B) posted on D2L for specific due dates anddeadlines
+for Winter term.
+- The above activity schedule is tentative and if there are any changes, announcementswill be
+made on D2L.
+University Policies
+Students are reminded that they are required to adhere to all relevant university policies found in their online course shell in D2L and/oron
+the Senate website
+Important Resources Available at Toronto Metropolitan University
+The Library
+provides research
+workshops
+and individual assistance. If the University is open, there is a Research Help desk onthe second floor of the library, or students can use the
+Library's virtual research help service
+to speak with a librarian.
+Student Life and Learning Support
+offers group-based and individual help with writing, math, study skills, and transitionsupport, as well as
+resources and checklists to support students as online learners.
+You can submit an
+Academic Consideration Request
+when an extenuating circumstance has occurred that has significantlyimpacted your ability to fulfill an academic requirement. You may always visit the
+Senate website
+and select the blue radiobutton on the top right hand side entitled: Academic Consideration Request (ACR) to submit this request.
+For Extenuating Circumstances, Policy 167: Academic Consideration allows for a once per semester ACR request withoutsupporting documentation if the absence is less than 3 days in duration and is not for a final exam/final assessment. Absencesmore than 3 days in duration and those that involve a final exam/final assessment, require documentation. Students must notifytheir instructor once a request for academic consideration is submitted. See Senate
+Policy 167: Academic Consideration.
+If taking a remote course, familiarize yourself with the tools you will need to use for remote learning. The
+Remote LearningGuide
+for students includes guides to completing quizzes or exams in D2L Brightspace, with or without
+Respondus LockDownBrowser and Monitor, using D2L Brightspace,
+joining online meetings or lectures, and collaborating with the Google Suite.
+Information on Copyright for
+Faculty
+and
+students
+.
+Accessibility
+Similar to an
+accessibility statement
+, use this section to describe your commitment to making this course accessible to studentswith disabilities. Improving the accessibility of your course helps minimize the need for accommodation.
+Outline any technologies used in this course and any known accessibility features or barriers (if applicable).
+Describe how a student should contact you if they discover an accessibility barrier with any course materials or technologies.
+Academic Accommodation Support
+Academic Accommodation Support (AAS) is the university's disability services office. AAS works directly with incoming andreturning students looking for help with their academic accommodations. AAS works with any student who requires academicaccommodation regardless of program or course load.
+Learn more about
+Academic Accommodation Support
+.
+Learn
+how to register with AAS
+.
+Academic Accommodations (for students with disabilities) and Academic Consideration (for students faced with extenuatingcircumstances that can include short-term health issues) are governed by two different university policies. Learn more about
+AcademicAccommodations versus Academic Consideration and how to access each
+.
+Wellbeing Support
+At Toronto Metropolitan University, we recognize that things can come up throughout the term that may interfere with a student’sability to succeed in their coursework. These circumstances are outside of one’s control and can have a serious impact on physical andmental well-being. Seeking help can be a challenge, especially in those times of crisis.
+If you are experiencing a mental health crisis, please call 911 and go to the nearest hospital emergency room. You can also access theseoutside resources at anytime:
+Distress Line:
+24/7 line for if you are in crisis, feeling suicidal or in need of emotional support (phone: 416-408-4357)
+Good2Talk:
+24/7-hour line for postsecondary students (phone: 1-866-925-5454)
+Keep.meSAFE:
+24/7 access to confidential support through counsellors via
+My SSP app
+or 1-844-451-9700
+If non-crisis support is needed, you can access these campus resources:
+Centre for Student Development and Counselling:
+416-979-5195 or email
+csdc@torontomu.ca
+Consent Comes First - Office of Sexual Violence Support and Education:
+416-919-5000 ext 3596 or email
+osvse@torontomu.ca
+Medical Centre:
+call (416) 979-5070 to book an appointment
+We encourage all Toronto Metropolitan University community members to access available resources to ensure support is reachable.You can find more resources available through the
+Toronto Metropolitan University Mental Health and Wellbeing
+website.

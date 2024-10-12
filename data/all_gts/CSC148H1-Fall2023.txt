@@ -1,0 +1,501 @@
+Course Syllabus
+Edit
+Welcome to CSC148! This course, Introduction to Computer Science, introduces you to how
+computer scientists think in a systematic way about computing. Our goal is to provide you with skills
+for approaching program design in a principled way, using techniques such as encapsulation,
+modularity, information-hiding, comparing different implementations for efficiency, and building
+powerful data structures.
+The material posted on Quercus is required reading. It contains important information: assignment
+handouts, the policy on missed work, links to the online discussion forum, the announcements page,
+and more. You are responsible for all announcements made in lecture and on Quercus.
+Please direct all personal questions to csc148-2023-09@cs.toronto.edu
+(mailto:csc148-2023-09@cs.toronto.edu) .
+Course team
+Professor David Liu is the instructor for both sections of this course. David and Instructional Support
+staff deal with all administrative issues such as missed work, the course website, and TA issues.
+Sophia Huynh is Lab Coordinator, which means she deals with all issues related to the weekly preps
+and labs.
+To learn more about our course staff and teaching assistants, check out our Course Team
+(https://q.utoronto.ca/courses/309680/pages/course-team) page.
+Lectures
+The first lecture is Monday, September 11. All lectures start at 10 minutes past the hour and end
+on the hour. This allows for 10 minutes of travel/break time if you have back-to-back classes.
+CSC148 lecture logistics information.
+LEC0101 LEC0201
+Monday
+10:10am - 11:00am (MP 202
+(https://map.utoronto.ca/?id=1809#!m
+/494490) )
+1:10pm - 2:00pm (PB B250
+(https://map.utoronto.ca/?id=1809#!m
+/494476) )
+Wednesday
+9:10am - 11:00am (MP 103
+(https://map.utoronto.ca/?id=1809#!m
+/494490) )
+1:10pm - 3:00pm (PB B250
+(https://map.utoronto.ca/?id=1809#!m
+/494476) )
+Active learning
+During lectures, we will present material and demonstrate problem-solving for part of the time. There
+will also regularly be exercises that you complete. Be prepared to get your gears turning in class!
+There is very strong evidence, and our experience also shows, that active learning works better than
+passively listening to a lecture. We also think it's a lot more fun!
+Lecture recordings
+We are participating in the University of Toronto's Opencast Content Capture Pilot, which will
+automatically record lectures and post them on the OCCS Student App (https://q.utoronto.ca/courses
+/309680/external_tools/11190) . However, because of the amount of active learning that will take place
+during lecture, please note that simply watching these videos is not a substitute for attending class!
+Our recommendation is to use these recordings for review purposes only, or if you miss a lecture due
+to extenuating circumstances. If you did miss the lecture, we strongly recommend working through
+the in-class exercises (which are posted separately on Quercus) when we reach those points in the
+lecture, so that your experience is as close to the live classroom experience as possible. These
+recordings are meant for your personal learning, and you may not distribute these recordings or make
+your own (please see the Copyright notice (https://q.utoronto.ca/courses/292907/assignments
+/syllabus?wrap=1#copyright-notice) below).
+Labs
+After lectures each week, you will participate in an in-person two-hour lab, where you will reinforce
+and extend your learning from lecture that week. The first lab is Thursday, September 14. Like
+lectures, all tutorials start at 10 minutes past the hour. You must register for a lab section
+(TUT____) on ACORN, separate from your lecture section. You are allowed to pick any lab time
+independent of your lecture time.
+We have designed the labs to not simply be a repeat of work you did in lecture, but to give you
+different kinds of opportunities to problem-solve and practice what you've learned. For more
+information about the labs, check out Policies and Guidelines: Weekly Labs (https://q.utoronto.ca
+/courses/309680/pages/policies-and-guidelines-weekly-labs?wrap=1) .
+CSC148 lab logistics information.
+Tutorial Section Time Location
+Teaching
+Assistant
+TUT0101
+Thursdays
+9:10-11:00am
+BA 3185
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0102
+Thursdays
+9:10-11:00am
+BA 3195
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0201
+Thursdays
+11:10am-1:00pm
+BA 3175
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0202
+Thursdays
+11:10am-1:00pm
+BA 3185
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0203
+Thursdays
+11:10am-1:00pm
+BA 3195
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0301
+Thursdays
+1:10-3:00pm
+BA 3175
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0302
+Thursdays
+1:10-3:00pm
+BA 3185
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0303
+Thursdays
+1:10-3:00pm
+BA 3195
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0401
+Thursdays
+3:10-5:00pm
+BA 3185
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+TUT0402
+Thursdays
+3:10-5:00pm
+BA 3195
+(https://map.utoronto.ca
+/?id=1809#!ct/45469?m
+/494470?s/)
+TBA
+Office hours
+David will hold regular office hours throughout the semester, and we will schedule additional TA office
+hours in the weeks before assignment deadlines. You are welcome to attend any of the scheduled
+office hours, and do not need to book an appointment.
+David's office hours are student-driven, meaning he won't have any material prepared. Instead, the
+discussion will be based on whatever questions you'd like to ask. Office hours are also group-based,
+meaning we'll generally prioritize questions that aren't specific to any particular student, but rather to
+course concepts and answers that every student can benefit from. However, there will be opportunity
+to ask individual questions during David's office hours. All TA office hours (for assignment help) will be
+one-on-one, but please note that individual help will be limited when office hours get busy before an
+assignment is due. This is a major reason why you should start your assignments early!
+If you have a personal matter to discuss, please read about how to book an individual appointment
+with David in the Contact section (https://q.utoronto.ca/courses/292907/assignments/syllabus#contactwebsite-
+email-discussion-board-contact-) below.
+Office hours information.
+Who? David (instructor) TAs
+When?
+Wednesdays 4:10pm - 6:00pm
+Fridays 1:10pm - 3:00pm
+To be scheduled on a perassignment
+basis
+Where?
+BA 4290
+(near the spiral staircase, just left of
+the washrooms)
+BA 2270
+(near the spiral staircase, just right of
+the washrooms)
+CSC148 Community Code of Conduct
+[This section is based in part on the Contributor Covenant (https://www.contributor-covenant.org/) .]
+All members of the course staff and all students are part of the same CSC148 community, and we
+share the common goal of creating a safe and positive learning environment for every student. Each
+of us is responsible for creating this environment, and must follow the guidelines below when
+participating in this course.
+1. Use welcoming and inclusive language. Show empathy towards other community members.
+Call people by their preferred names and pronouns. Do not make offensive comments about an
+individual or group (e.g., gender, sexual orientation, disability and mental illness, or race). Avoid
+humour or sarcastic remarks based on such comments or stereotypes.
+2. Be respectful of differing viewpoints and experiences. Gracefully give and accept constructive
+criticism.
+Look for (and reflect on) ideas and perspectives that are different than your own. Make a genuine
+effort to thank those who share them. It is natural to disagree with something a member of our
+community has written, and you are permitted to voice your disagreement. However, when doing
+so take the following into consideration: try to understand where the other person might be coming
+from; do not assume the other person's motives or draw inferences from their identity; be polite in
+your response and state where you agree.
+3. Be professional in your conversations.
+While conversations about topics unrelated to CSC148 or even the University of Toronto are
+certainly permitted (and encouraged), keep these conversations professional as you would in the
+workplace. Do not share sexual or violent content and avoid profanity.
+4. Respect the personal boundaries of each community member.
+While we encourage you to make use of this course's online platforms to meet each other to form
+academic and social connections, no one is obligated to do so. Everyone will have different
+boundaries and comfort levels that may change over time and depending on the situation. When
+in doubt, ask. If someone has asked you to respect one of their boundaries (e.g., not to contact
+them), with or without a reason, please respect their wishes. Do not reveal any person's personal
+information or private communications to a third person (or publicly) without receiving their explicit
+consent.
+If you experience a violation of this code of conduct in a CSC148 space, or witness such a violation
+(even if it is not directed at you), or have any other concerns, please contact the course staff at
+csc148-2023-09@cs.toronto.edu (mailto:csc148-2023-09@cs.toronto.edu) . We will respond to you in
+a timely manner and everything you say will be confidential.
+Contact: website, email, discussion board
+All course announcements will be made on Quercus, and you are responsible for reading all
+announcements made in this course.
+We'll be using Piazza (https://q.utoronto.ca/courses/309680/external_tools/18207?wrap=1) as our online
+discussion forum. Please post all of your questions about the course material and assignments on
+Piazza so that everyone can benefit from your questions. We will monitor the discussion board
+regularly, but it may take longer near assignment due dates, so try to start assignments early in case
+you have questions. Also, please answer questions from other students—helping someone else learn
+is one of the most effective ways of truly mastering a subject.
+For personal matters such as missing course work due to illness, please use the course email
+account, csc148-2023-09@cs.toronto.edu (mailto:csc148-2023-09@cs.toronto.edu) , and do not
+email your instructor directly. Send your email from your U of T address (@mail.utoronto.ca), and
+include your full name, UTORid, and student number in the body of the email. You may request an
+appointment with your instructor to seek advice on personal matters, but please note that questions
+about course content should be asked either through the online discussion board or during office
+hours.
+Please do not use Quercus messaging, as course staff will not be monitoring their Quercus inboxes.
+Prerequisites
+CSC108 or equivalent programming experience is assumed. We'll be using Python in the course, but
+comfort with other imperative programming languages like Java or C should be fine. There will be a
+ramp-up session during the first weekend of term for students whose background is not in Python or
+who feel they need a refresher. Find out more on our Ramp-Up Session (https://q.utoronto.ca
+/courses/309680/pages/ramp-up-session?wrap=1) page.
+Here are some links to CSC108 materials and general advice:
+Coursera course 1 (https://www.coursera.org/course/programming1) and Coursera course 2
+(https://www.coursera.org/course/programming2) (based on CSC108 materials)
+Information about the CSC108 textbook (https://pragprog.com/titles/gwpy3/practicalprogramming-
+third-edition/)
+CSC108 Youtube channel (https://www.youtube.com/channel/UCu8NnRGTGxHe96Le0xqLrNQ
+/videos)
+Advice on choosing your first-year courses (https://web.cs.toronto.edu/undergraduate/firstyear-
+courses) (skip down to "Which introductory course is right for you?")
+Dropping down to CSC108
+Students may request to drop down to CSC108 until Monday October 2, provided there is space
+available in CSC108. To make this request, please contact your College Registrar
+(https://www.artsci.utoronto.ca/current/academic-advising-and-support/college-registrars-offices) .
+Textbook
+There is no course textbook. Your required reading will be a set of free online CSC148 Course Notes
+(https://www.teach.cs.toronto.edu/~csc148h/notes/) , written by Diane Horton and David Liu.
+Course software
+For information about the software we'll use for this course, please see the Software Guide
+(https://q.utoronto.ca/courses/309680/pages/software-guide) page for instructions on installing the
+necessary software onto your computer.
+Assessments and course grading scheme
+You will complete four major kinds of assessments in this course: weekly preparation exercises, labs,
+assignments, and tests/exams. You will also complete a module on Embedded Ethics in computing.
+All assessments except the labs, midterm test, and final exam can be completed online. The labs,
+midterm test, and final exam will be held in-person, with no exceptions.
+Course assessment summary.
+Assessment Weight
+Due Date/Date Held (Eastern
+Time)
+9 weekly preparation exercises
+8% (1% each, best 8 of 9
+counted)
+Mondays before 10:00am
+9 labs
+8% (1% each, best 8 of 9
+counted)
+Thursdays during your TUT
+section. In person.
+Assignment 0 5%
+Tuesday, October 3 before
+12:00pm (noon).
+Midterm Test 16%
+Held Wednesday Oct 18, during
+class time. In person.
+Assignment 1 10%
+Tuesday, October 31 before
+12:00pm (noon).
+Assignment 2 10%
+Tuesday, November 28 before
+12:00pm (noon).
+Embedded Ethics Module
+2% total:
+2 surveys: 0.5% each
+Written exercise: 1%
+Pre-module survey due
+Monday November 27 before
+10:00am
+Written exercise due Thursday
+December 7 before 5:00pm
+Post-module survey Thursday
+December 7 before 5:00pm
+Final Exam 41%
+During the final assessment
+period
+(https://www.artsci.utoronto.ca
+/current/faculty-registrar/examsassessments)
+. In person.
+Weekly Preparation Exercises (8%)
+Weekly preparation exercises (https://q.utoronto.ca/courses/309680/pages/policies-and-guidelinesweekly-
+preparation-exercises) ("preps") consist of a few readings and short exercises that you
+complete before each week of lecture. We have designed these preps to help you stay on track and
+learn simpler concepts independently so that we can focus on more complex content and skills in
+lecture and tutorial.
+Each prep consists of a short reading from the CSC148 Lecture Notes
+(https://www.teach.cs.toronto.edu/~csc148h/notes/) , a series of short-answer comprehension
+questions hosted in an online Quercus quiz, and then some programming exercises that you will
+download and submit to using the online MarkUs application.
+Notes:
+There is an ungraded prep due Wednesday September 13 before 9am.
+The first graded prep exercise will be due Monday September 18 before 10am.
+There is no prep due the week of the midterm (on Wednesday October 18).
+The final prep exercise will be due at the start of "Week 11" on Monday November 27 before
+10am. There will be no prep on Week 12, to give you a bit of a break at the end of the semester!
+We will drop the lowest prep grade (including a 0 due to not submitting the prep).
+Weekly labs (8%)
+Each weekly lab has a participation grade. We expect every student who attends the lab and puts in
+an honest effort for the whole lab session will receive this grade each week. For more information,
+check out Policies and Guidelines: Weekly Labs (https://q.utoronto.ca/courses/309680/pages
+/policies-and-guidelines-weekly-labs?wrap=1) . We also allow each student to miss one lab, as we will
+only count the best 8 of 9 attendance grades towards your final course grade.
+Assignments (25%)
+Assignments (https://q.utoronto.ca/courses/309680/pages/policies-and-guidelines-assignments) are
+larger pieces of programming work that span multiple course topics, and require you to apply and
+synthesize your knowledge and skills from multiple areas in computer science. Assignments will be
+posted online, and will be submitted to the MarkUs application. Assignment 0 must be completed
+individually, but Assignments 1 and 2 may be completed with one other student currently enrolled in
+CSC148H1 (on the St. George campus).
+Working with a partner
+You may choose your own partner, from any section of this course, and it need not be the same
+person for each assignment. Once you begin working on an assignment, you may not dissolve your
+partnership without our permission. Both partners will receive the same mark for joint assignments. If
+you choose to work with a partner for an assignment, you must form a group on MarkUs
+(https://github.com/MarkUsProject/Wiki/blob/v2.3.0/Student_Groups.md) . You should declare a
+partnership well before the deadline (there is no downside of doing so).
+Working with a partner has the potential to lighten your workload and to increase your learning, or to
+make things worse. It all depends on how well you work together. Remember that you are responsible
+for learning the course material underlying all parts of the assignments. You will have the most
+success if you truly work together.
+If you and your partner are not working well together, please contact us through the course account
+without delay. We can do little to help if you contact us close to the assignment due date. Students
+are sometimes reluctant to ask for help, feeling that it is a kind of betrayal. However, experience has
+shown us that things rarely go well when students avoid the problem. We are here to help. You can
+dissolve a group up to five days before the due date. In order to do so, at least one student in the
+group must email the course email address before this time. Course staff will then follow up with all
+group members. After this deadline, no dissolution of groups will be permitted.
+Midterm (16%) and Final Exam (41%)
+The Midterm and Final Exam (https://q.utoronto.ca/courses/309680/pages/policies-and-guidelinesmidterm-
+test-and-final-exam) are used to evaluate your learning in a focused setting in the middle of
+the semester (Midterm) and at the end of the course (Final Exam). The Midterm will take place during
+lecture time on the scheduled date, replacing the regular lecture.
+IMPORTANT NOTE: You must receive a grade of at least 40% on the final exam to pass CSC148.
+Students who do not meet this threshold (including students who do not write the final exam) will have
+their course grade lowered to below 50.
+Special Consideration
+Students experiencing illness or other emergencies that prevent them from being able to complete
+homework on time, or write a test, can request special consideration. You will be required to affirm
+that you are abiding by the Code of Behaviour on Academic Matters
+(http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies
+/PDF/ppjun011995.pdf) , in particular, to be aware that it is an academic offence
+to engage in any form of cheating, academic dishonesty or misconduct, fraud or misrepresentation
+not herein otherwise described, in order to obtain academic credit or other academic advantage of
+any kind
+That is, you must be truly experiencing an emergency, and acknowledge that to falsely claim so is an
+academic offence. Making a request does not guarantee that you will be granted special
+consideration.
+Special Consideration Request Form (https://forms.office.com/r/kyQPtWGXvN)
+(read the policy details below carefully before submitting a request!)
+Weekly Preps
+Weekly preparation exercises generally include two graded components: a Quercus quiz and
+programming exercises submitted on MarkUs. Late submissions are NOT accepted on either part
+of the weekly prep.
+Assignments: Late submission accommodation policy
+For assignments, which are significantly larger in scope, we recognize that unexpected problems,
+illness, and disability-related barriers sometimes make it difficult to submit assignments on time. For
+this reason, we are adopting a policy of radical generosity with respect to assignment submissions.
+You may request an extension of up to four days for any assignment submission by completing the
+special consideration form (https://forms.office.com/r/kyQPtWGXvN) . Notes:
+After making this request, you should see the extension appear on MarkUs within two business
+days (so please do not contact us if you don't see it right away).
+In A1 and A2, if you are working with a partner:
+You must create your group on MarkUs and make sure your partner has been invited before
+requesting the extension.
+Only one partner needs to request the extension.
+You may not dissolve your partnership after requesting an extension without contacting the
+course email address first.
+You may request this extension up to 4 days after the assignment due date. However, note that
+the extended time will be relative to the assignment deadline, not relative to when you request the
+extension.
+If you initially request a shorter (e.g., 2-day extension), you can fill out the form again to request a
+longer extension. We will always use the most recent extension request you have asked for (up to
+4 days after the assignment due date).
+No assignment submitted beyond this extension (even 1 second late!) will be graded.
+If you have been granted an extension of four days and then become ill on the extended due date,
+no further extension will be given unless further documentation is provided.
+While it may seem like a "no-brainer" to always request a four-day extension for each assignment, we
+strongly recommend not making this request lightly. We have designed your assignments so that they
+can be completed by their actual deadlines, and we believe that for the vast majority of students,
+meeting these deadlines is the best way to keep up with the course material. Please do not use this
+policy lightly to simply shift the original deadline.
+Students registered with Accessibility Services are free to use this policy. However, if you would like
+to request additional accommodations (beyond a 4-day extension), please reach out to the course
+email address before the original assignment deadline.
+If you find yourself in a serious medical or emergency situation where a 4-day extension will not
+be sufficient, please email csc148-2023-09@cs.toronto.edu (mailto:csc148-2023-09@cs.toronto.edu)
+before the original assignment due date. We may require further documentation or confirmation
+from your college registrar, and further extensions are not always granted. So, you should submit any
+partial work that you've completed before the original assignment due date. Please also complete an
+Absence Declaration on ACORN when appropriate, (https://www.artsci.utoronto.ca/current
+/academics/student-absences) and send the notification to the course email address.
+Finally, note that this policy only applies to assignments, and not the Weekly Preparation Exercises,
+which must be submitted on time to be graded.
+Missed Midterm
+You may request special consideration if you missed the midterm due to illness or other extenuating
+circumstances by submitting the special consideration form (https://forms.office.com
+/r/kyQPtWGXvN) . You will be asked to provide additional information, and this will be reviewed by the
+course staff. You should also complete an Absence Declaration on ACORN when appropriate
+(https://www.artsci.utoronto.ca/current/academics/student-absences) , and send the notification to the
+course email address. Special consideration is NOT always granted. If it is granted, the weight of your
+midterm will be transferred to the final exam.
+Accommodations and accessibility services
+Students with diverse learning styles and needs are welcome in this course. In particular, if you have
+a disability or health consideration that may require accommodations, please feel free to approach
+your instructor and/or the Accessibility Services Office as soon as possible. The Accessibility
+Services staff are available by appointment to assess specific needs, provide referrals, and arrange
+appropriate accommodations. The sooner you let them and us know your needs, the quicker we can
+assist you in achieving your learning goals in this course. For more information on services and
+resources available to students, including registering for accommodations, please see the U of T
+Accessibility Services website (https://www.studentlife.utoronto.ca/as) .
+Midterm remark requests
+If you believe there was an error in the marking of the midterm test, you may request that it be
+remarked. Please complete and submit a Remark Request Form via email to
+csc148-2023-09@cs.toronto.edu (mailto:csc148-2023-09@cs.toronto.edu) . You must give a specific
+reason for the request, referring to a possible error or omission by the marker. Please note that when
+we receive a remark request, we regrade the entire submission, not just a specific question. Your
+mark may go up or down as a result of the remark.
+For prompt turnaround, remark requests must be received within one week of when the midterm was
+returned.
+Academic integrity
+The work you submit must be your own. It is an academic offence to copy the work of someone else.
+This includes their files, their words, and even their ideas. Whether you copy or let someone else
+copy your work, it is an offence. We want you to benefit from working with other students and will give
+you plenty of opportunities to do so in lectures and labs. But when it comes to course assessments,
+collaboration on solutions is strictly forbidden (except between partners on Assignments 1 and
+2). The most certain way to protect yourself is not to discuss solutions with students other than your
+partner. Certainly, you must not let others see your solutions, even in draft form. Do not post your
+solutions on public online platforms like GitHub, as these can be searched and used by other
+students. (See the "Your course work" section below for our advice about using private GitHub
+repositories.)
+For more information about what is and isn't allowed, please see Academic Integrity in CSC148
+(https://q.utoronto.ca/courses/309680/pages/academic-integrity-in-csc148?wrap=1) .
+Policy on generative AI (including ChatGPT)
+In this course, you may use generative artificial intelligence (AI) tools, including ChatGPT and GitHub
+Copilot, as learning aids and to help complete weekly preps and assignments. You will not be
+permitted to use generative AI on the midterm test or final exam. While some generative AI tools are
+currently available for free in Canada, please be warned that these tools have not been vetted by the
+University of Toronto and might not meet University guidelines or requirements for privacy, intellectual
+property, security, accessibility, and records retention. Generative AI may produce content which is
+incorrect or misleading, or inconsistent with the expectations of this course. These tools may be
+subject to service interruptions, software modifications, and pricing changes during the semester.
+Generative AI is not required to complete any aspect of this course, and we caution you to not
+rely on these tools to complete your coursework. Instead, we recommend treating generative AI as a
+supplementary tool only for exploration or drafting content. Ultimately, you (and not any AI tool) are
+responsible for your own learning in this course, and for all the work you submit for credit. It is your
+responsibility to critically evaluate the content generated, and to regularly assess your own learning
+independent of generative AI tools. Overreliance on generative AI may give you a false sense of how
+much you’ve actually learned, which can lead to poor performance on the midterm test or final exam,
+in later courses, or in future work or studies after graduation.
+Copyright notice
+Course materials prepared by the instructor are considered by the University to be an instructor’s
+intellectual property covered by the Copyright Act, RSC 1985, c C-42. These materials are made
+available to you for your personal, and cannot be shared outside of the class or published (made
+publicly available) in any way. Posting course materials or any recordings you may make to other
+websites without the express permission of the instructor will constitute copyright infringement.
+This notice applies to all course materials, including (but not limited to): course notes, lecture slides,
+lecture recordings, lecture and tutorial handouts, sample solutions, and assessment handouts, starter
+code, and solutions.
+Lecture and tutorial recordings
+You may not make your own recordings of video, audio, or text chat, of lectures or tutorials, whether
+in person or online. Course staff may upload lecture recordings on the course website for your use
+(but you may not distribute these).
+Your course work
+Work that you complete for CSC148 (including exercises, assignments, and tests) may not be shared
+with other students or published. This policy is to both protect the intellectual property of course staff
+(including, for example, the design and starter files for assignments), and to protect you from
+committing acts of academic dishonesty. For more information on this topic, see the Department of
+Computer Science website (https://web.cs.toronto.edu/undergraduate/portfolio-advice) .
+GitHub (https://www.github.com) is a popular option for computer science students and professionals
+to both collaborate in teams and publish their work online, including to develop a portfolio for potential
+employers. As we said in the Academic Integrity section, you should not put your work publicly on
+GitHub. However, you may use GitHub's private repositories to store your own work, and work with
+a group on course assignments. (See GitHub's instructions for creating a repository
+(https://docs.github.com/en/github/getting-started-with-github/create-a-repo) and select "Private" in
+Step 4.)
+Quercus cover image credit: https://www.pexels.com/photo/short-coated-black-and-brownpuppy-
+in-white-and-red-polka-dot-ceramic-mug-on-green-field-39317/ (https://www.pexels.com
+/photo/short-coated-black-and-brown-puppy-in-white-and-red-polka-dot-ceramic-mug-on-green-field-
+39317/)

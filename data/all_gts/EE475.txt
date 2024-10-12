@@ -1,0 +1,56 @@
+EE475
+Capstone design project in Electrical Engineering
+Spring 2014
+Instructor: Dr. P. K. Lala
+Office: 104D
+Office Hours: TBA
+Phone: (903)334-6653
+Email: plala@tamut.edu
+Course Description: The aim of the capstone project in the senior year of Electrical Engineering majors is to familiarize them with the process of designing electronic circuits and systems as practiced in industry. This course requires students to develop a project based on the knowledge and skills acquired in earlier coursework and integrate their technical knowledge through practical design effort. The work is performed as a team in accordance with ABET requirements. Each team is comprised of two to three students. Prerequisites: EE 321, EE322, EE325, EE326, EE340, EE390 and EE470
+Textbook: No textbook is needed.
+Student Learner Outcomes:
+Upon completion of the course students will be able to:
+1. design, simulate, build, and test complex electronic circuits/systems.
+2. use modern engineering hardware and software tools.
+3. design a circuit or system to meet given specifications with realistic engineering constraints.
+4. write technical documents and give oral presentations related to design project results.
+.
+Course Outline:
+Each design team is required to select its own project proposal. Students are strongly encouraged to select projects that involve hardware and software design. At the completion of a project, a demonstration of a hardware prototype, and a detailed design report that clearly documents all aspects of the design process need to be provided. The final design project report must also address issues, as appropriate, that are related to manufacturability, engineering economics, environmental, as well as ethical issues.
+Course Requirements:
+Each design team must make a presentation of the progress of the project during weekly meetings with the instructor throughout the semester, and submit design review reports as required by the instructor. At the conclusion of the project, the design team must submit a written technical report describing the details of the final design process and results, as well as highlight relevant conclusions. At the end of the semester each design team is required to prepare and present ( to the class as a whole) the description of the design project.
+Instructor participation in the design process involves mentoring and oversight in the following areas:
+(i) guide students as they proceed with their project designs
+(ii) monitor the progress of project designs during weekly meetings
+(iii) expose the students to various economic, ethical, and social effects related to their design projects
+(iv) present methods of writing technical reports and interact with students to enhance their writing skills
+(v) assess the quality of presentation describing the final design project results
+Methods of Evaluation :
+Project Proposal 20 pts
+Design progress reports and presentations 25 pts
+Final design project report 30 pts
+Final design project oral presentation 25 pts
+Complete Course Schedule:
+ Develop a project proposal ( Weeks 1 to 3 ).
+ Meet with the instructor each week ( Weeks 4 to 14)
+ Make an oral presentation of the project (Week 15)
+ Submit the final project report (Week 16 )
+Disability Accommodation
+Students with disabilities may request reasonable accommodations Nikki Thomson (alternate) 903-223-3083 nikki.thomson@tamut.edu
+.
+Academic Integrity: Academic honesty is expected of students enrolled in this course. Cheating on examinations, unauthorized collaboration, falsification of research data, plagiarism, and undocumented use of materials from any source, constitute academic dishonesty, and may be grounds for a grade of "F" in the course and/or disciplinary actions." For additional information see the university catalog.
+Statement on email usage: Upon application to Texas A&M University‐Texarkana an individual will be assigned an A&M‐Texarkana email account. This email account will be used to deliver official university correspondence. Each individual is responsible for information sent and received via the university email account and is expected to check the official A&M‐Texarkana email account on a frequent and consistent basis. Faculty and students are required to utilize the university email account when communicating about coursework.
+Drop Policy: University Drop Policy: To drop this course after the 12th class day, a student must complete the Drop/Withdrawal Request Form, located on the University website http://tamut.edu/Registrar/droppingwithdrawing-from-classes.html) or obtained in the Registrar's Office. The student must submit the signed and completed form to the instructor of each course indicated on the form to be dropped for his/her signature. The signature is not an "approval" to drop, but rather confirmation that the student has discussed the drop/withdrawal with the faculty member. The form must be submitted to the Registrar's office for processing in person, email Registrar@tamut.edu, mail (P. O. Box 5518, Texarkana, TX 75505) or fax (903-223-3140). Drop/withdraw forms missing any of the required information will not be accepted by the Registrar's Office for processing. It is the student's responsibility to ensure that the form is completed properly before submission. If a student stops participating in class (attending and submitting assignments) but does not complete and submit the drop/withdrawal form, a final grade based on work completed as outlined in the syllabus will be assigned
+ABET Outcomes Coverage:
+(a) an ability to apply knowledge of mathematics, science, and engineering
+(b) an ability to design and conduct experiments as well as to analyze and interpret data
+(c) an ability to design a system, component, or process to meet desired needs within realistic constraints such as
+economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability
+(d) an ability to function as part of a multi-disciplinary team
+(e) an ability to identify, formulate, and solve engineering problems
+(f) an understanding of professional and ethical responsibility
+(g) an ability to communicate in written and oral form
+(h) the broad education necessary to understand the impact of electrical and computer engineering solutions in a global, economic, environmental, and societal context
+(i) a recognition of the need for, and an ability to engage in life-long learning
+(j) a knowledge of contemporary issues
+(k) an ability to use the techniques, skills, and modern engineering tools necessary for engineering practice

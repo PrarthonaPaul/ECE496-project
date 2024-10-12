@@ -1,0 +1,287 @@
+MECH45X Intro 2019-2020 Page 1
+The University of British Columbia
+MECHANICAL ENGINEERING 454, 457, 458, 459
+CAPSTONE DESIGN PROGRAM
+COURSE SYLLABUS
+2019-2020
+Course Coordinator: Mike Van der Loos, Ph.D., P.Eng.
+vdl@mech.ubc.ca
+office: EDC 231
+604-827-4479; cell 604-417-2203
+Office Hours: Please contact for appointment
+Course Website: http://www.canvas.ubc.ca
+Introduction
+MECH 45X is the capstone design project course for UBC Mechanical Engineering. The course
+is designed to allow you to showcase the skills and abilities you have developed in your studies
+here and to give you an extensive supervised experience of designing a mechanical device to fill
+a real need. Our hope and expectation is that this experience will prepare you well to take on
+professional responsibilities once you graduate. You are enrolled in MECH 454, 457, 458 or 459
+depending on your specialization within MECH. If you are in MECH and also in NVD (APSC
+486), then you will have certain course requirements related to the 3 additional MECH credits
+received. Please consult with the faculty member responsible for NVD-MECH Capstone
+coordination for details.
+Our expectations for you in this course are high. Each project will be a full-fledged design
+project that you will do for a real client with real needs, and we expect you to deliver and test a
+working prototype by the end of the course. You will work toward this goal in teams of 4-6
+people and will exhibit a professional level of commitment. Along the way, you will follow a
+typical engineering design process. Although the scope of each project will vary, the overall
+expectation is that by the end of the course you will have gained experience in the following
+areas:
+- Team dynamics and client-designer communication,
+- Reflection on the design process and on your own professional development,
+- Proper assessment of your client’s needs,
+- Derivation of appropriate project requirements and evaluation criteria,
+- Development of conceptual solutions,
+- Proper analysis of your options and the selection of the most promising solution,
+- Detailed design, including the necessary engineering analyses,
+- Development of detailed engineering drawings of components that you will build,
+- Selection of suitable manufacturing methods,
+- Component and/or material procurement,
+- Prototype construction,
+- Prototype testing and evaluation, and
+- Technical communication of results (verbal and written).
+MECH45X Intro 2019-2020 Page 2
+Course Organization
+Overall Organization
+To help you reach your goals, we will place you in design teams within a larger organizational
+structure. In effect, you will be a member of a project team within a “company” that specializes
+in related projects. Each “company” will be headed by a faculty member, who will serve as your
+supervisor (i.e., boss). You will choose or be assigned a client in the first days of the course.
+Your team may also have access to an engineering consultant/mentor who will provide expertise
+in areas relevant to your particular project and be able to provide an industrial relevance and
+outside perspective on your project and on your work. As external resources to the teams, they
+are not supervisors.
+The faculty supervisors are:
+Nima Atabaki Mu Chiao Markus Fengler
+ICICS 173 CEME 2067 KAIS 1190C
+natabaki@mech.ubc.ca
+604-827-4065
+muchiao@mech.ubc.ca
+604-822-4902
+mfengler@mech.ubc.ca
+604-827-5655
+Dana Grecov Ahmad Panah William Rawlings
+CEME 2060 CEME 2053A CEME 2053A
+dgrecov@mech.ubc.ca mpanah@mail.ubc.ca Bill.rawlings@mech.ubc.ca
+604-822-6710
+Mike Van der Loos Paul Winkelman
+EDC 231 CEME 2208H
+vdl@mech.ubc.ca pwinkel@mech.ubc.ca
+604-827-4479;
+604-417-2203 (cell)
+The TA for the course is: Bingqi Liu. bingqi@alumni.ubc.ca
+Project Team Meetings
+You will be expected to have regular meetings with your supervisor. These meetings are
+scheduled during the MECH 45X tutorial/lab times. At these meetings, you will control the
+agenda – your job is to report on your progress, identify any problems or issues that you wish to
+discuss, assess your overall progress against your master plan, and propose activities for the
+coming week (subject to revision in the meeting). Prior to each meeting, you will prepare a brief
+memo covering the above items (use the provided agenda, slightly modified from MECH 328, as
+a template; bullet-point form is expected), along with an accounting for the hours each of the
+members of your team has worked that week. You will also bring your logbooks in for
+reviewing/signing on a regular basis. Meetings will include partner project teams, if applicable,
+and the faculty supervisor. On occasion, the industry mentor may attend, but mentor meetings
+are generally to be held separately. It is imperative that students prepare for the meetings in a
+professional manner. Project teams will be assigned a particular room location for meetings, or
+may elect to meet elsewhere by prior arrangement.
+MECH45X Intro 2019-2020 Page 3
+Project Team Meetings: Tuesdays and Thursdays 2 – 4 PM (Terms 1 and 2)
+During the year (both terms), the following meeting rooms are allocated to the course:
+Tu 2-4: FNH 20; MacMillan 360 C, D, E, F, G, H, J, K, L, M; IBLC: 192, 193, 194, 263, 264,
+265, 266
+Th 2-4: WOOD B79, G41, G44, G53, G55, G57, G59, G65, G66; FNH 20, SPPH B136, B138;
+IBLC: 192, 193, 194, 263, 264, 265
+Other rooms may be available, including space in the Engineering Design Centre (EDC). If you
+and your instructor cannot find space to meet, please inform the course coordinator so that
+arrangements can be made.
+See “Resources” below for a description of the lab space, RH 118.
+Company Activities
+Each project-sponsoring company is expected to meet with the student project teams on a regular
+basis. It is suggested that formal meetings be held at least: during the second week of the course,
+at the Design Reviews mid-term, and once at the end of each term. These meetings will be
+scheduled by the student teams. In addition, the company liaisons understand that student teams
+may contact them as needed via phone, email or videoconference between formal meetings.
+Class Activities (Terms 1&2: Thursdays, 4:00-5:00 PM, CHBE 101)
+The capstone design program is an opportunity to further explore the design process that you
+were formally taught in your second and third year design courses (MECH 2 and MECH 328).
+Formal instruction on the design process will therefore not be given to the class during the
+lecture portion of MECH 45X. Instead, the weekly lectures will feature the following (see
+calendar), rotating in an approximately monthly cycle:
+• Invited lectures by professional engineers on how the design process works in a
+company or organization, usually focusing on a specific project or topic. These lectures
+will provide you with a better understanding of what your professional expectations
+should be for the coming years.
+• In-class milestone-preparation Participatory Workshops, just prior to each major
+deliverable, to focus on the application of a key design concept to each team’s project.
+Specific instructions will be handed out to guide each team in the preparation of a onepage
+document to be shared with the class. Up to 5 teams will be called at random to
+present their document to the class. The instructors will lead a 5-10-minute
+discussion/critique, with the goal of providing insight to all the teams on design rationale.
+• Reflection sessions. We will break out into groups of teams. Our goals are (1) to have
+students share their experiences relating to various aspects of the design process in these
+focused sessions and learn from each other, and (2) to have teams present ONE research
+paper during the course of the year specifically on an aspect of design methodology, not
+the project topic per se.
+• Other events may be scheduled in the lecture slot. See CANVAS for announcements.
+IMPORTANT: The invited lectures, workshops and reflection sessions will count as part of
+the participation portion of your course mark.
+MECH45X Intro 2019-2020 Page 4
+Communication
+General:
+Communication between project teams, supervisors, clients, and mentors will be done primarily
+through phone, email, CANVAS and on-line file repositories such as SmartSheet, DropBox or
+Google Docs. You are responsible for setting up a site for your MECH 45X files.
+Term-1 start-up and project selection:
+The CANVAS website contains a list of all the proposed projects submitted by various clients.
+Starting Imagine day and BEFORE the Thursday, Sept. 5, 2019 project introductions, review the
+projects and discuss them with instructors and classmates, with the goal of using the Thursday
+afternoon time to ask informed questions to aid in project selection. Fill in the “Project
+Selection Quiz” on CANVAS and select your top five choices from 1 (highest) to 5.
+IMPORTANT: YOU MUST BE ENTHUSIASTIC AND WILLING TO WORK
+WHOLEHEARTEDLY ON ANY PROJECT THAT YOU MARK ON THE RANKING
+SHEET. While we endeavour to give students their top-rated project, and indeed have a good
+track record of doing so, you should feel no less willing to work on your #5 than on your #1
+ranked project.
+The deadline is Monday, Sept. 9 at 7:00 AM. The CANVAS quiz will automatically be closed
+at that time. If you have any special requests relating to team formation, there is a comment
+question. For all other matters, such as project choice, please email the course coordinator, Mike
+Van der Loos, by the same time. Emails received after the deadline will not be considered. On
+that Monday, the instructors will match students up with as close to their top project choices as
+possible. By noon on the following day, Tuesday, the team formation and project selection will
+be finalized and posted on CANVAS. Note that we will strive to be as egalitarian as possible and
+give each student a project ranked highly. When you select your top projects, you should be able
+to enthusiastically embrace working on any of them for the remainder of the year.
+Students who do not submit their project rankings by the deadline will be placed on a project of
+the instructors’ choice (and compatible with their specialization).
+Note on Options/Specializations: You should ONLY rank projects that have some aspect
+consistent with your option/specialization. We will check for validity of responses. This is
+essential for program accreditation and proper completion of your transcript. A project may have
+students from multiple options/specializations, depending on the project topic.
+In forming teams, we will strive to maximize team diversity to the extent that we can, given
+project rankings, to increase the opportunity for divergent thinking styles on each team to lead to
+highly creative designs. We will not fulfil special requests to be teamed up with a particular
+other student because you happen to be friends. We will gladly accept special requests on the
+basis of demonstrable diversity (e.g., Myers-Briggs assessments).
+Project Selection Deadline: Before 7:00 AM, Monday, September 9, 2019
+The first team meeting with the faculty supervisor will be held on Tuesday, Sept. 10, in one of
+the meeting rooms reserved for the course. A schedule will be provided.
+MECH45X Intro 2019-2020 Page 5
+Deliverables and Evaluation
+You will be evaluated in multiple ways in four main categories (the 4 Ps): Proposal, Process,
+Product and Presentation.
+Proposal: You must produce a proposal that is acceptable to yourselves, to your client, and to
+your supervisor, all of whom must sign off on it before you may officially proceed. You should
+involve your mentor in this phase as well. Expect multiple iterations on this deliverable.
+Process: To do well in this course, you must be determined to work steadily. This is necessary
+not only because you have regular progress review meetings and because there are numerous
+milestones to meet and items to submit for evaluation, but because physical resources such as
+technician and shop time are limited. Therefore, to explicitly encourage steady, focused work,
+part of your mark will be based on your cumulative progress. You are expected to put in 100 hr
+per term per team member, which implies that you need to be working on the project for roughly
+8 hr per week.
+Product: You will be judged not only on the prototype itself, but also on the drawings and
+models that you make of it. We will solicit feedback from your client, which will be included in
+the overall evaluation.
+Presentation: You will present not only your final design, but generate numerous short reports
+and other documents along the way, for example, a discussion of the state of the art and relevant
+patent/scientific literature material, a technical analysis, a discussion of manufacturing options, a
+presentation of conceptual models, economic &/or ergonomic &/or ethical &/or social impact
+analyses, etc. There will also be marked design presentations, at least one per term.
+End of Course Design and Innovation Day: To celebrate your hard work and to show off your
+capabilities, we will have a formal trade show at the end of the course before the exam period.
+Second and third year students will be invited, as will your clients and technical consultants,
+along with potential employers. Friends and family will be welcome, and the public will be
+invited as well.
+Mark Sharing: As in MECH 328, teamwork often involves the risk of some members not pulling
+their weight or not allowing certain team members to make their own contribution, or,
+conversely, performing above expectations. We will therefore use the iPeer on-line peer review
+process twice in each term as a way of assessing and addressing these issues.
+Report and presentation dates will be posted on the course CANVAS website. For each of the
+deliverables, we will post a document in the “Dossier” folder. The timing is flexible and will
+finalized by you and your supervisor. The dates in italics are NOT flexible.
+Project Selection 7AM, Monday, September 9, 2019
+Proposal Document In October, 2019
+Concept Presentations Team meeting times, Oct. 22 & 24, 2019
+CFP Presentations Team meeting times, Nov. 19 & 21, 2019
+Technical Analysis January, 2020
+Alpha Design Review Presentations 2-5PM, March 10 & 12, 2020
+Test Protocol Reviews Team meeting times, March 17 & 19, 2020
+Design and Innovation Day April 7, 2020
+Final Report and Logbook 4PM, Monday, April 20, 2020
+MECH45X Intro 2019-2020 Page 6
+Marking Rubric
+Your mark will be a combination of your team mark and an individual component, combined
+with an iPeer-derived adjustment.
+Team Mark:
+- Design documentation as per the Dossier List: 900 points
+- Quality of the Prototype: 400 points
+Conc. Alt. presentation 10%
+CFP presentation 10%
+Alpha design review 20%
+Final design review 60%
+- Team participation
+(participatory workshops, presentation reviews, reflections): 100 points
+Total Team Mark: 1400 points
+Individual Mark:
+- Participation
+(lectures, completing the iPeer evaluations) 100 points
+- Logbook 80 points
+- Design Paper literature review 20 points
+Total Individual Mark: 200 points
+The instructor team reserves the discretion to override this nominal marking ratio between
+individual and team components in situations of significant disparity in contribution or
+performance between student team members. iPeer and other sources will be used to inform any
+changes.
+Total mark: Team + Individual: 1600 points
+Max mark: 100% of 1600 points
+Resources
+Textbook
+We recommend that each team have access to a copy of Product Design and Development, by
+Karl Ulrich and Steven Eppinger 2016, to guide you through the overall design process.
+The MECH 2 instructors have written a reference book for MECH 2 students. If you don’t have
+a copy already, this book will be available for purchase to 4th-year students. Please contact Prof.
+Pete Ostafichuk.
+Consultation with Faculty
+As mentioned earlier, you will have weekly meetings with your instructor. You should also use
+your connections with other faculty in the department and elsewhere as resources.
+MECH45X Intro 2019-2020 Page 7
+Technician Resources
+Machine Shop Instructor: Markus Fengler, mfengler@mech.ubc.ca, KAIS 1190C, 827-5655
+Instrumentation Shop Supervisor: Glenn Jolly, gjolly@mech.ubc.ca, KAIS 1220, 822-4530
+Each team will have access to assistance from these technicians to assist with completion of the
+project, with the cost coming out of the team budget. We encourage you to plan ahead for how
+you will use this time – remember that the shop gets busy toward the end of the terms.
+Drawings must be submitted for any work done by workshop technicians. All drawings must be
+submitted to Markus Fengler for scheduling and allocation. Unsuitable drawings will be returned
+for correction and revision. Work will not start until suitable drawings have been submitted.
+Each drawing must be approved and signed by the project supervisor.
+Student Shop Time
+Students are encouraged to do project work in the shop on their own, as equipment and safety
+permit. Access to both the student shop and the main machine tools (milling machine and lathes)
+are likewise scheduled.
+NOTE: Any student using the machine shop must first obtain insurance ($7; bought through the
+Mechanical Engineering Department) and have completed a shop orientation session.
+Workshop Space
+The course has access to a lab space in Rusty Hut, RH118. This can be opened by your UBC ID
+card for most of the duration of the two terms: from Oct. 2 through May 31. There are twenty
+1m3 lockers. You will be given the combination to your locker’s padlock. If you have large
+items, use bike lock technology to secure them in the lab near your locker (tag such items with
+the provided ID forms).
+There is a storage room, RH104 (~opposite RH118), which has supplies left over from previous
+years. You’ll find plywood, plastic tubing, some fasteners, motors, etc. Use at will. The door’s
+combination will be provided to you.
+Toolbox
+A toolbox is available for sign-out from the Machine Shop. This should nominally be kept in the
+team locker in RH 118, and must be signed back in at the end of the academic year. Please note
+the policy for broken/lost items.
+Funds
+Each project team will be allocated up to $750 from the MECH Department. These funds are
+available for materials, components, logbooks, posters, etc., and may be released from the
+internal account in three ways: (1) as reimbursements upon presentation of receipts, (2) as
+charges for materials available through our shop, or (3) by ordering parts or supplies through
+UBC’s ECE Stores. Further details on the procedure will be provided later in the course. You
+should have additional funds at your disposal from your sponsor. All expenditures must be
+approved by the team’s faculty supervisor.
+APSC 496-D Option
+If you are interested in pursuing (or are enrolled in) the option to combine the New Venture
+Design Course and MECH Capstone, please consult the faculty coordinator for details.

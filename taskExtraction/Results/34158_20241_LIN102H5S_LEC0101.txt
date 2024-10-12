@@ -1,0 +1,6 @@
+| Task |Task Percentage| Description | Deadline |
+|---|---|---|---|
+| Tutorial Exercises | 15% | N/A | Ongoing during tutorial |
+| Homework Quizzes | 20% | N/A | Biweekly; due Mondays at 9am EST |
+| Written Homework | 30% | N/A | Biweekly; due Mondays at 9am EST |
+| Final Exam | 35% | N/A | April exam period (TBA) |
