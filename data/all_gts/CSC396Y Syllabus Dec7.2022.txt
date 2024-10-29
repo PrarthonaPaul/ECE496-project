@@ -1,0 +1,229 @@
+SYLLABUS CSC396Y Designing Systems for Real World Problems –Ilona Posner, Berlin 2023 1
+CSC396Y Designing Systems for Real World Problems
+Computer Science Summer Project 2023 – Study Abroad in Berlin
+COURSE INFORMATION & COMMUNICATION DRAFT: Dec 7, 2022
+Instructor Prof. ILONA POSNER, ilona.posner@utoronto.ca
+Quercus application will be used for all course information & communication. Email via Quercus is the
+preferred method of communication with professor. Students should NOT expect immediate email responses.
+Attempts will be made to respond to emails in about 24 business hours.
+NOTE: The University & Quercus communicate with students using only university email addresses.
+Please, make sure that your ROSI email is correctly set to your University email address, for example
+your.name@utoronto.ca or that you have created a functioning forward on this email address, to
+ensure you do not miss important course related announcements.
+COURSE DESCRIPTION
+Human Centered Design results in robust solutions that successfully address real human problems.
+The Summer Abroad provides students with an opportunity to explore new environments, which
+improves their ability to see their own world with increased sensitivity and germinates new design
+ideas. Students will identify a real world problem and work in groups on projects to address this
+problem. Students will begin by exploring their problem space and the people within that space,
+identifying users’ needs, system constraints and requirements, and ultimately designing solutions that
+incorporate all those components. Designs will be iterated from initial concepts to really valuable
+solutions by gathering feedback and usability testing design prototypes with users throughout the
+course. The course projects will culminate with development of a robust design that addresses the
+identified problem. Final project presentations will take place at the end of the course. This course
+has no final exam.
+COURSE OBJECTIVES
+1. To introduce students to Human Centered Design, Design Thinking and User Experience Design. To
+introduce students to some research in these fields.
+2. To give students experience in
+(a) exploring a problem space and thinking deeply about the space and the people impacted,
+(b) understanding target audiences, their current practices, and underlying needs,
+(c) iterating design ideas using various prototypes and thinking critically about designs from the
+users’ point of view,
+(d) usability testing designs with real users and drawing implications from usability testing to
+improve the designs,
+(f) working in multidisciplinary design teams,
+(g) clearly and critically communicating research findings regarding usability of designs and user
+experiences in forms of presentations and reports.
+3. To instill in students empathy for their future users, clients, and colleagues, in any work area.
+4. To prepare the students for further work in related areas.
+SYLLABUS CSC396Y Designing Systems for Real World Problems –Ilona Posner, Berlin 2023 2
+FIELD TRIP DETAILS
+1. Berlin City Walking Tour will be conducted with a guide upon arrival in Berlin
+2. Visit to Berlin’s Technology Museum to see historical technological artifacts
+3. Visit to FUTURIUM the house of futures
+4. Visit to Berlin’s Musical Instruments Museum to explore the evolution of musical technologies
+5. Visit to Berlin’s DDR Museum to explore life in the former East Germany
+6. HALF DAY TRIP by local commuter train to Human Computer Interaction Laboratory in the Hasso
+Plattner Institute at Potsdam University, to see groundbreaking research projects there
+7. TWO DAY TRIP to Volkswagen Factory at Autostadt, Wolfsburg, Germany with an overnight stay
+and a visit to the Phaeno Science Museum
+COURSE OUTLINE
+The course is delivered in a number of stages where students take a single project idea and develop it
+into a design following an iterative user-centered design process.
+• Individually propose a problem space, not a specific problem just yet.
+• Review the Toronto Transit system using industry established Heuristics
+• Form groups and choose one problem space to focus on with your group.
+• Individually conduct research and literature review of the chosen problem space.
+• Compile research and choose one specific problem within the chosen problem space.
+Define your target audience and conduct primary research.
+• Compile group research, analyze results, and develop design guidelines.
+• Individually develop low fidelity prototypes (hand-drawn on paper or using low-fi tools).
+• Informally usability test individual low-fi prototypes, analyze findings, and compile results.
+• Combine individual insights to develop your group’s high-fidelity prototype(s).
+• Formally usability test your high-fi prototype(s).
+• Update your design concepts using insights from usability testing.
+• Deliver final design, documentation, & project presentation.
+In addition this course aims to develop students critical thinking regarding user experiences that
+surround them day-to-day. To achieve this, students will be asked to compare user experience
+aspects of transit systems in Toronto and Berlin.
+This course is delivered through a combination of lectures, critique sessions, and project
+presentations. This course depends on a significant amount of successful group work. Students will be
+expected to form groups at the start of the course and to work in these same groups for the duration
+of the course. In past similar courses, groups with students from diverse disciplines have been quite
+successful in producing creative, robust, and viable projects; thus multidisciplinary project groups are
+strongly encouraged.
+COURSE SCHEDULE ASSIGNMENTS & GRADES
+This full year Computer Science credit course has demanding curriculum requirements compressed
+into a short time span of 4 weeks in Berlin. Thus, students will have the first in-person class meeting
+SYLLABUS CSC396Y Designing Systems for Real World Problems –Ilona Posner, Berlin 2023 3
+in Toronto in late April, date TBD. Students will complete assignments A0 through A4 prior to
+departing for Germany while the rest of the assignments will be completed while in Berlin.
+The course will follow the Human/User Centered Design approach that includes: formative research
+to explore the problem space and its current reality, iterative design to develop a solution in several
+phases with increasing detail using input from the target audience, and summative research to verify
+the proposed solution actually delivers on its promise. These components will comprise the core of
+the course making up 75% of the grade.
+The final 25% will be awarded to course participation. This is a group project course so working
+successfully in a group is a requirement. The course participation grade will be determined by your
+contribution to group-work (using confidential evaluations from each group member) combined with
+the instructor’s evaluation.
+The group work component will be worth 50% of the course grade while the individual work will make
+up 50% of the mark, including 25% for participation.
+DATES, ASSIGNMENTS, & GRADES
+Due
+Dates
+2023
+CLASS
+#
+Assign
+#
+Group & Individual Work Assignments
+Individual
+Work
+%
+Group
+Work
+%
+Apr TBD A0 Post Pitch a problem space and yourself to your class •
+Apr TBD
+IN-PERSON MEETING at Woodsworths College, April date TBD,
+INTRO CLASS & GROUP FORMATION
+May 16 A1 Post Heuristic review of Toronto Transit system 3
+May 30 A2 Post Group forms, problem space, individual research plans 1
+May 30 A3a Post Individual research paper proposal for approval, for A3 •
+June 13 A3b Post Individual research plan & instruments for feedback 2
+July 11 A3c Post Individual research results, paper review, Berlin expectations 8
+July 22 ARRIVE in BERLIN
+July 23 BERLIN City Walking Tour & Welcome Dinner
+July 24 1 A3c First class in Berlin. Present Individual research, <2 mins timed •
+July 25 2 A4a Present Group combined results in class 4
+July 26
+July 27
+4
+A4b Post Group Design Requirements, Experience Map, UX Strategy,
+Low-Fi prototype plans
+Present A4b in class
+10
+July 31
+Aug 1
+5
+6
+A5 Post Individual low-fi prototypes
+In class Usability test individual low-fi prototypes
+Post Individual low-fi test results.
+Present A5 in class: Individual low-fi test results
+10
+Aug 6 9 A6 Present A6 in class: Group combined solutions, internal
+evaluations, functional prototype(s), & usability test plans 15
+Aug 13
+Aug 14
+12
+A7 Post Group usability test results, & updated prototype(s)
+Present A7 in class
+10
+Aug 16
+Aug 17
+13
+14
+A8 Present A8 Group Project in-class for practice and feedback
+Present A8 Final Group Project for guests. Last Class.
+5
+5
+Aug 17 A9
+A10
+Post Usability Testing Reflection
+Post Peer review, Berlin retrospective, Course evaluation
+Class Participation
+2
+25
+TOTALS 50 50
+SYLLABUS CSC396Y Designing Systems for Real World Problems –Ilona Posner, Berlin 2023 4
+IMPORTANT NOTES ABOUT ASSIGNMENTS & GRADES
+Assignments: The course project is divided into a number of assignments, due regularly, starting with
+first deliverable being due on Apr TBD and then continuing until the end of the course time in Berlin.
+All course deliverables are designed to build on top of each other; omitting any assignment would
+significantly disadvantage both the student and their group. Individual assignments are to be
+completed, submitted for grading, and shared with other group members. Group components require
+analysis of individual work, synthesis, and integration into the larger group submissions and designs.
+Late Policy: An assignment due at 11:59 PM if submitted at 12:05 AM is considered to be LATE.
+Submissions < 24 hours late incur a 25% penalty. Submissions < 48 hours late incur a 50% penalty.
+Submissions more than 48 hours late earn 0%. Exceptions to this policy are to be made only in extreme
+circumstances, with communication in advance of the original deadline and may require a medical
+certificate or similar document.
+Remarking: Students requesting remarking of an assignment must do so in writing within 24 hours after
+receiving the assignment. Requests must include detailed reason & contact info. Please note,
+assignments submitted for remarking will be remarked fully and may result in lower grades.
+WRITTEN WORK
+Your ability to conceive of, design, and implement new tools and new designs that truly meet the
+needs of you target audience depends critically upon your ability to communicate with these users.
+This requires effective writing and speaking skills. All assignments include substantial written work.
+Structure and organization, spelling, grammar, word usage, and document appearance will count for
+roughly 10% of your grade on the written work. If assignments are not in satisfactory universitylevel
+English prose, they will be returned for rewriting.
+ACADEMIC OFFENCES
+All the work you submit must be done by you (individually or within your group), and your work must
+not be submitted by anyone else. Plagiarism is academic fraud and is taken very seriously.
+Read Plagiarism in CS http://www.cs.toronto.edu/~fpitt/documents/plagiarism.html and
+Arts & Science Code of Behaviour https://governingcouncil.utoronto.ca/media/15068/view
+PROTOTYPING SOFTWARE
+For this course you will use your own computer, and the software of your choice. Your group’s
+prototype must be viewable in any standard Web browser. In the past students have used Figma,
+Sketch, HTML, CSS, C++, Java, Invision, Adobe XD, and even PowerPoint to create their interactive
+prototypes. If you are planning to use any software not listed here please discuss it with the
+instructor before starting.
+SYLLABUS CSC396Y Designing Systems for Real World Problems –Ilona Posner, Berlin 2023 5
+INSTRUCTOR BIO
+ILONA POSNER is a User Experience (UX) Consultant, Coach, and Educator. Starting in the field more
+than 30 years ago, she has seen it evolve from Human Computer Interaction (HCI), to Usability, UX
+and now to User Experience Design. She is constantly striving to improve people’s experiences with
+technology by focusing on human needs and business goals, while accommodating technological
+constraints. Crossing industry boundaries, she has consulted in large corporations and startups, in
+different verticals including technology, finance, telecom, healthcare, transportation, and education.
+An experienced educator, Ilona Posner has been teaching User Experience since 2000, through project
+based design courses, at University of Toronto, OCAD University, and the Media Lab at the Canadian
+Film Centre, to hundreds of students, in both the graduate and the undergraduate programs. She
+teaches UX Certification courses for Human Factors International since 2003. She also develops and
+delivers custom training courses for industry. Ilona Posner has been volunteering with TorCHI, the
+Toronto Chapter of the Computer Human Interaction professional interest group and running
+international Student Design Competitions at International Conferences. Ilona holds a Master’s
+Degree in Computer Science from the University of Toronto.
+OPTIONAL COURSE EXTENTION – CSC494H
+This portion of the Course Extension may be available to students who have developed viable design
+ideas in CSC394 and want to fully develop their designs into functional products. Students will need
+to ballot to qualify for this course extension.
+What Students Said About This Course
+This course has altered past students’ view of the field of Computer Science and has given them a
+new perspective on the importance of their user. The skills students gain can be applied in many areas
+of Computer Science, product design, and beyond. Students commented after the course:
+This course gives us a new concept of computer science, it's interesting and worth learning.
+It is a very intersecting course that I think everyone should take. The workload is high.
+This course is very beneficial but for those who want to get this credit easily, I don't recommend it.
+However, for people who want to learn about user experience, this course is super helpful.
+Berlin is a great place to see and this course taught us an important way to look at creating projects.
+They will learn a lot from it and get a well-designed project at the end of the course.
+I learned a many skills that are very likely to be useful in my future career. My presentation skill has
+improved a lot. Although we need to answer questions and talk about own opinions in class, I don't
+feel uncomfortable to talk in class. Our professor is really nice. She read through our assignments very
+carefully, and always gave us useful and long comments. Because of her enthusiasm towards this
+course, we also feel that we want to put more effort on projects and make her happy :).

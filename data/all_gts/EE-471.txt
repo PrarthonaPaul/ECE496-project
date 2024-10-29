@@ -1,0 +1,245 @@
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+Please, click on the following link to access A&M-Commerce Covid 19 Information, https://new.tamuc.edu/coronavirus/
+EE 471 Electrical Engineering Capstone II
+3 Credit Hours
+COURSE SYLLABUS: SPRING 2022
+INSTRUCTOR INFORMATION
+Instructor: Redha M. Radaydeh, PhD
+Assistant Professor, Electrical Engineering
+Department of Engineering and Technology
+Office Location: AGIT 204.
+Office Hours: Monday 10:00-13:00, Monday 14:15-15:10, Wednesday 9:00-10:00, Wednesday 14:15-15:10, or with appointment. Virtual meetings can be scheduled.
+Office Phone: 903-886-5471
+Office Fax: 903-886-5960
+University Email Address: Redha.Radaydeh@tamuc.edu
+Preferred Form of Communication: email.
+Communication Response Time: within 24 hours (weekdays) to email.
+COURSE INFORMATION
+Class Meeting Schedule: Meets 1/12/2022 through 5/13/2022.
+Class Meeting Dates: Weekly meetings; Wednesday 10:00-12:50.
+Classroom: AGIT 214 & EE Senior Design Lab.
+Course Format: This course contains hardware designs, practical applications, simulations, project reports, and presentations.
+Materials – Textbooks, Readings, Supplementary Readings
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+Textbook Required:
+Textbook is not required for this course. Technical papers and handouts will be given to students during the course.
+Software Recommended:
+ Microsoft Office - MS Word, Excel, PowerPoint.
+ MATLAB, LABVIEW, and/or other EE, Math, CS simulators.
+Course Description
+This is the second part of the senior engineering capstone design project. This course requires completing the capstone senior design project from concept through problem statement, project analysis, final design, prototype, technical report, project demo, and final oral presentation. Students will work in groups and apply the skills and knowledge they have acquired to demonstrate their mastery of the discipline through a successfully working porotype project.
+Prerequisites: EE 470 with a minimum grade of C. Senior Classification, EE Majors only. Course must be scheduled in the final spring semester of graduation and with Instructor's consent.
+Learning Outcomes of Instruction:
+1. Design a system to meet desired needs and engineering standards within realistic constraints.
+2. Demonstrate knowledge of contemporary issues.
+3. Demonstrate leadership and teamwork.
+4. Design and build hardware and/or software products using engineering design process.
+5. Recognize and address the professional code of the ethics and engineering standards.
+6. Use modern design tools and components in the project design.
+7. Perform system integration, testing and analysis.
+8. Write final technical report.
+COURSE REQUIREMENTS
+Minimal Technical Skills Needed
+ Microsoft Office - MS Word, Excel, PowerPoint.
+ MATLAB, LABVIEW, and/or other EE, Math, CS simulators.
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+Instructional Methods
+The instructional methods in this course include: writing proposal, class discussion, course project, progress reports, weekly meetings, problem solving, writing technical reports, design demonstration, and oral presentations. Course materials will be posted on the course website.
+Student Responsibilities or Tips for Success in the Course
+Student must attend course meetings, participate in class work and discussions, and perform required course assessments supporting the anticipated learning objectives, such as progress reports and design demonstration. Students are expected to regularly log into the course website to downloads course material, submit their course works as instructed, and follow up on new announcements. This course covers a more advanced content that requires at least 6 hours of extensive work per week.
+Attendance Policy
+Class Attendance Requirement (one lateness = 1/2 absence)
+# of Absences
+0 – 3
+4
+5
+6
+7
+>7
+Point Deduction
+0
+- 2
+- 4
+- 10
+- 30
+F
+GRADING
+Final grades in this course will be based on the following scale:
+A = 90%-100%
+B = 80%-89%
+C = 70%-79%
+D = 60%-69%
+F = 59% or Below
+Assessments
+The following assessments will be performed during this course to assess individual progress towards learning outcomes: Assessment Weight Due time
+Progress Reports
+20 %
+Biweekly
+Midterm Presentation and Design Progress Demonstration
+20 %
+Week 8
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+Final Project Report
+30 %
+Week 15
+Final Design Presentation and Demonstration
+30 %
+Week 16
+Relationship between Assessments and Course/Student Learning Outcomes
+Learning Outcomes of Instruction Assessment
+1. Design a system to meet desired needs and engineering standards within realistic constraints.
+Progress reports, Presentations
+2. Demonstrate knowledge of contemporary issues.
+Reports, Demonstrations
+3. Demonstrate leadership and teamwork.
+Presentations, Work Progress
+4. Design and build hardware and/or software products using engineering design process.
+Reports, Presentations
+5. Recognize and address the professional code of the ethics and engineering standards.
+Designs, Reports
+6. Use modern design tools and components in the project design.
+Design Demonstrations
+7. Perform system integration, testing and analysis.
+Presentations, Demonstrations
+8. Write final technical report.
+Final Report
+Capstone Project:
+Students are required to work on their senior design project, present their work progress on regular basis, perform design demonstration of their design, and submit a comprehensive final report of their design by the end of the course. Student will work in groups. The project design process includes; problem statements, objectives, technical design specifications, component selections, design constraints, professional codes and standard, and project management and implementation. This project should demonstrate the student’s ability to transfer the knowledge and skills acquired in their EE courses to provide solutions for real-world applications.
+Student Outcomes (ABET):
+The EE program must have documented student outcomes that support the program educational objectives. Attainment of these outcomes prepares graduates to enter the professional practice of engineering. Student outcomes are outcomes (1) through (7), plus any additional outcomes that may be articulated by the EE program. This course will assess the achievement of the following student outcomes:
+2. An ability to apply engineering design to produce solutions that meet
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+3. An ability to communicate effectively with a range of audiences.
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies..
+TECHNOLOGY REQUIREMENTS
+LMS
+All course sections offered by Texas A&M University-Commerce have a corresponding course shell in the myLeo Online Learning Management System (LMS). Below are technical requirements
+LMS Requirements:
+https://community.brightspace.com/s/article/Brightspace-Platform-Requirements
+LMS Browser Support:
+https://documentation.brightspace.com/EN/brightspace/requirements/all/browser_support.htm
+YouSeeU Virtual Classroom Requirements:
+https://support.youseeu.com/hc/en-us/articles/115007031107-Basic-System-Requirements
+ACCESS AND NAVIGATION
+You will need your campus-wide ID (CWID) and password to log into the course. If you do not know your CWID or have forgotten your password, contact the Center for IT Excellence (CITE) at 903.468.6000 or helpdesk@tamuc.edu.
+Note: Personal computer and internet connection problems do not excuse the requirement to complete all course work in a timely and satisfactory manner. Each student needs to have a backup method to deal with these inevitable problems. These methods might include the availability of a backup PC at home or work, the temporary
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+use of a computer at a friend's home, the local library, office service companies, Starbucks, a TAMUC campus open computer lab, etc.
+COMMUNICATION AND SUPPORT
+If you have any questions or are having difficulties with the course material, please contact your Instructor.
+Technical Support
+If you are having technical difficulty with any part of Brightspace, please contact Brightspace Technical Support at 1-877-325-7778. Other support options can be found here:
+https://community.brightspace.com/support/s/contactsupport
+Interaction with Instructor Statement
+Students are highly encouraged to participate in class activities, ask questions, and solve technical problems in class. They are also highly encouraged to work in groups during the Lab sessions, prepare full documentations of their Lab work, gain experience on software simulations and hardware work, and gain experience on team work, communication skills, and technical writing.
+COURSE AND UNIVERSITY PROCEDURES/POLICIES
+Course Specific Procedures/Policies
+Syllabus Change Policy
+The syllabus is a guide. Circumstances and events, such as student progress, may make it necessary for the instructor to modify the syllabus during the semester. Any changes made to the syllabus will be announced in advance.
+University Specific Procedures
+Student Conduct
+All students enrolled at the University shall follow the tenets of common decency and acceptable behavior conducive to a positive learning environment. The Code of Student Conduct is described in detail in the Student Guidebook.
+http://www.tamuc.edu/Admissions/oneStopShop/undergraduateAdmissions/studentGuidebook.aspx
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+Students should also consult the Rules of Netiquette for more information regarding how to interact with students in an online forum: https://www.britannica.com/topic/netiquette
+TAMUC Attendance
+For more information about the attendance policy please visit the Attendance webpage and Procedure 13.99.99.R0.01.
+http://www.tamuc.edu/admissions/registrar/generalInformation/attendance.aspx
+http://www.tamuc.edu/aboutUs/policiesProceduresStandardsStatements/rulesProcedures/13students/academic/13.99.99.R0.01.pdf
+Academic Integrity
+Students at Texas A&M University-Commerce are expected to maintain high standards of integrity and honesty in all of their scholastic work. For more details and the definition of academic dishonesty see the following procedures:
+Undergraduate Academic Dishonesty 13.99.99.R0.03
+Undergraduate Student Academic Dishonesty Form
+http://www.tamuc.edu/aboutUs/policiesProceduresStandardsStatements/rulesProcedures/documents/13.99.99.R0.03UndergraduateStudentAcademicDishonestyForm.pdf
+Graduate Student Academic Dishonesty Form
+http://www.tamuc.edu/academics/graduateschool/faculty/GraduateStudentAcademicDishonestyFormold.pdf
+http://www.tamuc.edu/aboutUs/policiesProceduresStandardsStatements/rulesProcedures/13students/undergraduates/13.99.99.R0.03UndergraduateAcademicDishonesty.pdf
+Students with Disabilities-- ADA Statement
+The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities. Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. If you have a disability requiring an accommodation, please contact:
+Office of Student Disability Resources and Services
+Texas A&M University-Commerce
+Velma K. Waters Library Rm 162
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+Phone (903) 886-5150 or (903) 886-5835
+Fax (903) 468-8148
+Email: studentdisabilityservices@tamuc.edu
+Website: Office of Student Disability Resources and Services
+http://www.tamuc.edu/campusLife/campusServices/studentDisabilityResourcesAndServices/
+Nondiscrimination Notice
+Texas A&M University-Commerce will comply in the classroom, and in online courses, with all federal and state laws prohibiting discrimination and related retaliation on the basis of race, color, religion, sex, national origin, disability, age, genetic information or veteran status. Further, an environment free from discrimination on the basis of sexual orientation, gender identity, or gender expression will be maintained.
+Campus Concealed Carry Statement
+Texas Senate Bill - 11 (Government Code 411.2031, et al.) authorizes the carrying of a concealed handgun in Texas A&M University-Commerce buildings only by persons who have been issued and are in possession of a Texas License to Carry a Handgun. Qualified law enforcement officers or those who are otherwise authorized to carry a concealed handgun in the State of Texas are also permitted to do so. Pursuant to Penal Code (PC) 46.035 and A&M-Commerce Rule 34.06.02.R1, license holders may not carry a concealed handgun in restricted locations.
+For a list of locations, please refer to the Carrying Concealed Handguns On Campus
+document and/or consult your event organizer.
+Web url: http://www.tamuc.edu/aboutUs/policiesProceduresStandardsStatements/rulesProcedures/34SafetyOfEmployeesAndStudents/34.06.02.R1.pdf
+Pursuant to PC 46.035, the open carrying of handguns is prohibited on all A&M-Commerce campuses. Report violations to the University Police Department at 903-886-5868 or 9-1-1.
+A&M-Commerce Supports Students’ Mental Health
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers counseling services, educational programming, and connection to community resources for students. Students have 24/7 access to the Counseling Center’s crisis assessment services by calling 903-886-5145. For more information
+The Counseling Center at A&M-Commerce, located in the Halladay Building, Room 203, offers
+counseling services, educational programming, and connection to community resources for
+students. Students have 24/7 access to the Counseling Center’s crisis assessment services by
+calling 903-886-5145. For more information regarding Counseling Center events and confidential
+services, please visit www.tamuc.edu/counsel
+The syllabus/schedule are subject to change.
+regarding Counseling Center events and confidential services, please visit www.tamuc.edu/counsel
+Department or Accrediting Agency Required Content
+The Electrical Engineering program is in the process to obtain ABET accreditation. The course material, its expected deliverables, grading policy, organization, and expected learning outcomes are designed to meet the ABET requirements.
+COURSE OUTLINE / CALENDAR
+The instructor reserves the right to adjust the schedule to serve the needs of the class and any changes will be communicated in a timely manner.
+Course schedule: The sequence of chapters follows the textbook.
+Week Topic
+2-14
+Biweekly Progress Reports
+8
+Midterm Presentation
+8
+Midterm Design Progress Demonstration
+15
+Final Project Report
+16
+Final Project Presentation
+16
+Design Demonstration

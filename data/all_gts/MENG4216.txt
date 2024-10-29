@@ -1,0 +1,809 @@
+MENG 4216 – Senior Capstone Design II
+Course Syllabus
+Semester / Year Spring 2021
+Catalog Description The second of a sequence of two senior courses including a
+capstone engineering project that entails the theoretical or
+experimental investigation of design problems. The nature and
+scope of the project are determined by the student in consultation
+with the instructor and depend upon the facilities available. A
+written technical report is required as part of the courses’ outcomes.
+All seniors meet weekly to discuss their projects as teams and with
+their supervisor. Two sessions of 3 hours laboratory.
+Prerequisites MENG 4215, MENG 4312, (MENG 4326 as pre- or co- req,), and
+(MATH 3203 or MATH 3315)
+Section number All sections in all campuses
+Instructor name Mr. A. Al-Shalash, Dr. N. Barakat, Dr. N. Fumo, Dr. A. Garcia, Dr.
+C. Goh, Mr. T. Hall, Dr. Ibrahim, Dr. Khajah, Dr. Maloney, and
+Dr. Rizvi.
+Contact info Contact the following course coordinator if you cannot find the
+contact info for your specific team advisor:
+Dr. N. Barakat (TYL teams)
+Mr. A. Al-Shalash (HEC teams)
+Class Type / Location Hybrid, face-to-face or zoom lecture and lab/studio – Both TYL
+Campus and HEC Campus
+Class Time Two labs: Thur. and Fri. 8 – 10:45 AM.
+Office Hours TBD
+Credits 2
+Required Textbook None. A handbook will be provided electronically. The equivalent
+of the price of a typical engineering textbook will be required as a
+contribution from each student for material needed to execute the
+assigned project.
+Optional References TBD
+Additional requirements TBD
+Instruction / Evaluation
+Method
+Meetings, discussions, assignments, as well as projects’ design,
+build and testing.
+Grading Policy / Scale Grading in this course will be based on input from the advisors and
+sponsors, as well as other involved faculty as appropriate. Consistent
+progress and professional behavior during the course / project is
+expected. A minimum score of 70% in each element of the following
+elements is MANDATORY to succeed and pass the course.
+- Attendance and participation of all team activities (e.g. meetings,
+building, etc.) 20%
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 19 of 104
+- Assignments, Surveys, Other course requirements 10%
+- Project performance, quality and results at delivery 20%
+- Documentation, Reports, Presentations, Posters 30%
+- Individual evaluation (Faculty advisor, peer, etc.) 20%
+Scale:
+A = > 90, B = > 80, C = > 70, D = > 60, F < 60.
+Important events / dates Census date
+Exam date
+Final date
+Attendance / Makeup
+policy
+TBD
+Course Learning
+Outcomes / ABET SOs
+& PEOs relation
+By the end of this course, students will be able to:
+1. Implement knowledge and skills acquired from going through the
+engineering curriculum into a culminating experience in the form of
+open-ended design and build project, and deliver a final outcome
+considering various real constraints as part of an interdisciplinary
+team.
+2. Demonstrate improved oral and written communication skills for use
+throughout an engineering career.
+3. Manage resources, engage in continuous learning and development,
+and organize operations, to achieve set project goals and deliver
+outcomes at a professional level as expected.
+Tentative Topics 1. Creativity and design methodologies
+2. Teambuilding
+3. Leadership
+4. Economic justification
+5. Codes and standards
+6. Project management
+7. Conflict resolution
+8. Enhanced communication techniques
+Other TBD
+University, College, and Department Policies:
+1. Modifications
+The instructor reserves the right to change this syllabus partially or fully at any point in time. Sufficient
+time and notice will be provided to the class before the activation of the changes.
+2. Rights
+The Department of Mechanical Engineering reserves all rights to publish and advertise products from the
+Senior Design series of courses including, but not limited to, Documents, Reports, Posters, Videos, and
+Presentations, which may include pictures of students, with arrangement to protect IP rights of the
+sponsors of projects.
+3. UT Tyler Honor Code
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 20 of 104
+Every member of the UT Tyler community joins together to embrace: Honor and integrity that will not
+allow me to lie, cheat, or steal, nor to accept the actions of those who do.
+4. Student Standards of Academic Conduct
+Disciplinary proceedings may be initiated against any student who engages in scholastic dishonesty,
+including, but not limited to, cheating, plagiarism, collusion, the submission for credit of any work or
+materials that are attributable in whole or in part to another person, or material which has been submitted
+within a different course without explicit approval of the instructor, taking an examination for another
+person, any act designed to give unfair advantage to a student or the attempt to commit such acts.
+i. “Cheating” includes, but is not limited to:
+• copying from another student’s test paper;
+• using, during a test, materials not authorized by the person giving the test;
+• failure to comply with instructions given by the person administering the test;
+• possession during a test of materials, or devices and instruments allowing access to materials,
+which are not authorized by the person giving the test, such as class notes or specifically designed
+“crib notes” as well as cell phones, to name a few. The presence of textbooks constitutes a
+violation if they have been specifically prohibited by the person administering the test;
+• using, buying, stealing, transporting, or soliciting in whole or part the contents of an
+unadministered test, test key, homework solution, or computer program;
+• collaborating with or seeking aid from another student or person during a test or other assignment
+without explicit authorization;
+• discussing the contents of an examination with another student who will take the examination;
+• divulging the contents of an examination, for the purpose of preserving questions for use by
+another, or removing material from the exam location, when the instructors has designated that
+the examination is not to be removed from the examination room or not to be returned or to be
+kept by the student;
+• substituting for another person, or permitting another person to substitute for oneself to take a
+course, a test, or any course-related assignment;
+• paying or offering money or other valuable thing to, or coercing another person to obtain an
+unadministered test, test key, homework solution, or computer program or information about an
+unadministered test, test key, home solution or computer program;
+• falsifying research data, laboratory reports, and/or other academic work offered for credit;
+• taking, keeping, misplacing, or damaging the property of The University of Texas at Tyler, or of
+another, if the student knows or reasonably should know that an unfair academic advantage
+would be gained by such conduct; and
+• misrepresenting facts, including providing false grades or resumes, for the purpose of obtaining
+an academic or financial benefit or injuring another student academically or financially.
+ii. “Plagiarism” includes, but is not limited to, the appropriation, buying, receiving as a gift, or
+obtaining by any means another’s work and the submission of it as one’s own academic work
+offered for credit.
+iii. “Collusion” includes, but is not limited to, the unauthorized collaboration with another person in
+preparing academic assignments offered for credit or collaboration with another person to commit a
+violation of any section of the rules on scholastic dishonesty.
+iv. All written work that is submitted will be subject to review by plagiarism software.
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 21 of 104
+v. Penalty for any related infractions will be decided at the discretion of the instructor including, but
+not limited to, granting of a failing grade in part or the course or in the entire course.
+5. Students Rights and Responsibilities
+To know and understand the policies that affect your rights and responsibilities as a student at UT Tyler,
+please follow this link: http://www.uttyler.edu/wellness/rightsresponsibilities.php
+6. Important Covid-19 Information for Classrooms and Laboratories
+Students are required to wear face masks covering their nose and mouth, and follow social distancing
+guidelines, at all times in public settings (including classrooms and laboratories), as specified
+by Procedures for Fall 2020 Return to Normal Operations. The UT Tyler community of Patriots views
+adoption of these practices consistent with its Honor Code and a sign of good citizenship and respectful
+care of fellow classmates, faculty, and staff.
+Students who are feeling ill or experiencing symptoms such as sneezing, coughing, or a higher than
+normal temperature will be excused from class and should stay at home and may join the class remotely.
+Students who have difficulty adhering to the Covid-19 safety policies for health reasons are also
+encouraged to join the class remotely. Students needing additional accommodations may contact the
+Office of Student Accessibility and Resources at University Center 3150, or call (903) 566-7079 or
+email saroffice@uttyler.edu.
+7. Recording of Class Sessions
+Class sessions may be recorded by the instructor for use by students enrolled in this course.
+Recordings that contain personally identifiable information or other information subject to
+FERPA shall not be shared with individuals not enrolled in this course unless appropriate
+consent is obtained from all relevant students. Class recordings are reserved only for the use of
+students enrolled in the course and only for educational purposes. Course recordings should not
+be shared outside of the course in any form without express permission.
+8. Campus Carry
+We respect the right and privacy of students 21 and over who are duly licensed to carry concealed
+weapons in this class. License holders are expected to behave responsibly and keep a handgun secure and
+concealed. More information is available at http://www.uttyler.edu/about/campus-carry/index.php
+9. UT Tyler a Tobacco-Free University
+All forms of tobacco will not be permitted on the UT Tyler main campus, branch campuses, and any
+property owned by UT Tyler. This applies to all members of the University community, including
+students, faculty, staff, University affiliates, contractors, and visitors.
+Forms of tobacco not permitted include cigarettes, cigars, pipes, water pipes (hookah), bidis, kreteks,
+electronic cigarettes, smokeless
+tobacco, snuff, chewing tobacco, and all other tobacco products.
+There are several cessation programs available to students looking to quit smoking, including counseling,
+quitlines, and group support.
+For more information on cessation programs please visit www.uttyler.edu/tobacco-free.
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 22 of 104
+10. Grade Replacement/Forgiveness and Census Date Policies
+Students repeating a course for grade forgiveness (grade replacement) must file a Grade Replacement
+Contract with the Enrollment Services Center (ADM 230) on or before the Census Date of the semester in
+which the course will be repeated. Grade Replacement Contracts are available in the Enrollment Services
+Center or at http://www.uttyler.edu/registrar. Each semester’s Census Date can be found on the Contract
+itself, on the Academic Calendar, or in the information pamphlets published each semester by the Office
+of the Registrar.
+Failure to file a Grade Replacement Contract will result in both the original and repeated grade being used
+to calculate your overall grade point average. Undergraduates are eligible to exercise grade replacement
+for only three course repeats during their career at UT Tyler; graduates are eligible for two grade
+replacements. Full policy details are printed on each Grade Replacement Contract.
+The Census Date is the deadline for many forms and enrollment actions of which students need to be
+aware. These include:
+• Submitting Grade Replacement Contracts, Transient Forms , requests to withhold directory
+information, approvals for taking courses as Audit, Pass/Fail or Credit/No Credit.
+• Receiving 100% refunds for partial withdrawals. (There is no refund for these after the Census
+Date)
+• Schedule adjustments (section changes, adding a new class, dropping without a “W” grade)
+• Being reinstated or re-enrolled in classes after being dropped for non-payment
+• Completing the process for tuition exemptions or waivers through Financial Aid
+11. State-Mandated Course Drop Policy
+Texas law prohibits a student who began college for the first time in Fall 2007 or thereafter from dropping
+more than six courses during their entire undergraduate career. This includes courses dropped at another
+2-year or 4-year Texas public college or university. For purposes of this rule, a dropped course is any
+course that is dropped after the census date (See Academic Calendar for the specific date).
+Exceptions to the 6-drop rule may be found in the catalog. Petitions for exemptions must be submitted to
+the Enrollment Services Center and must be accompanied by documentation of the extenuating
+circumstance. Please contact the Enrollment Services Center if you have any questions.
+12. Disability/Accessibility Services
+In accordance with Section 504 of the Rehabilitation Act, Americans with Disabilities Act (ADA) and the
+ADA Amendments Act (ADAAA) the University of Texas at Tyler offers accommodations to students
+with learning, physical and/or psychological disabilities. If you have a disability, including a non-visible
+diagnosis such as a learning disorder, chronic illness, TBI, PTSD, ADHD, or you have a history of
+modifications or accommodations in a previous educational environment, you are encouraged to visit
+https://hood.accessiblelearning.com/UTTyler and fill out the New Student application. The Student
+Accessibility and Resources (SAR) office will contact you when your application has been submitted and
+an appointment with Cynthia Lowery, Assistant Director of Student Services/ADA Coordinator. For more
+information, including filling out an application for services, please visit the SAR webpage at
+http://www.uttyler.edu/disabilityservices, the SAR office located in the University Center, # 3150 or call
+903.566.7079.
+The University of Texas at Tyler has a continuing commitment to providing reasonable accommodations
+for students with documented disabilities. Like so many things this Fall, the need for accommodations
+and the process for arranging them may be altered by the COVID-19 changes we are experiencing and the
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 23 of 104
+safety protocols currently in place. Students with disabilities who may need accommodation(s) in order
+to fully participate in this class are urged to contact the Student Accessibility and Resources Office (SAR)
+as soon as possible, to explore what arrangements need to be made to ensure access. During the Fall 2020
+semester, SAR will be conducting all appointments via ZOOM. If you have a disability, you are
+encouraged to visit https://hood.accessiblelearning.com/UTTyler and fill out the New Student
+Application. For more information, please visit the SAR webpage at
+http://www.uttyler.edu/disabilityservices or call 903.566.7079.
+Student Absence due to Religious Observance
+Students who anticipate being absent from class due to a religious observance are requested to inform the
+instructor of such absences by the second class meeting of the semester.
+13. Student Absence for University-Sponsored Events and Activities
+If you intend to be absent for a university-sponsored event or activity, you (or the event sponsor) must
+notify the instructor at least two weeks prior to the date of the planned absence. At that time the instructor
+will set a date and time when make-up assignments will be completed.
+14. Social Security and FERPA Statement
+It is the policy of The University of Texas at Tyler to protect the confidential nature of social security
+numbers. The University has changed its computer programming so that all students have an
+identification number. The electronic transmission of grades (e.g., via e-mail) risks violation of the
+Family Educational Rights and Privacy Act; grades will not be transmitted electronically.
+15. Emergency Exits and Evacuation
+Everyone is required to exit the building when a fire alarm goes off. Follow your instructor’s directions
+regarding the appropriate exit. If you require assistance during an evacuation, inform your instructor in
+the first week of class. Do not re-enter the building unless given permission by University Police, Fire
+department, or Fire Prevention Services.
+16. UT Tyler Resources for Students
+• UT Tyler Writing Center (903.565.5995), writingcenter@uttyler.edu
+• UT Tyler Tutoring Center (903.565.5964), tutoring@uttyler.edu
+• The Mathematics Learning Center, RBN 4021, this is the open access computer lab for math
+students, with tutors on duty to assist students who are enrolled in early-career courses.
+• UT Tyler Counseling Center (903.566.7254)
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 24 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Instructions and Rules:
+- Notice: If we are continue to operate under the COVID-19 Pandemic restrictions, please continue to operate while applying all required precautions and restrictions. Remote communcation
+and team interaction is required.
+1 - This schedule/table is subject to change at any point in the two semesters.
+2 - Most of the reference material needed to complete tasks in this table are included in the Senior Design Student's Handbook or the Lectures
+3 - For any submission, the dafault is electronic format on CANVAS, but always double check with your faculty Advisor
+4 - Team submissions are different than individual submissions, and they are mutually exclusive. Always check which type is required.
+5 - These courses have academic requirements in addition to customer/sponsor requirements. If in doubt, ask questions.
+6 - NASA projects have a slightly different schedule and will be sponsored internally until a sponsor (Mentor) is connected.
+7 - Some projects will start with an allowed Budget, but this is only the intial limit/ceiling of the Budget not to be exceeded. The final Budget should be reduced as much as possible from
+this limit.
+8 - If you have any question related to senior design, ask your advisor first.
+9 - No communication should exist with anyone regarding your senior project without copying or consulting your advisor.
+10 - Your registered time of the class or lab on your schedule should be always available for class activity, in addition to what the team agrees on. Do not schedule actions which you
+cannot change during scheduled class or lab time.
+11 - Teams should meet with the advisor weekly in a reserved hour, in addition to a team meeting beyond the advisor hour for a longer time. Each meeting should have three elements:
+Meeting agenda, meeting minutes, and updated action items table.
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+Distribute project application form by end of N/A
+April and collect until August 15
+Summer
+Solicit and collect projects
+Distribute Teams and Projects
+Prepare course documentation
+Coordinator
+Application
+for a project
+2020 - 2021 Page 1 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 25 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+1
+24-Aug
+Students familiarize themselves
+with course, sign and retun forms
+(NDA and acknowledgement of
+syllabus and course rules)
+Coordinator
+sets up,
+Advisors
+verify /
+collect
+Syllabus, handbook and
+reference documents set
+Introduction Lecture
+1) Team and Project distribution by SPB
+2) Syllabus and related documents
+distributed, signed froms collected from
+students by advisors
+3) Canvas setup
+4) Introduction lecture and assignment
+5) Weekly team meetings table - locations
+and time
+6) SPB meeting time and location setup
+2
+31-Aug
+X
+Weekly Group Submission and
+Tracking setup with team See
+Appendix A
+Submit (Each Student): Initial
+Self-Eval, NDA, and Contract
+signed forms to advisor during
+lab
+No student continues
+without signed pages
+returned
+Advisors
+collect and
+deposit with
+Coordinator
+Syllabus, handbook and
+reference documents set
+Continue Introduction Lecture
+Announce meeting times, locations,
+Collection of NDAs, Contracts, and related
+docs
+Distribute Teams, Advisors, and Projects
+Internal organization and documentation,
+Meeting minutes and book-keeping
+Assign tasks.
+3
+7-Sep
+Weekly Group Submission
+Appendix A
+Generate and send draft questions
+to sponsor to the advisor
+10
+Advisor
+collects and
+grades on
+CANVAS
+Lectures 1, 2, and
+handout
+Start presentation to advisor See Appendix
+A , submit draft "questions-to-sponsor" on
+project to advisor. Advisor will send
+suggestions by the end of the week,
+Coordinator provides feedback on Weekly
+Group Submissions
+SPECIFICATIONS
+Spec.'s Assignement
+NASA deadline next week
+Presentation to advisor,
+Follow up with required
+tasks, Review draft questions
+to sponsor, Specifications
+initiation
+4
+14-Sep
+Weekly Group Submission
+Appendix A
+Submit Team Assignment to
+CANVAS at end of week:
+Specifications
+10 Advisor
+Handout and
+lecture from
+Week 3
+Work on questions to sponsor and
+specifications simultaneously
+DECISION MAKING and
+CONCEPT GENERATION
+Concepts Assignment
+Finalize questions to sponsor
+and send, start building
+specifications' tables and
+lists, continue with
+presentation to advisor
+Kick Off meeting - Rules and requirements, Review syllabus,
+structure, and rules. Students are alerted to deliverables for
+upcoming weeks (this is done each week). Initial Self-Eval,
+Contract, NDA. Students are directed to setup meetings (more
+than with advisor), communications' protocols.
+Go over reporting presentation concept to advisor. Lab:
+Introduction between team and advisor, Discussion of Advisor
+requirements in addition to course
+Teams and projects announced early in the week. NDA and
+Other signed forms collected. IP concepts and confidentiality
+Discussed. Project discussion and setups of communication
+protocols as well as required task of writing questions to the
+sponsor. Students write a list of questions for their sponsor
+regarding the project, initiate communication with sponsor.
+Advisor reviews students’ questions before they are sent out.
+2020 - 2021 Page 2 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 26 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+5
+21-Sep
+Weekly Group Submissions - 10
+Pts for complete weekly Group
+submissions (first 3 items)
+Submit Team Assignment to
+CANVAS at end of week:
+Concept Generation
+10
+Coordinator -
+group
+submissions
+Advisor -
+Assignment
+Handout, Lecture,
+and Appendix A
+Generate and approve by advisor the
+specifications’ approval document to be
+signed by sponsor. Buid Concepts (3
+options minimum0 for presentation
+RISKS and CONCEPTS
+Present updates to advisor
+and discuss, Finalize Spec.'s
+doc. For sponsor to sign,
+build concepts for
+presentation
+6
+28-Sep
+Start a project management plan.
+Prepare a scope presentation.
+Student
+Handbook
+.- Coordinator to schedule presentations and
+reserve space (or zoom)
+- Provide feedback on group submissions
+PROJECT MANAGEMENT I
+Review presentation with
+advisor, rehearse, sechedule
+presentation
+7
+5-Oct
+X
+Weekly Group Submission and
+Tracking
+Carry out presentation as
+scheduled
+50 All
+Student
+Handbook
+Follow up with students and monitor
+progress through concept selection PROJECT MANAGEMENT II
+Tuesday reserved for
+presentations. Use Thur if
+needed. Student
+Handbook
+Advisor &
+Coordinator
++
+WRITTEN
+COMMUNICATIONS
+Start simulations detailed
+Weekly Group Submission
+Carry Out Design Reviews,
+Seek Approval to order, or a 2nd
+DR
+Discuss mutually approval
+with sponsor on selected
+concept, Work on Design
+Review
+50 Advisor
+Follow up with students on concept
+approval with sponsor and detailed designs
+Prepare for Design Reviews
+Student
+Handbook
+Approve Design review
+doc.'s by advisor and send to
+Sponsor, Make reservations
+for Design Review (faculty,
+sponsor, space)
+DETAILED DESIGN &
+Communication, success metrics,
+acceptance criteria, testing specs,
+Share presentation blocks and
+rules
+Check team written documents before they
+send them out for design reviews, check
+team presentation, calculations,
+organization, etc
+Discuss ordering, building,
+and testing plans
+Check calculations and start simulations or
+X prototype
+Weekly Group Submission and
+Tracking
+DESIGN COMMUNICATION
+and Presentations
+10 50
+v
+Fall (Aug 24 - Dec 14)
+8
+9
+Weekly Group Submission and
+Weekly Group Submission
+Submit Peer Evaluation I
+(individual)
+Student
+Handbook
+26-Oct 19-Oct 12-Oct
+2020 - 2021 Page 3 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 27 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+12
+9-Nov
+Take Ethics Quiz (Requires 75%
+to pass the course)
+Seek approval to order, or a 2nd
+review to approve
+100 Coordinator
+Student
+Handbook
+Complete Full Design Review with advisor,
+customer, and at least two other SPB
+members or faculty.
+TBD
+Ethics quiz on Thursday
+Work on Report and
+Prototype
+13
+16-Nov
+Weekly Group Submission and
+Tracking
+Submit Electronic Poster towards
+end of week
+50 Coordinator
+Order if approved, build prototype or
+simulation
+NASA teams SHOWCASE Nov. 17 - 18
+TBD Report, poster, prototype,
+simulation, test plans
+14
+Weekly Group Submission and
+Tracking 20 Coordinator
+Submit Project Status Report
+(Proposal) 150 Advisor
+Complete Prototype or
+Simulation 100 Advisor
+16 ### Advisor eval of performance
+(Subjective) 200 Advisor
+800 Coordinator Prepare ABET assessment reports
+Test specifications should be finalized and
+submitted with the Status Report
+Setup Purchasing process
+Course Survey
+Notice that: Major parts of the
+report will go into the final
+report
+Prototype or simulation
+should be working with
+details provided in the Status
+Report
+Student Handbook
+Start simulations, detailed
+calculations and prototype
+plans, Poster
+ENGINEERING ETHICS
+Ethics reference assignment
+Draft Test specifications
+11 Work on poster
+15
+Thanksgiving Week (Nov. 23 - 29)
+30-Nov 2-Nov
+Weekly Group Submission and
+Tracking
+Continue DRs if needed
+2020 - 2021 Page 4 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 28 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+1
+11-Jan
+Continue ordering, finalize designs
+Start Initial status report Advisor 1) Syllabus
+2) Start Expo logistics No lectures this semester
+Two labs this semester to
+allow building, Write Initial
+Status Report
+3
+25-Jan
+Continue ordering and Building Advisor Setup locations for building No lectures this semester Decide if any more Desgin
+reviews are needed
+4
+1-Feb
+Weekly Group Submissions 10 Advisor Work on Final Presentation, Final Report,
+Final Video, Final Poster
+No Lectures this semester Seek approval of sign off
+criteria from advisor
+5
+8-Feb
+Continue ordering and Building Work on Final Presentation, Final Report,
+Final Video, Final Poster No lectures this semester
+Student
+Handbook
+Continue Weekly Group
+Submissions (See Appendix A ..
+Minutes, Action items, and
+Agenda)
+10 Advisor
+1) Verify teams composition
+2) Letters / Emails / Phones - to track
+sponsors payments and budgets
+3) Finalize Budget and collect sponsor fees
+2 No Lectures this semester Seek approval of Budget
+End of First Semester - Winter Break (Dec 17 - Jan 14)
+18-Jan
+2020 - 2021 Page 5 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 29 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+6
+15-Feb
+Submit Peer Evaluation 50 Advisor Advisor provide feedback from peer
+evaluation
+No lectures this semester
+7
+22-Feb
+Start testing partial or full projects Building and testing No lectures this semester
+8
+1-Mar
+Coordinator Make reservations for general meeting No lectures this semester
+9
+10
+15-Mar
+X Weekly Group Submissions
+Attend general Meeting 20 Coordinator Expo Invitation out, Finalize Expo logistics General Meeting for all sectinos
+11
+22-Mar
+Remind on Poster, Video, Final Report,
+Presentation
+No lectures this semester
+X Submit Poster - Electronic 50 Coordinator
+X Submit Video - Electronic 50 Coordinator
+13
+5-Apr
+X Presentation Rehearsals
+(Marathon) 100 Multiple
+1) Feedback by multiple advisors on
+presentation
+2) Review Video and correct if needed
+No lectures this semester
+14
+12-Apr
+X Submit Sign-off sheet 60 Advisor
+Exceptions require permission
+No lectures this semester
+X Expo, Demo and Presentation 100 Multiple 1) Public show
+X Final Report 150 Advisor 2) Grade students' performance in Expo
+X Exit Survey 50 Coordinator In class (Coordinator and Advisors)
+16
+26-Apr
+Advisor eval of performance
+(Subjective)
+250 Advisor
+Grade final report
+No lectures this semester
+Pos
+t ABET reports 900 Coordinator Prepare assessment and ABET report
+Appendix A: Weekly submission
+19-Apr
+15 No lectures this semester Grade all submissions
+SPRING BREAK (Mar. 8 - Mar. 14)
+No Lectures this semester
+Each week, Present to your advisor an updated powerpoint file that has the slides below in addition to new slides including the required tasks update for the current week:
+Spring (Jan 11 - May 3)
+12
+29-Mar
+2020 - 2021 Page 6 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 30 of 104
+Semester
+Week
+Starting date
+Milestone ( X )
+Students' required weekly
+activity and items to submit (at
+end of the week)
+Grade
+Grader - SPB
+action
+Reference
+document
+Remarks
+Lecture
+Lab
+Senior Design Project
+Course Sequence MENG 4215 and MENG 4216
+Table of Weekly Activities and Deliverables
+Slide 1: Names and faces, identified contact person, team captain, etc.
+Slide 2: Problem Statement
+Slide 3: Project check list - a list of items with check boxes including the following: Problem Statement check box and date, Questions for sponsor check box and date, Met with sponsor
+check box and date, Spec sign off check box and date, Concept Selection check box and date, Detail Design check box and date, Build sign off check box and date
+Slide 4: Status of questions prepared and provided to the customer: Answered, Met with sponsor … expect answer on date …
+Slide 5: Team Meeting times: Once with the advisor, Twice without advisor, Sponsor meeting time,
+Slide 6: Sponsor regular interaction and first meeting description: Phone call, e-mail, face to face, What information was exchanged
+In addition, secretary should send meeting upcoming meeting agenda and last meeting minutes ahead of time of the meeting, at least for the weekly meeting with advisor, if not all meetings. All
+activities should be tracked by the Excel sheet
+Each team is expected to upload the updated following file each week to CANVAS:
+1. Updated presentation to advisor
+2. Updated Tracking Excel Sheet
+3. Latest meeting minutes with action items list updated
+4. Any documents required for the course such as: Team or individual assignments, sponsor interaction documents required by the advisor or the coordinator, etc.
+2020 - 2021 Page 7 of 7
+Department of Mechanical Engineering - UT-Tyler - Senior Capstone Project Student Handbook Page 31 of 104

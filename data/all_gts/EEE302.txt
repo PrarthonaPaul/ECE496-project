@@ -1,0 +1,91 @@
+EEE302: Renewable Energy System Design
+Institution: Springfield Institute of Technology Term: Fall 2024 Instructor: Dr. Jane Doe Email: janedoe@sit.edu Office Hours: Monday 2:00-4:00 PM, Wednesday 10:00-12:00 PM Class Time: Tuesday & Thursday, 10:00-11:30 AM Location: Engineering Building, Room 210
+Course Description
+This course provides students with the knowledge and skills necessary to design and implement renewable energy systems, focusing on solar and wind energy. Students will work in teams to design a small-scale renewable energy system for a community center, addressing real-world challenges such as efficiency, sustainability, and cost-effectiveness. The course emphasizes practical design, system integration, and the environmental impact of renewable energy technologies.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Analyze the principles of energy conversion and the operation of solar and wind energy systems.
+2.
+Design a functional renewable energy system, including component selection and integration.
+3.
+Evaluate the environmental and economic impacts of renewable energy solutions.
+4.
+Collaborate effectively in teams to solve complex engineering problems.
+5.
+Communicate technical information through reports, presentations, and prototypes.
+Course Timeline and Deliverables
+Week
+Topics
+Deliverables
+Weight
+1-2
+Introduction to Renewable Energy
+Group Formation, Project Proposal Submission (Week 2)
+10%
+3-4
+Solar Energy: Principles & Design
+Solar System Design Assignment (Week 4)
+15%
+5-6
+Wind Energy: Principles & Design
+Wind System Design Assignment (Week 6)
+15%
+7-8
+System Integration & Simulation
+Interim Design Review Presentation (Week 8)
+20%
+9-10
+Environmental & Economic Analysis
+Environmental Impact Report (Week 10)
+15%
+11-12
+Final Design & Prototype
+Final Project Report and Prototype Demonstration (Week 12)
+25%
+Deliverable Descriptions
+1.
+Project Proposal (10%) Due: Week 2 Teams will submit a detailed project proposal outlining the scope, objectives, and initial design concepts for their renewable energy system. This proposal will include a problem statement, potential design approaches, and a project timeline.
+2.
+Solar System Design Assignment (15%) Due: Week 4 Each team will design a small-scale solar energy system, selecting appropriate components and performing calculations to determine system efficiency and output. A report detailing the design choices and calculations is required.
+3.
+Wind System Design Assignment (15%) Due: Week 6 Similar to the solar system assignment, this task requires teams to design a wind energy system. The deliverable includes a technical report with design calculations and component selection rationale.
+4.
+Interim Design Review Presentation (20%) Due: Week 8 Teams will present their integrated system design to the class, highlighting the integration of solar and wind components. This presentation will be evaluated on technical content, design innovation, and team collaboration.
+5.
+Environmental Impact Report (15%) Due: Week 10 This report will assess the environmental impact of the proposed renewable energy system, including considerations of sustainability, resource use, and potential environmental hazards. Teams must provide a thorough analysis supported by relevant data.
+6.
+Final Project Report and Prototype Demonstration (25%) Due: Week 12 The final deliverable includes a comprehensive report detailing the final design, testing results, and system performance. Teams will also demonstrate a working prototype of their system. The evaluation will be based on the functionality, innovation, and presentation quality of the prototype.
+Grading Scale
+•
+A+: 90-100%
+•
+A: 85-89%
+•
+A-: 80-84%
+•
+B+: 75-79%
+•
+B: 70-74%
+•
+B-: 65-69%
+•
+C+: 60-64%
+•
+C: 55-59%
+•
+C-: 50-54%
+•
+D: 45-49%
+•
+F: 0-44%
+Academic Integrity
+Students are expected to adhere to the highest standards of academic integrity. Plagiarism, cheating, or any form of academic dishonesty will not be tolerated and may result in severe penalties, including failure of the course.
+Course Policies
+•
+Attendance: Regular attendance is required. Absences must be communicated in advance and may require documentation.
+•
+Late Submissions: Assignments submitted after the due date will be penalized 10% per day, up to a maximum of 3 days. After 3 days, the assignment will not be accepted.
+•
+Collaboration: Students are encouraged to collaborate with their team members. However, all individual contributions must be clearly identified in team submissions.
+This syllabus provides a comprehensive overview of the EEE302: Renewable Energy System Design course, outlining the key learning outcomes, deliverables, and evaluation criteria that students can expect.

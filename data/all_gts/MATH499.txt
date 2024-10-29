@@ -1,0 +1,165 @@
+MATH499: Applied Mathematical Modeling
+Institute of Advanced Mathematics
+Course Duration: Fall 2022 - Winter 2023 (Full Year)
+Course Overview:
+This course involves applying advanced mathematical techniques to model real-world phenomena, such as disease spread, financial markets, or climate change. Students will focus on problem-solving, simulation, and analysis, culminating in a final project report and presentation.
+Learning Outcomes:
+1.
+Mathematical Modeling: Develop and apply mathematical models to analyze and solve real-world problems.
+2.
+Simulation Techniques: Use simulation tools to test and validate models.
+3.
+Problem Solving: Demonstrate proficiency in problem-solving and critical thinking through model development and analysis.
+4.
+Communication: Effectively communicate modeling results through written reports and presentations.
+Course Structure & Schedule:
+1. Introduction & Foundations
+•
+Weeks 1-2: Course Introduction & Team Formation
+o
+Overview: Introduction to mathematical modeling principles and team formation.
+o
+Deliverable: Team Formation Report (5%)
+o
+Due Date: September 15, 2022
+2. Modeling Techniques
+•
+Weeks 3-5: Fundamentals of Modeling
+o
+Overview: Overview of mathematical modeling techniques and tools.
+o
+Deliverable: Fundamentals of Modeling Report (10%)
+o
+Due Date: October 15, 2022
+•
+Weeks 6-8: Application to Real-World Problems
+o
+Overview: Application of modeling techniques to selected real-world problems.
+o
+Deliverable: Initial Modeling Proposal (15%)
+o
+Due Date: November 15, 2022
+3. Mid-Term Project & Analysis
+•
+Weeks 9-12: Mid-Term Review & Feedback
+o
+Overview: Presentation and review of preliminary modeling work.
+o
+Deliverable: Mid-Term Presentation (15%)
+o
+Due Date: December 15, 2022
+4. Advanced Modeling & Simulation
+•
+Weeks 13-16: Advanced Techniques & Simulation
+o
+Overview: Application of advanced modeling techniques and simulations.
+o
+Deliverable: Advanced Techniques Report (15%)
+o
+Due Date: January 31, 2023
+5. Finalization & Reporting
+•
+Weeks 17-20: Final Project Development
+o
+Overview: Development and refinement of the final modeling project.
+o
+Deliverable: Draft Final Report (15%)
+o
+Due Date: February 28, 2023
+•
+Weeks 21-24: Final Project Testing & Integration
+o
+Overview: Testing and integration of the final model and its components.
+o
+Deliverable: Final Testing Report (15%)
+o
+Due Date: March 31, 2023
+6. Final Presentation & Submission
+•
+Weeks 25-27: Final Report & Presentation
+o
+Overview: Finalization of the project report and preparation for the final presentation.
+o
+Deliverable: Final Presentation (10%)
+o
+Due Date: April 10, 2023
+o
+Deliverable: Final Report (10%)
+o
+Due Date: April 15, 2023
+Grading Breakdown:
+•
+Team Formation Report: 5%
+•
+Fundamentals of Modeling Report: 10%
+•
+Initial Modeling Proposal: 15%
+•
+Mid-Term Presentation: 15%
+•
+Advanced Techniques Report: 15%
+•
+Draft Final Report: 15%
+•
+Final Testing Report: 15%
+•
+Final Presentation: 10%
+•
+Final Report: 10%
+Total: 100%
+Detailed Deliverables:
+1.
+Team Formation Report (5%)
+o
+Description: Document detailing team members, roles, and initial modeling ideas.
+o
+Due Date: September 15, 2022
+2.
+Fundamentals of Modeling Report (10%)
+o
+Description: Report on basic modeling techniques and their applications.
+o
+Due Date: October 15, 2022
+3.
+Initial Modeling Proposal (15%)
+o
+Description: Proposal including initial models, methods, and problem descriptions.
+o
+Due Date: November 15, 2022
+4.
+Mid-Term Presentation (15%)
+o
+Description: Presentation covering progress, challenges, and preliminary results.
+o
+Due Date: December 15, 2022
+5.
+Advanced Techniques Report (15%)
+o
+Description: Report on advanced modeling techniques and simulation results.
+o
+Due Date: January 31, 2023
+6.
+Draft Final Report (15%)
+o
+Description: Draft version of the final report, including detailed model descriptions and preliminary results.
+o
+Due Date: February 28, 2023
+7.
+Final Testing Report (15%)
+o
+Description: Final report on testing, validation, and integration of the model.
+o
+Due Date: March 31, 2023
+8.
+Final Presentation (10%)
+o
+Description: Presentation of the complete project, including modeling, analysis, and results.
+o
+Due Date: April 10, 2023
+9.
+Final Report (10%)
+o
+Description: Comprehensive report covering the entire project, from modeling to final results.
+o
+Due Date: April 15, 2023
+This syllabus for MATH499 provides a clear structure for developing and presenting mathematical models, integrating key elements of modeling techniques, project development, and effective communication.

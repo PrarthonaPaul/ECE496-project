@@ -1,0 +1,54 @@
+Syllabus: PSY 484: Virtual Reality in Human Systems Engineering Capstone
+Course Title: PSY 484: Virtual Reality in Human Systems Engineering Capstone
+Semester: Fall 2024
+Instructor: Dr. Alex Rivera
+Email: arivera@asu.edu
+Office: SANCA 170B, The Polytechnic School, ASU
+Office Phone: (480) 727-5205
+Office Hours: Wednesdays 10:00 AM-12:30 PM OR by appointment
+Class Time & Place: Monday or Wednesday 2:30-3:45 PM in SANCA 165
+Course Description:
+This capstone course explores the applications of Virtual Reality (VR) in Human Systems
+Engineering. Students will work on projects that involve designing, implementing, and evaluating VR
+systems or applications, with a focus on enhancing human performance and safety. The course
+includes the development of a project proposal, conducting research or practical work, and
+presenting the project through a report, poster, and elevator pitch at the Innovation Showcase.
+Course Objectives:
+Develop a VR-based project that addresses a specific issue in human systems engineering.
+Create a detailed project proposal, including objectives, methods, and a timeline.
+Complete a comprehensive report that evaluates the success of the VR project.
+Effectively present the project at the Innovation Showcase.
+Learning Outcomes:
+Gain expertise in the use of VR technologies in human systems engineering.
+Develop practical skills in VR system design, implementation, and evaluation.
+Improve communication skills through written reports and presentations.
+Enhance the ability to manage complex projects from conception to completion.
+Evaluation:
+Class meetings (5): 20 points
+Individual meetings (3): 12 points
+Project Proposal: 10 points
+Revised Proposal: 13 points
+Final Report: 25 points
+Presentation: 10 points
+Poster: 10 points
+Total: 100 points
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)

@@ -1,0 +1,119 @@
+CE408B Civil Engineering Senior Capstone Design
+Syllabus, Spring 2018
+Instructor: S.E. Caccavale
+February 2, 2018
+Page 1 of 6
+Catalog Description: (3 units) A culminating experience for majors involving the preparation of a Design Concept Report (DCR) for a substantive project that demonstrates a synthesis of learning accumulated in the major, including broadly comprehensive knowledge of the discipline and its methodologies. Senior standing required.
+Prerequisite(s): CE 301(or taking concurrently), CE408A and at least 4 of the following courses:
+CE 323, CE 334 or CE 335, CE 343, CE 363, CE 370R and CE 370L
+If you do not have these courses explicitly completed, please see Dr. Kevin Lansey.
+Learning outcomes:
+Students should be able to:
+1. Understand project structure, project tasks, scope and budget
+2. Develop a project schedule and budget.
+3. Know how to track project hours and submit timesheets and progress reports.
+4. Identify project design options and make recommendations.
+5. Understand the components of a project and standard deliverables.
+6. Know how to develop planning ideas into an engineering design.
+7. Know how to prepare a preliminary set of roadway design plans for construction.
+8. Know how to develop a preliminary design for various aspects (i.e. reports & studies) of a roadway project.
+9. Know how to calculate and generate a preliminary project cost estimate and engineer’s cost estimate for construction.
+Learning outcomes support ABET (Accreditation Board for Engineering and Technology, Inc.) program outcomes:
+C. Ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability.
+D. Ability to function on multidisciplinary teams
+E. Ability to identify, formulate and solve engineering problems.
+F. Understanding professional and ethical responsibility.
+G. Ability to communicate effectively – both orally and written.
+H. The board education necessary to understand the impact of engineering solutions in a global, economic, environmental and societal context.
+I. Recognizing the need for, and to engage in life-long learning.
+J. A knowledge of contemporary issues.
+Instructor: Sal Caccavale, PE, SE
+Class time & place: Tuesday & Thursday 5:00-6:15PM @ Harvill, Room 101
+Office Hours: By appointment
+Office: CE 208
+E-mail: salcaccavale@email.arizona.edu
+Other materials will be supplied through the course D2L website.
+CE408A Issues in Civil Engineering Practice
+Syllabus, Fall 2017 February 2, 2018
+Instructor: S.E. Caccavale Page 2 of 6
+Evaluation
+Design Concept Report (DCR) Team Submittals
+Preliminary Plan Submittal 10%
+Preliminary Project Cost Estimate 2%
+Preliminary Drainage Report (progress only) 0%
+Preliminary Structural Report (progress only) 0%
+Pavement Design Report 5%
+Final Drainage Report 5%
+Final Structures Report 5%
+Traffic Report 4%
+Environmental & Sustainability (incl. Landscaping) 4%
+Final Plans 25%
+Engineers Construction Cost Estimate 5%
+Project Presentation 10%
+Peer Reviews 10%
+Homework, Quizzes, Special Assignments, Extra Credit 10%
+Attendance 5%
+The entire team will carry the same score for all Team Submittals. Individual grades amongst the group will be distinguished by Peer Reviews, Homework, Quizzes, Special Assignments, Extra Credit, and Attendance.
+Semester grades will be determined using the basic guidelines of 90-100% = A; 80-89% = B; 70-79% = C; 60-69% = D; 0-59% = F; however, the use of a curve may be considered if deemed appropriate by the instructor. The use of a curve could lower or raise these percentage breaks.
+Attendance
+Students are expected to attend all class and project team meetings. Attendance is extremely critical in team environment such as this course. If a late arrival or an early departure is anticipated, check with the instructor to be sure that it is done without disturbing the class. The instructor(s), at their discretion, may decide to consider late arrivals or early departures as full absences. A two week absence may result in administrative withdrawal. If a student misses a class, he/she is responsible for all announcements and subjects covered in that class. If in doubt, contact the instructor.
+• All holidays or special events observed by organized religions will be honored for those students who show affiliation with that particular religion,
+• Absences pre-approved by the UA Dean of Students (or Dean’s designee) or course instructors will be honored.
+Project Teams and Team Leaders
+Project Teams as created during the previous CE408A fall semester will remain intact. Team Leaders must accept the extra responsibilities and required time commitment in accepting these leadership positions. These efforts will be recognized in their earning up to an extra 5% credit towards their final class grade. The actual percentage amount will be based on both peer and instructor evaluations.
+Team and Team Member Schedules
+Team schedules will be submitted on a regular basis as directed by the instructor. The purpose of these schedules is to both plan the project works efforts and document time spent as the semester progresses. These submissions are the responsibility of the Team Leaders. Similarly each team member will schedule and track their individual team work assignments also to be submitted on a regular basis as directed by the instructor.
+CE408A Issues in Civil Engineering Practice
+Syllabus, Fall 2017 February 2, 2018
+Instructor: S.E. Caccavale Page 3 of 6
+Design Concept Report Elements
+Plan Preparation and Submissions
+Project plans are to be prepared on 22 x 34 size sheets. Detailed preparation requirements will be directed by the instructor. Plan submissions shall include one 11 x 17 hard copy and one electronic copy which includes all of the design sheets containing the concepts and elements outlined in the Preliminary Plan Submission Checklist (checklist to be provided).
+Report Submissions
+Each report submissions shall include one bound hard copy, one unbound hard copy, and one electronic copy of the report. The reports shall include a narrative explaining what was designed and what is recommended. This report shall include an appendix with all the calculations. Final recommendations will be include in the plans. (Further details explaining the total content of each report will be provided.)
+Cost Estimate Submissions
+Cost Estimate submissions shall include one hard copy, one unbound hard copy, and one electronic copy of the spreadsheet of the costed items and totals, along with a narrative explaining how the estimate was developed, including assumptions. Calculations shall be included in an appendix for QA/QC reviewers.
+Any additional submissions will be explained in class
+Progress Reports
+Project Progress Reports covering on-going work may be requested of each project team. Progress Reports shall document, at a minimum, Introduction, Work Completed, Work Scheduled and Discussion of Problems Encountered with recommended solutions and Project Assessment.
+Project Presentation
+A presentation meeting will be held where all team members will take part in presenting their recommended design concept to a review panel that will evaluate their presentation and ask questions about the recommended design concepts. It shall include a PowerPoint presentation covering the required project elements outlined in the Design Concept Report (DCR). In addition to the other submittals discussed herein each team is to provide a presentation handout for the review panel which shall include PowerPoint slides copies of any other pertinent materials. The presentation should be well rehearsed and stay within the time constraints. Other rules, including the format and order will be provided.
+Project Submission and Presentation Costs
+The costs of project submission and presentation materials including reproduction and binding are the expense of each individual team.
+Peer Evaluation
+The Peer Evaluation Grade is intended to be 10% of the total grade in the course. In the case where individual members who, in the majority view of the other team members, are not contributing “their fair share” to the progress of their specific design elements, the Design Summary Report, and the Statement of Qualifications/Presentation; the individuals in question will be reported to the instructor. If the instructor concurs with the team’s concerns, these individuals will be sent written warnings cautioning them that if immediate improvement is not made their final course grade may be affected. Depending on the infraction course grades may be lowered or the individual may be dropped from the course at CEEM Department’s discretion.
+CE408A Issues in Civil Engineering Practice
+Syllabus, Fall 2017 February 2, 2018
+Instructor: S.E. Caccavale Page 4 of 6
+Quizzes
+Quizzes, scheduled or unannounced, may be given during the course. They will be based on information provided in the lectures and homework assignments and will typically be closed book and notes. As students are expected to attend all classes, no make-up quizzes will be provided with the exception of students with pre-approved absences. Students with pre-approved absences are expected to schedule a time with the instructor, within one week of the missed quiz, outside of normal class hours, to take the quiz.
+Exams
+At the Instructor’s discretion exams may be given during the semester including a Final Exam. They will be based on information provided in the lectures and homework assignments and will typically be closed book and notes. As students are expected to attend all classes, make-up exams will only be allowed for students with pre-approved absences. Missing an exam because of illness or emergency reasons will be considered by the Department on a case by case basis in regards to allowing a make-up exam for such an absence. If a make-up exam is approved, students are expected to schedule a time with the instructor, within one week of the missed exam, outside of normal class hours, to take the quiz.
+ADA Compliance
+The University of Arizona strives to comply with the provisions of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act. Students with disabilities must notify the instructor at the beginning of the semester and must contact the Disability Resource Center.
+Academic Integrity
+Principle Integrity and ethical behavior are expected of every student in all academic work. This Academic Integrity principle stands for honesty in all class work, and ethical conduct in all labs and clinical assignments. This principle is furthered by the student Code of Conduct and disciplinary procedures established by ABOR Policies 5-308 through 5-404, all provisions of which apply to all University of Arizona students. This Code of Academic Integrity (hereinafter "this Code") is intended to fulfill the requirement imposed by ABOR Policy 5-403.A.4 and otherwise to supplement the Student Code of Conduct as permitted by ABOR Policy 5-308.C.1. Failure to follow this code of academic integrity will result in failing the course and be reported to the Dean of Students’ office.
+Prohibited Conduct
+Conduct prohibited by this Code consists of all forms of academic dishonesty, including, but not limited to:
+1. Cheating, fabrication, facilitating academic dishonesty, and plagiarism as set out and defined in the Student Code of Conduct, ABOR Policy 5-308-E.6, E.10, and F.1
+2. Submitting an item of academic work that has previously been submitted without fair citation of the original work or authorization by the faculty member supervising the work
+3. Violating required professional ethics rules contained or referenced in the student handbooks (hardcopy or online) of undergraduate or graduate programs, or professional colleges
+4. Violating health, safety or ethical requirements to gain any unfair advantage in lab(s) or clinical assignments.
+5. Failing to observe rules of academic integrity established by a faculty member for a particular course.
+6. Attempting to commit an act prohibited by this Code. Any attempt to commit an act prohibited by these rules shall be subject to sanctions to the same extent as completed acts.
+CE408A Issues in Civil Engineering Practice
+Syllabus, Fall 2017 February 2, 2018
+Instructor: S.E. Caccavale Page 5 of 6
+Student Responsibility
+Students engaging in academic dishonesty diminish their education and bring discredit to the academic community. Students shall not violate the Code of Academic Integrity and shall avoid situations likely to compromise academic integrity. Students shall observe the generally applicable provisions of this Code whether or not faculty members establish special rules of academic integrity for particular classes. Students are not excused from complying with this Code because of faculty members’ failure to prevent cheating.
+Prohibited Behavior
+Threatening Behavior is Prohibited. “Threatening behavior” means any statement communication, conduct or gesture, including those in written form, directed toward any member of the University community that causes a reasonable apprehension of physical harm to a person or property. A student can be guilty of threatening behavior even if the person who is the object of the threat does not observe or receive it, so long as a reasonable person would interpret the maker’s statement, communication, conduct or gesture as a serious expression of intent to physically harm.
+Procedures for Mandatory Reporting of Threatening Behavior
+If threatened by any student’s conduct to the point of reasonable fear of immediate physical harm to self, others or property:
+1. Leave the area immediately.
+2. Call the Police by dialing 9-1-1 to request that an officer come to the location. Inform the Police if it is a repeat occurrence.
+3. Anyone who observes what appears to be threatening behavior must report it to the Dean of Students Office and in the appropriate case, file a Student Code of Conduct Complaint (see ABOR 5-403).
+CE408A Issues in Civil Engineering Practice
+Syllabus, Fall 2017 February 2, 2018
+Instructor: S.E. Caccavale Page 6 of 6
+Course Outline/Schedule (Tentative, Adjusts may be made if necessary)
