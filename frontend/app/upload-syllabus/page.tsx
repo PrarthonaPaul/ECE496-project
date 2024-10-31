@@ -17,7 +17,13 @@ const Upload = () => {
     }, 30000); // Simulate a 30-second loading time
   };
 
-  const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop });
+  // Set up the Dropzone properties
+  const { getRootProps, getInputProps, isDragActive } = useDropzone({
+    onDrop,
+    accept: {
+      'application/pdf': ['.pdf'], // Only accept PDF files
+    },
+  });
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
