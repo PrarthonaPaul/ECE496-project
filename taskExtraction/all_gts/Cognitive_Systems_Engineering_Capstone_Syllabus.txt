@@ -1,0 +1,93 @@
+Syllabus: Cognitive Systems Engineering Capstone
+Course Title: PSY 478: Cognitive Systems Engineering Capstone
+Semester: Fall 2024
+Instructor: Dr. Emily Zhao
+Email: ezhao@asu.edu
+Office: SANCA 155A, The Polytechnic School, ASU
+Office Phone: (480) 727-5123
+Office Hours: Tuesdays 2:00-4:30 PM OR by appointment
+Class Time & Place: Monday or Wednesday 2:00-3:15 PM in SANCA 152
+Course Description:
+This course explores the principles and practices of Cognitive Systems Engineering (CSE) with a
+particular focus on human-automation interaction, decision-making processes, and the design of
+complex socio-technical systems. Students will select a project topic within the realm of CSE,
+develop a detailed proposal, conduct original research or implement a practical project, and present
+their findings through a comprehensive report, a poster presentation, and an elevator pitch...
+The course is designed to integrate theoretical knowledge with practical application, allowing
+students to apply what they have learned in previous coursework to solve real-world problems in
+human systems engineering. The capstone project will require students to demonstrate critical
+thinking, project management skills, and the ability to communicate their findings effectively.
+Course Objectives:
+By the end of this course, students will be expected to:
+1. Conduct an in-depth cognitive systems engineering project that addresses a current challenge in
+human-automation interaction or decision support systems.
+2. Develop a well-structured project proposal, incorporating a timeline, methodology, and expected
+outcomes.
+3. Produce a final report that critically evaluates the project's success, including a discussion of
+challenges faced and lessons learned.
+4. Present their project through a professional-quality poster and a succinct, persuasive elevator
+pitch at the Innovation Showcase.
+Learning Outcomes:
+Upon successful completion of this course, students will:
+1. Gain a thorough understanding of cognitive systems engineering and its applications in various
+domains such as healthcare, aviation, and autonomous systems.
+2. Develop hands-on experience in designing, conducting, and analyzing research or applied
+projects in cognitive systems engineering.
+3. Enhance their skills in technical writing, oral presentations, and professional communication,
+preparing them for future careers in human systems engineering or related fields.
+4. Improve their ability to work independently and as part of a team to solve complex engineering
+problems.
+Course Requirements:
+Prerequisites: Senior standing in Human Systems Engineering or instructor approval.
+Materials: No textbook is required; readings and resources will be provided based on project needs.
+Access to a computer with design and data analysis software (e.g., MATLAB, SPSS) may be
+necessary depending on the chosen project.
+Class Structure:
+This course will consist of a combination of classroom sessions, one-on-one meetings with the
+instructor, and independent project work. Class meetings will be held on designated Mondays or
+Wednesdays, focusing on project development, peer feedback, and professional skill-building.
+Individual meetings will provide personalized guidance and feedback on project progress.
+Evaluation:
+Class meetings (5): 20 points
+- Participation in discussions, project updates, and group activities.
+Individual meetings (3): 12 points
+- Scheduled consultations to discuss project development and receive feedback.
+Project Proposal: 10 points
+- Initial submission outlining the project's objectives, methodology, and timeline.
+Revised Proposal: 13 points
+- Revised based on feedback, with more detailed planning and adjustments.
+Final Report: 25 points
+- A comprehensive document detailing the project from conception to conclusion, including analysis
+and reflection.
+Presentation: 10 points
+- A 2-minute elevator pitch summarizing the project's key points.
+Poster: 10 points
+- A visually appealing and informative poster for the Innovation Showcase.
+Total: 100 points
+Grading Scale:
+A = 90-100
+B = 80-89
+C = 70-79
+D = 60-69
+E = <60
+*Note:* Grades will be rounded according to standard rules (e.g., 89.5 will round up to 90).
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)

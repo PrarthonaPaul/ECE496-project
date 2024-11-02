@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal detailing the textile material, its intended application, and research objectives. Assign roles and create a timeline for the project. | Week 3 |
+| Material Research and Development | N/A | Conduct research on existing textile materials and technologies. Develop an improved textile with enhanced properties such as durability, breathability, or sustainability. | Weeks 4-6 |
+| Fabrication and Testing | N/A | Fabricate textile samples in a lab and conduct tests for strength, wear resistance, and environmental impact. | Weeks 7-10 |
+| Optimization and Analysis | N/A | Optimize the textile material based on test results. Analyze and compare the material's performance with industry standards. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the research and development process, challenges, solutions, and outcomes. Prepare a presentation for the Innovation Showcase. | Weeks 13-15 |

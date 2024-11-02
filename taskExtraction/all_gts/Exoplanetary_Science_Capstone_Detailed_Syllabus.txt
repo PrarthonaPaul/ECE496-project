@@ -1,0 +1,77 @@
+Syllabus: AST 482: Exoplanetary Science Capstone
+Course Title: AST 482: Exoplanetary Science Capstone
+Semester: Fall 2024
+Instructor: Dr. Linda Nguyen
+Email: lnguyen@asu.edu
+Office: SANCA 380C, The Polytechnic School, ASU
+Office Phone: (480) 727-7000
+Office Hours: Fridays 2:00-4:30 PM OR by appointment
+Class Time & Place: Wednesday or Friday 3:00-4:15 PM in SANCA 385
+Course Description:
+This capstone course focuses on the detection and characterization of exoplanets. Students will
+analyze data from telescopes to detect exoplanets and characterize their properties, culminating in a
+presentation of their findings at the Innovation Showcase. The course includes the development of a
+project proposal, data collection, modeling, and a final report.
+Course Objectives:
+Detect and characterize exoplanets using observational data.
+Develop models to understand exoplanetary atmospheres and compositions.
+Compare observational data with theoretical predictions.
+Effectively present the project at the Innovation Showcase.
+Learning Outcomes:
+Gain expertise in exoplanetary science and data analysis.
+Develop practical skills in modeling and hypothesis testing.
+Improve communication skills through written reports and presentations.
+Enhance the ability to manage astronomy projects from conception to completion.
+Group Project and Required Subtasks:
+The group project for this course will involve the detection and characterization of exoplanets. The
+project will be broken down into the following subtasks:
+1. **Project Proposal (Week 3):**
+- Create a proposal detailing the objectives, the specific exoplanets or planetary systems being
+studied, and the anticipated outcomes. Include a timeline and assign roles to team members.
+2. **Data Collection and Analysis (Weeks 4-6):**
+- Collect data from space telescopes and ground-based observatories. Analyze the light curves
+and radial velocity data to detect exoplanets.
+3. **Characterization and Modeling (Weeks 7-10):**
+- Characterize the detected exoplanets by modeling their atmospheres, compositions, and
+potential habitability. Compare the models with observational data.
+4. **Interpretation and Hypothesis Testing (Weeks 11-12):**
+- Interpret the results of the data analysis and test hypotheses about the formation and evolution
+of exoplanets.
+5. **Final Report and Presentation (Weeks 13-15):**
+- Document the entire research process, including challenges, solutions, and outcomes in a final
+report.
+- Prepare a presentation and poster for the Innovation Showcase that highlights the key aspects of
+the project.
+Groups are expected to collaborate closely, meeting regularly to discuss progress and resolve any
+issues. Instructor check-ins will be scheduled to provide guidance and feedback.
+Evaluation:
+Class meetings (5): 20 points
+Individual meetings (3): 12 points
+Project Proposal: 10 points
+Data Collection and Analysis: 15 points
+Characterization and Modeling: 18 points
+Interpretation and Hypothesis Testing: 10 points
+Final Report: 10 points
+Presentation: 5 points
+Poster: 10 points
+Total: 100 points
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)

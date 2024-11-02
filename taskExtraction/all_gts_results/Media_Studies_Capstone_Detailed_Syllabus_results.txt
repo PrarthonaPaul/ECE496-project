@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a detailed proposal outlining project objectives, target audience, impact, timeline, and team member roles. | Week 3 |
+| Content Creation | N/A | Develop media content (video, social media campaign, podcast) in line with the proposal. | Weeks 4-6 |
+| Implementation and Distribution | N/A | Execute the media campaign, distribute content, and monitor engagement and reach. | Weeks 7-10 |
+| Audience Feedback and Analysis | N/A | Gather and analyze target audience feedback to evaluate the content's effectiveness. | Weeks 11-12 |
+| Final Report and Showcase Preparation | N/A | Document the development process in a report and prepare for the showcase with a poster and presentation. | Weeks 13-15 |

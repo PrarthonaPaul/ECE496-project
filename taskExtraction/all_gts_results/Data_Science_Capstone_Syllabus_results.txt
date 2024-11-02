@@ -1,0 +1,14 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Course Introduction & Project Proposal Submission | 10% | N/A | Week 1 |
+| Data Collection | N/A | Initial data gathering for the project. | Week 2 |
+| Initial Cleaning | N/A | Basic data cleaning and preprocessing. | Week 2 |
+| Exploratory Data Analysis | N/A | In-depth exploration of the dataset. | Week 3 |
+| Feature Engineering | N/A | Creating and selecting relevant features for the model. | Week 4 |
+| Model Selection | N/A | Choosing the most suitable predictive model. | Week 4 |
+| Model Training | N/A | Training the selected model on the data. | Week 5 |
+| Model Evaluation | N/A | Assessing the performance of the trained model. | Week 5 |
+| Final Model Tuning | N/A | Fine-tuning the model for optimal performance. | Week 6 |
+| Validation | N/A | Validating the final model's effectiveness. | Week 6 |
+| Project Presentation | 40% | Presenting the predictive analytics project to the class. | Week 7 |
+| Report Submission | 40% | Submitting a detailed report on the project. | Week 7 |

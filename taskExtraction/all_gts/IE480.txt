@@ -1,0 +1,164 @@
+1
+Fall 2012 THE PENNSYLVANIA STATE UNIVERSITY
+IE 480W Capstone Design Project
+Instructors:
+David Cannon Michael Immel Catherine
+Harmonosky
+Dan Finke Edward DeMeter
+206 Leonhard Bldg. 113A Leonhard Bldg. 304 Leonhard Bldg. 307 Leonhard Bldg. 217 Leonhard Bldg.
+235-1231 863-2365 865-2107 865-5178 863-7291
+cannon.robotics@gmail.com mci101@psu.edu cmhie@engr.psu.edu daf903@psu.edu ecd3@psu.edu
+Office Hours: By Appointment with your advisor.
+Prerequisites: IE 302, IE 305, IE 327, IE 323, IE 330, IE 405
+Class Meeting Times:
+T: 11:15 am – 2:15 pm; R: 1:00 pm – 2:15 pm in room 103/242 Leonhard building.
+Class meeting times are used flexibly for: instructor lectures, project team presentations, and project
+team meetings.
+Text:
+Reference Material is posted on the Learning Factory website: www.lf.psu.edu
+Project packet: http://www.lf.psu.edu/Instructors/Projects/
+Objective:
+The objective of the course is to provide you with “real-world” industry project experience. You will
+learn how to work effectively in teams, develop your ability to communicate (oral and written),
+develop project planning and management skills, and solve a real problem of importance to your
+sponsor.
+Professional Conduct:
+You are expected to conduct yourself with the utmost personal and professional integrity during all
+project activities and business. Your overall performance in the class will be evaluated and your
+professional conduct is an important component of that evaluation. You must strive to complete all
+your work with responsibility, honesty and loyalty. As a student in this Capstone Design Project
+Course you are representing yourself as a professional in the field of engineering and you are also
+representing The Harold and Inge Marcus Department of Industrial and Manufacturing Engineering at
+The Pennsylvania State University.
+Content:
+In this course as in industry, your ability to communicate your ideas is very important and will be
+carefully assessed. You will be writing and presenting a formal project proposal, an interim report on
+your progress, and a final project report. You will also be writing weekly progress memos to capture
+your ongoing work and participating in weekly conference calls with your project sponsor. These
+means of communicating your work are described below.
+2
+Weekly Progress Memo: A weekly memo to the sponsor will be written and turned in to your advisor
+by 7:00 a.m. each Monday. This memo should follow the Weekly Progress Report Template available
+on ANGEL under Lessons. You will also schedule a weekly meeting with your advisor and a weekly
+conference call with your project sponsor.
+Project Proposal: The proposal is due to your advisor on 09/20. An in-class presentation of the
+proposal is required (scheduled times will be determined). This proposal and its presentation will
+provide 1) identification and definition of the problem; 2) background on the company, current
+design/system, etc.; 3) proposed methodology and approach with appropriate measures and metrics;
+4) project management including Gantt charts of activities; and 5) anticipated results and deliverables.
+The proposal will follow Proposal Report Guidelines that will be supplied by your faculty mentor.
+Interim Progress Report: A major progress report is due to your advisor on 10/18. The progress
+report should: 1) review the problem definition, current product/system/service, and proposed
+solution methodology; 2) show progress to date; review progress from a project management (timing)
+standpoint, 3) noting any future changes in project timing; and 4) indicate the work remaining and
+anticipated changes in direction. Follow Interim Report Guidelines that will be supplied by your
+faculty mentor.
+Final Report and Showcase: The final report is due to your advisor on 12/04, and it will follow Final
+Report Guidelines that will be supplied by your faculty mentor.
+An in-class presentation based on the final report is required (scheduled times will be determined).
+You will prepare a one-page project recap summary and a poster. The entire team is expected to
+attend the Project Showcase to present your poster on 12/13 subject to class conflicts. You will
+schedule and make a final project presentation to your sponsor by 12/13 and deliver a printed final
+report to your sponsor no later than 12/14.
+For each of the above components, you will be turning in the deliverables to your advisor and this version
+(Version 1) will be graded. Your advisor will make comments and corrections that you must address in a
+revised version (Version 2) then submit to your sponsor.
+It is also important that you learn to be an effective participant in a team setting. Your participation and
+team contributions will be assessed as indicated below.
+Participation and Peer/Sponsor Evaluation: Participation and attendance is an important portion of
+this course. At the beginning of the semester, in-class time will be used to provide professional
+background and orientation that will be helpful for your projects. Later, some in-class time will be
+used for project presentations and discussion. You are expected to be in class for background sessions
+and project presentations unless there is a pre-approved extenuating circumstance.
+Part of this course also covers your ability to function effectively as part of a team. You will be asked
+to evaluate your team members throughout the semester. Your Company Sponsor will also provide an
+evaluation of each individual team member. These peer and sponsor evaluations will be used as part
+of your grade for the course.
+A final component of this course is to impart an understanding of ethical responsibilities. An ethics video
+will be shown on 09/04 with an assignment that will assess your understanding of the concepts presented
+in the video and the relationship to the Code of Ethics for Engineers. Further instructions will be
+distributed separately.
+3
+ABET 2000 Outcomes:
+􀀀 3.1 - Present engineering study results in technical reports and orally. 
+􀀀 3.2 - Demonstrate independent learning by synthesizing information from several sources. 
+􀀀 4.1 - Work effectively in groups on case studies/projects. 
+􀀀 4.3 – Understand professional and ethical responsibilities 
+􀀀 1.6 –Design a system, component or process to meet desired needs within realistic constraints such as
+economic, environmental, social, political, ethical, health and safety, manufacturability and
+sustainability. 
+Grading:
+Weekly Project Updates 10%
+Project Proposal Deliverables 20%
+Interim Progress Deliverables 10%
+Participation/ Peer/Sponsor Evaluations 15%
+Ethics Assignment 05%
+Final Deliverables 30%
+Meeting Sponsor’s Project Objective 10%
+100%
+A grade of “Incomplete” will be assigned to teams until they submit all final deliverables to the project
+sponsor and the Learning Factory.
+Late submission of intermediate deliverables will result in a reduced grade for that deliverable.
+The above grading scale applies to team members who make significant and sustained contributions to
+the team’s technical work, to the team’s project management, and to the team’s deliverables. A team
+member who fails to contribute in all of these areas harms the team’s final product, and his or her grade
+will be penalized accordingly.
+Disabilities:
+“Penn State welcomes students with disabilities into the University's educational programs. If you have a
+disability-related need for reasonable academic adjustments in this course, contact the Office for
+Disability Services (ODS) at 814-863-1807 (V/TTY). For further information regarding ODS, please
+visit the Office for Disability Services Web site at http://equity.psu.edu/ods/.
+In order to receive consideration for course accommodations, you must contact ODS and provide
+documentation (see the documentation guidelines at http://equity.psu.edu/ods/guidelines/documentationguidelines).
+If the documentation supports the need for academic adjustments, ODS will provide a letter
+identifying appropriate academic adjustments. Please share this letter and discuss the adjustments with
+your instructor as early in the course as possible. You must contact ODS and request academic
+adjustment letters at the beginning of each semester.”
+4
+Schedule:
+Lectures and faculty-led discussions are italicized. Major due dates are in bold.
+NOTE: Additional lecture/discussion topics may be covered on days listed as “Group meetings,
+consultation” as needed.
+Class Session Date Activity
+1 T 08/28 Introduction, Requirements, Project Descriptions,
+Project Management
+2 R 08/30
+Project Kickoff, BJC, South Annex Gym 1-3:00pm – Business Casual Dress
+Submit Project Preference Form at the kickoff to Ms. Cindy
+Winkelblech.
+3 T 09/04 Project team and advisor assignments, Professional Ethics Video
+4 R 09/06 Ethics Essay Due, procedures for expense reimbursement.
+F 09/07 Email advisor with Project Management responsibilities and
+scheduled date/time of your first meeting with your sponsor by 5 p.m.
+5 T 09/11 Group meetings, consultation
+6 R 09/13 Group meetings, consultation
+7 T 09/18 Group meetings, consultation
+8 R 09/20 Project Proposal due
+9 T 09/25 Proposal Presentations (scheduled with your advisor)
+10 R 09/27 Proposal Presentations (scheduled with your advisor)
+11 T 10/02 Group meetings, consultation
+12 R 10/04 Group meetings, consultation
+13 T 10/09 Group meetings, consultation
+14 R 10/11 Group meetings, consultation
+15 T 10/16 Group meetings, consultation
+16 R 10/18 Interim Progress Report due
+17 T 10/23 Group meetings, consultation
+18 R 10/25 Group meetings, consultation
+19 T 10/30 Group meetings, consultation
+20 R 11/01 Group meetings, consultation
+21 T 11/06 Group meetings, consultation
+22 R 11/08 Group meetings, consultation
+23 T 11/13 Group meetings, consultation
+24 R 11/15 Group meetings, consultation
+Thanksgiving Holiday
+25 T 11/27 Group meetings, consultation
+26 R 11/29 Group meetings, consultation
+27 T 12/04 Final Report Due
+28 R 12/06 Final Presentations (scheduled with your advisor)
+29 T 12/11 Final Presentations (scheduled with your advisor)
+30 R 12/13 Project Showcase Poster presentation 1-3:30 BJC, South Annex Gym,
+Final Presentation to sponsor
+F 12/14
+Poster, electronic Final Report, and one page summary delivered to
+Learning Factory by 4:00pm. Printed and bound Final Report
+delivered to sponsor.

@@ -1,0 +1,79 @@
+Syllabus: NAN 480: Nanotechnology Capstone
+Course Title: NAN 480: Nanotechnology Capstone
+Semester: Fall 2024
+Instructor: Dr. Linda Zhang
+Email: lzhang@asu.edu
+Office: SANCA 290D, The Polytechnic School, ASU
+Office Phone: (480) 727-6100
+Office Hours: Thursdays 2:00-4:30 PM OR by appointment
+Class Time & Place: Monday or Wednesday 3:00-4:15 PM in SANCA 295
+Course Description:
+This capstone course explores the development of nanoscale devices and materials with
+applications in various fields such as medicine, electronics, and energy. Students will design,
+fabricate, and characterize a nanoscale device or material that addresses a specific challenge. The
+course includes the development of a project proposal, fabrication, testing, and presentation of
+findings through a report and at the Innovation Showcase.
+Course Objectives:
+Design and fabricate a nanoscale device or material with real-world applications.
+Characterize and test the device's performance using advanced techniques.
+Optimize the device or material for improved performance.
+Effectively present the project at the Innovation Showcase.
+Learning Outcomes:
+Gain expertise in nanotechnology design and fabrication.
+Develop practical skills in material characterization and testing.
+Improve communication skills through written reports and presentations.
+Enhance the ability to manage nanotechnology projects from conception to completion.
+Group Project and Required Subtasks:
+The group project for this course will involve the design and fabrication of a nanoscale device or
+material with potential applications in medicine, electronics, or energy. The project will be divided
+into the following subtasks:
+1. **Project Proposal (Week 3):**
+- Submit a proposal that outlines the nanoscale problem being addressed, the proposed device or
+material, and a detailed timeline. Assign roles and responsibilities within the group.
+2. **Design and Fabrication (Weeks 4-6):**
+- Design the nanoscale device or material, including selecting appropriate materials and
+fabrication techniques. Develop prototypes and test their functionality.
+3. **Characterization and Testing (Weeks 7-10):**
+- Characterize the nanoscale device or material using advanced techniques such as electron
+microscopy or spectroscopy. Conduct tests to evaluate its performance.
+4. **Optimization and Refinement (Weeks 11-12):**
+- Optimize the device or material for improved performance. Refine the fabrication process based
+on test results.
+5. **Final Report and Presentation (Weeks 13-15):**
+- Document the entire development process, including design decisions, challenges, and
+outcomes in a final report.
+- Prepare a poster and presentation for the Innovation Showcase that effectively communicates
+the project's impact.
+Groups will need to collaborate closely and meet regularly to ensure progress. Instructor check-ins
+will be provided to offer guidance and address any issues that arise.
+Evaluation:
+Class meetings (5): 20 points
+Individual meetings (3): 12 points
+Project Proposal: 10 points
+Design and Fabrication: 15 points
+Characterization and Testing: 18 points
+Optimization and Refinement: 10 points
+Final Report: 10 points
+Presentation: 5 points
+Poster: 10 points
+Total: 100 points
+Course Policies:
+Attendance and Participation: Regular attendance and active participation are crucial for success in
+this course. Students are expected to attend all scheduled class meetings and individual sessions. If
+a student is unable to attend a class, they should inform the instructor in advance and arrange to
+complete any missed work.
+Academic Integrity: All students must adhere to ASU's academic integrity policy. Any form of
+academic dishonesty, including plagiarism, will be reported and may result in severe penalties,
+including a failing grade for the course.
+Accommodations: Students with disabilities or special needs should contact the ASU Disability
+Resource Center to arrange appropriate accommodations and notify the instructor as soon as
+possible.
+Important Dates:
+Class Week 1: Introductions & Project Brainstorming (Aug 26)
+Individual Meeting #1: Discuss Ideas and Readings (Sep 4)
+Class Week 2: Proposal Presentation & Group Feedback (Sep 18)
+Individual Meeting #2: Proposal Feedback & Methods Discussion (Oct 2)
+Class Week 3: Revised Proposal Presentation & CERTT Tour (Oct 23)
+Individual Meeting #3: Data Analysis & Progress Review (Nov 13)
+Class Week 4: Professional Development & Project Discussion (Nov 27)
+Innovation Showcase: Final Presentations & Poster Display (Dec 6)

@@ -1,0 +1,6 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Presentations | 20% | Student-led case discussion (Group) | On-going |
+| Class Participation | 15% | Participation (Individual) | On-going |
+| Assignment | 35% | Weekly case submissions and peer evaluations (Individual) | On-going |
+| Final Exam | 30% | Final exam (Individual) | TBA |

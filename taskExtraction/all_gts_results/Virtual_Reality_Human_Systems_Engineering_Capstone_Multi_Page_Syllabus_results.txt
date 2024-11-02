@@ -1,0 +1,14 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Introductions & Project Brainstorming | N/A | N/A | Aug 26 |
+| Discuss Ideas and Readings | N/A | N/A | Sep 4 |
+| Proposal Presentation & Group Feedback | N/A | N/A | Sep 18 |
+| Proposal Feedback & Methods Discussion | N/A | N/A | Oct 2 |
+| Revised Proposal Presentation & CERTT Tour | N/A | N/A | Oct 23 |
+| Data Analysis & Progress Review | N/A | N/A | Nov 13 |
+| Professional Development & Project Discussion | N/A | N/A | Nov 27 |
+| Final Presentations & Poster Display | N/A | N/A | Dec 6 |
+| Develop VR-based Project | N/A | Address a specific issue in human systems engineering using VR technologies. | N/A |
+| Create Project Proposal | N/A | Create a detailed proposal with objectives, methods, and a timeline. | N/A |
+| Complete Comprehensive Report | N/A | Evaluate the success of the VR project in a comprehensive report. | N/A |
+| Prepare for Innovation Showcase | N/A | Prepare a report, poster, and elevator pitch for the project presentation. | Dec 6 |

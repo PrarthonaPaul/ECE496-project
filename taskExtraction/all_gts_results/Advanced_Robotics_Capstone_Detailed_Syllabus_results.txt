@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a detailed proposal outlining objectives, problem statement, anticipated impact, timeline, and team member roles. | Week 3 |
+| System Design and Simulation | N/A | Design the robotic system with mechanical, electrical, and software components. Develop a simulation for testing. | Weeks 4-6 |
+| Prototype Development | N/A | Build and test a prototype, refining the system based on test results to meet project objectives. | Weeks 7-10 |
+| User Testing and Feedback | N/A | Conduct user testing, evaluate system performance, and collect feedback for improvements. | Weeks 11-12 |
+| Final Report and Showcase Preparation | N/A | Document the development process in a report, and prepare a presentation and poster for the Innovation Showcase. | Weeks 13-15 |

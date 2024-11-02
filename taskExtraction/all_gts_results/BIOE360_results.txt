@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Needs Identification Report | 10% | Identify a specific clinical need through interviews, literature review, and analysis of current solutions, and define the problem and its impact on patient care. | January 18, 2021 |
+| Concept Proposal | 10% | Generate and detail a selected concept for a biomedical device, including advantages, feasibility, and potential impact. | February 1, 2021 |
+| Prototype Development Plan | 15% | Outline the development process for the prototype, specifying design, materials, fabrication, and testing. | February 22, 2021 |
+| Regulatory Strategy Report | 15% | Create a report detailing the regulatory pathway, including approvals, compliance with standards (ISO 13485, FDA), and ethical considerations. | March 15, 2021 |
+| Market Analysis & Business Plan | 20% | Conduct market analysis, identify target market, competitors, and barriers, and develop a business plan for marketing, sales, and production scaling. | April 5, 2021 |
+| Final Prototype, Documentation, and Presentation | 30% | Develop a fully functional prototype, provide comprehensive documentation, and present the device and business plan to experts, faculty, and peers. | April 26, 2021 |

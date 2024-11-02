@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation | 5% | Document detailing team members, roles, and initial modeling ideas. | September 15, 2022 |
+| Fundamentals of Modeling Report | 10% | Report on basic modeling techniques and their applications. | October 15, 2022 |
+| Initial Modeling Proposal | 15% | Proposal including initial models, methods, and problem descriptions. | November 15, 2022 |
+| Mid-Term Presentation | 15% | Presentation covering progress, challenges, and preliminary results. | December 15, 2022 |
+| Advanced Techniques Report | 15% | Report on advanced modeling techniques and simulation results. | January 31, 2023 |
+| Draft Final Report | 15% | Draft version of the final report, including detailed model descriptions and preliminary results. | February 28, 2023 |
+| Final Testing Report | 15% | Final report on testing, validation, and integration of the model. | March 31, 2023 |
+| Final Presentation | 10% | Presentation of the complete project, including modeling, analysis, and results. | April 10, 2023 |
+| Final Report | 10% | Comprehensive report covering the entire project, from modeling to final results. | April 15, 2023 |

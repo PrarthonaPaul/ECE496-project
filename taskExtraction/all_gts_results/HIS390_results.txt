@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Topic Selection | 10% | N/A | September 15, 2022 |
+| Research Methods | N/A | Master the skills to conduct research on a historical topic | October 15, 2022 |
+| Project Planning | 20% | Plan the digital history project | November 15, 2022 |
+| Content Development | 15% | Create content for the digital project | December 15, 2022 |
+| Digital Tool Setup | N/A | Apply digital tools for an interactive experience | January 31, 2023 |
+| Final Adjustments | 20% | Make final touches to the project | February 28, 2023 |
+| Presentation Preparation | 10% | Prepare for the project presentation | March 15, 2023 |

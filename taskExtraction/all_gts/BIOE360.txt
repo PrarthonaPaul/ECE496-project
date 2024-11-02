@@ -1,0 +1,100 @@
+BIOE360: Biomedical Device Innovation
+Institution: Eastlake University Term: Spring 2021 Instructor: Dr. Emily Wright Email: ewright@eastlake.edu Office Location: Bioengineering Building, Room 312 Office Hours: Tuesday 3:00-5:00 PM, Thursday 11:00 AM-1:00 PM Class Schedule: Monday & Wednesday, 10:00 AM - 11:30 AM Classroom: Life Sciences Hall, Room 205
+Course Description
+BIOE360: Biomedical Device Innovation is a project-based course that immerses students in the design, development, and commercialization of biomedical devices. Students will work in teams to conceptualize and develop a biomedical device that addresses a real-world clinical need. The course emphasizes the entire innovation process, from ideation and prototyping to regulatory considerations and market analysis.
+Learning Outcomes
+By the end of this course, students will:
+1.
+Identify unmet clinical needs and translate them into engineering design problems.
+2.
+Design and prototype a biomedical device, considering functionality, usability, and safety.
+3.
+Understand and apply the regulatory standards and ethical considerations in biomedical device development.
+4.
+Conduct market analysis and develop a business plan for the commercialization of the device.
+5.
+Present and defend their device design and business strategy to a panel of experts.
+Course Timeline and Deliverables
+Date
+Topic
+Deliverable
+Weight
+Jan 11, 2021
+Course Introduction & Team Formation
+-
+-
+Jan 18, 2021
+Identifying Clinical Needs
+Needs Identification Report
+10%
+Feb 1, 2021
+Concept Generation & Selection
+Concept Proposal
+10%
+Feb 22, 2021
+Prototyping Techniques
+Prototype Development Plan
+15%
+Mar 15, 2021
+Regulatory Pathways & Compliance
+Regulatory Strategy Report
+15%
+Apr 5, 2021
+Market Analysis & Business Planning
+Market Analysis & Business Plan
+20%
+Date
+Topic
+Deliverable
+Weight
+Apr 26, 2021
+Final Design Review & Presentation
+Final Prototype, Documentation, and Presentation
+30%
+Detailed Deliverables
+1.
+Needs Identification Report (10%) Due: January 18, 2021 Teams will identify a specific clinical need by conducting interviews with healthcare professionals, reviewing literature, and analyzing current solutions. The report should clearly define the problem and its impact on patient care.
+2.
+Concept Proposal (10%) Due: February 1, 2021 Based on the identified need, teams will generate multiple concepts for potential devices. The proposal will detail the selected concept, including its advantages, feasibility, and potential impact.
+3.
+Prototype Development Plan (15%) Due: February 22, 2021 Teams will outline a plan for the development of their prototype, including design specifications, materials, fabrication methods, and testing protocols.
+4.
+Regulatory Strategy Report (15%) Due: March 15, 2021 This report will detail the regulatory pathway for the device, including necessary approvals, compliance with standards (e.g., ISO 13485, FDA), and ethical considerations in the design and testing phases.
+5.
+Market Analysis & Business Plan (20%) Due: April 5, 2021 Teams will conduct a market analysis, identifying the target market, competitors, and potential barriers to entry. The business plan should include strategies for marketing, sales, and scaling the production of the device.
+6.
+Final Prototype, Documentation, and Presentation (30%) Due: April 26, 2021 The final deliverable includes the fully developed prototype, comprehensive documentation (including design, testing, and regulatory compliance), and a formal presentation. Teams will present their device and business plan to a panel of industry experts, faculty, and peers.
+Grading Breakdown
+Component
+Weight
+Needs Identification Report
+10%
+Concept Proposal
+10%
+Prototype Development Plan
+15%
+Regulatory Strategy Report
+15%
+Component
+Weight
+Market Analysis & Business Plan
+20%
+Final Prototype & Presentation
+30%
+Course Policies
+•
+Attendance: Regular attendance is essential for successful project completion. Active participation in class discussions and team meetings is expected.
+•
+Late Submissions: Late submissions will be penalized by 5% per day, up to a maximum of 3 days. Submissions later than 3 days will not be accepted unless prior arrangements are made.
+•
+Team Collaboration: Teamwork is a critical component of this course. All team members must contribute equally to the project. Issues within teams should be resolved promptly and, if necessary, brought to the instructor’s attention.
+•
+Academic Integrity: Students are expected to adhere to the highest standards of academic integrity. Plagiarism, fabrication, or other forms of academic dishonesty will not be tolerated and may result in course failure.
+Key Resources
+•
+Textbook: "Biodesign: The Process of Innovating Medical Technologies" by Paul G. Yock, et al. (2nd Edition).
+•
+Software: CAD software (e.g., SolidWorks) for design, and MATLAB for simulation and analysis.
+•
+Additional Resources: Access to the university's prototyping lab, including 3D printers, CNC machines, and bioengineering testing equipment.
+This syllabus provides a comprehensive guide to the BIOE360: Biomedical Device Innovation course, outlining the expectations, milestones, and resources necessary for students to successfully complete their projects.

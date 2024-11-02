@@ -1,0 +1,31 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Course Introduction, Natural Language Processing | N/A | Syllabus and Logistics, Introduction to NLP and Course Scope | 8/31, 9/2 |
+| NLP and AI Overview | N/A | Survey of NLP Landscape and Problems, Traditional vs ML based NLP, Group formation due | 9/7, 9/9 (no class on 9/7 due to Labor Day) |
+| Deep Learning - NLP style | N/A | Understanding Deep Learning applied to NLP, Papers and Metrics | 9/14, 9/16 |
+| Project Pitches and Feedback | N/A | One-page write-up and slides due | 9/21, 9/23 |
+| Papers - Representing Language / Embeddings | N/A | Word2Vec, GloVe | 9/28, 9/30 |
+| Papers - Representing Language / Embeddings | N/A | Bert, Elmo, Elactra | 10/5, 10/7 |
+| Papers - Landscape of Embeddings | N/A | GPT-2 / GPT-3 | 10/12, 10/14 |
+| Group Deep Dives | N/A | N/A | 10/19, 10/21 |
+| Project Updates, Show and Tell | N/A | One-page write-up and slides due | 10/26, 10/28 |
+| Recap and Paper | N/A | Recap (Lecture), FastText | 11/2, 11/4 |
+| Papers - Dialogue Management | N/A | Learning Goal Diag, Trans. State Gen | 11/9, 11/11 |
+| Paper and Guest Lectures | N/A | OpenDialKG, Guest Lectures by Brian Yang and Yiping Kang | 11/16, 11/18 |
+| Thanksgiving Break | N/A | N/A | 11/23, 11/25 |
+| Final Project Presentations | N/A | N/A | 11/30, 12/2 |
+| Last Day Wrap-Up | N/A | Closing Lecture, Project submissions due | 12/7 |
+| Pitch (project) | 5% | One-page write-up | N/A |
+| Update (project) | 5% | One-page write-up | N/A |
+| Presentations | 30% | Includes pitch, update, and papers | N/A |
+| Papers | 5% x 2 | N/A | N/A |
+| Paper Summaries | 10% | N/A | N/A |
+| Final Project, Code, and Report | 50% | Includes demo, code, final deck, write-up, and final presentation | N/A |
+| Demo (final project) | 15% | N/A | N/A |
+| Code (final project) | 15% | N/A | N/A |
+| Final Deck (final project) | 10% | N/A | N/A |
+| Final Presentation (final project) | 10% | N/A | N/A |
+| Group Formation | N/A | Students form groups of 5-7 to select a use case and design a virtual assistant | 9/11 |
+| Project Milestones | N/A | Milestones on the way to the final project, including initial pitch and in-class presentation for feedback | N/A |
+| MDE Project | N/A | Large team-based project to design and build a virtual assistant | N/A |
+| Assignment Submission | N/A | Submit projects as a .zip file with project code and a PDF with README content (setup/usage instructions) | N/A |

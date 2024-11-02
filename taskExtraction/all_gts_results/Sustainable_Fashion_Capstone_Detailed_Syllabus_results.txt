@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a detailed proposal for the sustainable fashion collection, outlining the target audience, environmental goals, timeline, and team member roles. | Week 3 |
+| Research and Material Selection | N/A | Research sustainable materials and ethical production methods, and choose materials with minimal environmental impact. | Weeks 4-6 |
+| Design and Sample Production | N/A | Design the fashion collection and create samples, testing materials for durability, comfort, and environmental friendliness. | Weeks 7-10 |
+| Final Collection Production and Sustainability Analysis | N/A | Manufacture the final collection and conduct a thorough sustainability analysis, including LCA and carbon footprint calculation. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Prepare a comprehensive report on the design and production journey, and create a presentation for the Innovation Showcase. | Weeks 13-15 |

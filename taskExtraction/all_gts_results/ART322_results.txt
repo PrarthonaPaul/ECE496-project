@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Site Analysis Report | 10% | Document analyzing the site for the public art installation, including location, dimensions, and community context. | September 15, 2022 |
+| Concept Proposal | 15% | Proposal outlining the concept for the public art installation, including sketches and initial ideas. | September 30, 2022 |
+| Detailed Design Plan | 20% | Comprehensive design plan including materials, dimensions, and construction methods. | October 15, 2022 |
+| Stakeholder Feedback Summary | 10% | Summary of feedback from community stakeholders and adjustments made based on their input. | October 31, 2022 |
+| Construction Log | 15% | Detailed log of the construction process, including challenges and solutions. | November 15, 2022 |
+| Installation Report | 15% | Report on the installation process, including final adjustments and installation challenges. | November 30, 2022 |
+| Exhibition Display | 15% | Presentation of the completed art piece at the final exhibition. | December 7, 2022 |
+| Final Reflection Report | 10% | Reflective report on the entire process, including learning outcomes and feedback received. | December 14, 2022 |

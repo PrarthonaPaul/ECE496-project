@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Discussion Post | N/A | Introduction to Financial Analysis | 1/13 |
+| Ratio Analysis Report | N/A | Submit a report on ratio analysis | 1/20 |
+| Financial Forecast | N/A | Submit a financial forecast | 1/27 |
+| Financial Statements | N/A | Prepare financial statements | 2/3 |
+| Financial Analysis Report | N/A | Submit a report on financial analysis and interpretation | 2/10 |

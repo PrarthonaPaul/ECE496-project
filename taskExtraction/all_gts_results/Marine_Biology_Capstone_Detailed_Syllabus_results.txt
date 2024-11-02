@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal outlining the marine ecosystem/species, research goals, expected outcomes, timeline, and team member roles. | Week 3 |
+| Fieldwork and Data Collection | N/A | Conduct fieldwork in marine environments, collecting data on species, habitats, and environmental conditions using scuba diving, photography, and sampling. | Weeks 4-6 |
+| Data Analysis and Ecosystem Modeling | N/A | Analyze data using ecological models, predict ecosystem health, and test predictions with statistical methods. | Weeks 7-10 |
+| Hypothesis Testing and Conservation Planning | N/A | Test hypotheses related to species interactions, environmental impacts, and create a conservation plan. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Prepare a comprehensive report documenting the research process, challenges, and outcomes, and a presentation for the Innovation Showcase. | Weeks 13-15 |

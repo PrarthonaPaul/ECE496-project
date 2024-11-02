@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Software Requirements Specification | 15% | Submit a detailed Software Requirements Specification (SRS) document outlining functional and non-functional requirements. | February 5, 2021 |
+| System Architecture and Design Document | 20% | Create a comprehensive design document detailing system architecture, component diagrams, data models, and interface specifications. | February 26, 2021 |
+| Functional Prototype and Presentation | 20% | Develop a functional prototype, present it to the class, demonstrate key features, discuss design decisions, and plan for the final development phase. | March 19, 2021 |
+| Test Plan and Testing Report | 15% | Develop a comprehensive test plan and testing report, including testing strategies, tools, test cases, test results, identified issues, and resolution steps. | April 9, 2021 |
+| Final Software, Documentation, and Presentation | 30% | Deliver the complete software system with user and technical documentation, and present the project to faculty and industry professionals, showcasing features, the development process, and lessons learned. | April 23, 2021 |

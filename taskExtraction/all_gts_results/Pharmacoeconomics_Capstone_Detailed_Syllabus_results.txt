@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal detailing the pharmaceutical intervention or policy, research objectives, and anticipated outcomes. Include a timeline and assign roles to team members. | Week 3 |
+| Literature Review and Data Collection | N/A | Conduct a literature review, identify economic evaluation gaps, and collect data on costs, health outcomes, and patient preferences. | Weeks 4-6 |
+| Economic Modeling and Analysis | N/A | Develop models to assess cost-effectiveness and budget impact, analyze data, identify trends, and provide recommendations. | Weeks 7-10 |
+| Scenario Analysis and Optimization | N/A | Perform scenario analyses, test the models, and optimize the intervention/policy based on results. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the economic evaluation process, challenges, solutions, and outcomes. Prepare a presentation and poster for the showcase. | Weeks 13-15 |

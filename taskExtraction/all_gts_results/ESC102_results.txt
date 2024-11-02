@@ -1,0 +1,12 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Community Pitch | 5% | A two-to-three minute presentation where each student proposes a community of interest within the Greater Toronto Area, with the potential to develop into a "client" or "key stakeholder" for a design project. | Studio week of 2014-01-13 |
+| ESEC Feedback | 1% | A brief survey to be completed by students after attending the ESEC event on January 17, 2014. | 2014-01-17 @ 2400 |
+| Request for Proposal (RFP) | 20% | A challenge for students to frame an engineering challenge to industry and government standards, requiring them to identify and frame the challenge, engage with stakeholders, consult codes and standards, and develop comprehensive engineering requirements. | 2014-02-17 @1800 |
+| RFP Revision | 10% | Teams revise their RFPs based on feedback from the Teaching Team, including a summary of changes for efficient assessment. | 2014-03-02 @ 2400 |
+| Design Critique | 10% | Teams present their design concepts to the Studio Teaching Team and peers for feedback and refinement. | Studio week of 2014-03-24 |
+| Design Showcase | 25% | A public event where student designs, supported by prototypes, are reviewed and evaluated on technical and nontechnical merits. Students are also assessed on communication through written summaries, posters, and oral presentations. | TBD (Likely 2014-04-11 or 2014-04-14) |
+| Praxis II Course Surveys | 4% | Surveys completed by students at various points during the term to inform themselves, teammates, and course stakeholders about their performance and intrateam workload allocation. | At various points during the term |
+| Design Handbook | 15% | An informal document kept by individual designers to improve future performance, capturing preferred design tools and processes for future reference. | 7 days after the Design Showcase at 2400 |
+| Design Portfolio | 10% | Extends and builds on the Design Portfolio from Praxis I, demonstrating strengths, progress, and areas for future development, with more depth and experience. | 7 days after the Design Showcase at 2400 |
+| N/A | N/A | N/A | N/A |

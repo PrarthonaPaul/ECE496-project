@@ -1,0 +1,43 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Return the expectations agreement | N/A | Indicate that you have read the syllabus thoroughly and agree to abide by the expectations within it. | 1.11 by 9 AM |
+| Complete In-Class Worksheets | N/A | Practice and reinforce understanding of the course material. | Various dates, see syllabus for details |
+| Complete MindTap Assignments | 9% | Complete 6 assignments on MindTap, each worth 1.5%. | Various dates, see syllabus for details |
+| Complete Confidence Interval Assignment | 2% | Complete an assignment on Quercus about Confidence Intervals. | 2.18 11:59 PM |
+| Complete Lab Assignments | 40% | Analyze General Social Survey data with a statistical program. | Various dates, see syllabus for details |
+| Take Home Test | 10% | Conduct hypothesis tests within a timed assignment. | 3.8 11:59 PM |
+| Research Poster | 24% | Conduct a simple study using a set of variables and multiple regression, identifying different types of quantitative data, describing them, formulating hypotheses, conducting hypothesis tests, and evaluating the accuracy of results. | 4.9 11:59 PM |
+| Fill out Reading Notes | N/A | Clarify what you do not understand and build connections between what you have already learned and the current course material. | Prior to most class periods |
+| Watch lectures on Quercus | N/A | Watch recorded lectures before coming to class. | Before each class |
+| Complete homework assignment on MindTap | N/A | Complete homework assignment on MindTap in between class sessions. | Most weeks |
+| Complete lab assignment | N/A | Complete a lab assignment in addition to the homework assignment in most weeks. | Most weeks |
+| Prepare for class | N/A | Fill out the Reading Notes worksheet, watch lectures, and complete homework and lab assignments as applicable. | Before each class |
+| Submit assignments on Quercus or MindTap | N/A | Ensure assignments are submitted in the correct file format and are readable. | Throughout the course |
+| Sign the expectations agreement | N/A | Indicate that you have read and understood the course expectations. | First day of class |
+| Complete In-Class Worksheets | N/A | Practice and reinforce understanding of the course material. | Throughout the course |
+| Complete Group Class Participation | 15% | Collaborate with peers and contribute to a positive and collaborative atmosphere. | Throughout the course |
+| Submit assignments on time | N/A | Ensure assignments are submitted by the designated time, or seek permission from the instructor for late submissions. | Throughout the course |
+| Contact the instructor for medical reasons | N/A | Email the instructor and declare your absence on ACORN for medical reasons. | As needed |
+| Contact your college registrar for other reasons | N/A | Contact your college registrar for family or personal reasons and have them email the instructor. | As needed |
+| Attend class regularly | N/A | Achieve success in the class by attending consistently and avoiding scheduling conflicts. | Throughout the course |
+| Notify the instructor of absences | N/A | Let the instructor know ahead of time if you will miss a class, or send an email as soon as possible if an emergency arises. | As needed |
+| Fill out Reading Notes | N/A | Fill out the Reading Notes worksheet to the best of your ability, as they will be invaluable resources for later in the semester. | Prior to most class periods |
+| Wear a mask in class | N/A | Wear a multi-layer mask covering your mouth and nose at all times during the course to respect others and ensure inclusion. | Throughout the course |
+| Get vaccinated for COVID-19 | N/A | Get at least three doses of a COVID vaccine to protect your health and the health of those around you. | As soon as possible |
+| Submit assignments in the correct file format | N/A | Submit assignments on Quercus in a readable file format, such as .docx, .doc, .pdf, .odf, or .rtf. | Throughout the course |
+| Appeal for re-grading | N/A | If you believe your assignment or test has been mismarked, submit a request to the person who graded your work within two weeks of the assignment being returned to the class. | As needed |
+| Submit assignments through Ouriginal | N/A | Submit assignments through the University's plagiarism detection tool, Ouriginal, or provide sufficient secondary material to establish ownership of your work. | As needed |
+| Complete optional homework | N/A | Complete optional homework on MindTap for practice working in the system. | 1.11 |
+| Complete Lab A, Part I | N/A | Attend tutorial and complete Lab A, Part I. | 1.18 |
+| Complete Lab A, Part II | N/A | Attend tutorial and complete Lab A, Part II. | 1.25 |
+| Complete Lab A | N/A | Submit Lab A by the deadline. | 1.30 11:59 PM |
+| Complete Lab B, Part I | N/A | Attend tutorial and complete Lab B, Part I. | 2.1 |
+| Complete Lab B, Part II | N/A | Attend tutorial and complete Lab B, Part II. | 2.15 |
+| Complete Lab B | N/A | Submit Lab B by the deadline. | 2.20 11:59 PM |
+| Complete Lab C | N/A | Attend tutorial and complete Lab C. | 3.1 |
+| Submit Lab C | N/A | Submit Lab C by the deadline. | 3.6 11:59 PM |
+| Complete Lab D | N/A | Attend tutorial and complete Lab D. | 3.15 |
+| Submit Lab D | N/A | Submit Lab D by the deadline. | 3.20 11:59 PM |
+| Work through Multiple Regression in lab | N/A | Attend tutorial and work through Multiple Regression. | 3.22 |
+| Recap of Multiple Regression in lab | N/A | Attend tutorial and recap Multiple Regression. | 3.29 |
+| Complete Extra Credit Interactions Assignment | N/A | Complete the extra credit assignment for interactions. | 4.4 11:59 PM |
