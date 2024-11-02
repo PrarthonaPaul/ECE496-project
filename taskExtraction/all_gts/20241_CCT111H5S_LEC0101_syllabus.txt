@@ -1,0 +1,360 @@
+Institute Office: Room 3014, CCT Building
+Telephone: 905-569-4489
+CCT111H5S LEC0101
+Critical Coding
+Course Outline - Winter 2024
+Class Location & Time Tue, 11:00 AM - 01:00 PM IB 235
+Instructor Luke Russell
+Office Location Zoom
+Office Hours Thursdays 6pm (email for Zoom link 48h before)
+Telephone Zoom
+E-mail Address profluke.russell @ utoronto.ca
+Course Web Site https://q.utoronto.ca
+Teaching Assistant Chelsea Russell
+E-mail Address chelsea.russell@mail.utoronto.ca
+Course Description
+This experiential learning course introduces students to the practice and theory of coding, programming, and basic development of
+user-oriented software. The lectures illustrate a core range of software development concepts that provide the foundations needed
+for the practical coding of front-end applications such as mobile interfaces or of back-end software such as introductory artificial
+intelligence or social media analysis. The practicals are lab-based and focus on applying these theoretical skills to solving problems
+grounded in a critical understanding of the interaction between people, culture, and society, by developing software or apps in
+languages such as Java, Objective C, Swift, Python. [24L, 12P]
+Corequisite: CCT109H5 and CCT110H5 (SSc)
+Distribution Requirement: SSc
+It is your responsibility to ensure that the prerequisites for course have been met. Students without the prerequisites can be removed
+at any time. No waivers will be granted.
+Goals and Learning Objectives
+Welcome to the class!
+I look forward to exploring the world of programming together, as we build up a CCT 111 class community!!
+This course provides an elementary introduction to computer programming, suitable for students with little programming
+background. Students will learn fundamental concepts and terminology of computing, acquire elementary skills for programming in
+a high-level language and be exposed to diverse applications of programming. Students will also be introduced to the practice of
+programming in society and across disciplines, and the ethical impacts and outcomes of programming.
+Upon successful completion of this course, and after participation and contribution to all course activities, students will be
+positioned to be able to do the following (based on time):
+1. Apply computational thinking to analyze problems and develop appropriate solutions
+2. Understand foundational programming principles, concepts, and methods;
+3. Develop short computer programs in Python demonstrating fundamental concepts such as variables, data types, assignment,
+arrays, conditionals, loops, functions, and input/output operations;
+4. Use an IDE for program development (file organization, coding, and debugging)
+5. Test and assess the quality of short programs;
+6. Write useful and effective in-code comments and other documentation;
+7. Explain how programming is situated in and reflects broader societal structures, along with relevant ethical issues.
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 1 of 9
+Type Description Due Date Weight
+Lab Lab exercises On-going 10%
+Assignment Assignment 1 - Coding Exercise 2024-01-30 10%
+Term Test Test 1 2024-02-27 20%
+Assignment Assignment 2 - Coding Exercise 2024-02-13 12.5%
+Assignment Assignment 3 - Tentative Topic - Information visualization presentation
+and report
+2024-03-26 15%
+Term Test Test 2 2024-04-02 25%
+Other Zybook Learning Activities 2024-04-02 5%
+Class Participation Class Contribution (Attendance, Contribution, Presentation Peer
+Reviews, etc)
+On-going 2.5%
+Total 100%
+Required Materials
+Required Text - zyBooks Python Learning Platform
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: UTORONTOCCT111RussellWinter2024
+3. Subscribe ($49USD)
+Optional Text - Downey, A. B. (2015). Think Python: How to Think Like a Computer Scientist (2nd edition). Sebastopol, CA:
+O'Reilly Media. Free download at: http://greenteapress.com/wp/think-python-2e/.
+Other course readings and materials will be supplied through Quercus.
+Python - Python programming language (version 3+). Free installations for Python are available for various OSes, and instructions
+will be provided in the first lab, as well as on Quercus.
+A Python IDE - Google Colab is a freely available cloud-hosted Python development environment. You are free to use the editor of
+your choice, but this one is recommended if you have no experience with another one. We may use other tools such as VS Code,
+Pycharm, Wing IDE 101 (https://wingware.com/downloads/wingide-101) and Google Colab and may be reccomended as the term
+goes on.
+Assessment and Grading Policies
+You should receive at least one significant mark (15%) before the last day you can drop a course without academic penalty.
+Requirements and Criteria
+Class Contribution - Ongoing
+This includes factors like your attendance, contribution to class discussions (in-person and electrionic as applicable), Presentation
+Peer Reviews, etc
+Weekly lab exercises - Ongoing
+You must attend each lab. Each week, the lab practical will regularly be devoted to a related exercise, and you will be graded as
+part of a "lab signout process". These will typically be practical programming exercises that apply the concepts and skills discussed
+in class, which may be completed in pairs or small groups as discussed in the class. This is the only class activity that can be
+completed cooperatively and submitted with another student (unless other authorizations are provided in class).
+The current plan are for between 9 and 10 labs, and they will be weighed equally. They will be held each Tuesday based on your
+registered section. In-Person labs start in the second module.
+Zybook Learning Activities - Ongoing
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 2 of 9
+The course textbook and reference material to help you learn the course material is available through ZyBooks.
+"Zybook" is not really a "book", but is the set of asynchronous learning activities you will do each week, and is a part of the lesson
+itself.
+We chose this electronic resource because
+1) it costs less than print books and is more up-to-date, and
+2) it includes learning activities that help you in the course, and in future skills.
+For the 5% contribution mark, please complete all the participation and challenge activities in all the sections of the book not
+marked as "optional".
+Assignments
+There will be 3 individual assignments. As these are summative assessments, the "correctness" and formulation of your responses
+will be an important part of your grade. The coding problems will be related to the recently covered course topics, and allow you to
+demonstrate your competence with those aspects of programming.
+Term Tests
+The first test will assess your understanding of the programming techniques and societal applications as you are introduced to them
+through the in-person lectures, recorded content, labs, and zybooks. The second test will also serve as a summative evaluation of
+your coding and problem-solving skills. The first test covers materials from the first six modules, roughly; and the second test
+focuses on material covered in the second half of the course, but the second test will include some from the first half as well.
+Each exam may consist of an applied 'live' coding portion using a format introduced in class, along with other formats.Y ou must
+be present during the class time to write the tests.
+Teaching Methods
+The course is primarily an in-person class, but some online activities will be used as announced. Unless explicitly announced, you
+are expected to attend the class as scheduled. In-Person attendance is required for the lab components (as sign out will be based on
+questions asked during the lab) and midterm+test, which will be held during class, unless announced otherwise.
+Procedures and Rules
+E-Culture Policy
+Only student U of T email accounts should be used for course communication and all emails from students must include the course
+code in the subject line and should be signed with the full student name and student number.
+The instructional staff will make every effort to answer appropriately addressed emails within 3-5 working days. However, you
+should not expect responses outside business hours, and last-minute assignment or test-related questions may not be answered "in
+time".
+It is your responsibility to read your U of T email on a regular basis. This will ensure that you receive important information from
+your instructors and the university.
+It is your responsibility to read your email regularly and check course information updates and announcements through Quercus.
+Students who choose to opt out of receiving messages through Quercus are still responsible for actions required, or changes
+communicated through those announcements and messages.
+Learning Technology
+Course material, such as lectures and code samples, will be available on Quercus. Announcements on Quercus will be the regular
+way of distributing information to all students.
+All assignments must be submitted on Quercus in the indicated format, typically .py or PDF files. No email submissions will be
+considered, except in special pre-arranged circumstances.
+Students must ensure they have access to a computer where Python can be installed, coding assignments can be completed, classes
+can be attended. Please bring your computer to the lecture.
+Late Penalties
+You are expected to complete assignments on time. There will be a penalty for lateness of 10% deducted per day and work that is
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 3 of 9
+not handed in one week after the due date will not be accepted.
+Accommodation for Missed Tests and Late Assignments
+Students in CCT109H5, CCT110H5, CCT111H5, CCT112H5 and CCT208H5 should always follow the Special Consideration
+Request (SCR) process outlined below. Students in other classes should follow the process below only if they are seeking
+accommodation for tests or assignments worth 20% or more of the final grade. Students in other classes seeking accommodation
+for tests or assignments worth less than 20% should contact their instructors directly.
+Reasons for special consideration could include:
+Accident
+Illness
+Emergency procedure
+Bereavement
+University-sponsored athletics/competitions
+Compulsory legal duties e.g. (jury duty)
+Religious accommodations
+Disability accommodations
+Reasons for special consideration do not include*:
+Pre-planned vacations or social commitments
+Transportation delays
+Technology malfunctions
+Time management, course loads
+Course conflicts, team work conflicts
+Misreading a deadline/timetable
+Late course enrolment
+Scheduled elective medical appointments
+* For these situations, refer to your course syllabus and speak directly with your instructor.
+SCR Process:
+You have three days or 72 Hours (including weekends) from the assignment deadline or date of the missed test/quiz to
+complete the SCR process in full.
+The first time in the semester that you are seeking accommodation, please complete the following steps:
+1. Login to ACORN, and click on Profile & Settings from the left-hand menu.
+2. Click on Absence Declaration
+3. Record each day that you are absent – as soon as it begins up until the day you return to campus for classes or other
+activities.
+4. Login to the SCR system and complete the required steps. Documentation is not required.
+For all subsequent times that you require an accommodation, you should only login to the SCR system and complete the required
+steps. Documentation is not required, however, it may be requested after the SCR has been reviewed.
+Important note about missed makeup tests: As stated in the Academic Calendar, "If the student is granted permission to take a
+makeup test and misses it, then they are assigned a mark of zero for the test unless the instructor is satisfied that missing the
+makeup test was unavoidable. Students are not automatically entitled to a second makeup test."
+If you are registered with AccessAbility at UTM and/or Accessible Learning Services at Sheridan, and the reason for missing a test
+or a deadline pertains to a disability, you are still required to submit an SCR at the link above. In such cases, the department will
+accept documentation supplied by the UTM AccessAbility Resource Centre. If you require further information, please speak with
+your accessibility services advisor. Please see the section on "AccessAbility" for more information.
+Further details regarding SCR policy are available here: https://www.utm.utoronto.ca/iccit/student-resources/policiesprocedures/
+special-consideration-requests-scr-late-assignments
+Re-marking Pieces of Term Work
+General
+A student who believes that his or her written term work has been unfairly marked may ask the person who marked the work for re-
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 4 of 9
+evaluation. Students have up to one month from the date of return of an item of term work or from the date the mark was made
+available to inquire about the mark and file for an appeal. For example, should the work be returned or the mark be made available
+on March 3rd, the student has until April 3rd to inquire in writing and start the re-marking process. Instructors must acknowledge
+receipt of a student request for re-marking within 3-working days, and decisions should be provided in a timely fashion.
+If an academic misconduct case is in progress for the piece of term work in question, a student may not appeal until the matter is
+resolved.
+Details
+Regrade requests for term work worth less than 20% of the final mark may be submitted to the person who marked the work
+for re-evaluation. The student must submit (1) the original piece of work and (2) a written explanation detailing why they believe
+the work was unfairly/incorrectly marked. If the student is not satisfied with this re-evaluation, he or she may appeal to the
+instructor in charge of the course if the work was not marked by the instructor (e.g., was marked by a TA). In these instances where
+the instructor was not the one who marked the work, the student must now submit to the instructor (1) the original piece of work,
+(2) the written reasons as to why he or she believes the work was unfairly/incorrectly marked, and (3) communications from the
+original marker as to why no change in mark was made. If a re-marking is granted by an instructor, the student must accept the
+resulting mark as the new mark, whether it goes up or down or remains the same. Continuing with the remark or the appeal means
+the student accepts this condition. Instructors and TAs should ensure all communication with the student is in writing (e.g. followup
+email) and keep a copy for later reference.
+Only term work worth at least 20% of the course mark may be appealed beyond the instructor. Such appeals must first follow the
+same guidelines as those mentioned directly above for work worth less than 20%. To escalate an appeal beyond the instructor, the
+student must submit to the department (1) all previous communications between the student, original marker, and the instructor (2)
+the detailed reason(s) documenting why the mark for the work was inappropriate and (3) the original piece of work. If the
+department believes that re-marking is justified, the department shall select an independent reader. The student must agree in
+writing to be bound by the results of the re-reading process or abandon the appeal. Again, the student must accept that the mark
+resulting from the appeal may be higher or lower or the same as the original mark. Where possible, the independent reader should
+be given a clean, anonymous copy of the work. Without knowing the original assigned mark, the reader shall determine a mark for
+the work. The marking of the work should be considered within the context of the course of instruction for which it was submitted.
+If the new mark differs substantially from the original mark, the department shall determine a final mark taking into account both
+available marks.
+The final level of appeal is to the Dean’s Office. Appeals must already have been considered at the two previous levels (Instructor
+followed by Department), with the decision reviewed by the head of the academic unit, before they will be considered by the
+Dean’s Office. Appeals must be submitted in writing, and include all previous correspondence, as soon as possible after the
+student receives the final response from the academic unit, but no later than one month after. Appeals to the Dean’s Office
+about the marking of term work will be reviewed to ensure that appropriate procedures have been followed in earlier appeals, that
+the student has been treated fairly, and that the standards applied have been consistent with those applied to other students doing
+the assignment. Any mark resulting from such an appeal will become the new mark, whether it is higher or lower or the same as the
+previous one. This process applies only to term work; appeals for re-reads of final examinations are handled directly by the Office
+of the Registrar.
+Issues Pertaining to Term Work and Instructional Activities
+Issues arising within a course that concern the pedagogical relationship of the instructor and the student, such as essays, term work,
+term tests, grading practices, or conduct of instructors, fall within the authority of the department. Students are entitled to seek
+resolution of these issues, either orally or in writing to the course instructor and, if needed, the ICCIT Director for resolution.
+Following a response from the ICCIT Director, students may submit an appeal, in writing, to the V ice-Principal, Academic and
+Dean.
+Privacy and Use of Course Materials Notifications
+This course, including your participation, may be recorded on video. For questions about recording and use of videos in which you
+appear please contact your instructor.
+Academic Integrity
+Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the
+University of Toronto is a strong signal of each student’s individual academic achievement. As a result, the University treats cases
+of cheating and plagiarism very seriously. The University of Toronto’s Code of Behaviour on Academic Matters
+(www.governingcouncil.utoronto.ca/policies/behaveac.htm) outlines the behaviours that constitute academic dishonesty and the
+processes for addressing academic offences. Potential offences include, but are not limited to:
+In papers and assignments:
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 5 of 9
+Using someone else’s ideas or words without appropriate acknowledgement.
+Submitting your own work in more than one course without the permission of the instructor.
+Making up sources or facts.
+Obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+Using or possessing unauthorized aids.
+Looking at someone else’s answers during an exam or test.
+Misrepresenting your identity.
+In academic work:
+Falsifying institutional documents or grades.
+Falsifying or altering any documentation required by the University, including (but not limited to) doctor’s notes.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters. You are instructed to read the following for more information: http://www.utm.utoronto.ca/academicintegrity/
+office-dean-academic-integrity and http://academicintegrity.utoronto.ca/).
+Normally, students may be required to submit their course essays to Turnitin.com for a review of textual similarity and detection of
+possible plagiarism. In doing so, students will allow their essays to be included as source documents in the Turnitin.com reference
+database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University's use of the
+Turnitin.com service are described on the Turnitin.com web site.
+Expectations for Conduct in the Academic Setting
+Students agree that by taking this course, they agree to adhere to the I CCIT Expectations for Conduct in the Academic Setting set
+out at https://www.utm.utoronto.ca/iccit/student-resources/policies-procedures/iccit-code-conduct.
+Copyright in Instructional Settings
+If a student wishes to tape-record, photograph, video-record or otherwise reproduce lecture presentations, course notes or other
+similar materials provided by instructors, he or she must obtain the instructor’s written consent beforehand. Otherwise all such
+reproduction is an infringement of copyright and is absolutely prohibited. In the case of private use by students with disabilities, the
+instructor’s consent will not be unreasonably withheld.
+For more information on copyright and the University of Toronto, please visit
+https://onesearch.library.utoronto.ca/copyright/copyright-resources.
+Code submitted for assignments in this class must be the original product of the student(s) submitting it. Ethical code reuse
+practices will be taught and must be followed.
+Generative AI Tools in the Class
+This course focuses on the development of programming skills and strategies, and there may be areas where use of Generative AI
+(such as ChatGPT and similar tools) may enhance the educational experience. Students may be able to utilize Generative AI tools
+for some of these tasks, as announced by the instructor. However, it is important to note that using Generative AI to write entire
+assignments, code files, exams, or other major assignments for this course without explicit permission will not be permitted and
+will diminish the critical thinking skills that are a learning outcome. Students are expected to understand and abide by the principles
+of academic integrity when using these tools.
+Equity Statement
+The University of Toronto is committed to equity and respect for diversity. All members of the learning environment in this course
+should strive to create an atmosphere of mutual respect. As a course instructor, I will neither condone nor tolerate behaviour that
+undermines the dignity or self-esteem of any individual in this course and wish to be alerted to any attempt to create an intimidating
+or hostile environment. It is our collective responsibility to create a space that is inclusive and welcomes discussion.
+Discrimination, harassment and hate speech will not be tolerated. If you have any questions, comments, or concerns you may
+contact the UTM Equity and Diversity officer at edo.utm@utoronto.ca or the University of Toronto Mississauga Students' Union
+Vice President Equity at vpequity@utmsu.ca.
+http://www.utm.utoronto.ca/equity-diversity/
+Other Resources
+AccessAbility
+The University provides academic accommodations for students with disabilities in accordance with the terms of the Ontario
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 6 of 9
+Human Rights Code, including those who have a physical, sensory, or learning disability, mental health condition, acquired brain
+injury, or chronic health condition, be it visible or hidden.
+If you have a disability or health consideration that may require accommodations, please approach the AccessAbility Resource
+Centre as soon as possible. The AccessAbility staff are available by appointment to assess specific needs, provide referrals and
+arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your
+learning goals in this course.
+To register with AccessAbility*, please call the centre at 905-569-4699 or e-mail access.utm@utoronto.ca.
+http://www.utm.utoronto.ca/access/
+*Students attending Sheridan-based courses with accommodation needs must register with the AccessAbility Resources Centre at
+UTM and the Accessible Learning Services at Sheridan College. For assistance at Sheridan, please contact Accessible Learning
+Services at 905-845-9430, ext. 2530 or trafalgar.als@sheridancollege.ca. For more information, please visit:
+https://www.sheridancollege.ca/en/student-life/student-services/accessible-learning-services.
+Robert Gillespie Academic Skills Centre
+The centre offers wide-ranging support to help students identify and develop the academic skills they need for success in their
+studies, including: understanding learning styles; essay and report writing; time management; lecture-listening; note-taking; and
+studying for tests and exams.
+http://www.utm.utoronto.ca/asc
+UTM Library (Hazel McCallion Academic Learning Centre)
+The UTM library provides access to a vast collection of online and print resources to faculty, staff, and students. Various services
+are available to students, including borrowing, interlibrary loans, online references, research help, laptop loans and the RBC
+Learning Commons.
+http://library.utm.utoronto.ca
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 7 of 9
+Date Topic
+2024-01-09 Module 1
+Tentative Topic: What is computational thinking? What is Python?
+Reading:
+1. Introduction to Python
+2. Variables and Expressions
+2024-01-16 Module 2
+Tentative Topic: Basic program components and structure: Types, Branching
+Reading:
+3. Types
+4. Branching
+2024-01-23 Module 3
+Tentative Topic: Loops and Functions.
+Reading:
+5. Loops
+6. Functions
+2024-01-30 Module 4
+Tentative Topic: Lists and Files
+Reading:
+7. Lists
+8. Files
+2024-02-06 Module 5
+Tentative Topic: Exceptions
+Reading:
+9. Exceptions
+2024-02-13 Module 6
+Tentative Topic: Sets and Dictionaries
+Reading:
+10. Sets
+11. Dictionaries
+Course Schedule
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 8 of 9
+2024-02-27 Module 7
+Test 1.
+2024-03-05 Module 8
+Tentative Topic: Modules
+Reading:
+12. Modules
+2024-03-12 Module 9
+Tentative Topic: Data Visualization
+Reading:
+13. Searching and Sorting Algorithms
+14. Plotting
+2024-03-19 Module 10
+Tentative Topic: Future of Programming
+2024-03-26 Module 11
+Tentative Topic: Presentations on Visualizing and Analysing Data
+2024-04-02 Module 12
+Tentative Topic: Test 2
+Last Date to drop course from Academic Record and GPA is March 11, 2024.
+Every attempt will be made to follow this syllabus, but its content are subject to change, according to the rules as outlined in the
+UTM Instructor's Handbook, section 3.2.2.
+CCT111H5S - Russell, Luke 2024-01-09 09:02:11 Page 9 of 9

@@ -1,0 +1,229 @@
+Western University - Faculty of Engineering
+Department of Mechanical & Materials Engineering
+MME 4499 - Mechanical Engineering Design Project
+COURSE OUTLINE – 2023-2024
+CALENDAR DESCRIPTION:
+MME 4499 is the full-year 4th year capstone project course that is the culmination of what students have learned in their program. Students will develop and practice engineering design skills by working on a team-based project. Students will experience all phases of the design process, including problem definition, generation and evaluation of concepts, engineering analysis, prototyping, testing, and preparation of design documentation. Students will not only be evaluated on technical deliverables, but also on project management, time management, and communications skills.
+COURSE
+INFORMATION:
+Instructors
+Email
+Office
+Phone
+Office Hours
+Dr. J. Makaran, P.Eng.
+(Course Coordinator)
+jmakaran@uwo.ca
+SEB 3095
+x 86045
+By Appointment
+Dr. D. Langohr, P.Eng.
+glangohr@uwo.ca
+SEB 2063A
+x 84859
+By Appointment
+Dr. R. Willing
+rwilling@uwo.ca
+TEB 363
+x 80295
+By Appointment
+Students must use their Western (@uwo.ca) email addresses when contacting their instructors, and use appropriate / agreed upon forms of address when contacting faculty and industry sponsors.
+Lectures
+(in-person)
+See Draft My Schedule
+Tutorials (team meeting/advising)
+Note: Tutorial time should be interpreted as the time set aside to meet with the faculty advisor as well as to hold weekly team meetings. This means that tutorials are mandatory unless agreed otherwise with the project advisor. Permissions to not attend the tutorial are to be granted by the project advisor where teams and faculty advisors agree upon another meeting date and time. It is expected that the faculty teams and advisors meet one time per week as a minimum. Team meetings may be in-person, or may occur via Zoom or MS-Teams.
+Full Course 1.0 Credits
+PREREQUISITES:
+Completion of third year of the Mechanical Engineering Program.
+Unless you have either the prerequisites for this course or written special permission from your dean to enroll in it, you will be removed from this course and it will be deleted from your record. This decision may not be appealed. You will receive no adjustment to your fees if you are dropped from a course for failing to have the necessary prerequisites.
+ANTIREQUISITES:
+CBE 4497, CEE 4441, ECE 4416, ES 4499, SE 4450
+ACCREDITATION
+UNITS:
+Complementary Studies = 25%, Engineering Design = 75%
+TOPICS:
+Students work in teams on a major design project. Suitable design projects may be defined by students, faculty, or industry sponsors. In addition, all students are required to attend the scheduled course lectures.
+LEARNING
+OUTCOMES:
+To address the considerations above, the course is intended to provide students with an opportunity to learn and practice the design methodology and associated soft skills by seeking
+MME 4499 Course Outline – 2023-2024 2
+an engineering solution to a real-life problem. At the end of the course, students will be able to:
+• Systematically generate an engineering solution that satisfies the requirements and constraints imposed by the design beneficiary
+• Apply and justify the steps involved in the engineering design process by demonstrating critical thinking about the design and design decisions:
+ Define the scope and the objectives of the design problem
+ Collect, analyze and evaluate relevant design solutions that were previously developed to address similar and/or related problems
+ Investigate and evaluate candidate design concepts from functional, structural, safety, environmental, manufacturing, and economic perspectives
+ Apply previously acquired engineering knowledge to identify the optimal candidate solution to the open-ended design problem
+ Generate complete embodiments of the selected design solution through the application of the relevant engineering standards, codes and design practices
+ Validate the selected design through virtual prototypes, including mathematical models and computer-aided engineering (CAE) tools
+ Assess the functional and economic feasibility of a physical prototype
+ Validate the final design solution by means of a functional physical prototype
+• Prepare professional-quality design documentation to include sketches, detail and assembly drawings, bills of materials, schematics, etc.
+• Apply communication skills to effectively communicate engineering ideas verbally and in writing
+• Manage and apply the principles of effective team interaction: organization, management, and motivation
+• Apply design-related skills to include project management as well as the assessment of environmental, legal, ethical and social implications of the developed design solution
+• Demonstrate effective teamwork and communication skills
+• Demonstrate effective time management skills, supported through the use of MS Project.
+TEXTBOOK:
+No textbook will be assigned.
+REFERENCES:
+Dependent upon choice of project. Use of engineering books and design codes and standards will be required.
+TECHNICAL REQUIREMENTS:
+Students will be expected to have a computer that is capable of running the entire MS Office set of software, including but not limited to; Excel, Powerpoint, Project, Visio, and Word.
+In the event a pivot to online learning is required, students will be expected to have a stable internet connection.
+UNITS:
+SI units are encouraged. However, the use of English units is permitted, if justified and approved by the project advisor.
+EVALUATION:
+Report Rubrics, including items to be evaluated will be available on the course OWL website. A mark breakdown for the course may be found in the table below.
+NOTE: The due dates for reports may be found in the table below. In order to encourage effective project and time management, there will be no extensions granted.
+MME 4499 Course Outline – 2023-2024 3
+Item
+Deliverable
+Weight
+1
+Team Formation
+2%
+2
+Project selection
+3%
+3
+Report 1: Problem statement, state-of-the-art review, design specifications
+10%
+4
+Report 2: Conceptual Design
+10%
+5
+Concept Design Presentation
+10%
+6
+Report 3: Detailed Design (including drawing package and prototype test plans)
+15%
+7
+Final Design Presentation
+10%
+8
+Final Project Report Prototyping, Testing, Design Iterations
+25%
+9
+Participation and professionalism (including lecture attendance)
+15%
+A passing grade in this course shall be equivalent to 60%. The items in the table above are subject to adjustments and changes as needed. Students who have failed an Engineering course (i.e., <50%) must repeat all components of the course. No special permissions will be granted enabling a student to retain evaluation marks from previous years. Previously completed evaluations cannot be resubmitted for grading by the student in subsequent years.
+• The deliverables in the table above are assigned to teams except for Team Formation, Participation and Professionalism which is an individual mark.
+• Design teams will be formed around approved project topics to be determined early in the course. A dedicated OWL enrolment feature will be used for team signup. The opening of the team signup feature will be announced through OWL.
+• Design teams can be formed by a minimum of 3 and a maximum of 4 members. No exceptions from this rule will be allowed.
+• Individuals who do not join a project group by the due date will forfeit the marks allotted for this task and will be assigned to a group at the discretion of the faculty team. Faculty advisors reserve the right to assign students to groups and projects as appropriate.
+• Faculty members will set up the individual team sites for the teams that they are supervising.
+• Teams will be provided $800 for project materials. Any additional funding requirements will be provided through the project sponsor if applicable. All project material acquisition being made through the established procedure that will be communicated during the course, or through the project sponsor where appropriate.
+• While the default assumption for team submissions is that all team members have contributed equally and hence, they should receive identical marks for team deliverables, the project advisor can discretionarily adjust the marks depending on individual contributions brought to the team effort.
+• At the latitude of the project advisor, extensively prolonged unsatisfactory assessment and/or project progress may result in immediate project termination and course failure.
+• All team members are expected to contribute equally to team’s efforts. This will be periodically verified by project advisors with team members being held accountable for their
+MME 4499 Course Outline – 2023-2024 4
+activities. To that end, if it is deemed by the faculty advisor that all group members are not contributing equally to project deliverables, individual group member contributions will be updated on a weekly basis with individual marks assigned accordingly. At the latitude of the project advisor students who continue to demonstrate insufficient contribution may be removed from the team resulting in course failure.
+• Project topics could be proposed by: i) project advisors; ii) external to the course faculty members; iii) student clubs; iv) third party/industry partners v) lab managers and UMS. Since certain conditions are to be met by a particular design problem in order to become an approved project topic in the course, those interested to propose projects falling under the last two categories are encouraged to contact the course coordinator as early as possible.
+• Professional-level deliverables are expected in the course, regardless of their format (written or oral). Please keep this in mind while preparing your submissions and make sure to allocate enough time for this step.
+TEAMWORK:
+Students will be working in design teams, typically of 3 to 4 students. Students will be required to present reports at various times during the year.
+ENGLISH:
+In accordance with Senate and Faculty Policy, students may be penalized up to 10% of the marks on all assignments, tests, and examinations for improper use of English. Additionally, poorly written work, may be returned without grading. If resubmission of the work is permitted, it may be graded with marks deducted for poor English and/or late submission.
+Professional-level deliverables are expected in the course, regardless of their format. Please keep this in mind while preparing your submissions and make sure to allocate enough time for this step.
+CLASSROOM DEMEANOR:
+The instructor is committed to providing a respectful learning environment for all students involved in this course. This is a collective responsibility of the instructor and students, and therefore students partaking in this course agree to abide by this criterion.
+• Please arrive to class on time
+• Keep in mind the different cultural and linguistic backgrounds of the students in the course.
+• Be courteous toward the instructor, your colleagues, and authors whose work you are discussing.
+• Be respectful of the diversity of viewpoints that you will encounter in the class and in your readings. The exchange of diverse ideas and opinions is part of the scholarly environment.
+• Be professional and scholarly in all course activities. Cite the ideas of others appropriately.
+Disruptive behaviour of any type during classes, is unacceptable. Students engaging in disruptive behaviour may be subject to disciplinary measures under the Code of Student Conduct.
+ATTENDANCE:
+Attendance in lectures is mandatory and will contribute towards the participation and teamwork grade.
+CHEATING:
+University policy states that cheating, including plagiarism, is a scholastic offense. The commission of a scholastic offence is attended by academic penalties which might include expulsion from the program. If you are caught cheating, there will be no second warning.
+Students must write their essays and assignments in their own words. Whenever students take an idea, or a passage of text from another author, they must acknowledge their debt both by using quotation marks where appropriate and by proper referencing such as footnotes or citations. Plagiarism is a major academic offence. Scholastic offences are taken seriously and attended by academic penalties. Students are directed to read the appropriate policy,
+MME 4499 Course Outline – 2023-2024 5
+specifically, the definition of what constitutes a Scholastic Offence, at the following Web site:
+http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=1&SelectedCalendar=Live&ArchiveID=#Page_20
+KEY SESSIONAL DATES:
+Fall Term
+Fall Classes Begin: September 7
+Thanksgiving: October 9
+Fall Reading Week: October 30 – November 5
+Fall Classes End: December 8, 2023
+Study Day: December 9
+Fall Exam period: December 10 – 22
+Winter Term
+Winter Classes Begin: January 8
+Winter Reading Week: February 17 – February 25
+Winter Classes End: April 8
+Winter Exam period: April 11 – 30, 2024
+NOTICES:
+Students are responsible for checking their Western email and notices posted on OWL (http://owl.uwo.ca) for news and updates. This is the primary method by which information will be disseminated to all students in the class.
+If students need assistance with the course OWL site, they can seek support on the OWL Help page. Alternatively, they can contact the Western Technology Services Helpdesk. They can be contacted by phone at 519-661-3800 or ext. 83800.
+Western University - Faculty of Engineering
+2023-2024
+STATEMENT ON GENDER-BASED AND SEXUAL VIOLENCE
+Western is committed to reducing incidents of gender-based and sexual violence and providing compassionate support to anyone who has gone through these traumatic events. If you have experienced gender-based or sexual violence (either recently or in the past), you will find information about support services for survivors, including emergency contacts, here. To connect with a case manager or set up an appointment, please contact support@uwo.ca.
+INSTRUCTIONS FOR STUDENTS UNABLE TO WRITE TESTS OR EXAMINATIONS OR SUBMIT ASSIGNMENTS AS SCHEDULED
+If, on medical or compassionate grounds, you are unable to write term tests or final examinations or complete course work by the due date, you should follow the instructions listed below. You should understand that academic relief will not be granted automatically on request. You must demonstrate to your department (or the Undergraduate Services Office) that there are compelling medical or compassionate grounds that can be documented before academic relief will be considered. Different regulations apply to term tests, final examinations and late assignments. Please read the instructions carefully.
+A. GENERAL REGULATIONS & PROCEDURES
+1. All first-year students will report to the Undergraduate Services Office by submitting the Academic Consideration Request Form, for all instances.
+2. If you are an upper year student and you are missing a test/assignment/lab or examination you will report the absence by submitting Academic Consideration Request Form. Absences worth LESS THAN 10% of your mark, will be processed by your department office. If your course work is worth 10% OR MORE of your final grade, your request will be processed by the Undergraduate Services Office.
+3. Check the course outline to see if the instructor has a policy for missed tests, examinations, late assignments or attendance.
+4. Documentation must be provided as soon as possible. If no one is available in your department office or the Undergraduate Services Office, leave a message clearly stating your name & student number and reason for your call. The department telephone numbers are given at the end of these instructions.
+5. If you decide to write a test or an examination you should be prepared to accept the mark you earn. Rewriting tests or examinations or having the value of a test or examination reweighted on a retroactive basis is not permitted.
+B. TERM/MIDTERM TESTS
+1. If you are in first year and you are unable to write a midterm/term test, contact the Undergraduate Services Office, SEB 2097 PRIOR to the scheduled date of the test.
+2. If you are an upper year student and you are unable to write a midterm/term test, inform your instructor PRIOR to the scheduled date of the test and request relief through the Academic Consideration Request Form. If the instructor is not available, leave a message for him/her at the department office. If the test is worth LESS THAN 10% of your mark, your request for relief will be processed by your department office. If the test is worth MORE THAN 10% of your final grade your request for relief will be processed by the Undergraduate Services Office.
+3. Be prepared to attach supporting documentation to the Department Chair and/or the Undergraduate Services Office through the online form (see next page for information on documentation).
+4. Discuss with the instructor if and when the test can be rescheduled. The approval of the Chair or the Undergraduate Services Office is required when rescheduling midterm/term tests.
+C. FINAL EXAMINATIONS
+1. If you are unable to write a final examination, contact the Undergraduate Services Office PRIOR TO THE SCHEDULED EXAMINATION TIME to report your absence using the Academic Consideration Request Form and request permission to write a Special Final Examination. If no one is available in the Undergraduate Services Office, leave a message clearly stating your name & student number.
+2. Be prepared to provide the Undergraduate Services Office with supporting documentation (see next page for information on documentation) the next day, or as soon as possible (in cases where students are hospitalized). The following circumstances are not considered grounds for missing a final examination or requesting special examinations: common cold, headache, sleeping in, misreading timetable and travel arrangements.
+3. In order to receive permission to write a Special Examination, you must obtain the approval of the Chair of the Department and the Associate Dean and in order to apply you must submit an "Application for a Special Exam” form. The Undergraduate Services Office will then notify the course instructor(s) and reschedule the examination on your behalf.
+PLEASE NOTE: It is the student's responsibility to check the date, time and location of the Special Examination.
+D. LATE ASSIGNMENTS
+1. Advise the instructor if you are having problems completing the assignment on time (prior to the due date of the assignment).
+2. Be prepared to submit the Academic Consideration Request Form and provide documentation if requested by the instructor (see reverse side for information on documentation).
+3. If you are granted an extension, establish a due date. The approval of the Chair of your Department (or the Assistant Dean, First Year Studies, if you are in first year) is not required if assignments will be completed prior to the last day of classes.
+4. i) Extensions beyond the end of classes must have the consent of the instructor, the department Chair and the Associate Dean, Undergraduate Studies. Documentation is mandatory.
+ii) A Recommendation of Incomplete Form must be filled out indicating the work to be completed and the date by which it is due. This form must be signed by the student, the instructor, the department Chair and the Associate Dean, Undergraduate Studies.
+E. SHORT ABSENCES
+If you miss a class due to a minor illness or other problem, check your course outlines for information regarding attendance requirements and make sure you are not missing a test, laboratory or assignment. Cover any readings and arrange to borrow notes from a classmate.
+F. EXTENDED ABSENCES
+If you are absent more than one week or if you get too far behind to catch up, you should consider reducing your workload by dropping one or more courses. (Note drop deadlines listed below). You are strongly encouraged to seek advice from your Academic Counsellor in the Undergraduate Services Office.
+G. DOCUMENTATION
+If you consulted an off-campus doctor or Student Health Services regarding your illness or personal problem, you must provide the doctor with a Student Medical Certificate to complete at the time of your visit and then bring it to the Department (or the Undergraduate Services Office). This note must contain the following information: severity of illness, effect on academic studies and duration of absence. Regular doctor’s notes will not be accepted; only the Student Medical Certificate will be accepted.
+In Case of Serious Illness of a Family Member: Provide a Student Medical Certificate to your family member's physician to complete and bring it to the Department (or the Undergraduate Services Office if you are in first year).
+In Case of a Death: Obtain a copy of the death certificate or the notice provided by the funeral director's office. You must include your relationship to the deceased and bring it to the Department (or the Undergraduate Services Office if you are in first year).
+For Other Extenuating Circumstances: If you are not sure what documentation to provide, ask the Departmental Office (or the Undergraduate Services Office if you are in first year) for direction.
+Note: Forged notes and certificates will be dealt with severely. To submit a forged document is a scholastic offence (see below).
+H. ACADEMIC CONCERNS
+1. You need to know if your instructors have a policy on late penalties, missed tests, etc. This information may be included on the course outlines. If not, ask your instructor(s).
+2. You should also be aware of attendance requirements in some courses. You can be debarred from writing the final examination if your attendance is not satisfactory.
+3. If you are in academic difficulty, check out the minimum requirements for progression in the calendar. If in doubt, see your Academic Counsellor.
+Calendar References: Check these regulations in your 2023 Western Academic Calendar available at www.westerncalendar.uwo.ca.
+Absences Due to Illness:
+https://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=1&SelectedCalendar=Live&ArchiveID=#Page_135 Academic Accommodations for Students with Disabilities: http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=1&SelectedCalendar=Live&ArchiveID=#Page_10
+Academic Accommodations for Religious or Holy Days:
+http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=1&SelectedCalendar=Live&ArchiveID=#Page_16
+Course Withdrawals: http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=6&SelectedCalendar=Live&ArchiveID=#Page_75
+Examinations: http://www.westerncalendar.uwo.ca/PolicyPages.cfm?PolicyCategoryID=5&command=showCategory&SelectedCalendar=Live&ArchiveID=
+Scheduling of Term Assignments: http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=5&SelectedCalendar=Live&ArchiveID=#SubHeading_78
+Scholastic Offences: http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=1&SelectedCalendar=Live&ArchiveID=#Page_20
+Student Medical Certificate: https://www.eng.uwo.ca/files/undergraduate/student-medical-certificate.pdf
+Engineering Academic Regulations: http://www.westerncalendar.uwo.ca/PolicyPages.cfm?Command=showCategory&PolicyCategoryID=4&SelectedCalendar=Live&ArchiveID=#Page_86
+Note: These instructions apply to all students registered in the Faculty of Engineering regardless of whether the courses are offered by the Faculty of Engineering or other faculties in the University.
+Add Deadlines: First term half course (i.e. “A” or “F”) September 15, 2023
+Full courses and full-year half course (i.e. “E”, “Y” or no suffix) September 15, 2023
+Second term half course (i.e. “B” or “G”) January 16, 2024
+Drop Deadlines: First term half course without penalty (i.e. “A” or “F”) November 13, 2023
+Full courses and full-year half courses without penalty (i.e. “E”,“Y” or no suffix) November 30, 2023
+Second term half or second term full course without penalty (i.e. “B” or “G”) March 7, 2024
+Contact Information:
+Undergraduate Services Office: SEB 2097 Phone: 519-661-2130 E-mail: engugrad@uwo.ca
+Chemical & Green Process Engineering: TEB 477 Phone: 519-661-2131 E-mail: cbeugrad@uwo.ca
+Civil Engineering: SEB 3005 Phone: 519-661-2139 E-mail: civil@uwo.ca
+Computer, Electrical, Mechatronic Systems & Software Engineering TEB 279 Phone: 519-661-3758 E-mail: eceugrad@uwo.ca
+Integrated Engineering ACEB 2410 Phone: 519-661-6725 E-mail: engceli@uwo.ca
+Mechanical Engineering: SEB 3002 Phone: 519-661-4122 E-mail: mmeundergraduate@uwo.ca
+Revised 06/25/2023

@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation | 5% | Document outlining team members, roles, and initial ideas for the social enterprise. | September 15, 2022 |
+| Needs Assessment Report | 10% | Report analyzing community needs and identifying a specific social issue to address. | October 15, 2022 |
+| Market Research | 15% | Detailed report on market research findings, including analysis of target audience and competition. | November 15, 2022 |
+| Business Model Proposal | 15% | Proposal outlining the business model, including value proposition, revenue streams, and impact. | December 15, 2022 |
+| Draft Business Plan | 15% | Draft of the comprehensive business plan, including mission, objectives, and operational plans. | January 31, 2023 |
+| Financial Projections and Strategy | 10% | Developing financial projections and strategies, including budgets, funding needs, and financial forecasts. | February 28, 2023 |
+| Pitch Preparation and Presentation | 20% | Preparing pitch materials and presenting the business plan to potential investors or partners. | March 15, 2023 |
+| Final Business Plan Submission | 10% | Finalizing and submitting the revised business plan. | April 1, 2023 |
+| Course Reflection | 10% | Reflective report on the course experience, challenges, and learning outcomes. | April 15, 2023 |

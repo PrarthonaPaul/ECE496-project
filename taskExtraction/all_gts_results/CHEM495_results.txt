@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation | 5% | Document detailing team members, roles, and initial project ideas. | September 15, 2022 |
+| Literature Review & Research Proposal | 15% | Conduct a literature review and prepare a research proposal for material synthesis. | October 15, 2022 |
+| Synthesis Plan | 10% | Develop a detailed plan for material synthesis, including methods, equipment, and timeline. | November 15, 2022 |
+| Mid-Term Progress Report | 10% | Report on progress, initial synthesis results, and challenges encountered. | December 15, 2022 |
+| Synthesis & Characterization | 20% | Continue material synthesis, perform characterization, and document preliminary findings. | February 15, 2023 |
+| Application Analysis & Optimization | 15% | Analyze applications, evaluate synthesized materials, and perform optimization. | March 15, 2023 |
+| Final Presentation | 15% | Present the entire project, covering synthesis, characterization, and application analysis. | April 15, 2023 |
+| Final Report | 10% | Submit a detailed report encompassing all project aspects from synthesis to application analysis. | April 15, 2023 |

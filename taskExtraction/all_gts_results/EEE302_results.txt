@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Group Formation | N/A | N/A | Week 2 |
+| Project Proposal Submission | 10% | Submit a detailed project proposal outlining the scope, objectives, and initial design concepts for a renewable energy system, including a problem statement, design approaches, and a project timeline. | Week 2 |
+| Solar System Design Assignment | 15% | Design a small-scale solar energy system, select components, and perform efficiency calculations. Provide a report on design choices and calculations. | Week 4 |
+| Wind System Design Assignment | 15% | Design a wind energy system, including a technical report with design calculations and justification for component selection. | Week 6 |
+| Interim Design Review Presentation | 20% | Present the integrated solar and wind system design to the class, covering technical aspects, design innovation, and team collaboration. | Week 8 |
+| Environmental Impact Report | 15% | Assess and analyze the environmental impact of the proposed renewable energy system, considering sustainability, resource usage, and potential hazards, and support findings with data. | Week 10 |
+| Final Project Report and Prototype Demonstration | 25% | Submit a comprehensive report detailing the final design, testing results, and system performance, along with a working prototype demonstration. The evaluation focuses on functionality, innovation, and presentation. | Week 12 |

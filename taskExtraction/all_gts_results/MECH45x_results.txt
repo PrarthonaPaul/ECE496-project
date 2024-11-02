@@ -1,0 +1,31 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team dynamics and client-designer communication | N/A | N/A | N/A |
+| Reflection on the design process and on your own professional development | N/A | N/A | N/A |
+| Proper assessment of your client’s needs | N/A | N/A | N/A |
+| Derivation of appropriate project requirements and evaluation criteria | N/A | N/A | N/A |
+| Development of conceptual solutions | N/A | N/A | N/A |
+| Proper analysis of your options and the selection of the most promising solution | N/A | N/A | N/A |
+| Detailed design, including the necessary engineering analyses | N/A | N/A | N/A |
+| Development of detailed engineering drawings of components that you will build | N/A | N/A | N/A |
+| Selection of suitable manufacturing methods | N/A | N/A | N/A |
+| Component and/or material procurement | N/A | N/A | N/A |
+| Prototype construction | N/A | N/A | N/A |
+| Prototype testing and evaluation | N/A | N/A | N/A |
+| Technical communication of results (verbal and written) | N/A | N/A | N/A |
+| Invited lectures by professional engineers on how the design process works in a company or organization, usually focusing on a specific project or topic | N/A | N/A | N/A |
+| In-class milestone-preparation Participatory Workshops, just prior to each major deliverable, to focus on the application of a key design concept to each team’s project | N/A | N/A | N/A |
+| Reflection sessions | N/A | N/A | N/A |
+| Present ONE research paper during the course of the year specifically on an aspect of design methodology, not the project topic per se | N/A | N/A | N/A |
+| Produce a proposal that is acceptable to yourselves, to your client, and to your supervisor, all of whom must sign off on it before you may officially proceed | N/A | N/A | N/A |
+| Involve your mentor in the proposal phase | N/A | N/A | N/A |
+| Expect multiple iterations on the proposal deliverable | N/A | N/A | N/A |
+| Put in 100 hr per term per team member, which implies working on the project for roughly 8 hr per week | N/A | N/A | N/A |
+| Be judged on the prototype, drawings, and models | N/A | N/A | N/A |
+| Solicit feedback from your client, which will be included in the overall evaluation | N/A | N/A | N/A |
+| Present your final design and generate numerous short reports and other documents along the way | N/A | N/A | N/A |
+| End of Course Design and Innovation Day | N/A | N/A | N/A |
+| Use the iPeer on-line peer review process twice in each term as a way of assessing and addressing teamwork issues | N/A | N/A | N/A |
+| Participate in lectures and complete the iPeer evaluations | N/A | N/A | N/A |
+| Maintain a logbook | N/A | N/A | N/A |
+| Conduct a design paper literature review | N/A | N/A | N/A |

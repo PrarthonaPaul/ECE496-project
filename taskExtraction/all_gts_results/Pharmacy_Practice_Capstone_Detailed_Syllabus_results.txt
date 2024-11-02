@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal detailing the pharmacy practice model, target patient population, anticipated outcomes, timeline, and team member roles. | Week 3 |
+| Literature Review and Practice Design | N/A | Conduct a literature review to identify best practices and gaps, and design the practice model, including patient care protocols, workflow, and documentation. | Weeks 4-6 |
+| Implementation Strategy and Simulation | N/A | Develop implementation strategy, create training materials, plan patient communication, and simulate the practice model. | Weeks 7-10 |
+| Outcome Evaluation and Optimization | N/A | Evaluate the outcomes of the simulation, and optimize the practice model using feedback and data. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the development and simulation process, challenges, solutions, and outcomes in a report, and prepare a presentation and poster for the Innovation Showcase. | Weeks 13-15 |

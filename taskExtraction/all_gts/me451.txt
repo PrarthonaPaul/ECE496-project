@@ -1,0 +1,165 @@
+Department of Mechanical Engineering MICHIGAN STATE UNIVERSITY
+ME 451 – Control Systems
+Syllabus
+Fall 2007 (Section II)
+Instructor
+Mr. Umar Farooq
+Phone: 517-432-1085
+Fax: 517-353-1750
+Office: 2565 EB
+Email: farooqu1@egr.msu.edu
+Course Description
+Mathematical modeling of dynamical systems. Standard feedback control formulation. Transient and sinusoidal steady state analysis. Time and frequency domain controller synthesis.
+Prerequisites
+(ME 361 and ECE 345) and completion of Tier I writing requirement.
+Class Time
+MWF 11:30pm - 12:20 pm in 1230 Engineering Building.
+Required Text
+Philips, C. D and Harbor, R. D. Feedback Control Systems, 4th Ed, Prentice Hall, 2000.
+Office Hours
+MWF 3:00pm – 4:00pm in 2565 EB, or by appointment
+Course Web Site
+The course web site http://www.egr.msu.edu/classes/me451/farooqu1/ will serve as the main body by which information and course materials can be obtained outside of lecture and office hours, including homework and exam solutions, worked examples, lecture supplementary notes, old exams, handouts/extras, and so on. It will be updated several times each week. There may be announcements and postings that are not mentioned in class, so you will be expected to visit the site often.
+Laboratory
+Labs will begin week 2 of the semester. Details will be given during week 1 in class.
+Teaching Assistant
+Yunfei Xu
+Phone: 353-8810
+Office: 2553 EB
+Email: xuyunfei@msu.edu
+Office Hours: During lab Tuesday 7:00 -9:50 pm
+ME 451 – Control Systems 1 of 5 Syllabus (F07)
+Department of Mechanical Engineering MICHIGAN STATE UNIVERSITY
+Course Outline
+The following is a tentative outline of materials to be covered mostly from the required textbook.
+0. Mathematics Review (Week 1–2)
+1. Models of Physical Systems (2.1 – 2.7, 2.14) (Week 2–4)
+2. System Responses (4.1 – 4.6) (Week 5–6)
+3. Control System Characteristics (5.1 – 5.7) (Week 7)
+4. Stability Analysis (6.1 – 6.3) (Week 8)
+5. Root Locus Techniques (7.1 – 7.5) (Week 9)
+6. Design via Root Locus (7.6 – 7.11) (Week 10–11)
+7. Frequency Response Techniques (8.1 – 8.3, 8.6 – 8.7) (Week 11–13)
+8. Design via Frequency Response (9.1 – 9.6.. as time permits) (Week 14–15)
+Course Objectives
+1. Mathematics Review: Students will be able to
+a) use matrices to solve algebraic equations
+b) use Laplace transforms to find system transfer function models
+2. Models of Physical Systems: Students will be able to
+a) model coupled electromechanical systems
+b) linearize nonlinear models about a non-zero operating point
+3. System Time Response: Students will be able to
+a) solve 1st and 2nd order system time responses
+b) analyze systems for time response specifications, settling time, overshoot, and rise time
+4. Control System Characteristics: From transfer function models, students will be able to
+a) analyze system characteristics including
+i. Stability via root locus and Routh-Hurwitz criterion
+ii. Sensitivity to parameter variation
+iii. Disturbance rejection and
+iv. Steady-state accuracy
+b) design various controllers to specifications for system characteristics
+5. Frequency Response Analysis & Design: From transfer function models, students will be able to
+a) solve for system frequency response from transfer functions
+b) sketch Bode diagrams for open-loop frequency response functions
+c) determine gain and phase margins from a Bode diagram
+d) design PID controllers from an open-loop frequency response function
+e) design lead and lag controllers from an open-loop frequency response function
+ME 451 – Control Systems 2 of 5 Syllabus (F07)
+Department of Mechanical Engineering MICHIGAN STATE UNIVERSITY
+Homework
+This course will be homework intensive. There will be approximately 12 homework sets assigned. In addition to the usual textbook problems, these will include open-ended design problems and those requiring written responses.
+• Homework will be collected at the beginning of class on the due date.
+• Late homework will generally not be accepted.
+• All homework sets may or may not be weighted equally.
+• Unclaimed homework can be collected from the box outside my office (2565 EB).
+Criteria for Evaluation
+Each homework problem will generally be graded according to the following criteria:
+3
+Good attempt without errors or with minor errors
+2
+Good attempt with conceptual deficiency
+1
+Weak attempt and/or major conceptual deficiency
+0
+No effort
+Plagiarism
+Students are encouraged to work together on the homework, but each student must submit their own original work. To copy existing solutions or the work of others—in whole or in part—is plagiarism and will not be tolerated. The Department of Mechanical Engineering Plagiarism Policy is given on page 5.
+Exams
+There will be two midterm exams and one final examination. Examinations will be closed book and closed notes, unless stated otherwise. Calculators are allowed but they may not be used to record class materials (data, equations, definitions, and so on). You must show all work for full credit. The tentative examination schedule is indicated below and can also be viewed at http://www.egr.msu.edu/classes/me451/farooqu1/schedule.html.
+• Midterm Exam 1 Friday, Oct 05, 2007
+• Midterm Exam 2 Friday, Nov 16, 2007
+• Final Exam Friday, December 14, 2007
+Makeup Examinations
+Arrangements for make-up exams will be accepted only in extreme circumstances. Written documentation must be presented to the instructor well before the exam; such requests will be evaluated on a “case-by-case” basis.
+Grading Inquiries
+Exam and homework grading inquiries must be in writing. For exams, inquiries must be submitted to the course instructor no later than one week after the exam in question is returned. For homework inquiries, an attempt should first be made with the course grading TA and only should be brought to instructor’s attention if still remains disputed. Re-grades will apply to the entire exam/homework, and may result in the grade going up, going down, or remaining unchanged.
+ME 451 – Control Systems 3 of 5 Syllabus (F07)
+Department of Mechanical Engineering MICHIGAN STATE UNIVERSITY
+Grading Policy
+The following provides a basic partition of points and the target grading scale.
+Homework
+15%
+Midterm Exam 1
+15%
+Midterm Exam 2
+15%
+Final Exam
+30%
+Laboratory*
+25%
+*Lab attendance and a minimum of 70% lab grade are required to pass the course!
+90 – 100
+4.0
+85 – 89
+3.5
+80 – 84
+3.0
+75 – 79
+2.5
+70 – 74
+2.0
+65 – 69
+1.5
+60 – 64
+1.0
+0 – 59
+0.0
+If the target scale leads to a class average that is “too low”, the grades will be “curved.” Adjustments will be made only to the benefit of the students, that is, grades shall not be “curved” in a way that lowers the class average. Instructor may use the second formula for grading if a student does extremely poorly in either one of the exams or on homework. This scheme consists of two best scores among exams/ homework with 45% final exam:
+Homework
+15%
+Midterm Exam 1
+15%
+Midterm Exam 2
+15%
+Final Exam
+45%
+Laboratory
+25%
+Finally, the instructor reserves the right to base your final grade solely on your final exam, if it benefits you.
+Your efforts will be closely monitored throughout the semester. Individual trends in the submission of homework, class participation and examination grades will be considered when evaluating your performance in terms of a numerical grade. However, adjustments will be made only if your score is close to a “cut-off” grade (e.g., between a 3.5 and 4.0).
+Attendance & Participation
+Regular class attendance and participation is expected. There will be no attendance policy unless it is warranted by noticeable class absence. The instructor reserves the right to incorporate a formal attendance policy as necessary. Should such a policy be instated, attendance will count for no more than 5% of the overall course grade and will be incorporated into the 15% ‘Homework’ partition. Class absence is not an excuse for being unaware of course announcements or course materials.
+Classroom Ethics
+Control system is your class, but during class time I ask you to observe ethical control as well so:
+DO
+DO NOT
+Pay attention, participate, and ask questions.
+Sleep, or talk ‘unnecessarily.’
+Respect the instructor, classroom, and your peers.
+Read newspapers or other non-academic materials.
+Leave class ‘unnecessarily.’
+ME 451 – Control Systems 4 of 5 Syllabus (F07)
+Department of Mechanical Engineering MICHIGAN STATE UNIVERSITY
+Department of Mechanical Engineering Plagiarism Policy1
+Plagiarism is not tolerated in the Department of Mechanical Engineering. It shall be punished according to the student conduct code of the University. Integrity and honesty are essential to maintain society's trust in the engineering profession. This policy is intended to reinforce these values.
+For the purpose of this policy, plagiarism means presenting, as one's own, without proper citation, the words, work or opinions of someone else.
+A. You commit plagiarism if you submit as your own work:
+1. Part or all of an assignment copied from another person's assignment, including reports, drawings, web sites, computer files, or hardware.
+2. Part or all of an assignment copied or paraphrased from a source, such as a book, magazine, pamphlet, web site, or web posting, without proper citation.
+3. The sequence of ideas, arrangement of material, pattern or thought of someone else, even though you express them in your own words. Plagiarism occurs when such a sequence of ideas is transferred from a source to a paper without the process of digestion, integration and reorganization in the writer's mind, and without acknowledgement in the paper.
+B. You are an accomplice in plagiarism and equally guilty if you:
+1. Knowingly allow your work, in preliminary or finished form, to be copied and submitted as the work of another.
+2. Prepare an assignment for another student, and allow it to be submitted as his or her own work.
+3. Keep or contribute to a file of assignments with the clear intent that these assignments will be copied and submitted as the work of anyone other than the originator of the assignment. (The student who knows that his or her work is being copied is presumed to consent to its being copied.)
+1 Based upon the MSU English Department's policy on plagiarism: http://www.msu.edu/unit/engdept/undergrad/plagiarism.html
+ME 451 – Control Systems 5 of 5 Syllabus (F07)

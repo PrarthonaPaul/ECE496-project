@@ -1,0 +1,19 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Problem Formulation | 6% | N/A | N/A |
+| Requirements Engineering | 6% | N/A | N/A |
+| Architecture | 8% | N/A | N/A |
+| Design | 35% | Includes design specification based on identified architecture, design verification, validation, quality assurance, and a design specification document. | N/A |
+| Implementation | 35% | Involves software development for modern platforms, implementation verification, validation, quality assurance, and program documentation. | N/A |
+| Integration and Delivery | 10% | N/A | N/A |
+| Software Life Cycle | N/A | General software engineering issues, software development life cycle, and motivation for software engineering. | N/A |
+| Software Design Languages | N/A | PSL/PSA and Superman. | N/A |
+| Yourdan's Composite Design | N/A | N/A | N/A |
+| Jackson's Methodology | N/A | N/A | N/A |
+| Top Down versus Bottom Up Design | N/A | N/A | N/A |
+| White Box Testing | N/A | N/A | N/A |
+| Black Box Testing | N/A | N/A | N/A |
+| Life Cycle Testing | N/A | N/A | N/A |
+| Walkthroughs | N/A | N/A | N/A |
+| Management of the Software Project | N/A | Scheduling and timing of tasks. | N/A |
+| Software Quality Metrics | N/A | Code metrics and structure metrics. | N/A |

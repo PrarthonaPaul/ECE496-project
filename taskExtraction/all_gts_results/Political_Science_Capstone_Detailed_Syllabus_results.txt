@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Submit a proposal outlining the political issue, research question, advocacy goal, and timeline. Assign group roles and responsibilities. | Week 3 |
+| Research and Data Collection | N/A | Conduct research, including literature reviews, surveys, interviews, and case studies, on the chosen political issue. | Weeks 4-6 |
+| Analysis and Strategy Development | N/A | Analyze collected data, identify trends, and develop a strategy to address the political issue through policy recommendations, public campaigns, or advocacy. | Weeks 7-10 |
+| Implementation and Outreach | N/A | Execute the developed strategy, reach out to stakeholders, policymakers, and the public, and monitor outreach impact. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the research process, analysis, and outcomes in a report, and prepare a presentation for the Innovation Showcase. | Weeks 13-15 |
+| Class Meetings | 20 points | Attend and actively participate in class meetings. | N/A |
+| Individual Meetings | 12 points | Attend individual meetings to discuss ideas, readings, feedback, and progress. | Sep 4, Oct 2, Nov 13 |
+| Poster | 10 points | Create a poster for the Innovation Showcase. | Dec 6 |

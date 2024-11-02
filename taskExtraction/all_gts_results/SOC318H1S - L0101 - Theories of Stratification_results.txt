@@ -1,0 +1,43 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Return the expectations agreement | N/A | Indicate that you have read the syllabus thoroughly and agree to abide by the expectations within it. | First day of class |
+| Evaluate peer-reviewed articles | N/A | Receive two peer-reviewed articles and evaluate how each builds on course arguments and critically evaluate the original argument. | N/A |
+| Assignment Zero | 1% | Turn in an assignment with similar questions to Assignments A and B, graded on following instructions. | Wednesday 1.17 by 11:59 PM |
+| Peer Review | 3% | Evaluate peers' arguments and provide written feedback at various points throughout the semester. | Wednesday 1.24 at 11:59 PM (Peer Review 1), Wednesday 1.31 at 11:59 PM (Peer Review 2) |
+| Literature Review | 50% | Identify a key argument in course readings, assess its theoretical position by researching peer-reviewed journal articles, and write a final paper. | Monday via Quercus 4.8 at Noon |
+| Identify the argument | N/A | Part of the literature review project, identify a key argument in the course readings. | N/A |
+| Find relevant peer-reviewed journal articles | N/A | Part of the literature review project, find relevant peer-reviewed journal articles. | N/A |
+| Read and analyze peer-reviewed journal articles | N/A | Part of the literature review project, read and analyze peer-reviewed journal articles. | N/A |
+| Outline your argument | N/A | Part of the literature review project, outline your argument. | N/A |
+| Write the final paper | N/A | Part of the literature review project, write the final paper. | N/A |
+| Assignments A and B | 46% | Evaluate how each article builds on arguments from earlier in the course and critically evaluate the original argument using new information. | Friday 2.2 at 11:59 PM (Assignment A), Friday 2.9 at 11:59 PM (Assignment B) |
+| Read assigned texts | N/A | Read the required texts and readings for the course. | N/A |
+| Complete reading notes | N/A | Prepare reading notes for each week, summarizing important information and creating easy-to-reference notes. | N/A |
+| Complete pre-class activities | N/A | Finish at least one pre-class activity for most days, leading into the day's activity. | N/A |
+| Complete article summaries | N/A | Ensure you complete article summaries to help with future assignments and prepare for class. | N/A |
+| Prepare for class | N/A | Start preparing for class at least two days prior to the class meeting. | N/A |
+| Contact instructor or TA for help | N/A | Contact the instructor or teaching assistant when struggling with the literature review project. | N/A |
+| Submit assignments in readable formats | N/A | Ensure all assignments are submitted in a format readable by the instructor and TAs (.doc, .docx, .pdf, .odf, or .rtf). | N/A |
+| Submit assignments on time | N/A | Stay in touch with the instructor and TAs to avoid late or missed assignments. | N/A |
+| Seek accommodations for disabilities | N/A | Contact Accessibility Services for accommodations or accessibility concerns about the course, classroom, or materials. | N/A |
+| Read peer-reviewed journal articles | N/A | Read peer-reviewed journal articles, which are generally more challenging than readings in the Inequality Reader. | N/A |
+| Budget time for readings | N/A | Approximately 80% of assigned readings, reading notes, and pre-class activities are in the first half of the semester; budget time accordingly. | N/A |
+| Submit assignments through Ouriginal | N/A | Use Ouriginal, integrated into Quercus, for assignments to detect potential plagiarism. | N/A |
+| Provide secondary material for assignments | N/A | If not using Ouriginal, provide sufficient secondary material (e.g., reading notes, outlines, rough drafts) to establish ownership of work. | N/A |
+| Understand and adhere to academic integrity | N/A | Read and understand the University's statement of academic integrity, avoiding plagiarism and unauthorized help. | N/A |
+| Contact registrar for personal issues | N/A | Address personal issues with your college registrar as they arise to avoid potential late or missed assignments. | N/A |
+| Declare absence on ACORN for medical reasons | N/A | If unable to turn in an assignment due to medical reasons, declare absence on ACORN and email the instructor. | N/A |
+| Seek medical attention | N/A | When declaring absence for medical reasons, also seek medical attention for your health. | N/A |
+| Contact registrar for other reasons | N/A | For family or personal reasons, contact your college registrar and have them email the instructor. | N/A |
+| Wear masks in class | N/A | Wear multi-layer masks covering your mouth and nose during class to respect others and promote inclusion. | N/A |
+| Obtain masks for class | N/A | If you have trouble obtaining masks for class, let the instructor know, and they can provide basic surgical masks. | N/A |
+| Participate in peer discussion groups | N/A | Engage in peer discussion groups during class, a key component of the active learning model. | N/A |
+| Read additional material | N/A | Read the additional material provided by the instructor for each week's readings. | N/A |
+| Create summary notes | N/A | Write down important information in a summary format for each week's readings. | N/A |
+| Create easy-to-reference notes | N/A | Create a set of notes that are easy to reference when completing assignments. | N/A |
+| Complete pre-class activities | N/A | Finish at least one pre-class activity for most days, leading into the day's activity. | N/A |
+| Complete article summaries | N/A | Ensure you complete article summaries to help with future assignments and prepare for class. | N/A |
+| Prepare for class | N/A | Start preparing for class at least two days prior to the class meeting. | N/A |
+| Attend office hours | N/A | Utilize office hours to better understand course content and discuss specific questions or concepts. | N/A |
+| Sign up for office hours | N/A | Sign up for office hours appointments on Quercus using the provided guide. | N/A |
+| Access office hours | N/A | Access office hours by clicking the "Office Hours" link in the left-hand navigation menu on the

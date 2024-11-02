@@ -1,0 +1,6 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Experiment Worksheets | 40% | Students will submit a worksheet answering questions about each experiment conducted in class. Each worksheet is designed to help students understand experiment details and materials covered in lecture in preparation for other assignments. | Multiple dates (see course outline) |
+| Research Proposal | 30% | Students will propose an experiment in a 10-page (double-spaced) paper, covering background literature, research question, hypotheses, experimental procedures, predicted results, and discussion of potential outcomes and implications. | April 05 |
+| Oral Presentation | 20% | Each student will deliver a 20-minute presentation on their research proposal. | March 22 or April 05 |
+| Participation | 10% | Students are expected to complete all four experiments throughout the course and provide a brief commentary and questions on a classmate's presentation. | Multiple dates |

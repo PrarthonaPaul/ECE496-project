@@ -1,0 +1,87 @@
+CE 495B
+CIVIL ENGINEERING DESIGN
+SPRING 2014
+CATALOG DESCRIPTION: A capstone design experience using a team approach for the preliminary and final design of a Civil Engineering Project. Documentation of all stages of the design project. Written and oral presentation of the design project.
+PURPOSE AND OBJECTIVE OF THE COURSE:
+The main objective of this course is to provide understanding of the basic concepts of planning, execution, and design of civil engineering projects to undergraduate students planning to pursue a career in any area of Civil Engineering. The purpose of the course is to give students an opportunity to:
+ Participate on a project design team,
+ Learn how to apply tools and procedures learned in other courses to a complete project, and
+ Understand how typical civil engineering projects progress from concept to final plans.
+INSTRUCTOR: William F. Eichfeld OFFICE: ENGR B, Room 30
+CEE Department OFFICE HOURS: 11:00 -11:50 a.m. MWF
+453-7838 (Office) 1:00 -2:50 p.m. TTh
+457-5242 (Home-Before 9:00 p.m.)
+Email: eichfeld@engr.siu.edu
+SIUC syllabus attachment: http://pvcaa.siu.edu/-common/documents/syllabus-attachment-spring14.pdf
+TEAM PROJECT
+The whole class will work in the teams which were formed during CE 495A. Each team will be required to completely design the project assigned in CE 495A. At the end of the semester, each team will submit a set of design plans and a project report which includes a complete set of calculations. Also at the end of the semester, each team will orally present and defend its design. Oral presentations must be made with PowerPoint or other similar software.
+DELIVERABLES:
+Design Plans: A set of design plans must be prepared on 24x36 inch sheets and must be prepared using AutoCAD or equivalent software. As a minimum, the set should include:
+A cover sheet which includes at least the Project name, the Project location, an Index, and the names of the Team Members.
+A complete site plan along with topography of the area.
+General Notes, Schedules, and Specifications as required. Reference Specifications should be identified here as well as in the design report.
+A plan of the project showing how various components of the project are laid out.
+Details (plans, profiles, sections, and detail drawings) necessary to complete the project.
+All sheets must be signed AND checked (initialed or signed by TWO team members)
+Final Report: The final report is the responsibility of the entire team and is not the sole responsibility of the project manager. However, the project manager will be responsible for compiling the final report. The final report should clearly indicate the name of the team member responsible for completing each task. As a minimum, the final report should include the following:
+Final Report (continued)
+Title Page
+Cover Letter (a signed letter of transmittal for the plans and report)
+Table of Contents including Figures, Tables, and Appendices
+Executive Summary (this includes any changes from the accepted proposal and any recommendations
+for further or other work)
+Organizational Chart
+Project and Site Descriptions
+Scope of Work from the accepted proposal (any changes must also be noted here)
+List of required Permits
+Specifications including a list of Reference Specifications
+List of Engineering Standards (codes, handbooks, manuals, etc.) used
+Estimated Quantities and Costs
+The following items should be presented in appendices
+Responsibilities and Contributions of each team member
+Comparison of Estimated versus Actual Time Spent on the Project
+Note: Every team member should keep track of time spent on the project. The final personnel expenditure for the design should be calculated based on the billable
+rate for each category of work and time spent by each team member on each
+category of work. Time sheets or summaries should be included.
+Minutes of Meetings (hand written or typed)
+Note: One person at each meeting should be assigned to take minutes of the meeting and prepare the minutes to be distributed to other team members. This can be a different person each time. The minutes should include the date, time, and place of the meeting; the names of the people who are there; the items discussed; and (especially) any decisions made at the meeting. This is not a transcript.
+Design Calculations: signed AND checked (initialed or signed by TWO team members)
+Details that could not be included in the set of plans
+Resumes: updated and in team format
+IMPORTANT DATES:
+Progress Reports to Class Instructor each week (by the Project Manager)
+Preliminary Plans* the week of March 24, 2014
+Preliminary Oral Presentations** the week of April 21, 2014
+General Class Meeting Thursday, April 24, 2014
+Submission of Final Plans and Design Reports Monday, April 28, 2014 at 2:00 p.m.
+Final Oral Presentations*** Tuesday, April 29, 2014 after 1:00 p.m.
+*This means what you have done at this point (current progress). The Cover Sheet should be plotted at full scale on a 24" x 36" sheet. Other sheets can be printed at reduced scale on letter size sheets.
+**These Presentations are meant to prepare you for final presentations and to identify items that may need improvement. These presentations will not be formal but must be presented in a professional manner even though they will not be graded. The presentations will be given during the assigned class time or some other mutually convenient time.
+***All presentations will be made on April 29, 2014. Each Team will have 30 minutes for its presentation. Each member will make part of the presentation. It will be necessary for all of you to be present from 1:00 p.m. to 4:30 p.m. The presentations will be made to the Professional Advisory Board after their morning meeting and their luncheon (1:00 ~ 1:30).
+TEAM MEETINGS:
+Project Manager with Instructor once each week (minimum)
+Instructor with Teams (evaluation) each one or two weeks
+Team Meetings (all members) once each week (minimum)
+Other Meetings of the whole team, of several members,
+with your mentor, or with other people. as needed - team decision
+GRADING POLICY:
+One of the objectives of the course is to help students understand how to successfully complete their portion of the project while working as a member of the design team. Therefore, your final grade will depend on your individual performance in completing your part of the project and your interpersonal relationships with other team members. The team members of each group will be asked to evaluate their teammates in order to assess each group member's contribution to the team and project. Final grades will be calculated using the grading distribution and final grade assessment provided below.
+Grading:
+Final Project Report and Plans - Team Effort 25 %*
+Final Project Report and Plans - Individual Effort 10%
+Oral Presentation - Team Performance 25 %*
+Oral Presentation - Individual Performance 15 %
+Confidential Evaluations by other Team Members 25 %
+* Each group member will be given the same grade for these items
+Final Grading Scale:
+Percent Scores Final Grade
+90 and above A
+80 → 89 B
+70 → 79 C
+60 → 69 D
+59 and Below F
+Statement on Emergency Procedures:
+“Southern Illinois University Carbondale is committed to providing a safe and healthy environment for study and work. Because some health and safety circumstances are beyond our control, we ask that you become familiar with the SIUC Emergency Response Plan and Building Emergency Response Team (BERT) program. Emergency response information is available on posters in buildings on campus, available on the BERT’s website at www.bert.siu.edu, Department of Public Safety’s website www.dps.siu.edu (disaster drop down), and in the Emergency Response Guidelines pamphlet. Know how to respond to each type of emergency.
+Instructors will provide guidance and direction to students in the classroom in the event of an emergency affecting your location. It is important that you follow these instructions and stay with your instructor during an evacuation or sheltering emergency. The Building Emergency Response Team will provide assistance to your instructor in evacuating the building or sheltering within the facility.”
+Statement on Academic Honesty:
+It is essential that all of your work be your own. All work that is not your own must be completely and properly referenced. Note the Southern Illinois University Carbondale Student Conduct Code which is available in the current Catalog and can be found at www.siu.edu/~policies/policies/conduct.html. Detailed descriptions can be found in Part A (Acts of Academic Dishonesty) of Section 2 (Violations).

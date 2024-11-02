@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Weekly Progress Memo | N/A | Write a weekly memo to the sponsor, following the Weekly Progress Report Template on ANGEL. Schedule a weekly meeting with the advisor and a conference call with the sponsor. | Every Monday by 7:00 a.m. |
+| Project Proposal | 20% | Create a proposal that includes: 1) identification and definition of the problem; 2) background on the company and current design/system; 3) proposed methodology and approach with measures and metrics; 4) project management with Gantt charts; 5) anticipated results and deliverables. Present the proposal in class. | 09/20 |
+| Interim Progress Report | 10% | Write a progress report that reviews: 1) problem definition, current product/system/service, and proposed solution methodology; 2) progress to date; 3) project management and timing, noting any future changes; 4) remaining work and anticipated changes. | 10/18 |
+| Final Report and Showcase | 30% | Prepare a final report, a one-page project summary, and a poster. Present the poster at the Project Showcase and deliver the final report to the sponsor. | 12/04 (report), 12/13 (showcase), 12/14 (final delivery to sponsor) |
+| Participation and Peer/Sponsor Evaluation | 15% | Evaluate team members and receive evaluations from peers and the company sponsor. | Throughout the semester |
+| Ethics Assignment | 5% | Watch an ethics video on 09/04 and complete an assignment based on the video and the Code of Ethics for Engineers. | N/A |
+| Weekly Project Updates | 10% | Provide regular updates on project progress. | N/A |
+| Meeting Sponsor's Project Objective | 10% | Achieve the sponsor's project objectives. | N/A |

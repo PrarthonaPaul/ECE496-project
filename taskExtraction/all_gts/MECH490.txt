@@ -1,0 +1,96 @@
+MECH490 - Mechanical Engineering Capstone Project
+University: Northern University of Technology
+Course Duration: Full Year (Fall and Winter)
+Instructor: Dr. Michael Brown
+Contact Information: michael.brown@nut.edu
+Office Hours: Tuesdays and Thursdays, 2:00 PM - 4:00 PM
+Course Description
+In this final-year capstone course, students apply their knowledge to a comprehensive design project. Projects may include designing a new mechanical device, improving an existing product, or developing a sustainable engineering solution. Students work in teams and are expected to produce a functional prototype.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Plan and manage a comprehensive engineering project.
+2.
+Conduct detailed design and analysis for mechanical systems.
+3.
+Develop and fabricate prototypes.
+4.
+Test and evaluate the performance of their designs.
+5.
+Communicate their design process and results effectively.
+Course Timeline and Deliverables
+Fall Semester:
+Date
+Deliverable
+Description
+Weight
+September 15, 2020
+Team Formation and Project Proposal
+Teams form and submit a proposal outlining the project scope and objectives.
+10%
+October 20, 2020
+Preliminary Design Review
+Presentation of initial design, including sketches and initial calculations.
+15%
+November 25, 2020
+Prototype Development and Testing
+Development of a functional prototype and initial testing.
+20%
+December 10, 2020
+Midterm Presentation
+Presentation of progress and prototype performance.
+10%
+Winter Semester:
+Date
+Deliverable
+Description
+Weight
+February 15, 2021
+Final Design Review
+Presentation of final design, including detailed drawings and calculations.
+15%
+March 20, 2021
+Final Prototype and Testing Report
+Submission of final prototype and detailed testing report.
+20%
+April 10, 2021
+Final Presentation and Demonstration
+Final presentation and demonstration of the project.
+10%
+Grading Breakdown
+•
+Team Formation and Project Proposal: 10%
+•
+Preliminary Design Review: 15%
+•
+Prototype Development and Testing: 20%
+•
+Midterm Presentation: 10%
+•
+Final Design Review: 15%
+•
+Final Prototype and Testing Report: 20%
+•
+Final Presentation and Demonstration: 10%
+Total: 100%
+Course Policies
+•
+Attendance: Regular attendance is required. More than three unexcused absences may result in a lower grade.
+•
+Late Submissions: Assignments submitted late will incur a penalty of 5% per day, up to a maximum of 25%.
+•
+Academic Integrity: All students are expected to adhere to the university's academic integrity policy. Plagiarism or cheating will result in disciplinary action.
+Required Materials
+•
+Textbook: "Mechanical Engineering Design" by J.E. Shigley and C.R. Mischke
+•
+Access to CAD software (e.g., SolidWorks)
+•
+Prototyping materials (to be specified based on project requirements)
+Additional Resources
+•
+University Library
+•
+Mechanical Engineering Lab
+•
+Online tutorials and workshops

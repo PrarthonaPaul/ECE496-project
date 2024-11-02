@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Submit a proposal outlining the nanoscale problem, proposed device/material, timeline, and assign group roles. | Week 3 |
+| Design and Fabrication | N/A | Design the nanoscale device/material, select materials and techniques, develop prototypes, and test functionality. | Weeks 4-6 |
+| Characterization and Testing | N/A | Perform advanced characterization using techniques like electron microscopy and spectroscopy, and conduct performance tests. | Weeks 7-10 |
+| Optimization and Refinement | N/A | Optimize the device/material and refine the fabrication process based on test results. | Weeks 11-12 |
+| Final Report | N/A | Document the development process, design decisions, challenges, and outcomes in a comprehensive report. | Weeks 13-15 |
+| Presentation and Poster | N/A | Prepare a presentation and poster for the Innovation Showcase to communicate the project's impact. | Weeks 13-15 |

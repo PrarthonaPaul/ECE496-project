@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation and Project Outline | 0% | N/A | September 15, 2020 |
+| Feasibility Report and Project Plan | 15% | Develop a feasibility study and comprehensive project plan outlining scope, objectives, and budget. | October 6, 2020 |
+| Environmental Impact and Sustainability Report | 20% | Assess environmental impact, propose sustainable practices, and address regulatory requirements. | October 27, 2020 |
+| Detailed Design Submission | 25% | Submit engineering drawings, calculations, and specifications for infrastructure components, ensuring compliance with standards and regulations. | November 24, 2020 |
+| Final Project Report and Presentation | 40% | Submit a complete project report and present it to a panel, incorporating feedback into the final design. | December 15, 2020 |

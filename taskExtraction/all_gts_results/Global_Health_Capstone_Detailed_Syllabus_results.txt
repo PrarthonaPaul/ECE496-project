@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Submit a proposal outlining the global health issue, proposed intervention, timeline, and assigned group roles. | Week 3 |
+| Needs Assessment and Planning | N/A | Conduct a needs assessment, develop an intervention plan, and strategize implementation and evaluation methods. | Weeks 4-6 |
+| Implementation | N/A | Carry out the public health intervention, collect initial data on its effectiveness. | Weeks 7-10 |
+| Evaluation and Feedback | N/A | Assess the intervention's outcomes, identify improvements, and provide feedback. | Weeks 11-12 |
+| Final Report | N/A | Create a comprehensive report documenting the project, design choices, challenges, and results. | Weeks 13-15 |
+| Presentation and Poster Preparation | N/A | Prepare a presentation and poster for the Innovation Showcase to communicate the project's global health impact. | Weeks 13-15 |

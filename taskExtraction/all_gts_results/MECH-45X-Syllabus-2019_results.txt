@@ -1,0 +1,33 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team dynamics and client-designer communication | N/A | N/A | N/A |
+| Reflection on the design process and on your own professional development | N/A | N/A | N/A |
+| Proper assessment of your client’s needs | N/A | N/A | N/A |
+| Derivation of appropriate project requirements and evaluation criteria | N/A | N/A | N/A |
+| Development of conceptual solutions | N/A | N/A | N/A |
+| Proper analysis of your options and the selection of the most promising solution | N/A | N/A | N/A |
+| Detailed design, including the necessary engineering analyses | N/A | N/A | N/A |
+| Development of detailed engineering drawings of components that you will build | N/A | N/A | N/A |
+| Selection of suitable manufacturing methods | N/A | N/A | N/A |
+| Component and/or material procurement | N/A | N/A | N/A |
+| Prototype construction | N/A | N/A | N/A |
+| Prototype testing and evaluation | N/A | N/A | N/A |
+| Technical communication of results (verbal and written) | N/A | N/A | N/A |
+| Regular meetings with supervisor | N/A | Prepare a brief memo covering progress, problems/issues, overall progress assessment, and proposed activities for the coming week; bring logbooks for review/signing | Tuesdays and Thursdays 2 – 4 PM (Terms 1 and 2) |
+| Informal meetings with company liaisons | N/A | Student teams may contact company liaisons as needed via phone, email, or videoconference | N/A |
+| Invited lectures by professional engineers | N/A | Lectures on how the design process works in a company, focusing on a specific project or topic | N/A |
+| In-class milestone-preparation Participatory Workshops | N/A | Workshops held just before each major deliverable to focus on the application of a key design concept to each team’s project | N/A |
+| Reflection sessions | N/A | Break out into groups of teams to share experiences relating to various aspects of the design process and present ONE research paper during the course on an aspect of design methodology | N/A |
+| Proposal | N/A | Produce a proposal acceptable to the team, client, and supervisor, and involve the mentor; expect multiple iterations | October, 2019 |
+| Steady work | N/A | Put in 100 hours per term per team member, working roughly 8 hours per week | N/A |
+| Product evaluation | N/A | Evaluate the prototype, drawings, and models, including feedback from the client | N/A |
+| Short reports and documents | N/A | Generate numerous short reports and other documents, such as a discussion of the state of the art, technical analysis, manufacturing options, conceptual models, and various impact analyses | N/A |
+| Design presentations | N/A | Present final design and other marked design presentations | At least once per term |
+| End of Course Design and Innovation Day | N/A | Formal trade show at the end of the course to celebrate hard work and showcase capabilities | April 7, 2020 |
+| Final Report and Logbook | N/A | Submit final report and logbook | 4PM, Monday, April 20, 2020 |
+| Consultation with Faculty | N/A | Have weekly meetings with instructor and use connections with other faculty as resources | N/A |
+| Technician Resources | N/A | Access assistance from machine shop and instrumentation shop supervisors for project completion; plan ahead and submit drawings for work | N/A |
+| Student Shop Time | N/A | Encourage students to do project work in the shop on their own, ensuring equipment and safety measures are followed | N/A |
+| Workshop Space | N/A | Access to lab space in Rusty Hut, RH118, with lockers and storage room RH104 for supplies | N/A |
+| Toolbox | N/A | Toolbox available for sign-out from the Machine Shop, to be signed back in at the end of the academic year | N/A |
+| Funds | N/A | Each project team allocated up to $750 from the MECH Department for materials, components, logbooks, posters, etc.; funds released through reimbursements, charges, or ordering through UBC’s ECE Stores | N/A |

@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal outlining editing style, narrative goals, target audience, timeline, and team member roles. | Week 3 |
+| Footage Review and Rough Cut | N/A | Review footage, select best takes, and assemble a rough cut with a focus on narrative structure and pacing. | Weeks 4-6 |
+| Fine Cut and Sound Design | N/A | Refine the rough cut, improve continuity, pacing, and transitions, and develop sound design elements. | Weeks 7-10 |
+| Color Grading and Final Cut | N/A | Apply color grading to enhance visuals and finalize the edit for cohesion. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the editing process in a report and prepare a screening/presentation for the showcase. | Weeks 13-15 |

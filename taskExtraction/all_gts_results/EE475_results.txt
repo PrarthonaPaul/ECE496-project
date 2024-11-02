@@ -1,0 +1,29 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Develop a project proposal | N/A | N/A | Weeks 1 to 3 |
+| Meet with the instructor each week | N/A | N/A | Weeks 4 to 14 |
+| Make an oral presentation of the project | N/A | N/A | Week 15 |
+| Submit the final project report | N/A | N/A | Week 16 |
+| Select a project proposal | N/A | Students are required to select their own project proposal, with a strong encouragement for projects involving hardware and software design. | N/A |
+| Provide a demonstration of a hardware prototype and a detailed design report | N/A | After project completion, students must provide a hardware prototype demonstration and a comprehensive design report documenting all design process aspects. | N/A |
+| Address manufacturability, engineering economics, environmental, and ethical issues in the final design project report | N/A | The final design project report should include relevant discussions on manufacturability, economic, environmental, and ethical considerations. | N/A |
+| Make weekly progress presentations | N/A | Each design team must present the project's progress during weekly meetings with the instructor. | N/A |
+| Submit design review reports | N/A | Design review reports are to be submitted as per the instructor's requirements. | N/A |
+| Submit a written technical report on the final design process and results | N/A | At the conclusion of the project, a written technical report detailing the final design process, results, and relevant conclusions must be submitted. | N/A |
+| Prepare and present the design project description to the class | N/A | Each design team is required to prepare and deliver a presentation on their design project to the entire class at the end of the semester. | N/A |
+| Mentor and guide students in their project designs | N/A | The instructor's role includes mentoring and guiding students as they work on their project designs. | N/A |
+| Monitor project design progress during weekly meetings | N/A | The instructor will monitor the progress of project designs during the weekly meetings. | N/A |
+| Introduce students to economic, ethical, and social effects related to their design projects | N/A | Students will be exposed to the various economic, ethical, and social implications of their design projects. | N/A |
+| Present methods of writing technical reports and enhance writing skills | N/A | The instructor will introduce methods for writing technical reports and interact with students to improve their writing skills. | N/A |
+| Assess the quality of the final design project results presentation | N/A | The instructor will evaluate the quality of the presentation describing the final design project results. | N/A |
+| Apply knowledge of mathematics, science, and engineering | N/A | N/A | N/A |
+| Design and conduct experiments, analyze and interpret data | N/A | N/A | N/A |
+| Design a system, component, or process to meet needs within realistic constraints | N/A | N/A | N/A |
+| Function as part of a multi-disciplinary team | N/A | N/A | N/A |
+| Identify, formulate, and solve engineering problems | N/A | N/A | N/A |
+| Understand professional and ethical responsibility | N/A | N/A | N/A |
+| Communicate in written and oral form | N/A | N/A | N/A |
+| Understand the impact of electrical and computer engineering solutions in a global context | N/A | N/A | N/A |
+| Recognize the need for and engage in life-long learning | N/A | N/A | N/A |
+| Stay informed about contemporary issues | N/A | N/A | N/A |
+| Use modern engineering tools for engineering practice | N/A | N/A | N/A |

@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal for a biotechnology product/process, outlining research objectives, anticipated outcomes, timeline, and team member roles. | Week 3 |
+| Literature Review and Market Analysis | N/A | Conduct a comprehensive literature review, assess current technology, and perform a market analysis to identify users and competitors. | Weeks 4-6 |
+| Product Development and Prototyping | N/A | Develop a prototype, optimize design and functionality based on testing and feedback. | Weeks 7-10 |
+| Testing and Validation | N/A | Perform tests and validation studies to meet specifications and regulations, analyze results, and refine the product. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the development process in a report, including challenges and solutions. Prepare a presentation for the Innovation Showcase. | Weeks 13-15 |

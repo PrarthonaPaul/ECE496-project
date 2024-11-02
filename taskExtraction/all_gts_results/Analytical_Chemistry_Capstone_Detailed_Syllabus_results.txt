@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal outlining objectives, the compound to be studied, and its potential impact. Include a timeline and assign roles within the team. | Week 3 |
+| Literature Review and Method Development | N/A | Conduct a comprehensive literature review to identify existing analytical methods. Develop a new or improved method, considering instrumentation and conditions. | Weeks 4-6 |
+| Method Validation | N/A | Validate the chosen method by evaluating its accuracy, precision, sensitivity, and specificity. Compare with standard methods and make adjustments as needed. | Weeks 7-10 |
+| Application and Data Analysis | N/A | Apply the validated method to real-world samples, analyze the data, and quantify the compound of interest. Assess the reliability of the method. | Weeks 11-12 |
+| Final Report | N/A | Document the entire process, including method development, validation challenges, solutions, and outcomes in a comprehensive report. | N/A |
+| Presentation and Poster Preparation | N/A | Prepare a presentation and poster for the Innovation Showcase, summarizing the project's key aspects and findings. | Weeks 13-15 |

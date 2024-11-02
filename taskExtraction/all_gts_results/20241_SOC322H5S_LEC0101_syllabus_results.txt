@@ -1,0 +1,6 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Annotated Bibliography | 15% | N/A | 2024-01-30 |
+| Term Test | 25% | N/A | 2024-02-13 |
+| Essay | 35% | N/A | 2024-03-19 |
+| Term Test | 25% | N/A | 2024-04-02 |

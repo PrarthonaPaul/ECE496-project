@@ -1,0 +1,287 @@
+Praxis I Syllabus
+1. Course Overview
+As the first course in the Praxis Design Sequence, Praxis I lays the foundation for future design courses in
+Engineering Science. This foundation includes common terminology, models and processes, necessary skills,
+and most importantly the Praxis Approach to Engineering Design Education. Key features of this approach
+include:
+• Encouraging students to explore and question activities and assignments;
+• Exposing students to multiple conceptions of “engineering” and “design” so that students develop their
+own, individualized understanding of “engineering design” that guides their practice;
+• Using multiple modes of communication and design to make and defend design decisions;
+• Expecting students to explore alternate perspectives and approaches to the materials presented;
+• Giving students responsibility for integrating theory and practice, supported by the Teaching Team.
+The Praxis Approach has as core theoretical underpinnings the Perry Model of Intellectual and Ethical
+Development and the Kolb Learning Cycle. Students are encouraged to explore these models to better
+understand the philosophy of the Praxis Sequence and how to succeed in the various Praxis courses.
+Praxis I is divided into two sections, each of which is based on a single, multi-week project:
+1. Device Design – Students work in pairs to explore and analyze the concept of “engineering design” by
+investigating the key design decisions embodied in household electro-mechanical devices.
+2. Product Design – Students engage in an engineering design sequence that spans framing, conceptual
+design, detailed design, and design critique. Students take on the roles of entrepreneur-client and, in
+multiple forms, design engineer.
+The projects in Praxis I model and lay the foundation for the single, term-long project in ESC102 Praxis II.
+Students engage in engineering design and practice engineering communication in other Engineering
+Science 1F term courses, most notably CIV102 and CSC180. Praxis I provides students with concepts,
+models, and tools that they can use both to practice engineering design and to reflect on their other design
+and problem solving experiences.
+2. Teaching Team
+The Teaching Team in Praxis I integrates members from the Division of Engineering Science and the
+Engineering Communication Program (ECP). Lectures will be given primarily by the Course Instructors,
+while teams of Studio Instructors and Teaching Assistants will facilitate the studios.
+Course Instructors
+Jason Foster (Course Coordinator)
+jason.foster@utoronto.ca
+Rob Irish
+r.irish@utoronto.ca
+Studio Instructors Teaching Assistants
+Brendan Bowles
+brendan.bowles@utoronto.ca
+James Bateman (1T3 ΝΨ Physics)
+james.bateman@mail.utoronto.ca
+Penny Kinnear
+penny.kinnear@utoronto.ca
+Andrew Flood (0T7 + PEY ΝΨ Physics)
+andrew.flood@mail.utoronto.ca
+ESC101 – Praxis I – 20139
+Studio Instructors Teaching Assistants
+Jenny Lofgreen
+j.lofgreen@utoronto.ca
+Richard Gao (1T3 + PEY ΝΨ Biomedical)
+r.gao@mail.utoronto.ca
+Ted Nolan
+emartin.nolan@utoronto.ca
+Vicki Komisar (0T9 ΝΨ Biomedical)
+v.komisar@utoronto.ca
+Farzan Sasangohar
+f.sasangohar@mail.utoronto.ca
+Ante Lausic (1T0 ΝΨ Nanoengineering)
+ante.lausic@utoronto.ca
+Neil Shyminsky
+N.shyminsky@utoronto.ca
+Patricia Sheridan (0T9 Mechanical Engineering)
+patricia.sheridan@utoronto.ca
+Rene Rail-Ip (1T1 + PEY ΝΨ ECE)
+rene.rail.ip@mail.utoronto.ca
+Office hours with the Teaching Team are by appointment on a “first-contact, first-scheduled” basis.
+3. Assignments and Distribution of Grades
+The studio activities and assignments are designed to support and document work on the two course
+projects. In addition to assignments that relate directly to each of these projects, students are expected to
+continue to develop their independent learning and reflective skills throughout the term.
+Project Due Date Deliverable Weight Submitter
+Device Design 2013-10-07 @ 0900 Device Design Report 15% Individual
+Product Design
+Multiple Design Brief 10% Team
+Multiple Conceptual Design 25% Team
+Studio 11 + 2 days @ 2400 Detailed Design 5% Individual
+Non-Project
+Deliverables
+Continuous with timerestricted
+scaffolding
+Design Portfolio
+Publicly accessible web site (or equivalent)
+20% Individual
+TBD
+(Likely 2013-12-06 or 2013-12-09)
+Final Examination 25% Individual
+Students should be adding to, or revising, their Design Portfolio regularly throughout Praxis I. A number of
+targeted, time-restricted scaffolds will be provided during the term to help students develop content for their
+Portfolio. At any point during the term the Teaching Team may view a Portfolio and provide feedback to its
+author. The Design Portfolio deliverable must be completed by 2013-12-04 @ 2400.
+3.1. Final Examination
+The Final Examination for ESC101 will likely take place on either Friday, December 6th, 2013 or on Monday,
+December 9th, 2013. The exam will be written online and will have three questions, weighted unequally, that
+focus on:
+1. Framing and Requirements
+2. Implementing “Design for X”
+3. Critical Self-Reflection
+Student will have access to their Design Portfolio, and those of their classmates, during the exam. Additional
+details on the Final Exam will be released during the term.
+ESC101 – Praxis I – 20139
+Syllabus rev. 1.0 [2/7]
+4. Resources
+4.1. Hardcopy Resources
+Irish, R. and Weiss, P., Engineering Communication From Principles to Practice, 2nd Edition, Oxford
+University Press, 2013.
+This textbook is organized around 18 principles for effective engineering communication. In Praxis I the
+focus will be on principles 1,3-8, and 10. Other principles will be covered in Praxis II and beyond.
+4.2. Electronic Resources
+Blackboard: available through https://portal.utoronto.ca
+Course Downloads: https://design.engsci.utoronto.ca/courses/esc101/20139/
+Twitter Feed: follow username EngSciPraxis and hashtag #esc101
+Tickets: https://design.engsci.utoronto.ca/tickets
+Surveys: https://design.engsci.utoronto.ca/surveys
+Realtime Communication: ircs://design.engsci.utoronto.ca:6667
+5. Activities and Workload
+5.1. Lectures (3 scheduled hours per week)
+Monday 1400-1500 • Tuesday 1300-1400 • Friday 1300-1400
+Lectures take place in MC102 and introduce the concepts required to successfully complete the course,
+examples of how those concepts can be and have been applied, and connections among materials sourced
+from both within and outside of Praxis I.
+5.2. Design Studios (“Tutorial”; 2 scheduled hours per week)
+Studios provide weekly, focused, and incremental activities that support the Praxis I projects. Students work
+both individually and in teams to meet Studio-specific learning objectives and have Studio-specific
+experiences. Active participation in Studio is essential to student success in the Praxis Sequence.
+Week No. Major Studio Activities
+2013-09-09 01 Reflecting and Defining
+2013-09-16 02 Destroying and Understanding I
+2013-09-23 03 Researching and Exploring I
+2013-09-30 04 Destroying and Understanding II
+2013-10-07 05 Teaming and Valuing
+2013-10-14 06 Finding and Framing
+2013-10-21 07 Pitching and Picking
+2013-10-28 08 Reframing and Diverging
+2013-11-04 09 Converging and Selecting
+2013-11-11 10 Modeling and Prototyping
+2013-11-18 11 Researching and Exploring II
+2013-11-25 12 Defending and Critiquing
+2013-12-01 No studios are scheduled so that you have more
+time to prepare for the Final Exam
+ESC101 – Praxis I – 20139
+Syllabus rev. 1.0 [3/7]
+5.3. Workload
+Students are expected to spend on average one hour outside of class for every one hour of classroom time
+(e.g. 5 hours per week per student). This workload may not be distributed evenly across the term.
+6. Graduate Attributes and Learning Objectives
+Having completed Praxis I, all students are expected to have started on the path to possessing the abilities
+and understandings linked to the following Canadian Engineering Accreditation Board graduate attributes1:
+3.1.3 Investigation
+3.1.4 Design
+3.1.5 Engineering tools
+3.1.6 Teamwork
+3.1.7 Communication skills
+3.1.8 Professionalism
+3.1.10 Ethics and equity
+3.1.11 Economics and project management
+3.1.12 Lifelong Learning
+Having completed Praxis I, all students are expected to be able to:
+1. Develop a personal theory of engineering design that is congruent to that of the
+Engineering profession
+a. Locate and explore accepted definitions of, approaches to, and theories of “engineering design”;
+b. Develop a personal conception of and approach to “engineering design” that is congruent with that of
+the Engineering profession;
+c. Practice “engineering design” both within and outside of the classroom; and,
+d. Reflect on their design activities and refine their conception and approach.
+2. Practice engineering design as an individual and as part of a team
+a. Critique existing engineering designs from the perspective of design decisions and consequences;
+b. Characterize problems and appropriately frame them as engineering problems;
+c. Structure and analyze a team design activity using a variety of formal models;
+d. Use multiple, formal methods to generate design alternatives and select among candidate designs;
+e. Transition a design between different scales and types of refinement; and,
+f. Reflect upon and learn from both their and other’s successful and failed designs.
+3. Express engineering designs and ideas
+a. Select appropriate modes of communication (oral, written, graphical) to best express an idea for an
+audience;
+b. Structure information to credibly communicate engineering knowledge; and,
+c. Support design ideas with research, analysis, and prior design.
+4. Make engineering arguments
+a. Analyze an audience and tailor an argument accordingly;
+b. Frame an argument in a manner accepted by the engineering community; and,
+c. Adapt modes of argument to meet a need.
+7. Grading Policies
+7.1. Grade Expectations
+Obtaining an “A” grade in Praxis requires demonstrating strong evidence of original thinking. Students who
+submit work that delivers no more than what is required, regardless of the depth to which those
+requirements are satisfied, are in essence showing only “evidence of grasp of subject matter”. Accordingly
+ESC101 – Praxis I – 20139
+Syllabus rev. 1.0 [4/7]
+1 Further information on the CEAB Graduate Attributes can be found at:
+http://www.engineerscanada.ca/e/files/Accreditation_Criteria_Procedures_2010.pdf
+they can expect a maximum grade of a “B”. Obtaining an “A” requires that students demonstrate that
+they have engaged in original thought and have explored aspects of the material and assignment
+that were not explicitly required, but that are relevant to the objectives of the assignment and
+the course.
+Note that an “A” grade will not be awarded to a submission where the required elements are either missing
+or accomplished at an unsatisfactory level, regardless of whether additional work or original thought has
+been demonstrated.
+7.2. Grade Discussions
+Students are encouraged to discuss their work, both before and after it has been graded, with their Studio
+Instructors and, if necessary, with the Course Instructors. In any conversation involving grades,
+students must be prepared to present a cogent argument supported by evidence. Should an
+assignment be regraded, the new grade may be lower, the same, or higher than the initial grade.
+7.3. Team Grades
+When working in teams, students are expected to divide workload equitably. The nature of the division is up
+to the team members, and does not require that all members work the same hours or produce identical
+volumes of work. By default all team members receive an identical grade on team assignments. Students
+should report any difficulties in their teams to a member of the Teaching Team as early as
+possible so that the difficulties can be addressed in a positive way. Students should also maintain as
+complete a record of team interactions as possible2. Based on solicited, confidential feedback, the
+Course Instructors may adjust the grade distribution within a team.
+7.4. Late Penalties
+Due dates have been selected such that course workload is spread out over the term and that sufficient time
+is available to provide formative feedback prior to the submission of summative assignments. Assignments
+that are submitted late will be subject to a cumulative penalty, as outlined in the respective assignment
+descriptions. Note that this practice deviates from the more common industry practice of not accepting late
+deliverables.
+7.5. Support and Accommodation
+Students with diverse learning styles and needs are welcome in this course. Students who have a disability
+or health consideration that may require accommodations are both encouraged and welcome to approach the
+Course Instructors as soon as possible. Should accommodations be necessary, by University of
+Toronto policy students are required to contact the Accessibility Services Office.
+8. Policies
+Engineering Science Students are expected to comport themselves professionally and to exercise common
+sense3. They are also expected to be familiar with, and act according to, University policies, guidelines, and
+interpretations. Of particular importance are those mentioned in the “Academic Regulation” section of the
+Faculty of Applied Science and Engineering Academic Calendar.
+ESC101 – Praxis I – 20139
+Syllabus rev. 1.0 [5/7]
+2 This includes, but it not limited to, copies of emails, text messages, chat logs, phone calls, etc.
+3 Students are encouraged to consult with the Teaching Team if they are uncertain whether an activity or
+decision would be unprofessional or would indicate a lack of common sense.
+8.1. Plagiarism
+The University of Toronto treats plagiarism as a violation of the Code of Behaviour on Academic Matters.
+Plagiarism is a serious forms of cheating in which a student makes use of someone else’s ideas or words
+without giving appropriate attribution. In your academic work, plagiarism usually occurs in one of three
+ways:
+• You cut and paste a piece of someone else’s text or code or figure but do not clearly show what the source
+is for that material.
+• You hand in work done by others (e.g. teammates) without putting their names on the work.
+• You rephrase someone else’s idea into your own words, but do not give credit to the source of the idea.
+The University takes cheating very seriously. Penalties can include zero on the assignment, zero in the
+course, annotations on your transcript (which would be seen by a potential graduate school or employer), or
+in extreme cases expulsion from the University. If you are concerned about your use of sources,
+discuss your concerns with your Studio Instructor or a Course Instructor before submitting a
+document for assessment.
+8.2. Instructional Materials and Copyright
+Students are prohibited from recording or otherwise reproducing any copyrighted materials associated with
+this course unless they obtain prior permission from the copyright holder. Note that all lectures are
+copyright of the lecturers.
+8.3. English Proficiency Requirement
+The Engineering Faculty’s English Proficiency Requirement is as follows:
+The Faculty requires each student to show an ability to write English coherently and
+correctly in all written work submitted for evaluation. Consequently, the Faculty reserves
+the right to ask each student to write a post-admission English Proficiency Assessment at
+the beginning of his or her first year of studies. Every student will also take at least one
+course that includes a written communication component within their curriculum.
+Satisfactory completion of the course or courses is required for graduation.
+(Calendar, FASE, 2013-2014, Academic Regulations VI.3.)
+In Engineering Science, successful completion of the written components of Praxis I should demonstrate
+such proficiency. All written components will be considered as contributing to demonstrating proficiency;
+however, most weight will be assigned to closely supervised writing activities. Students who fail to
+demonstrate English proficiency in Praxis I will be asked to take specific steps in Praxis II aimed to improve
+their English proficiency.
+8.4. Public Disclosure
+Students agree that by taking this course all submitted deliverables may be used for teaching and learning
+purposes, in this or subsequent courses, or to support research into improving engineering education. Any
+such use will confirm to the Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans.
+Students who are concerned about the intellectual property ramifications of potential disclosure
+must notify the Course Instructors prior to the end of the 20139 academic session. Students who
+have questions about the University of Toronto Inventions Policy should inquire with the Course Instructors
+8.5. Turnitin
+Students agree that by taking this course all required papers may be subject to submission for textual
+similarity review to Turnitin.com for the detection of plagiarism. All submitted papers will be included as
+ESC101 – Praxis I – 20139
+Syllabus rev. 1.0 [6/7]
+source documents in the Turnitin.com reference database solely for the purpose of detecting plagiarism of
+such papers. The terms that apply to the University's use of the Turnitin.com service are described on the
+Turnitin.com web site. The intellectual property of all students submitting to Turnitin.com is protected by
+the licensing agreement between the University of Toronto and iParadigms. This agreement further ensures
+that student papers submitted to Turnitin.com will not be used for commercial purposes.
+8.6. Course Feedback
+Over the course of the term, students may be requested to provide feedback on the course. This feedback
+may be solicited by the Division of Engineering Science or the Course Instructors. Any such feedback will be
+used to improve the course, during both this and future sessions. While students are not required to respond
+to the requests for feedback, they are encouraged to do so as their feedback can significantly improve both
+their course experience and that of future students. Should feedback be requested, student anonymity will be
+preserved unless the student explicitly chooses to share their identity with the Course Instructors.
+ESC101 – Praxis I – 20139
+Syllabus rev. 1.0 [7/7]

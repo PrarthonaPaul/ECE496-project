@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Team Charter | 10% | Document outlining team roles, responsibilities, and goals for the project. | September 15, 2022 |
+| Problem Definition Report | 15% | Detailed report defining the problem, including background and scope. | October 31, 2022 |
+| Research Summary | 10% | Summary of research findings with sources and insights related to the problem. | November 15, 2022 |
+| Ideation Report | 15% | Documentation of brainstorming sessions and the variety of ideas generated. | December 15, 2022 |
+| Prototype Demonstration | 20% | Showcase of initial prototypes' functionality and potential. | January 31, 2023 |
+| Testing Feedback Report | 15% | User testing report including feedback and refinement implications. | February 28, 2023 |
+| Refined Prototype | 20% | Final improved prototype incorporating user feedback. | February 28, 2023 |
+| Final Presentation | 15% | Presentation of the entire project, covering problem definition, process, and solution. | March 15, 2023 |
+| Reflection Paper | 10% | Reflection on the design thinking process, personal learning, and project outcomes. | March 20, 2023 |

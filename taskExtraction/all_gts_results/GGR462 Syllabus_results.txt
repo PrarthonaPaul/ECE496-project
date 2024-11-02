@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| N/A | N/A | Students are to form groups of 4-6 and choose a suitable problem to solve using a geographic information system (GIS). | N/A |
+| Submit group member list, roles, and tentative topic | N/A | Students must submit a list of group members, their roles, and a tentative topic for their project. | Jan. 15 |
+| Proposal submission | N/A | Students are required to submit a proposal document for their GIS research project. | Jan. 29 |
+| Progress report submission | N/A | A progress report on the project, including material from the proposal, is to be submitted. | Mar. 5 |
+| Final report submission | N/A | The final report, building on the progress report, is to be submitted. | Apr. 2 |
+| Final presentation | N/A | Students must present their final report to the instructor. | Apr. 2 |
+| Role and contribution statement | N/A | For each submitted document (proposal, progress report, and final report), a separate page must be submitted detailing the role and contributions of each team member. | N/A |

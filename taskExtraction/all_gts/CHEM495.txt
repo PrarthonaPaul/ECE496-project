@@ -1,0 +1,94 @@
+CHEM495: Advanced Materials Synthesis
+University of Innovation Sciences
+Course Duration: Fall 2022 - Winter 2023 (Full Year)
+Course Description:
+This course focuses on the synthesis of novel materials for various applications, including energy storage, drug delivery, and environmental remediation. Students will engage in laboratory work to synthesize materials, characterize their properties, and report on their potential uses.
+Learning Outcomes:
+1.
+Material Synthesis: Demonstrate the ability to synthesize advanced materials using various chemical methods.
+2.
+Characterization Techniques: Apply techniques such as spectroscopy, microscopy, and chromatography to analyze material properties.
+3.
+Application Understanding: Evaluate the potential applications of synthesized materials in fields such as energy, medicine, and environment.
+4.
+Reporting Skills: Prepare comprehensive reports detailing synthesis methods, characterization results, and application insights.
+Course Structure & Timeline:
+Fall Term 2022
+1.
+Week 1-2: Introduction & Team Formation
+o
+Overview: Introduction to advanced materials synthesis, course objectives, and team formation.
+o
+Deliverable: Team Formation Report (5%) – Document detailing team members, roles, and initial project ideas.
+o
+Due Date: September 15, 2022
+2.
+Week 3-5: Literature Review & Research Proposal
+o
+Overview: Conduct literature review on advanced materials and prepare a research proposal.
+o
+Deliverable: Literature Review & Research Proposal (15%) – A report summarizing relevant literature and proposing a research plan for material synthesis.
+o
+Due Date: October 15, 2022
+3.
+Week 6-8: Synthesis Plan & Approval
+o
+Overview: Develop and finalize the synthesis plan based on the research proposal.
+o
+Deliverable: Synthesis Plan (10%) – Detailed plan including methods, equipment, and timeline for material synthesis.
+o
+Due Date: November 15, 2022
+4.
+Week 9-12: Mid-Term Progress Report
+o
+Overview: Present preliminary results and progress.
+o
+Deliverable: Mid-Term Progress Report (10%) – A report detailing progress, initial synthesis results, and any challenges faced.
+o
+Due Date: December 15, 2022
+Winter Term 2023
+5.
+Week 1-4: Material Synthesis & Characterization
+o
+Overview: Continue material synthesis and begin characterization.
+o
+Deliverable: Synthesis & Characterization Report (20%) – A comprehensive report detailing the synthesis process, characterization data, and preliminary findings.
+o
+Due Date: February 15, 2023
+6.
+Week 5-8: Application Analysis & Optimization
+o
+Overview: Analyze potential applications and optimize material properties.
+o
+Deliverable: Application Analysis Report (15%) – A report evaluating the applications of the synthesized materials and any optimization performed.
+o
+Due Date: March 15, 2023
+7.
+Week 9-12: Final Presentation & Project Submission
+o
+Overview: Prepare and deliver a final presentation and submit the complete project documentation.
+o
+Deliverable: Final Presentation (15%) – Presentation of the entire project including synthesis, characterization, and application analysis.
+o
+Deliverable: Final Report (10%) – A detailed report including all aspects of the project from synthesis to application analysis.
+o
+Due Date: April 15, 2023
+Grading Breakdown:
+•
+Team Formation Report: 5%
+•
+Literature Review & Research Proposal: 15%
+•
+Synthesis Plan: 10%
+•
+Mid-Term Progress Report: 10%
+•
+Synthesis & Characterization Report: 20%
+•
+Application Analysis Report: 15%
+•
+Final Presentation: 15%
+•
+Final Report: 10%
+Total: 100%
+This syllabus for CHEM495 ensures that students are equipped with the skills necessary for advanced materials synthesis and application, combining theoretical knowledge with practical laboratory experience.
