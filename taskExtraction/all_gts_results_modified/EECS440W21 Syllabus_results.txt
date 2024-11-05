@@ -1,0 +1,14 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project | 60% | Design and build a complete working internet search engine in teams of 6, covering various components such as HTML parser, crawler, index, constraint solver, query language, ranker, and front end. | N/A | N/A |
+| Core | Exams | 30% | Midterm and optional final exam. | N/A | N/A |
+| Core | Homework | 10% | Weekly individual homework assignments related to the project. | N/A | N/A |
+| Support | Reading | N/A | Read the first 6 chapters of the required text, "Information Retrieval: Implementing and Evaluating Search Engines" by Stefan Büttcher, Charles L.A. Clarke, and Gordon V. Cormack. | N/A | N/A |
+| Support | Attendance | N/A | Live attendance for lectures is strongly advised. | N/A | N/A |
+| Support | Office Hours | N/A | Live-streamed office hours for student support. | N/A | N/A |
+| Support | Labs | N/A | Labs are available for some homework assignments. | N/A | N/A |
+| Support | Team Formation | N/A | Students are encouraged to self-select into teams of 6 early in the course. | N/A | N/A |
+| Support | Communication | N/A | Students are expected to communicate their results through presentations, demonstrations, and final reports. | N/A | N/A |
+| Support | Coding Style | N/A | Adhere to the provided coding style sheet. | N/A | N/A |
+| Support | Research and Collaboration | N/A | Students can compare notes with peers and research using Google, but all submitted work must be their own. | N/A | N/A |
+| Support | Disability Accommodations | N/A | Students with disabilities are encouraged to seek accommodations through the Services for Students with Disabilities (SSD) office. | N/A | N/A |

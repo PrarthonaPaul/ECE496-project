@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10% | N/A | N/A | N/A |
+| Core | Data Preprocessing | 20% | Preprocess image datasets | N/A | N/A |
+| Core | CNN Model Development | 30% | Build and train a CNN architecture | N/A | N/A |
+| Core | Final Model & Presentation | 40% | Present the final model and report, demonstrate model performance | Week 7 | Final model and project report |
+| Support | Reading: Deep Learning with Python | N/A | Read the book by Francois Chollet | N/A | N/A |
+| Support | Reading: Hands-On Machine Learning with Scikit-Learn and TensorFlow | N/A | Read the book by Aurelien Geron | N/A | N/A |
+| Support | Online Resources | N/A | Utilize TensorFlow Documentation and PyTorch Tutorials | N/A | N/A |

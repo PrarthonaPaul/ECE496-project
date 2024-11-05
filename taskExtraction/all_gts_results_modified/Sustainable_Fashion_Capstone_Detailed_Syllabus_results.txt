@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points (10%) | Create a proposal for the sustainable fashion collection, including target audience, environmental goals, timeline, and team roles. | Week 3 | N/A |
+| Core | Research and Material Selection | 15 points (15%) | Research sustainable materials and practices, and select materials with minimal environmental impact. | Weeks 4-6 | N/A |
+| Core | Design and Sample Production | 18 points (18%) | Design the collection, produce samples, and test materials for durability, comfort, and environmental impact. | Weeks 7-10 | N/A |
+| Core | Final Collection Production and Sustainability Analysis | 10 points (10%) | Produce final garments and conduct a sustainability analysis (LCA and carbon footprint calculation). | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points (10%) | Document the design and production process, challenges, solutions, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points (5%) | Prepare and deliver a presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points (10%) | Create a poster for the Innovation Showcase. | N/A | Innovation Showcase |
+| Support | Attendance and Participation | N/A | Attend all class meetings and individual sessions, and actively participate in discussions. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy and avoid academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and inform the instructor. | N/A | N/A |

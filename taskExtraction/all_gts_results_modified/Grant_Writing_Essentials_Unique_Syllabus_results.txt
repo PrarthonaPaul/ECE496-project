@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Research Funding Sources | N/A | N/A | 1/15 | N/A |
+| Core | Submit Proposal Outline | N/A | N/A | 1/22 | N/A |
+| Core | Submit Budget Plan | N/A | N/A | 1/29 | N/A |
+| Core | Submit Draft Proposal | N/A | N/A | 2/5 | N/A |
+| Core | Submit Final Proposal | N/A | N/A | 2/12 | N/A |

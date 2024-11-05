@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation Report | 5% | Document outlining team members, roles, and initial project ideas. | September 15, 2022 | N/A |
+| Core | Literature Review & Initial Research Proposal | 15% | Summarize research on sustainable urban planning principles and propose an initial research plan. | October 15, 2022 | N/A |
+| Core | Project Proposal & Preliminary Design | 20% | Detailed proposal with preliminary designs for transportation systems, green infrastructure, and other urban planning elements. | November 15, 2022 | N/A |
+| Core | Mid-Term Presentation | 15% | Presentation of project progress, designs, and feedback from peers and instructors. | December 15, 2022 | N/A |
+| Core | Policy Analysis Report & Community Engagement Plan | 15% | Analyze policies and create a community engagement plan for the urban planning process. | January 31, 2023 | N/A |
+| Core | Draft Sustainable Urban Plan | 15% | Draft of the comprehensive urban plan, including transportation, infrastructure, and policy. | February 28, 2023 | N/A |
+| Core | Final Plan Integration Report | 15% | Final report on urban plan integration and refinement based on feedback and testing. | March 31, 2023 | N/A |
+| Core | Final Presentation | 10% | Presentation of the final urban planning project with design, strategies, and expected impacts. | April 15, 2023 | N/A |
+| Core | Final Report | 10% | Comprehensive report covering all aspects of the urban planning project. | April 15, 2023 | N/A |

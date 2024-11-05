@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Proposal for Smart Grid Component | 10% | Teams submit a proposal outlining their chosen smart grid component, including objectives, expected outcomes, and a project plan. | October 5, 2021 | Proposal |
+| Core | Preliminary Design Report | 15% | Teams provide a report with technical specifications, design diagrams, and a prototyping plan, along with identified challenges and proposed solutions. | November 2, 2021 | Preliminary Design Report |
+| Core | Regulatory and Economic Impact Report | 15% | Assessment of the regulatory and economic aspects of the proposed component, considering standards, cost-benefit analysis, and market barriers. | November 30, 2021 | Regulatory and Economic Impact Report |
+| Core | Final Design, Prototype, and Presentation | 30% | Development of a final design, creation of a working prototype, and delivery of a formal presentation to industry professionals, faculty, and peers. | December 21, 2021 | Final Design, Prototype, and Presentation |
+| Core | Peer Evaluation Report | 10% | Students assess the contributions of team members to ensure equal participation. | December 21, 2021 | Peer Evaluation Report |
+| Core | Final Project Report | 20% | Documentation of the entire design process, including problem statement, methodology, results, conclusions, future work, and potential improvements. | December 23, 2021 | Final Project Report |
+| Support | Attendance | N/A | Mandatory attendance for lectures and team meetings, with active participation emphasized. | N/A | N/A |
+| Support | Teamwork | N/A | Encouraging effective communication and collaboration among team members, with any issues addressed promptly. | N/A | N/A |
+| Support | Academic Integrity | N/A | Emphasizing the importance of academic integrity, with consequences for plagiarism or cheating as per university policies. | N/A | N/A |

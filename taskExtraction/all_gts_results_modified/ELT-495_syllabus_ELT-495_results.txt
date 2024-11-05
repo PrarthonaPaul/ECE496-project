@@ -1,0 +1,29 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Review ABET's Technology Accreditation Commission criteria and match them to the student outcomes of the electronics engineering technology program | N/A | N/A | N/A | N/A |
+| Core | Generate a capstone project demonstrating mastery of the outcomes | N/A | N/A | N/A | N/A |
+| Core | Design a capstone project based on past academic, professional, and personal learning experiences involving research on a problem, issue, event, developing technology, or case study in the electronics engineering technology field | N/A | N/A | N/A | N/A |
+| Core | Prepare a comprehensive research paper on a problem, issue, event, developing technology, or case study | N/A | N/A | N/A | N/A |
+| Core | Research, interpret, and critically analyze literature pertaining to the capstone project | N/A | N/A | N/A | N/A |
+| Core | Synthesize research findings, theories, and practice into a comprehensive explanation and resolution of the problem, issue, event, developing technology, or case study | N/A | N/A | N/A | N/A |
+| Core | Make technical presentations in English using language appropriate to peers and other audiences | N/A | N/A | N/A | N/A |
+| Core | Summarize the historical development, current state, and future direction of the field of study as related to the capstone project | N/A | N/A | N/A | N/A |
+| Core | Function effectively as a team member with an understanding of cultural diversity | N/A | N/A | N/A | N/A |
+| Core | Critique professional, ethical, and social responsibilities in the electronics engineering technology field as it applies to the capstone project | N/A | N/A | N/A | N/A |
+| Core | Submit an ethically responsible final project in an academic, professional format that serves as a bridge to future work or employment | N/A | N/A | N/A | N/A |
+| Core | Participate in six graded discussion forums | N/A | N/A | N/A | N/A |
+| Core | Complete three written assignments | N/A | N/A | N/A | N/A |
+| Core | Select a problem statement | N/A | N/A | N/A | N/A |
+| Core | Prepare a paper outline with bibliography | N/A | N/A | N/A | N/A |
+| Core | Complete two progress reports | N/A | N/A | N/A | N/A |
+| Core | Post an oral presentation as a video file | N/A | N/A | N/A | N/A |
+| Core | Submit the final paper | N/A | N/A | N/A | N/A |
+| Core | Post discussion comments and constructive criticism of other students' oral presentations on discussion forums | N/A | N/A | N/A | N/A |
+| Core | Rate team members' efforts in completing the final research paper | N/A | N/A | N/A | N/A |
+| Support | Read the entire syllabus | N/A | Ensure understanding of all aspects of the course and required materials | N/A | N/A |
+| Support | Read the Online Student Handbook | N/A | Gain insights on navigating the course and maximizing the educational experience | N/A | N/A |
+| Support | Familiarize yourself with the learning management systems environment | N/A | Learn how to navigate the course and its various areas | N/A | N/A |
+| Support | Check processes for posting responses online and submitting assignments | N/A | Ensure you know how to post responses and submit assignments before the course begins | N/A | N/A |
+| Support | Consult the Course Calendar weekly | N/A | Stay on track with due dates for assignments, discussions, and examinations | N/A | N/A |
+| Support | Check Announcements regularly for new course information | N/A | Stay updated with the latest course developments | N/A | N/A |
+| Support | Familiarize yourself with administrative and academic policies | N/A | Understand policies related to academic integrity, late submissions, extensions, and grading | N/A | N/A |

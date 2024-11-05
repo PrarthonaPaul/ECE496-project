@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Discussion Post | N/A | N/A | 1/11 | N/A |
+| Core | Submit Business Idea | N/A | N/A | 1/18 | N/A |
+| Core | Submit Market Analysis | N/A | N/A | 1/25 | N/A |
+| Core | Submit Business Plan Draft | N/A | N/A | 2/1 | N/A |
+| Core | Submit Final Business Pitch | N/A | N/A | 2/8 | N/A |

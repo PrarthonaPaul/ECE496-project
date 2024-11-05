@@ -1,0 +1,18 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Site Analysis Report | 10% | Document analyzing the site for the public art installation, including location, dimensions, and community context. | September 15, 2022 | N/A |
+| Core | Concept Proposal | 15% | Proposal outlining the concept for the public art installation, including sketches and initial ideas. | September 30, 2022 | N/A |
+| Core | Detailed Design Plan | 20% | Comprehensive design plan including materials, dimensions, and construction methods. | October 15, 2022 | N/A |
+| Core | Stakeholder Feedback Summary | 10% | Summary of feedback from community stakeholders and adjustments made based on their input. | October 31, 2022 | N/A |
+| Core | Construction Log | 15% | Detailed log of the construction process, including challenges and solutions. | November 15, 2022 | N/A |
+| Core | Installation Report | 15% | Report on the installation process, including final adjustments and installation challenges. | November 30, 2022 | N/A |
+| Core | Exhibition Display | 15% | Presentation of the completed art piece at the final exhibition. | December 7, 2022 | N/A |
+| Core | Final Reflection Report | 10% | Reflective report on the entire process, including learning outcomes and feedback received. | December 14, 2022 | N/A |
+| Support | N/A | N/A | Introduction to public art, site visits, and analysis | N/A | N/A |
+| Support | N/A | N/A | Brainstorming sessions, concept sketches | N/A | N/A |
+| Support | N/A | N/A | Selection of materials, refinement of design | N/A | N/A |
+| Support | N/A | N/A | Meetings with community members and stakeholders | N/A | N/A |
+| Support | N/A | N/A | Building and assembling the art piece | N/A | N/A |
+| Support | N/A | N/A | Installation at the site and final adjustments | N/A | N/A |
+| Support | N/A | N/A | Preparation for final exhibition | N/A | N/A |
+| Support | N/A | N/A | Exhibition and final critique | N/A | N/A |

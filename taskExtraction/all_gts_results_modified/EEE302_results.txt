@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Group Formation | 10% | Students form teams for the course project. | Week 2 | N/A |
+| Core | Project Proposal Submission | 10% | Teams submit a detailed project proposal for their renewable energy system. | Week 2 | N/A |
+| Core | Solar System Design Assignment | 15% | Design a small-scale solar energy system and submit a report with design choices and calculations. | Week 4 | N/A |
+| Core | Wind System Design Assignment | 15% | Design a wind energy system and provide a technical report with design calculations and component selection. | Week 6 | N/A |
+| Core | Interim Design Review Presentation | 20% | Present the integrated solar and wind system design to the class, showcasing innovation and collaboration. | Week 8 | N/A |
+| Core | Environmental Impact Report | 15% | Assess and report on the environmental impact of the proposed renewable energy system. | Week 10 | N/A |
+| Core | Final Project Report and Prototype Demonstration | 25% | Submit a comprehensive final report and demonstrate a working prototype of the renewable energy system. | Week 12 | N/A |
+| Support | N/A | N/A | Regular attendance is required. | N/A | N/A |
+| Support | N/A | N/A | Communicate absences in advance and provide documentation if necessary. | N/A | N/A |
+| Support | N/A | N/A | Late submissions will be penalized, and assignments will not be accepted after 3 days late. | N/A | N/A |
+| Support | N/A | N/A | Collaborate with team members, ensuring individual contributions are identifiable in team submissions. | N/A | N/A |

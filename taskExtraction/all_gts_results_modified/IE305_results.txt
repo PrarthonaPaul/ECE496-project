@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation and Project Proposal | 10% | Teams form and submit a proposal outlining the project scope and objectives. | September 5, 2023 | N/A |
+| Core | Problem Formulation Report | 15% | Detailed formulation of the operations research problem. | September 26, 2023 | N/A |
+| Core | Optimization Model and Solution | 20% | Development and solution of the optimization model. | October 17, 2023 | N/A |
+| Core | Simulation Analysis Report | 20% | Analysis of the problem using simulation techniques. | November 7, 2023 | N/A |
+| Core | Decision Analysis Report | 15% | Evaluation of different solutions using decision analysis. | November 28, 2023 | N/A |
+| Core | Final Presentation and Report | 20% | Final presentation and comprehensive report on the project. | December 12, 2023 | N/A |
+| Support | N/A | N/A | Regular attendance is required. | N/A | N/A |
+| Support | N/A | N/A | Read the textbook "Introduction to Operations Research" by Hillier and Lieberman. | N/A | N/A |
+| Support | N/A | N/A | Access and utilize optimization and simulation software (LINGO, Arena). | N/A | N/A |
+| Support | N/A | N/A | Engage with prototyping materials as specified by project requirements. | N/A | N/A |
+| Support | N/A | N/A | Utilize university resources: library, operations research lab, online tutorials, and workshops. | N/A | N/A |

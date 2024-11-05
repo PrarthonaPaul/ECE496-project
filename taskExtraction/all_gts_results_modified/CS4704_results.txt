@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Problem Formulation | 6% | N/A | N/A | N/A |
+| Core | Requirements Engineering | 6% | N/A | N/A | N/A |
+| Core | Architecture | 8% | N/A | N/A | N/A |
+| Core | Design Specification | 35% | Based on the identified architecture | N/A | Design Specification Document |
+| Core | Design Verification, Validation, and Quality Assurance | N/A | N/A | N/A | N/A |
+| Core | Implementation | 35% | Software development for modern platforms, including verification, validation, and quality assurance | N/A | Program Documentation |
+| Core | Integration and Delivery | 10% | N/A | N/A | N/A |

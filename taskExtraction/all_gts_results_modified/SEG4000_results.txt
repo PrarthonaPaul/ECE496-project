@@ -1,0 +1,47 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project Definition Deliverable | N/A | A deliverable that includes the project's title, a clear problem statement, and a few paragraphs describing the project. | N/A | N/A |
+| Core | Analysis Deliverable | N/A | A deliverable that includes a summary of the work completed, issues resolved, key requirements, technical challenges, and time spent by each team member. | N/A | N/A |
+| Core | Quality Assurance Presentation I | N/A | A presentation demonstrating the traceability of requirements to the design, architecture, test plan, testing strategies, and process, and test tools used to verify requirements and validate the design. | N/A | N/A |
+| Core | Quality Assurance Presentation II | N/A | A presentation highlighting the main difficulties encountered and how they were overcome, with the objective of helping other class members learn from the experience. | N/A | N/A |
+| Core | Design Report | N/A | A report detailing the design of the software, including maintainability, usability, and reliability. | N/A | N/A |
+| Core | Final Report | N/A | A comprehensive report summarizing the entire project, including the work completed, issues resolved, and the final product. | N/A | N/A |
+| Core | Project Proposal | N/A | A written proposal detailing the project, including team member information, project description, customer information, engineering challenges, development process, and schedule. | N/A | N/A |
+| Core | Regular Status Reports | N/A | Regular reports detailing the progress of the project, including screenshots and updates on the project's status. | N/A | N/A |
+| Core | Intermediate and Final Evaluations by Customers | N/A | Evaluations completed by customers at the end of each semester, assessing the project's progress and quality. | N/A | N/A |
+| Core | Group Meetings | N/A | Regular group meetings to discuss project progress, issues, and customer interactions. | N/A | N/A |
+| Core | Individual Group Meetings | N/A | Ad-hoc meetings with the coordinator to address specific issues or concerns related to the project. | N/A | N/A |
+| Core | Project Management Evaluation | N/A | Evaluation of the project management aspects by the course coordinator, based on regular reports and the overall professionalism of the team. | N/A | N/A |
+| Core | Team Member Adjustment | N/A | Adjustment of team member grades based on the team's agreement regarding individual contributions. | N/A | N/A |
+| Support | Reading the Rules for Projects Document | N/A | Students should read and understand the rules for projects, which outline the expectations and requirements for the course. | N/A | N/A |
+| Support | Understanding Group Structure and Roles | N/A | Students should be aware of the group structure and the roles of each team member, including the project manager and specialized roles like 'chief programmer' and 'user interface expert'. | N/A | N/A |
+| Support | Customer Interaction | N/A | Regular interaction with customers is required, including weekly or bi-weekly meetings, email communication, and physical visits. | N/A | N/A |
+| Support | Proposal Submission and Feedback | N/A | Students should submit their project proposals as soon as possible, allowing time for feedback and resubmission before the final deadline. | N/A | N/A |
+| Support | Regular Report Delivery | N/A | Students are expected to deliver regular reports to the coordinator, summarizing the work completed, issues resolved, and project progress. | N/A | N/A |
+| Support | Presentation Preparation | N/A | Students should prepare for presentations using tools like PowerPoint, focusing on key points and using diagrams to enhance their presentations. | N/A | N/A |
+| Support | Communication with the Coordinator | N/A | Students should maintain regular communication with the coordinator, scheduling meetings as needed and providing updates on project progress. | N/A | N/A |
+| Support | Intellectual Property and Financial Compensation | N/A | Students should be aware of the intellectual property rights and financial compensation arrangements related to their projects, and disclose any agreements to the SEG project supervisor. | N/A | N/A |
+| Support | Workload Management | N/A | Students should manage their workload effectively, aiming for 3-4 person-weeks of work for each semester of the project. | N/A | N/A |
+| Support | Grading Scheme Understanding | N/A | Students should understand the grading scheme, which includes customer satisfaction, project management evaluation, quality of presentations, software design, writing quality, completeness of written material, and project complexity. | N/A | N/A |
+| Support | Schedule Adherence | N/A | Students should adhere to the project schedule, including compulsory initial group meetings, determining subject matter, and delivering regular reports. | N/A | N/A |
+| Support | Customer Questionnaires | N/A | Students should ensure that customers complete questionnaires at the end of each semester, assessing their satisfaction with the project. | N/A | N/A |
+| Support | Regular Report Submission | N/A | Students should submit regular reports to the coordinator, detailing the work completed, issues resolved, and project progress. | N/A | N/A |
+| Support | Project Proposal Submission | N/A | Students should submit their project proposals by the specified deadlines, ensuring they include all required information. | N/A | N/A |
+| Support | Project Management | N/A | Students should effectively manage their projects, including regular status reports, customer interactions, and adherence to the project schedule. | N/A | N/A |
+| Support | Presentation Attendance | N/A | Students should attend scheduled presentations by other class members to learn from their experiences and provide feedback. | N/A | N/A |
+| Support | Communication with Customers | N/A | Students should maintain regular communication with customers, gathering requirements, conducting beta testing, and obtaining feedback through questionnaires. | N/A | N/A |
+| Support | Intellectual Property Disclosure | N/A | Students should disclose any intellectual property arrangements to the SEG project supervisor and ensure the supervisor has the right to read and run the project results. | N/A | N/A |
+| Support | Customer Agreement | N/A | Students should inform customers about intellectual property rights and provide an opportunity to negotiate alternative arrangements, especially if financial compensation is involved. | N/A | N/A |
+| Support | Project Proposal Approval | N/A | Students should ensure their project proposals are approved by the SEG project coordinator before officially starting work on the project. | N/A | N/A |
+| Support | Project Proposal Changes | N/A | Students can make changes to their project proposals as the project develops, but these changes are subject to approval by the coordinator. | N/A | N/A |
+| Support | Project Proposal Feedback | N/A | Students should submit their project proposals early to receive feedback and make any necessary revisions before the final deadline. | N/A | N/A |
+| Support | Project Proposal Submission Deadline | N/A | Students should submit their project proposals by the specified deadlines, ensuring they include all required information. | N/A | N/A |
+| Support | Project Proposal Approval | N/A | Students should ensure their project proposals are approved by the SEG project coordinator before officially starting work on the project. | N/A | N/A |
+| Support | Project Proposal Changes | N/A | Students can make changes to their project proposals as the project develops, but these changes are subject to approval by the coordinator. | N/A | N/A |
+| Support | Project Proposal Feedback | N/A | Students should submit their project proposals early to receive feedback and make any necessary revisions before the final deadline. | N/A | N/A |
+| Support | Project Proposal Submission Deadline | N/A | Students should submit their project proposals by the specified deadlines, ensuring they include all required information. | N/A | N/A |
+| Support | Project Proposal Approval | N/A | Students should ensure their project proposals are approved by the SEG project coordinator before officially starting work on the project. | N/A | N/A |
+| Support | Project Proposal Changes | N/A | Students can make changes to their project proposals as the project develops, but these changes are subject to approval by the coordinator. | N/A | N/A |
+| Support | Project Proposal Feedback | N/A | Students should submit their project proposals early to receive feedback and make any necessary revisions before the final deadline. | N/A | N/A |
+| Support | Project Proposal Submission Deadline | N/A | Students should submit their project proposals by the specified deadlines, ensuring they include all required information. | N/A | N/A |
+| Support | Project Proposal Approval | N/A | Students should ensure their project proposals are approved by the SEG project coordinator before officially starting work on the project. | N/A | N/

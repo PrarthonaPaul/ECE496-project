@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Select capstone project | N/A | Students will choose their capstone project. | N/A | N/A |
+| Core | Plan capstone project | N/A | Students will thoroughly plan their chosen project. | N/A | N/A |
+| Core | Prepare for project execution | N/A | Students will prepare for the execution of the project, which will be accomplished in the subsequent course, IEE 486. | N/A | N/A |
+| Core | Interim executive overview presentations | N/A | Each team will give an interim executive overview presentation. | N/A | N/A |
+| Core | Final project presentation | N/A | Each team will give a final project presentation. | N/A | N/A |
+| Core | Individual final essay | N/A | Each individual student will gather the semester team project assignments and accomplishments, interpret the learned outcomes, evaluate the results, lessons learned, and prepare an individual final essay. | N/A | N/A |
+| Core | Interim and final peer reviews | N/A | Each student will write an interim and final peer review that also explains their own role and performance on the team. | N/A | N/A |
+| Support | Reading materials | N/A | Students are expected to read various articles and short papers. | N/A | N/A |
+| Support | Active learning exercises | N/A | Classes will include active learning exercises. | N/A | N/A |
+| Support | Discussions | N/A | Students will engage in discussions during class. | N/A | N/A |
+| Support | Work commitment | N/A | Students are expected to put in at least 6 hours of work each week. | N/A | N/A |
+| Support | Teamwork | N/A | Students will work in teams, with each member having a defined role and set of responsibilities. | N/A | N/A |
+| Support | Canvas usage | N/A | Assignments and class schedules will be posted on Canvas, and completed assignments will be submitted there. | N/A | N/A |

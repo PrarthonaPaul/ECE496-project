@@ -1,0 +1,37 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Progress Presentations | 4% | Each progress presentation will consist of 3 slides to show current work and an asana board update to share project management strategy. | See schedule | N/A |
+| Core | Design Process (Team meetings and documentation) | 8% | Review progress using each team's asana board to uncover problems and plan for future events. | See schedule | N/A |
+| Core | TELS Survey & iLEAD Workshop | 3% | Submit TELS survey and attend the iLEAD workshop. | Dec 8 | N/A |
+| Core | Pre-Class Assignments | 5% | Prepare for synchronous discussions during small and class-wide discussions held during lectures via webcast. | See schedule | N/A |
+| Core | Project Requirements | 10% | Submit a concise document that communicates the design requirements (specifications) of the chosen need. | Oct 30 | N/A |
+| Core | Project Proposal | 10% | Draft a project proposal document that defines the design problem, proposes possible solutions, selects the most promising design, and provides a plan to carry out the solution. | Dec 4 | N/A |
+| Core | Design Review and Critique | 5% | Present an overview of the project, show preliminary prototypes, and defend design choices. | Jan 22 | N/A |
+| Core | Demonstration Day | 15% | Present the design and demonstrate the final working prototype to project supervisors and users. | Mar 30 | N/A |
+| Core | Final Report | 40% | Produce a final report that provides enough information for someone to develop the project further, incorporating feedback from supervisors and fellow students. | Apr 1 | N/A |
+| Core | Design Notebook (Individual) | N/A | Submit a design notebook to demonstrate design excellence and deep thinking about the design problem. | TBD | N/A |
+| Support | Reading the textbook | N/A | Read the required textbook, "Biodesign" by Yock, and utilize its online resources. | N/A | N/A |
+| Support | Attending lectures and practicums | N/A | Attend lectures and practicums to learn about medical technology development and engage in hands-on activities. | N/A | N/A |
+| Support | Participating in team meetings | N/A | Participate in team meetings to review progress, make decisions, and plan for future events. | N/A | N/A |
+| Support | Submitting meeting minutes and agendas | N/A | Submit meeting minutes and agendas to create a living document of progress through the design project. | N/A | N/A |
+| Support | Utilizing the design studio | N/A | Book the design studio to build and test prototypes, ensuring adherence to social distancing and safety protocols. | N/A | N/A |
+| Support | Communicating with the project client | N/A | Include the project supervisor in all communication with the project client and attend progress meetings. | N/A | N/A |
+| Support | Following communication guidelines | N/A | Adhere to communication guidelines for written and oral discourse, as provided by the communication instructor. | N/A | N/A |
+| Support | Completing the TELS survey | N/A | Complete the TELS survey as part of the iLEAD workshop. | N/A | N/A |
+| Support | Attending the iLEAD workshop | N/A | Participate in the iLEAD workshop for teamwork reflection. | N/A | N/A |
+| Support | Submitting pre-class assignments | N/A | Submit pre-class assignments before the start of class to prepare for synchronous discussions. | N/A | N/A |
+| Support | Gathering information for project requirements | N/A | Gather information about the chosen problem and build an understanding of the healthcare-related need. | N/A | N/A |
+| Support | Defining design requirements | N/A | Define the design requirements and specifications for the stated need. | N/A | N/A |
+| Support | Drafting the project proposal | N/A | Draft the project proposal, including defining the design problem, proposing solutions, and providing a plan. | N/A | N/A |
+| Support | Preparing for the design review and critique | N/A | Prepare an overview of the project and preliminary prototypes for the design review and critique. | N/A | N/A |
+| Support | Defending design choices | N/A | Defend design choices and key decisions during the design review and critique. | N/A | N/A |
+| Support | Creating a final working prototype | N/A | Build a final working prototype for the demonstration day. | N/A | N/A |
+| Support | Incorporating feedback | N/A | Incorporate feedback from supervisors and fellow students into the final report. | N/A | N/A |
+| Support | Submitting the final report | N/A | Submit the final report by the deadline. | N/A | N/A |
+| Support | Completing the design notebook | N/A | Complete the design notebook to demonstrate design excellence and deep thinking. | N/A | N/A |
+| Support | Following the lateness policy | N/A | Be aware of the lateness policy for graded reports and ensure timely submissions. | N/A | N/A |
+| Support | Adhering to the attendance policy | N/A | Follow the attendance policy and coordinate with peers in case of absence. | N/A | N/A |
+| Support | Utilizing online communication platforms | N/A | Use the "Course Q & A" discussion and email for course-related questions and personal issues. | N/A | N/A |
+| Support | Practicing academic integrity | N/A | Understand and adhere to the University's academic integrity policies, including plagiarism guidelines. | N/A | N/A |
+| Support | Applying for additional funds | N/A | Write a one-page grant application to request additional funds for the project. | N/A | N/A |
+| Support | Utilizing the teaching lab | N/A | Contact the teaching lab coordinator to access the wet lab facilities. | N/A | N/A |

@@ -1,0 +1,8 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Homework | 15% | Complete 8 weekly homework assignments on WileyPLUS via Quercus, starting in Week 3. | Mondays at 8pm, due the following Mondays at 8pm | N/A |
+| Core | Mid-Term Test | 35% | A test covering material from weeks 1 through 5. | Week of October 16 | N/A |
+| Core | Case Assignment | 10% | Details to be announced. | TBA | N/A |
+| Core | Final Term Test | 40% | A final exam covering all course materials. | FAS Final Exam Period | N/A |
+| Support | Group Assignment | N/A | Work in teams of no more than three to develop communication skills. | N/A | N/A |
+| Support | Course Participation & Contribution | N/A | Participate in class discussions and post on the discussion board. | N/A | N/A |

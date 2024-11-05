@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Develop a project proposal | 20 pts | N/A | Weeks 1 to 3 | N/A |
+| Core | Meet with the instructor each week | 25 pts | N/A | Weeks 4 to 14 | N/A |
+| Core | Make an oral presentation of the project | 25 pts | N/A | Week 15 | N/A |
+| Core | Submit the final project report | 30 pts | N/A | Week 16 | N/A |
+| Support | Select a project proposal | N/A | Students are encouraged to choose projects involving hardware and software design. | N/A | N/A |
+| Support | Provide a demonstration of a hardware prototype and a detailed design report | N/A | This should document all aspects of the design process. | N/A | N/A |
+| Support | Address issues related to manufacturability, engineering economics, environmental, and ethical concerns in the final design project report | N/A | N/A | N/A | N/A |
+| Support | Prepare and present the design project to the class | N/A | N/A | End of semester | N/A |
+| Support | Check the official A&M-Texarkana email account regularly | N/A | Faculty and students are required to use this email for course-related communication. | N/A | N/A |
+| Support | Complete the Drop/Withdrawal Request Form and submit it to the instructor and Registrar's office | N/A | This is required to drop the course after the 12th class day. | N/A | N/A |

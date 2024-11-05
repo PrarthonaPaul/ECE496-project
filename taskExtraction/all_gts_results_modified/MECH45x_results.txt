@@ -1,0 +1,21 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Produce a proposal | N/A | Create a proposal that is acceptable to the team, client, and supervisor, and involve the mentor in this phase. | October 2019 | Proposal Document |
+| Core | Work steadily | N/A | Put in 100 hours per term per team member, working approximately 8 hours per week. | N/A | N/A |
+| Core | Prototype construction | N/A | Build a working prototype. | End of the course | Working prototype |
+| Core | Prototype testing and evaluation | N/A | Test and evaluate the prototype. | N/A | N/A |
+| Core | Technical communication of results | N/A | Communicate results verbally and in writing. | N/A | N/A |
+| Core | Team participation | N/A | Participate in participatory workshops, presentation reviews, and reflections. | N/A | N/A |
+| Core | Individual participation | N/A | Participate in lectures and complete iPeer evaluations. | N/A | N/A |
+| Core | Logbook maintenance | N/A | Maintain a logbook and submit it for evaluation. | April 20, 2020 | Final Report and Logbook |
+| Core | Design Paper literature review | N/A | Conduct a literature review for the design paper. | N/A | N/A |
+| Support | Regular meetings with supervisor | N/A | Have regular meetings with the supervisor to report progress, identify issues, and plan activities. | N/A | N/A |
+| Support | Prepare for meetings | N/A | Prepare a brief memo and account for team members' hours before each meeting. | N/A | N/A |
+| Support | Communication with project teams, supervisors, clients, and mentors | N/A | Communicate primarily through phone, email, CANVAS, and online file repositories. | N/A | N/A |
+| Support | Project selection | N/A | Review proposed projects, discuss with instructors and classmates, and rank top five choices on CANVAS. | September 9, 2019 | Project Selection |
+| Support | Setting up a site for MECH 45X files | N/A | Set up a site for storing and sharing MECH 45X files. | N/A | N/A |
+| Support | Consultation with faculty | N/A | Consult with faculty members for guidance and resources. | N/A | N/A |
+| Support | Technician resources | N/A | Utilize technician resources for project completion, with costs coming out of the team budget. | N/A | N/A |
+| Support | Student shop time | N/A | Encourage students to work on projects in the shop on their own, ensuring equipment and safety. | N/A | N/A |
+| Support | Workshop space and storage | N/A | Utilize the provided workshop space and storage room for project materials and supplies. | N/A | N/A |
+| Support | Funds management | N/A | Manage funds allocated to each project team for materials, components, logbooks, etc. | N/A | N/A |

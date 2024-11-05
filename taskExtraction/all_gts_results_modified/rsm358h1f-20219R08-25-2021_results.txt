@@ -1,0 +1,10 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Assignments | 30% | N/A | See Quercus | N/A |
+| Core | Mid-Term Test | 20% | N/A | TBD | N/A |
+| Core | Final Term Test | 40% | N/A | TBD | N/A |
+| Support | Class Participation/Attendance | 10% | N/A | Ongoing | N/A |
+| Support | Reading Required Textbook | N/A | An Introduction to Statistical Learning by James, Witten, Hastie, Tibshirani | N/A | N/A |
+| Support | Reading Optional Textbook | N/A | Reinforcement Learning by Sutton and Barto | N/A | N/A |
+| Support | UCheck Self-Assessment | N/A | Complete the self-assessment process as part of UCheck when attending in-person lectures, tutorials, and other activities. | N/A | N/A |
+| Support | Recording Lectures | N/A | Students wishing to record a lecture or other course material must ask the instructor's explicit permission and may not do so unless permission is granted. | N/A | N/A |

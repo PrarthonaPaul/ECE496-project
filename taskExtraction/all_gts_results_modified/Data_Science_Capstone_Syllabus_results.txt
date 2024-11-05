@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal Submission | 10% | Submit a project proposal for the predictive analytics project. | Week 1 | N/A |
+| Core | Data Collection and Initial Cleaning | 20% | Collect and perform initial cleaning of the dataset. | Week 2 | N/A |
+| Core | Exploratory Data Analysis | N/A | Explore and analyze the cleaned dataset. | Week 3 | N/A |
+| Core | Feature Engineering and Model Selection | N/A | Engineer features and select an appropriate predictive model. | Week 4 | N/A |
+| Core | Model Training and Evaluation | 30% | Train and evaluate the selected model. | Week 5 | N/A |
+| Core | Final Model Tuning and Validation | N/A | Fine-tune and validate the final model. | Week 6 | N/A |
+| Core | Project Presentation and Report Submission | 40% | Present the project and submit a detailed report with the final model code. | Week 7 | Final Model and Report |
+| Support | Weekly Readings | N/A | Engage with weekly readings related to data science and predictive analytics. | N/A | N/A |
+| Support | Discussion Forums | N/A | Participate in online discussion forums to discuss course topics. | N/A | N/A |
+| Support | Lectures and Tutorials | N/A | Attend lectures and tutorials to support project development. | N/A | N/A |
+| Support | Online Resources | N/A | Utilize online resources like Kaggle and UCI Machine Learning Repository for additional learning. | N/A | N/A |
+| Support | University Data Science Lab | N/A | Access the University Data Science Lab for project resources and support. | N/A | N/A |
+| Support | Programming Forums | N/A | Engage with Python and R programming forums for language-specific support. | N/A | N/A |

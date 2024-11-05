@@ -1,0 +1,19 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Identify human systems engineering project topic | N/A | Students will choose a topic for their capstone project. | N/A | N/A |
+| Core | Write a proposal with timeline | N/A | A written proposal for the project, including a timeline, is required. | N/A | N/A |
+| Core | Complete a project based on research and/or experience in an applied setting | N/A | Students will conduct a project based on their chosen topic, utilizing research and/or practical experience. | N/A | N/A |
+| Core | Write a report on the project | N/A | A written report detailing the project's process and outcomes is required. | N/A | N/A |
+| Core | Give an elevator pitch | N/A | Students will deliver a concise, persuasive speech about their project. | N/A | N/A |
+| Core | Create a poster presentation | N/A | A visual representation of the project will be presented in the form of a poster. | N/A | N/A |
+| Core | Attend class meetings | 20% | Students are expected to attend and actively participate in class meetings, discussing assignments and projects. | N/A | N/A |
+| Core | Attend individual meetings | 12% | Students must schedule and attend individual meetings with the instructor to discuss project progress. | N/A | N/A |
+| Core | Proposal | 10% | The initial project proposal is due. | Sept 18 (W) | N/A |
+| Core | Revised Proposal | 13% | The revised project proposal, incorporating feedback, is due. | Oct 23 (W) | N/A |
+| Core | Report | 25% | The final written report on the project is due. | Nov 27 (W) | N/A |
+| Core | Presentation | 10% | The oral presentation of the project is due. | Nov 27 (W) | N/A |
+| Core | Poster for Innovation Showcase | 10% | The poster presentation for the Innovation Showcase is due. | Dec 6 (F) | N/A |
+| Support | Complete assigned readings | N/A | Students are expected to read the recommended materials before class. | N/A | N/A |
+| Support | Participate in class discussions, demos, and assignments | N/A | Active participation in class activities is required. | N/A | N/A |
+| Support | Schedule and attend one-on-one meetings | N/A | Students must schedule and attend individual meetings with the instructor as needed. | N/A | N/A |
+| Support | Seek help, advice, or information as needed | N/A | Students are encouraged to seek assistance from the instructor when necessary. | N/A | N/A |

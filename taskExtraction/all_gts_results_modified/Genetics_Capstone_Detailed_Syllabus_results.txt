@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal with study details, objectives, outcomes, timeline, and assigned roles. | Week 3 | N/A |
+| Core | Sample Collection and DNA Extraction | 15 points | Collect samples, extract DNA, and prepare for analysis using techniques like PCR and sequencing. | Weeks 4-6 | N/A |
+| Core | Genetic Analysis and Data Interpretation | 18 points | Analyze genetic data, identify variation patterns, and interpret data using bioinformatics tools. | Weeks 7-10 | N/A |
+| Core | Hypothesis Testing and Population Genetics Modeling | 10 points | Test hypotheses about genetic variation, and develop population genetics models. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the research process, challenges, solutions, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare a presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Individual Meetings | N/A | Attend individual meetings to discuss ideas, readings, proposal feedback, and data analysis. | Sep 4, Oct 2, Nov 13 | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy, avoiding plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

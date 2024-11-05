@@ -1,0 +1,10 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation and Project Outline | 0% | Form teams and select a project | September 15, 2020 | N/A |
+| Core | Feasibility Report and Project Plan | 15% | Develop a feasibility study and project plan | October 6, 2020 | N/A |
+| Core | Environmental Impact and Sustainability Report | 20% | Assess environmental impact and propose sustainable practices | October 27, 2020 | N/A |
+| Core | Detailed Design Submission | 25% | Submit engineering drawings, calculations, and specifications | November 24, 2020 | N/A |
+| Core | Final Project Report and Presentation | 40% | Submit a complete project report and present to a panel | December 15, 2020 | N/A |
+| Support | Attendance | N/A | Attend all classes, presentations, and team meetings | N/A | N/A |
+| Support | Teamwork and Collaboration | N/A | Manage team schedules, distribute work evenly, and resolve conflicts | N/A | N/A |
+| Support | Academic Integrity | N/A | Ensure all work is original and properly cited | N/A | N/A |

@@ -1,0 +1,22 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Class Participation | 8% | In-class discussion, online discussion board, course reflection | On-going | N/A |
+| Core | Online module on Research Ethics (TCPS 2 certification) | 2% | Complete an online module on research ethics and submit a certificate of completion | 2024-01-23 | N/A |
+| Core | Term Test 1 | 17% | First term test covering chapters 1, 2, 3, 4, 5, 7, 8 and topics discussed in class weeks 1-5 | 2024-02-14 | N/A |
+| Core | Term Test 2 | 18% | Second term test covering chapters 6, 9, 10, 11, 12 and topics discussed in class weeks 9-11 | 2024-03-20 | N/A |
+| Core | Term Test 3 (Cumulative) | 25% | Third term test covering all topics discussed in the course | 2024-04-03 | N/A |
+| Core | Group Project - Part 1 (Proposal) | 5% | Analyze a business situation, formulate a problem, set objectives, and propose a plan | 2024-02-06 | N/A |
+| Core | Group Project - Part 2 (Final Report) | 20% | Execute the proposed plan, conduct research, present findings, and provide recommendations | 2024-03-26 | N/A |
+| Core | Group Project - Part 3 (Presentation) | 5% | Present findings and recommendations to stakeholders, either live or via a pre-recorded video | 2024-03-27 | N/A |
+| Support | Reading Materials | N/A | Read assigned chapters and materials before each class | N/A | N/A |
+| Support | Online Discussion Board | N/A | Participate in online discussions by sharing perspectives and insights on given topics | N/A | N/A |
+| Support | Peer Assessments | N/A | Evaluate contributions of group members and provide feedback on the group work experience | N/A | N/A |
+| Support | Attendance and Preparation | N/A | Attend live sessions and be fully prepared, including completing all preparatory activities | N/A | N/A |
+| Support | Communication Guidelines | N/A | Follow guidelines for communication with instructors and TAs regarding course-related inquiries | N/A | N/A |
+| Support | Special Consideration Requests | N/A | Follow procedures for requesting academic accommodations for missed tests and quizzes | N/A | N/A |
+| Support | Academic Integrity and Plagiarism | N/A | Adhere to academic integrity guidelines and avoid plagiarism in assignments and assessments | N/A | N/A |
+| Support | Remote Assessment Guidelines | N/A | Follow guidelines for remote assessments, including restrictions on resources and collaboration | N/A | N/A |
+| Support | Intellectual Property Rights | N/A | Respect intellectual property rights and avoid unauthorized reproduction or distribution of course materials | N/A | N/A |
+| Support | Equity, Human Rights, and Diversity | N/A | Strive for an atmosphere of mutual respect and adhere to U of T's commitment to equity, human rights, and diversity | N/A | N/A |
+| Support | Academic Integrity in Digital Contexts | N/A | Maintain academic integrity in digital contexts, avoiding unauthorized resources and collaboration | N/A | N/A |
+| Support | Generative AI / ChatGPT Policy | N/A | Understand and follow the course policy on the use of generative AI tools in assignments | N/A | N/A |

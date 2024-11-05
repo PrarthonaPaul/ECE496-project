@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Class Meetings | 20 points | Attend class meetings | N/A | N/A |
+| Core | Individual Meetings | 12 points | Attend individual meetings with the instructor | N/A | N/A |
+| Core | Project Proposal | 10 points | Develop a detailed project proposal | N/A | Clear timeline and methodology |
+| Core | Revised Proposal | 13 points | Revise and improve the project proposal | N/A | N/A |
+| Core | Final Report | 25 points | Produce a comprehensive report on project outcomes | N/A | Critical assessment |
+| Core | Presentation | 10 points | Present the project at the Innovation Showcase | N/A | Professional delivery |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase | N/A | N/A |

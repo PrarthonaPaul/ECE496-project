@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 15% | N/A | N/A | N/A |
+| Core | Front-End Design | 25% | Develop the front-end of the web application using HTML/CSS/JavaScript | N/A | N/A |
+| Core | Back-End Development | 25% | Implement the back-end functionality using Node.js and Express | N/A | N/A |
+| Core | Database Integration | N/A | Integrate MongoDB into the application | N/A | N/A |
+| Core | Authentication and Security | N/A | Implement security measures and user authentication | N/A | N/A |
+| Core | Deployment to Cloud | N/A | Deploy the application to AWS or Heroku | Week 7 | N/A |
+| Core | Final Application and Presentation | 35% | Complete the web application and present it with a demonstration video | Week 7 | Final application and project report |
+| Support | Reading Eloquent JavaScript | N/A | Read the book Eloquent JavaScript by Marijn Haverbeke | N/A | N/A |
+| Support | Reading You Don't Know JS | N/A | Read the book You Don't Know JS by Kyle Simpson | N/A | N/A |
+| Support | Using Online Resources | N/A | Utilize online resources such as MDN Web Docs and W3Schools for learning and reference | N/A | N/A |
