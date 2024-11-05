@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Proposal | 10% | Submit a proposal document for the GIS research project. | Jan. 29, 5:00 pm | List of group members, roles, and tentative topic |
+| Core | Progress Report | 25% | Submit a progress report, including material from the proposal. | Mar. 5, 5:00 pm | N/A |
+| Core | Final Report | 50% | Submit a final report, building on the progress report. | Apr. 2, 11:00 am | N/A |
+| Core | Presentation of Final Report | 15% | Present the final report to the class. | Apr. 2 | N/A |
+| Support | Identifying Relevant Material | N/A | Students are expected to find relevant material for their project. | N/A | N/A |
+| Support | Attendance | N/A | All students are expected to attend classes in person. | N/A | N/A |
+| Support | Participation | N/A | Students are expected to participate in discussions during class meetings. | N/A | N/A |
+| Support | Group Work | N/A | Students work in groups to complete the research project. | N/A | N/A |
+| Support | Data Acquisition | N/A | Students are responsible for acquiring data for their project, which can be time-consuming. | N/A | N/A |
+| Support | Computer Usage | N/A | Students are provided with computer accounts and are expected to work in IIT labs or on their own computers. | N/A | N/A |
+| Support | Backup and Security | N/A | Students are responsible for maintaining regular backup copies of their files and using antivirus software. | N/A | N/A |
+| Support | Accessibility | N/A | Students with accessibility needs are encouraged to visit the Accessibility Services website. | N/A | N/A |
+| Support | Academic Integrity | N/A | Students must adhere to academic integrity policies, including plagiarism and copyright infringement. | N/A | N/A |

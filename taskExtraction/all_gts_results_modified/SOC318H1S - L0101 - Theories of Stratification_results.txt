@@ -1,0 +1,23 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Expectations Agreement | N/A | Return the signed agreement on the first day of class | N/A | N/A |
+| Core | Assignments A and B | 46% | Evaluate two peer-reviewed articles and their arguments | N/A | N/A |
+| Core | Assignment Zero | 1% | Similar to Assignments A and B, graded on instruction adherence | N/A | N/A |
+| Core | Peer Review | 3% | Evaluate peers' arguments and provide feedback | N/A | N/A |
+| Core | Literature Review | 50% | Research and assess a key argument from course readings | N/A | N/A |
+| Support | Reading Notes | N/A | Complete reading notes for each week | N/A | N/A |
+| Support | Pre-Class Activities | N/A | Complete pre-class activities | N/A | N/A |
+| Support | Article Summaries | N/A | Summarize articles | N/A | N/A |
+| Support | Reading | N/A | Read assigned texts | N/A | N/A |
+| Support | Attendance | N/A | Attend classes regularly | N/A | N/A |
+| Support | Office Hours | N/A | Utilize office hours for course-related questions | N/A | N/A |
+| Support | Emails | N/A | Send emails for course-related inquiries | N/A | N/A |
+| Support | Accessibility Services | N/A | Contact Accessibility Services for accommodations | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to academic integrity principles | N/A | N/A |
+| Support | Ouriginal | N/A | Use Ouriginal for plagiarism detection | N/A | N/A |
+| Support | Statistical Literacy | N/A | Understand statistical concepts for the course | N/A | N/A |
+| Support | Artificial Intelligence Tools | N/A | Avoid using AI tools for assignments | N/A | N/A |
+| Support | Rules of the Game | N/A | Follow class rules and guidelines | N/A | N/A |
+| Support | COVID-19 and Masking | N/A | Wear masks during class | N/A | N/A |
+| Support | Late or Missed Assignments | N/A | Understand the policy for late or missed assignments | N/A | N/A |
+| Support | Terms and Conditions | N/A | Agree to the course's terms and conditions | N/A | N/A |

@@ -1,0 +1,14 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Mid-Term Test | 28% | N/A | October 25th, 3:10pm | N/A |
+| Core | Case - Individual Assignment Submission | 5% | N/A | November 15th 5:00pm | N/A |
+| Core | Final Exam | 45% | N/A | During the Faculty of Arts & Science (FAS) final exam period | N/A |
+| Support | Participation and Contribution | 10% | N/A | Ongoing | N/A |
+| Support | Post-Class Homework (Wiley Plus) | 12% | N/A | Ongoing | N/A |
+| Support | Class Participation | N/A | Prepare for class, contribute to discussions, and respond to questions and issues raised. | N/A | N/A |
+| Support | Post Class Homework (Wiley Plus Quizzes) | N/A | Complete homework for each topic, with 2 lowest scores dropped. | N/A | N/A |
+| Support | Midterm Exam | N/A | Study for the midterm exam, which covers materials from Lectures 1 through 6. | N/A | N/A |
+| Support | Final Exam | N/A | Study for the final exam, which covers all course material. | N/A | N/A |
+| Support | Missed Midterm Test and any Assignments | N/A | Request special consideration within 2 business days of the missed midterm/test/assignment due date for legitimate reasons. | N/A | N/A |
+| Support | Late Assignments | N/A | Obtain approval from the instructor for an extension for assignments due to legitimate reasons. | N/A | N/A |
+| Support | Recording Lectures | N/A | Ask the instructor's permission to record lectures for individual study purposes. | N/A | N/A |

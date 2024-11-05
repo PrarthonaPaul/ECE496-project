@@ -1,0 +1,29 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Design a solution to a problem for a client | N/A | Students will design a solution to a problem for a client, learning to problem-solve with creativity, methodology, and credibility. | N/A | N/A |
+| Core | Conduct background research for the project | N/A | Students will conduct background research for their project, practicing independent learning skills. | N/A | N/A |
+| Core | Consider factors outside of the technical | N/A | Students will take into account factors such as environmental, societal, ethical, and human factors, developing a systems thinking approach. | N/A | N/A |
+| Core | Report the solution | N/A | Students will report their solution using effective written, oral, and graphical professional communication. | N/A | N/A |
+| Core | Participate in a seminar | N/A | Students will participate in a seminar, discussing a unique topic that requires broader considerations when making a professional recommendation. | N/A | N/A |
+| Core | Express opinion through an oral presentation | N/A | Students will express their opinion on the seminar topic through an oral presentation. | N/A | N/A |
+| Core | Complete a unique design project with a real client | N/A | Students will complete a unique design project with a real client, learning project management, problem-solving, and information acquisition. | N/A | N/A |
+| Core | Develop an initial workable solution | N/A | Students will develop an initial workable solution to meet the client's needs. | N/A | N/A |
+| Core | Create a written final design specification | N/A | Students will create a written final design specification as part of their project. | N/A | N/A |
+| Core | Deliver an oral presentation | N/A | Students will deliver an oral presentation on their design project. | N/A | N/A |
+| Core | Create a prototype, proof-of-concept model, or simulation (for excelling teams) | N/A | Excelling teams will create a prototype, proof-of-concept model, or simulation as part of their project. | N/A | N/A |
+| Core | Attend lectures | N/A | Attendance at lectures is mandatory. | N/A | N/A |
+| Core | Attend tutorials | N/A | Attendance at tutorials is mandatory, and students are expected to complete tasks before each tutorial. | N/A | N/A |
+| Core | Complete quizzes | N/A | There are two quizzes, one midterm and one at the end of the term. | N/A | N/A |
+| Core | Submit individual assessments: Lessons Learned & Strategy Project Manager Report | N/A | Students will submit individual assessments, including lessons learned and a project manager report. | N/A | N/A |
+| Core | Participate in professional development activities | N/A | Students will participate in professional development activities, including lecture participation and safety training. | N/A | N/A |
+| Core | Complete the Project Manager Report | N/A | The Project Manager will assess the overall quality and quantity of each student's participation in the design project. | N/A | N/A |
+| Support | Read assigned materials | N/A | Students are responsible for reading assigned materials from the e-book and additional readings posted on Blackboard. | N/A | N/A |
+| Support | Use Blackboard | N/A | Blackboard is the primary mode of course communication outside of lectures and tutorials, and students are expected to check it frequently for information. | N/A | N/A |
+| Support | Use Piazza for class discussion | N/A | Piazza is used for class discussion, allowing students to post questions and collaborate with peers and the teaching team. | N/A | N/A |
+| Support | Maintain professional email style | N/A | Students are expected to adhere to professional email style requirements when communicating with the teaching team. | N/A | N/A |
+| Support | Avoid plagiarism and cheating | N/A | Students are reminded to avoid plagiarism and cheating, and to seek clarification if unsure about what constitutes plagiarism. | N/A | N/A |
+| Support | Submit assignments to Turnitin.com | N/A | Students are required to submit assignments to Turnitin.com for textual similarity review to detect plagiarism. | N/A | N/A |
+| Support | Share work within the team | N/A | Students are expected to share work within their team, including feedback, meeting minutes, notes, and drafts. | N/A | N/A |
+| Support | Address team dynamics and behavior issues | N/A | Students are encouraged to address team dynamics and behavior issues in an appropriate and effective way, seeking help from the TA, CI, and PM if needed. | N/A | N/A |
+| Support | Submit petitions for late assignments or missed activities | N/A | Students must submit petitions for late assignments or missed activities within a specified timeframe, providing supporting documentation. | N/A | N/A |
+| Support | Request re-marks for assignments | N/A | Students can request re-marks for assignments within one week of the return, providing evidence of errors and explaining the problem. | N/A | N/A |

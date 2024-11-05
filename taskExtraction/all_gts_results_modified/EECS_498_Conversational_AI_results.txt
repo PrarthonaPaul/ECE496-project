@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project Pitch | 5% | One-page write-up and slides | 9/25 | N/A |
+| Core | Project Update | 5% | One-page write-up and slides | 10/30 | N/A |
+| Core | Paper Presentations | 5% x 2 | N/A | N/A | N/A |
+| Core | Paper Summaries | 10% | N/A | N/A | N/A |
+| Core | Final Project | 50% | Includes demo, code, final deck, write-up, and final presentation | 12/7 | N/A |
+| Support | Reading Materials | N/A | Understanding papers and metrics | N/A | N/A |
+| Support | Group Formation | N/A | Students form groups of 5-7 | 9/11 | N/A |
+| Support | Project Milestones | N/A | Milestones on the way to the final project | N/A | N/A |
+| Support | Participation | N/A | Encouraged for extra credit | N/A | N/A |

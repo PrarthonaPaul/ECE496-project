@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 15% | N/A | N/A | N/A |
+| Core | Front-End Design | 25% | HTML/CSS/JavaScript implementation | N/A | N/A |
+| Core | Back-End Development | 25% | Node.js/Express implementation | N/A | N/A |
+| Core | Final Application & Presentation | 35% | Complete web application and presentation | Week 7 | Demonstration video and detailed project report |
+| Support | Reading Eloquent JavaScript | N/A | Reading the book by Marijn Haverbeke | N/A | N/A |
+| Support | Reading You Don't Know JS | N/A | Reading the book by Kyle Simpson | N/A | N/A |
+| Support | Using Online Resources | N/A | Utilizing MDN Web Docs and W3Schools | N/A | N/A |

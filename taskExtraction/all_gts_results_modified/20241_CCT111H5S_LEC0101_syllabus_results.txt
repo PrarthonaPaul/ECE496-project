@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Lab exercises | 10% | Ongoing lab exercises | N/A | N/A |
+| Core | Assignment 1 - Coding Exercise | 10% | First coding assignment | 2024-01-30 | N/A |
+| Core | Test 1 | 20% | First term test | 2024-02-27 | N/A |
+| Core | Assignment 2 - Coding Exercise | 12.5% | Second coding assignment | 2024-02-13 | N/A |
+| Core | Assignment 3 - Information visualization presentation and report | 15% | Tentative topic assignment | 2024-03-26 | N/A |
+| Core | Test 2 | 25% | Second term test | 2024-04-02 | N/A |
+| Core | Zybook Learning Activities | 5% | Participation and challenge activities in Zybook | 2024-04-02 | N/A |
+| Support | Class Contribution | 2.5% | Attendance, contribution to class discussions, presentation peer reviews, etc. | N/A | N/A |
+| Support | Weekly lab exercises | N/A | Attendance and completion of lab exercises | N/A | N/A |
+| Support | Zybook Learning Activities | N/A | Completion of participation and challenge activities in Zybook | N/A | N/A |

@@ -1,0 +1,80 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Design Process and Project Management Exam | 6.25% | N/A | N/A | N/A |
+| Core | Quizzes | 2.5% | N/A | N/A | N/A |
+| Core | Report summarizing design activities | 7.5% | N/A | N/A | N/A |
+| Core | Final Engineering Design Report | 22.5% | N/A | N/A | N/A |
+| Core | Milestones and Milestones Compliance Reports | 3.75% | N/A | N/A | N/A |
+| Core | Project Oral Exam | 5% | N/A | N/A | N/A |
+| Core | Project Management and Team Work | 11.25% | N/A | N/A | N/A |
+| Core | Milestone Compliance Reports | 11.25% | N/A | N/A | N/A |
+| Core | Milestones and Final Demonstrations | 11.25% | N/A | N/A | N/A |
+| Core | Open-House Participation | 3.75% | N/A | N/A | N/A |
+| Support | N/A | N/A | Attend specified seminars and quizzes | N/A | N/A |
+| Support | N/A | N/A | Submit project milestones and milestones compliance reports | N/A | N/A |
+| Support | N/A | N/A | Keep FLC advised of progress on a weekly basis | N/A | N/A |
+| Support | N/A | N/A | Participate in an "Open House" exhibition | N/A | N/A |
+| Support | N/A | N/A | Submit Final Engineering Design Report | N/A | N/A |
+| Support | N/A | N/A | Submit project milestones and milestones compliance reports | N/A | N/A |
+| Support | N/A | N/A | Meet with FLCs regularly | N/A | N/A |
+| Support | N/A | N/A | Discuss with FLCs ahead of time and identify alternate meeting times | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Phase I milestones and deliverables | N/A | N/A |
+| Support | N/A | N/A | Submit Phase II milestones and deliverables | N/A | N/A |
+| Support | N/A | N/A | Submit Phase III milestones and deliverables | N/A | N/A |
+| Support | N/A | N/A | Submit Phase IV milestones and deliverables | N/A | N/A |
+| Support | N/A | N/A | Submit Individual project contribution summary | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |
+| Support | N/A | N/A | Submit Final Report | N/A | N/A |

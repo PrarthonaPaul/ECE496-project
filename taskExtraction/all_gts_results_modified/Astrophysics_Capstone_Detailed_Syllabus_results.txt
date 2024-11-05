@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project Proposal | 10 points (10%) | Create a proposal outlining the astrophysical question, proposed model/experiment, and anticipated outcomes. Include a timeline and team roles. | Week 3 | N/A |
+| Core | Model Design and Simulation | 15 points (15%) | Design the astrophysical model/experiment and develop simulations for testing. Analyze existing data to refine the model. | Weeks 4-6 | N/A |
+| Core | Experiment Implementation | 18 points (18%) | Implement the experiment and gather observational data. Test the model against real-world data. | Weeks 7-10 | N/A |
+| Core | Data Analysis and Interpretation | 10 points (10%) | Analyze collected data, interpret results, and compare with existing astrophysics theories/models. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points (10%) | Document the research process, design decisions, challenges, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points (5%) | Prepare a presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points (10%) | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Individual Meetings | N/A | Attend individual meetings to discuss ideas, readings, and receive feedback on proposals and methods. | Sep 4, Oct 2, Nov 13 | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy. Avoid plagiarism and other forms of academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and inform the instructor. | N/A | N/A |

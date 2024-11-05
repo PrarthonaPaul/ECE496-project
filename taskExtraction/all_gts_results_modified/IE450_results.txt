@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Progress Reports | 20% | N/A | Biweekly | N/A |
+| Core | Midterm Presentation and Design | 20% | N/A | Week 8 | N/A |
+| Core | Progress Demonstration | 20% | N/A | Week 8 | N/A |
+| Core | Final Project Report | 30% | Comprehensive final report of the design project | Week 15 | N/A |
+| Core | Final Design Presentation and Demo | 30% | Presentation and demonstration of the design project | Week 16 | N/A |
+| Support | Course Meetings Attendance | N/A | Attend course meetings | N/A | N/A |
+| Support | Class Participation | N/A | Participate in class work and discussions | N/A | N/A |
+| Support | Course Assessments | N/A | Perform required course assessments | N/A | N/A |
+| Support | Course Website Engagement | N/A | Regularly log into the course website to download materials, submit coursework, and check announcements | N/A | N/A |

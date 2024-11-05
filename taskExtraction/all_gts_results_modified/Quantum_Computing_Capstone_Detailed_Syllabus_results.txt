@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal outlining the quantum problem, proposed solution, and impact. Include a timeline and team roles. | Week 3 | N/A |
+| Core | Algorithm Design and Simulation | 15 points | Design the quantum algorithm/system and develop a simulation for testing. | Weeks 4-6 | N/A |
+| Core | Quantum Implementation | 18 points | Implement and refine the quantum algorithm on a quantum computing platform. | Weeks 7-10 | N/A |
+| Core | Performance Analysis and Optimization | 10 points | Analyze the algorithm's performance, identify optimizations, and make improvements. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the development process, design decisions, challenges, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare and deliver a presentation on the project. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase, summarizing the project. | Weeks 13-15 | Innovation Showcase |
+| Support | Attendance and Participation | N/A | Attend all class meetings and individual sessions, and actively participate. | N/A | N/A |
+| Support | Individual Meetings | N/A | Attend individual meetings to discuss ideas, readings, and receive feedback. | Sep 4, Oct 2, Nov 13 | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy, avoiding plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities should contact the ASU Disability Resource Center and inform the instructor. | N/A | N/A |

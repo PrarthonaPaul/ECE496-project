@@ -1,0 +1,45 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Team Formation | 2% | N/A | N/A | N/A |
+| Core | Project Selection | 3% | N/A | N/A | N/A |
+| Core | Report 1: Problem Statement, State-of-the-Art Review, Design Specifications | 10% | N/A | N/A | N/A |
+| Core | Report 2: Conceptual Design | 10% | N/A | N/A | N/A |
+| Core | Concept Design Presentation | 10% | N/A | N/A | N/A |
+| Core | Report 3: Detailed Design (including drawing package and prototype test plans) | 15% | N/A | N/A | N/A |
+| Core | Final Design Presentation | 10% | N/A | N/A | N/A |
+| Core | Final Project Report Prototyping, Testing, Design Iterations | 25% | N/A | N/A | N/A |
+| Core | Participation and Professionalism (including lecture attendance) | 15% | N/A | N/A | N/A |
+| Support | Attend scheduled course lectures | N/A | N/A | N/A | N/A |
+| Support | Use Western email addresses when contacting instructors | N/A | N/A | N/A | N/A |
+| Support | Use appropriate forms of address when contacting faculty and industry sponsors | N/A | N/A | N/A | N/A |
+| Support | Attend tutorials (team meeting/advising) | N/A | N/A | N/A | N/A |
+| Support | Check Western email and OWL notices for updates | N/A | N/A | N/A | N/A |
+| Support | Seek support on the OWL Help page or contact Western Technology Services Helpdesk for course OWL site assistance | N/A | N/A | N/A | N/A |
+| Support | Arrive to class on time | N/A | N/A | N/A | N/A |
+| Support | Be courteous and respectful towards instructors, colleagues, and authors | N/A | N/A | N/A | N/A |
+| Support | Be respectful of diverse viewpoints | N/A | N/A | N/A | N/A |
+| Support | Cite ideas of others appropriately | N/A | N/A | N/A | N/A |
+| Support | Avoid disruptive behavior during classes | N/A | N/A | N/A | N/A |
+| Support | Check course outline for instructor's policy on missed tests, examinations, late assignments, and attendance | N/A | N/A | N/A | N/A |
+| Support | Advise instructor if having problems completing an assignment on time | N/A | N/A | N/A | N/A |
+| Support | Submit Academic Consideration Request Form and provide documentation if requested by the instructor | N/A | N/A | N/A | N/A |
+| Support | Establish a due date if granted an extension | N/A | N/A | N/A | N/A |
+| Support | Fill out a Recommendation of Incomplete Form indicating work to be completed and due date, signed by student, instructor, department chair, and associate dean | N/A | N/A | N/A | N/A |
+| Support | Check course outlines for information regarding attendance requirements and ensure not missing tests, laboratories, or assignments | N/A | N/A | N/A | N/A |
+| Support | Cover readings and borrow notes from classmates in case of minor illness or other problems | N/A | N/A | N/A | N/A |
+| Support | Consider reducing workload by dropping courses if absent for more than one week or falling behind | N/A | N/A | N/A | N/A |
+| Support | Seek advice from Academic Counsellor in the Undergraduate Services Office if considering reducing workload | N/A | N/A | N/A | N/A |
+| Support | Provide documentation for absences, including Student Medical Certificate or death certificate | N/A | N/A | N/A | N/A |
+| Support | Check with Departmental Office or Undergraduate Services Office for documentation requirements in other extenuating circumstances | N/A | N/A | N/A | N/A |
+| Support | Check with instructors for policy on late penalties, missed tests, etc. | N/A | N/A | N/A | N/A |
+| Support | Be aware of attendance requirements in some courses | N/A | N/A | N/A | N/A |
+| Support | Check minimum requirements for progression in the calendar if in academic difficulty | N/A | N/A | N/A | N/A |
+| Support | See Academic Counsellor if in doubt about academic difficulty | N/A | N/A | N/A | N/A |
+| Support | Check Western Academic Calendar for various academic policies and regulations | N/A | N/A | N/A | N/A |
+| Support | Read appropriate policy on Scholastic Offences | N/A | N/A | N/A | N/A |
+| Support | Use Student Medical Certificate when consulting off-campus doctors or Student Health Services | N/A | N/A | N/A | N/A |
+| Support | Provide Student Medical Certificate to family member's physician in case of serious illness | N/A | N/A | N/A | N/A |
+| Support | Obtain a copy of the death certificate or notice from the funeral director's office in case of a death | N/A | N/A | N/A | N/A |
+| Support | Contact Departmental Office or Undergraduate Services Office for direction on documentation in other extenuating circumstances | N/A | N/A | N/A | N/A |
+| Support | Check add and drop deadlines | N/A | N/A | N/A | N/A |
+| Support | Contact respective department offices or Undergraduate Services Office for assistance | N/A | N/A | N/A | N/A |

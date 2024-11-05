@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Capstone Proposal Outline | 10% | Develop a detailed outline of the capstone project, including introduction, goals, process, final product, and timeframe. | N/A | N/A |
+| Core | First Draft or Detailed Outline of Theoretical and Practical Parts of Capstone Project | 20% | Create a first draft or detailed outline of the theoretical and practical components of the capstone project. | N/A | N/A |
+| Core | Revised Second Draft of Capstone | 25% | Submit a revised second draft of the capstone project. | N/A | N/A |
+| Core | Public Presentation of Capstone Overview | 20% | Present an overview of the capstone project, including multimedia elements. | Last week of classes | N/A |
+| Core | Final Version of Capstone Document | 25% | Submit the final version of the capstone project, including a narrative-focused conceptual segment and a practice-oriented segment. | N/A | N/A |
+| Support | Readings | N/A | Read the provided texts and materials to gain a wide-range view of capstone structures, conceptualizations, and standpoints. | Ongoing | N/A |
+| Support | Individual Work | N/A | Engage in individual work and research to develop the capstone project. | Weeks 4, 5, 6, 9, 10 | N/A |
+| Support | Class Participation | N/A | Attend and actively participate in class meetings and discussions. | Ongoing | N/A |
+| Support | Attendance | N/A | Maintain punctual attendance in class, and notify the instructor in advance of any expected absences. | Ongoing | N/A |

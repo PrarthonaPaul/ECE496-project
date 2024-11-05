@@ -1,0 +1,10 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Homework Assignments | 20% | N/A | Start of class period | N/A |
+| Core | Mini-exams/Quizzes | 10% | N/A | N/A | N/A |
+| Core | Process and Equipment Diaries | 20% | N/A | N/A | N/A |
+| Core | Group Project(s) | 50% | N/A | N/A | N/A |
+| Support | Reading Additional Required Materials | N/A | Students are required to read additional materials posted in ANGEL. | N/A | N/A |
+| Support | Taking Notes | N/A | Students are responsible for taking proper notes during class. | N/A | N/A |
+| Support | Class Attendance and Participation | N/A | Attendance is critical, and active participation is required. | N/A | N/A |
+| Support | Writing Assignments | N/A | Students will complete writing assignments related to the course objectives. | N/A | N/A |

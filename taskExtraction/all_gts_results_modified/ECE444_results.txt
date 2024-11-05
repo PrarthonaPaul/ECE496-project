@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project 1 - Web Application Development | 60% | Develop a web application in teams of 3-5 students, with milestones requiring group and individual reports (source code, documentation, commit history, etc.). | 12/19 | Milestone 0: Meet your team & Proposing a project idea (2%) <br> Milestone 1: Team workflow (3%) <br> Milestone 2: Requirements Elicitation (5%) <br> Milestone 3: Project Requirement Documentation & Peer Review (5%) <br> Milestone 4: Design and Coding (Midterm Report & Presentation) (20%) <br> Milestone 5: Final Report & Architecture Report (25%) |
+| Core | Project 2 - Open Source Excursion | 20% | Each team contributes to an open-source project of their choice, involving identifying an issue, understanding the development process, and making a contribution. | 12/19 | Milestone 1: Task Selection and Planning (10%) <br> Milestone 2: Project Report & Presentation (10%) |
+| Core | Participation | 20% | Individual reading quizzes, Lab tasks. | N/A | N/A |
+| Support | Reading Assignments | N/A | Read assigned materials throughout the semester. | N/A | N/A |
+| Support | Lab Attendance | N/A | Attend weekly labs. | N/A | N/A |
+| Support | Communication | N/A | Check Quercus for announcements and use email for communication with instructors and TAs. | N/A | N/A |
+| Support | Academic Integrity and Collaboration | N/A | Adhere to academic integrity policies and collaborate with group members honestly and ethically. | N/A | N/A |

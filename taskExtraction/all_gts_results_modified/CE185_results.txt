@@ -1,0 +1,26 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Quizzes | 10% | N/A | N/A | N/A |
+| Core | Homework | 5% | N/A | N/A | N/A |
+| Core | Ethics Essay | 5% | N/A | N/A | N/A |
+| Core | Economics Exam | 10% | N/A | N/A | N/A |
+| Core | Project Work | 60% | N/A | N/A | N/A |
+| Core | Photo Story | 5% | N/A | N/A | N/A |
+| Core | Design Night Presentation | 5% | N/A | N/A | N/A |
+| Core | Final Presentation | 5% | N/A | N/A | N/A |
+| Core | Attendance | 10% | N/A | N/A | N/A |
+| Support | Reading Assignments | N/A | N/A | N/A | N/A |
+| Support | Checking Blackboard and Email | N/A | N/A | N/A | N/A |
+| Support | Understanding Academic Honesty | N/A | N/A | N/A | N/A |
+| Support | Purchasing Textbooks | N/A | N/A | N/A | N/A |
+| Support | Understanding Grading Policy | N/A | N/A | N/A | N/A |
+| Support | Understanding Attendance Policy | N/A | N/A | N/A | N/A |
+| Support | Understanding Religious Holiday Policy | N/A | N/A | N/A | N/A |
+| Support | Understanding Written Assignment Submission Policy | N/A | N/A | N/A | N/A |
+| Support | Understanding Project Submission Policy | N/A | N/A | N/A | N/A |
+| Support | Understanding Peer and Instructor Observations | N/A | N/A | N/A | N/A |
+| Support | Understanding Project Grading Criteria | N/A | N/A | N/A | N/A |
+| Support | Understanding Final Presentation Practice | N/A | N/A | N/A | N/A |
+| Support | Understanding Design Night | N/A | N/A | N/A | N/A |
+| Support | Understanding Final Presentation | N/A | N/A | N/A | N/A |
+| Support | Understanding Student Accessibility Services | N/A | N/A | N/A | N/A |

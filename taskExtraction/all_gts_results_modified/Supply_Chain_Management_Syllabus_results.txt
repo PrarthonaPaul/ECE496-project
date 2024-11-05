@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Discussion Post | N/A | N/A | 1/14 | N/A |
+| Core | Submit Procurement Plan | N/A | N/A | 1/21 | N/A |
+| Core | Submit Logistics Optimization Report | N/A | N/A | 1/28 | N/A |
+| Core | Submit Inventory Management Plan | N/A | N/A | 2/4 | N/A |
+| Core | Submit Final Supply Chain Project | N/A | N/A | 2/11 | N/A |

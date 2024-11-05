@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal for the marine ecosystem study, including research objectives, anticipated outcomes, timeline, and team member roles. | Week 3 | N/A |
+| Core | Fieldwork and Data Collection | 15 points | Conduct fieldwork in marine environments, collect data on species, habitats, and environmental conditions using scuba diving, underwater photography, and sample collection. | Weeks 4-6 | N/A |
+| Core | Data Analysis and Ecosystem Modeling | 18 points | Analyze collected data using ecological models, develop predictions about marine ecosystem health, and test predictions with statistical methods. | Weeks 7-10 | N/A |
+| Core | Hypothesis Testing and Conservation Planning | 10 points | Test hypotheses about species interactions and environmental impacts, then develop a conservation plan. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the research process, challenges, solutions, and outcomes in a comprehensive report. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare and deliver a presentation for the Innovation Showcase, highlighting research and conservation plan key aspects. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase, summarizing the project and its findings. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance if unable to attend and make arrangements for missed work. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy. Avoid plagiarism and other forms of academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center for accommodations and inform the instructor. | N/A | N/A |

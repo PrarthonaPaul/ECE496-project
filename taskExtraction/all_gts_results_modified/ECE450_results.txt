@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Team Formation and Project Proposal | 10% | Teams form and submit a proposal outlining the project scope and objectives. | September 15, 2020 | N/A |
+| Core | Requirements Specification Document | 15% | Detailed requirements analysis and specification document. | October 20, 2020 | N/A |
+| Core | Preliminary Design Review | 15% | Presentation of initial design, including architecture and key components. | November 25, 2020 | N/A |
+| Core | Midterm Progress Report | 10% | Report on progress, challenges, and next steps. | December 10, 2020 | N/A |
+| Core | Detailed Design Document | 15% | Comprehensive design document with detailed architecture and component design. | February 15, 2021 | N/A |
+| Core | Implementation and Testing Report | 20% | Report on implementation progress and testing results. | March 20, 2021 | N/A |
+| Core | Final Presentation and Demonstration | 15% | Final presentation and demonstration of the embedded system project. | April 10, 2021 | N/A |
+| Support | N/A | N/A | Regular attendance is required. | N/A | N/A |
+| Support | N/A | N/A | Access to microcontroller development kits (e.g., Arduino, Raspberry Pi) | N/A | N/A |
+| Support | N/A | N/A | Prototyping materials (to be specified based on project requirements) | N/A | N/A |
