@@ -1,19 +1,8 @@
-<<<<<<< HEAD
-editdistance
-pdf2image
-pymupdf
-tools
-=======
-numpy
-opencv-python
-python-dotenv
-torch
-tqdm
-cohere-5.11.2
-editdistance
-collections
-codecs
-pymupdf-1.24.13
-tools
-re
->>>>>>> ceec293 (added requirements.txt)
+boto3==1.35.51
+django-storages==1.14.4
+django==5.1.2
+editdistance==0.8.1
+pdf2image==1.17.0
+pymupdf==1.24.13
+python-dotenv==1.0.1
+tools==0.1.9
