@@ -1,0 +1,14 @@
+[
+    {
+        "input": "Installation Report: due November 30, 2022, weight 15%",
+        "target": "{\"deliverable\": \"Installation Report\", \"due_date\": \"November 30, 2022\", \"weight\": \"15%\"}"
+    },
+    {
+        "input": "Exhibition Display: due December 7, 2022, weight 15%",
+        "target": "{\"deliverable\": \"Exhibition Display\", \"due_date\": \"December 7, 2022\", \"weight\": \"15%\"}"
+    },
+    {
+        "input": "Final Reflection Report: due December 14, 2022, weight 10%",
+        "target": "{\"deliverable\": \"Final Reflection Report\", \"due_date\": \"December 14, 2022\", \"weight\": \"10%\"}"
+    }
+]

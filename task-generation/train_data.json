@@ -1,0 +1,22 @@
+[
+    {
+        "input": "Site Analysis Report: due September 15, 2022, weight 10%",
+        "target": "{\"deliverable\": \"Site Analysis Report\", \"due_date\": \"September 15, 2022\", \"weight\": \"10%\"}"
+    },
+    {
+        "input": "Concept Proposal: due September 30, 2022, weight 15%",
+        "target": "{\"deliverable\": \"Concept Proposal\", \"due_date\": \"September 30, 2022\", \"weight\": \"15%\"}"
+    },
+    {
+        "input": "Detailed Design Plan: due October 15, 2022, weight 20%",
+        "target": "{\"deliverable\": \"Detailed Design Plan\", \"due_date\": \"October 15, 2022\", \"weight\": \"20%\"}"
+    },
+    {
+        "input": "Stakeholder Feedback Summary: due October 31, 2022, weight 10%",
+        "target": "{\"deliverable\": \"Stakeholder Feedback Summary\", \"due_date\": \"October 31, 2022\", \"weight\": \"10%\"}"
+    },
+    {
+        "input": "Construction Log: due November 15, 2022, weight 15%",
+        "target": "{\"deliverable\": \"Construction Log\", \"due_date\": \"November 15, 2022\", \"weight\": \"15%\"}"
+    }
+]

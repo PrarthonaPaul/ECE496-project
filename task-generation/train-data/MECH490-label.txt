@@ -1,0 +1,42 @@
+[
+    {
+        "text": "September 15, 2020 Team Formation and Project Proposal Teams form and submit a proposal outlining the project scope and objectives. 10%",
+        "entities": [
+            [18, 52, "DELIVERABLE"],
+            [0, 17, "DATE"],
+            [131, 134, "WEIGHT"]
+        ]
+    },
+    {
+        "text": "October 20, 2020 Preliminary Design Review Presentation of initial design, including sketches and initial calculations. 15%",
+        "entities": [
+            [17, 41, "DELIVERABLE"],
+            [0, 15, "DATE"],
+            [119, 122, "WEIGHT"]
+        ]
+    }, 
+    {
+        "text": "November 25, 2020 Prototype Development and Testing Development of a functional prototype and initial testing. 20%",
+        "entities": [
+            [18, 50, "DELIVERABLE"],
+            [0, 16, "DATE"],
+            [110, 113, "WEIGHT"]
+        ]
+    }, 
+    {
+        "text": "Progress Reports 20 % Biweekly",
+        "entities": [
+            [0, 15, "DELIVERABLE"],
+            [22, 29, "DATE"],
+            [17, 20, "WEIGHT"]
+        ]
+    }, 
+    {
+        "text": "Final Project Report 30 % Week 15",
+        "entities": [
+            [0, 19, "DELIVERABLE"],
+            [26, 32, "DATE"],
+            [21, 24, "WEIGHT"]
+        ]
+    }
+]
