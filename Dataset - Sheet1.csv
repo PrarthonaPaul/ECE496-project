@@ -1,892 +1,897 @@
 ,,,
-,pdf,tasks,bins/classes
-,305a,complete assigned readings,Reading/Class Prep
-,,prepare for exams,Assessment Prep/Final Exam
-,,submit optional paper,Research/Analysis
-,PSY345,term tests,Term Test
-,,quizzes,quiz
-,,paper submission,report/analytical writing
-,PSY100,labs,lab
-,,term tests,term test
-,MAT392,"assignment1: essay draft,","Essay/Paper Draft,"
-,,assignment2: first essay,Paper Revision
-,,assignment3: second essay,Paper Final Submission(so all fall under paper or report/analytical writing)
-,,oral presentation,presentation
-,,final exam,final exam
-,AST101,term test 1,term test
-,,term test 2,term test
-,,homework assignment 1 -5,homework & assignments
-,,final exam,final exam
-,CCT111,assignment 1 & 2(coding exercise),homework & assignments
-,,assignment 3(presentation & report),"report/analytical writing, presentation"
-,,term tests 1 &2,Term Test
-,MGT374,other(simulation performance),other
-,,weekly quizzes,quiz
-,,smartbook submission,other
-,,term test,term test
-,,final exam,final exam
-,MGT428,presentation,presentation
-,,weekly case submissions & peer evalutaions,homework & assignments
-,,final exam,final exam
-,MGT453,online discussion board & course reflection,homework & assignments
-,,online module,homework & assignments
-,,term tests,Term Test
-,,group project 3 parts,other?
-,MGT495,Class Participation,other
-,,Term Sheet Presentation,presentation
-,,Case write-ups,write-up/report
-,,Business Plan Presentation,presentation
-,SOC322,Essay,Analytical writing
-,,Term Test (2),Term Test
-,,Annotated Bibliography,homework & assignments
-,SOC465,Term Test (2),Term Test
-,,Response Paper(2),Analytical writing
-,,Review Essay on xyz book,homework & assignments
-,LIN102,Tutorial Exercises,homework & assignments
-,,Homework quizzes,Quiz
-,,Written Homework,homework & assignments
-,,Final Exam,final exam
-,PSY379,Experiment Worksheets,homework & assignments
-,,paricipiation,other
-,,Research Proposal,Research
-,,Oral Presentation,presentation
-,AC297(repeated),Midterms(2),Term Test
-,,Phase 1: project selection,Milestone
-,,final presentation,presentation
-,,Phase 2 : learning & data exploration,Milestone
-,,Poster Session,milestone/other?
-,,final report,report/analytical writing
-,,Phase 3: formulation of solution,Millestone
-,,peer assessment,other
-,Advanced Data Visualization,Discussion Post,homework&assignments
-,,Interactive Dashboards,homework & assignments
-,,Visualization Project,homework & assignments
-,,Chart & Graph design,homework & assignments
-,,Presentation of Data,presentation
-,RBT 480,Class meetings,other
-,,Individiual meetings,other
-,,system design & simulation,milestone
-,,poser,milestone
-,,user feedback,milestone
-,,presentation,presentation
-,,final report,report/analytical writing
-,,project proposal,milestone/proposal
-,APS111,Problem Statement & Questions,Milestone/analytical writing
-,,Project Requirements,Milestone
-,,Conceptual Design Specifications,Milestone
-,,Research Worksheets,Research
-,,engineering notes,homework & assignments
-,,seminar participation & oral presentation,presentation
-,,Professional Development,participation/other
-,,midterm exam,term test
-,,Final Exam,final exam
-,APS112,project requirements & project management plan,Milestone
-,,conceptual design Specification,Milestone
-,,final design specification,Milestone
-,,in tutorial presentation,presentation
-,,final presentation,presentation
-,,quizzes,quiz
-,,lessons learned & stratetgy,homework & assignments
-,,project manager report,Analytical writing/report
-,,Professional Development,participation/other
-,ART322,site analysis report,report/analytical writing
-,,concept proposal,milestone/proposal
-,,detailed design plan,milestone
-,,stakeholder feedback summary,milestone
-,,construction log,milestone
-,,installation report,report/analytical writing
-,,exhibition display,presentation/other
-,,final reflection report,report/analytical writing
-,AST480,project proposal,milestone/proposal
-,,design & simulation,milestone/simulation
-,,data analysis & interpretation,Analysis
-,,experiment implementation,milestone/implementation
-,,final report,report/analytical writing
-,,final presentation,presentation
-,,poster,Milestone/poster
-,,Class meetings,other
-,,Individiual meetings,other
-,IEE 485,team written assignments,homework & assignments
-,,initial individual research/report,report/analytical writing
-,,oral Presentation,presentation
-,,individual written assignments,homework & assignments
-,AUTO450,course engagement,other/participation
-,,progress presentations,presentation
-,,design process,homework & assignments
-,,pre-class assignmentds,Milestone
-,,Project Requirements,milestone
-,,project proposal,milestone/proposal
-,,design review & criticique,Milestone
-,,demo day,other?
-,,final report,report/analytical writing
-,CHM 484,Individiual meetings,other
-,,project proposal,milestone/proposal
-,,literature review & experimental design,milestone/simulation
-,,experimentation or simulation,Milestone
-,,data analysis & interpretation,Data Analysis
-,,final report,report/analytical writing
-,,presentation,presentation
-,,poster,Milestone/poster
-,BIOE360,Needs Identification Report,report/analytical writing
-,,concept proposal,milestone/proposal
-,,prototype development plan,Milestone
-,,regulatory strategy report,report/analytical writing
-,,market analysis&business plan,Research/Analysis
-,,final prototype & presentation,presentation
-,AY15,project proposal,milestone/proposal
-,,preliminary design report,report/analytical writing
-,,detail design report,report/analytical writing
-,,prototype demo,milestone/demo
-,,progress update report,report/analytical writing
-,,final design report,report/analytical writing
-,,final presentation,presentation
-,,poster,Milestone/poster
-,BIO486,Class meetings,other/meetings
-,,Individiual meetings,other/meetings
-,,project proposal,Analysis
-,,literature review & market analysis,Data Analysis
-,,product development & prototyping,Milestone
-,,testing & validation,Milestone
-,,final report,report/analytical writing
-,,presentation,presentation
-,,poster,Milestone/poster
-,BME498,progress presentations,presentation
-,,design process,other?
-,,survey & workshop,homework & assignments
-,,pre-class assignmentds,homework & assignments
-,,Project Requirements,milestone/requirements
-,,project proposal,milestone/proposal
-,,design review & criticique,milestone
-,,demo day,milestone
-,,final report,report/analytical writing
-,,design notebook,homework & assignments
-,BUS431,team formation report,report/analytical writing
-,,needs assessment report,report/analytical writing
-,,market research report,report/analytical writing
-,,business model proposal,proposal
-,,draft business plan,homework & assignments
-,,financial plan,homework & assignments
-,,pitch presentation,presentation
-,,final business plan,homework & assignments
-,,final reflection report,report/analytical writing
-,capstone project planning,draft project propsoal,milestone/proposal
-,,timeline development,Milestone
-,,risk management,Milestone
-,,resource allocation,Milestone
-,,final proposal,Milestone
-,EECE 4790(repeated),weekly progress report,report/analytical writing
-,,individual task & presentation,presentation
-,,midterm report,report/analytical writing
-,,final written proposal,proposal/analytical writing
-,,final oral presentation,presentation
-,,meeting participation & teamwork,other/participation
-,CE185,attendance,other
-,,quizzes,quiz
-,,homework,homework & assignments
-,,ethics essay,report/analytical writing
-,,economics exam,term test
-,,project work,homework & assignments
-,,photo story,homework & assignments
-,,design night presentation,presentation
-,,final presentation,presentation
-,CE408,preliminary plan submittal,Milestone
-,,preliminary project cost estimate,Milestone
-,,preliminary drainage report,report/analytical writing
-,,preliminary structucal report,report/analytical writing
-,,pavement design report,report/analytical writing
-,,final drainage report,report/analytical writing
-,,final structures report,report/analytical writing
-,,traffic report,report/analytical writing
-,,environmental&sustainabiliy: landscaping,Milestone
-,,final plans,Milestone
-,,engineers construction cost estimate,Milestone
-,,project presenatuon,presentation
-,,peer reviewa,homework & assignments
-,,HW,homework & assignments
-,,attendance,other/participation
-,CE 438,homework,homework & assignments
-,,quizzes,quiz
-,,process&equiment diaries,homework & assignments
-,,group project,homework & assignments
-,CE495,final project report & plans(indivdual),report/analytical writing
-,,final project report & plans(team),report/analytical writing
-,,oral Presentation (team),presentation
-,,oral Presentation (individual),presentation
-,,confidential evaluations by other teams,others
-,BIO484,Class meetings,other/meetings
-,,Individiual meetings,other/meetings
-,,project proposal,milestone/proposal
-,,literature review & hypothesis,report/analytical writing
-,,experimental design & data collection,milestone/implementation
-,,data analysis & interpretation,Data Analysis
-,,final report,report/analytical writing
-,,presentation,presentation
-,,poster,Milestone/poster
-,chem102,team formation & project proposal,milestone/proposal
-,,process flow diagram & initial design,Milestone
-,,preliminary design review,Milestone
-,,midterm progress report,report/analytical writing
-,,detailed design doc,report/analytical writing
-,,prototype development & testing report,report/analytical writing
-,,final presentation & demo,presentation
-,chem495,team formation report,report/analytical writing
-,,literature review & research proposal,milestone/proposal
-,,synthesis plan,Milestone
-,,midterm progress report,report/analytical writing
-,,synthesis & characterization report,report/analytical writing
-,,application analysis report,report/analytical writing
-,,final presentation,presentation
-,,final report,report/analytical writing
-,FLM 484,Class meetings,other/meetings
-,,Individiual meetings,milestone/proposal
-,,project proposal,Research/Analysis
-,,visual research & shot planning,Milestone
-,,principal photography,Milestone
-,,post-production & color grading,Milestone
-,,final report,report/analytical writing
-,,presentation,presentation
-,,poster,Milestone/poster
-,CIV401,team formation & project outline,milestone
-,,feasibility report&project plan,report/analytical writing
-,,environmental impact & sustainability report,report/analytical writing
-,,detailed design submission,milestone
-,,final report and presentation,"report/analytical writing, presentation"
-,CIV460(civ490 & civL210 are identical to this),Team Formation and Project Proposal,milestone
-,,Preliminary Design Review,milestone
-,,Traffic Analysis and Design,milestone
-,,Midterm Presentation,presentation
-,,final presentation & demo,presentation
-,,Environmental Impact Assessment,milestone
-,,Detailed Design Document,report/analytical writing
-,PSY478,Class meetings,other/meetings
-,,Individual meetings,other/meetings
-,,Project Proposal,Milestone
-,,Revised Proposal,Milestone
-,,Final Report,report/analytical writing
-,,Presentation,presentation
-,,Poster,poster
-,COM480,project proposal,milestone/proposal
-,,Draft Script,Milestone
-,,ProductionPlan,Milestone
-,,RawFootageSubmission,Milestone
-,,RoughCut,Milestone
-,,Final Cut,Milestone
-,,Screening Prep,Milestone
-,,final documentary,Milestone
-,,reflection report,report/analytical writing
-,AST483,Class meetings,other/meetings
-,,Individual meetings,other/meetings
-,,Project Proposal,Milestone
-,,Data Collection and Analysis:,Data Analysis
-,,Modeling and Simulation,milestone/simulation
-,,Hypothesis Testing and Interpretation,milestone/implementation
-,,Final Report,report/analytical writing
-,,Presentation,presentation
-,,poster,Milestone/poster
-,CS497,"Team Formation, Initial Project Plan",Milestone
-,,Software Requirements Specification 15% Document,"Milestone, report/analytical writing"
-,,System Architecture and Design 20% Document,"Milestone, report/analytical writing"
-,,Functional Prototype and Presentation,presentation
-,,Test Plan and Testing Report,report/analytical writing
-,,final project submission & presentation,"report/analytical writing, presentation"
+,pdf,tasks,class assigned
+,305a,complete assigned readings,Participation
+,,prepare for exams,Exams
+,,submit optional paper,"Designs,Reports and Analyses"
+,PSY345,term tests,Exams
+,,quizzes,Assignments
+,,paper submission,"Designs,Reports and Analyses"
+,PSY100,labs,Assignments
+,,term tests,Exams
+,MAT392,"assignment1: essay draft,","Designs,Reports and Analyses"
+,,assignment2: first essay,"Designs,Reports and Analyses"
+,,assignment3: second essay,Proposals and Plans
+,,oral presentation,Presentations and Demos
+,,final exam,Exams
+,AST101,term test 1,Exams
+,,term test 2,Exams
+,,homework assignment 1 -5,Assignments
+,,final exam,Exams
+,CCT111,assignment 1 & 2(coding exercise),Assignments
+,,assignment 3 report,"Designs,Reports and Analyses"
+,,assignment 3(presentation & report),Presentations and Demos
+,,term tests 1 &2,Exams
+,MGT374,other(simulation performance),Other
+,,weekly quizzes,Other
+,,smartbook submission,Other
+,,term test,Exams
+,,final exam,Exams
+,MGT428,presentation,Presentations and Demos
+,,weekly case submissions & peer evalutaions,Other
+,,final exam,Exams
+,MGT453,online discussion board & course reflection,Participation
+,,online module,Other
+,,term tests,Exams
+,,group project 3 parts,Other
+,MGT495,Class Participation,Participation
+,,Term Sheet Presentation,Presentations and Demos
+,,Case write-ups,"Designs,Reports and Analyses"
+,,Business Plan Presentation,Presentations and Demos
+,SOC322,Essay,Assignments
+,,Term Test (2),Exams
+,,Annotated Bibliography,Other
+,SOC465,Term Test (2),Exams
+,,Response Paper(2),Assignments
+,,Review Essay on xyz book,Assignments
+,LIN102,Tutorial Exercises,Assignments
+,,Homework quizzes,Assignments
+,,Written Homework,Assignments
+,,Final Exam,Exams
+,PSY379,Experiment Worksheets,Assignments
+,,paricipiation,Participation
+,,Research Proposal,Proposals and Plans
+,,Oral Presentation,Presentations and Demos
+,AC297(repeated),Midterms(2),Exams
+,,Phase 1: project selection,Milestones and Deliverables
+,,final presentation,Presentations and Demos
+,,Phase 2 : learning & data exploration,"Designs,Reports and Analyses"
+,,Poster Session,Milestones and Deliverables
+,,final report,"Designs,Reports and Analyses"
+,,Phase 3: formulation of solution,Milestones and Deliverables
+,,peer assessment,Other
+,Advanced Data Visualization,Discussion Post,Other
+,,Interactive Dashboards,Other
+,,Visualization Project,Assignments
+,,Chart & Graph design,Assignments
+,,Presentation of Data,Presentations and Demos
+,RBT 480,Class meetings,Participation
+,,Individiual meetings,Participation
+,,system design & simulation,"Designs,Reports and Analyses"
+,,poster,"Designs,Reports and Analyses"
+,,user feedback,Other
+,,presentation,Presentations and Demos
+,,final report,"Designs,Reports and Analyses"
+,,project proposal,Proposals and Plans
+,APS111,Problem Statement & Questions,Proposals and Plans
+,,Project Requirements,Proposals and Plans
+,,Conceptual Design Specifications,"Designs,Reports and Analyses"
+,,Research Worksheets,Assignments
+,,engineering notes,Other
+,,seminar participation & oral presentation,Participation
+,,Professional Development,Other
+,,midterm exam,Exams
+,,Final Exam,Exams
+,APS112,project requirements & project management plan,Proposals and Plans
+,,conceptual design Specification,"Designs,Reports and Analyses"
+,,final design specification,"Designs,Reports and Analyses"
+,,in tutorial presentation,Presentations and Demos
+,,final presentation,Presentations and Demos
+,,quizzes,Assignments
+,,lessons learned & stratetgy,Other
+,,project manager report,Milestones and Deliverables
+,,Professional Development,Other
+,ART322,site analysis report,"Designs,Reports and Analyses"
+,,concept proposal,Proposals and Plans
+,,detailed design plan,Proposals and Plans
+,,stakeholder feedback summary,"Designs,Reports and Analyses"
+,,construction log,Other
+,,installation report,"Designs,Reports and Analyses"
+,,exhibition display,Presentations and Demos
+,,final reflection report,"Designs,Reports and Analyses"
+,AST480,project proposal,Proposals and Plans
+,,design & simulation,"Designs,Reports and Analyses"
+,,data analysis & interpretation,"Designs,Reports and Analyses"
+,,experiment implementation,"Designs,Reports and Analyses"
+,,final report,"Designs,Reports and Analyses"
+,,final presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,,Class meetings,Participation
+,,Individiual meetings,Participation
+,IEE 485,team written assignments,Assignments
+,,initial individual research/report,"Designs,Reports and Analyses"
+,,oral Presentation,Presentations and Demos
+,,individual written assignments,Assignments
+,AUTO450,course engagement,Participation
+,,progress presentations,Presentations and Demos
+,,design process,"Designs,Reports and Analyses"
+,,pre-class assignmentds,Assignments
+,,Project Requirements,Milestones and Deliverables
+,,project proposal,Proposals and Plans
+,,design review & criticique,Milestones and Deliverables
+,,demo day,Presentations and Demos
+,,final report,"Designs,Reports and Analyses"
+,CHM 484,Individiual meetings,Participation
+,,project proposal,Proposals and Plans
+,,literature review & experimental design,"Designs,Reports and Analyses"
+,,experimentation or simulation,"Designs,Reports and Analyses"
+,,data analysis & interpretation,"Designs,Reports and Analyses"
+,,final report,"Designs,Reports and Analyses"
+,,presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,BIOE360,Needs Identification Report,"Designs,Reports and Analyses"
+,,concept proposal,Proposals and Plans
+,,prototype development plan,Proposals and Plans
+,,regulatory strategy report,"Designs,Reports and Analyses"
+,,market analysis&business plan,Proposals and Plans
+,,final prototype & presentation,Presentations and Demos
+,AY15,project proposal,Proposals and Plans
+,,preliminary design report,"Designs,Reports and Analyses"
+,,detail design report,"Designs,Reports and Analyses"
+,,prototype demo,Presentations and Demos
+,,progress update report,"Designs,Reports and Analyses"
+,,final design report,"Designs,Reports and Analyses"
+,,final presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,BIO486,Class meetings,Participation
+,,Individiual meetings,Participation
+,,project proposal,Proposals and Plans
+,,literature review & market analysis,"Designs,Reports and Analyses"
+,,product development & prototyping,"Designs,Reports and Analyses"
+,,testing & validation,Milestones and Deliverables
+,,final report,"Designs,Reports and Analyses"
+,,presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,BME498,progress presentations,Other
+,,design process,Other
+,,survey & workshop,Other
+,,pre-class assignments,Assignments
+,,Project Requirements,"Designs,Reports and Analyses"
+,,project proposal,Proposals and Plans
+,,design review & criticique,Milestones and Deliverables
+,,demo day,Presentations and Demos
+,,final report,"Designs,Reports and Analyses"
+,,design notebook,Other
+,BUS431,team formation report,Milestones and Deliverables
+,,needs assessment report,"Designs,Reports and Analyses"
+,,market research report,"Designs,Reports and Analyses"
+,,business model proposal,Proposals and Plans
+,,draft business plan,Proposals and Plans
+,,financial plan,Proposals and Plans
+,,pitch presentation,Presentations and Demos
+,,final business plan,Proposals and Plans
+,,final reflection report,"Designs,Reports and Analyses"
+,capstone project planning,draft project proposal,Proposals and Plans
+,,timeline development,Milestones and Deliverables
+,,risk management,Milestones and Deliverables
+,,resource allocation,Milestones and Deliverables
+,,final proposal,Proposals and Plans
+,EECE 4790(repeated),weekly progress report,Other
+,,individual task & presentation,Presentations and Demos
+,,midterm report,"Designs,Reports and Analyses"
+,,final written proposal,Proposals and Plans
+,,final oral presentation,Presentations and Demos
+,,meeting participation & teamwork,Participation
+,CE185,attendance,Participation
+,,quizzes,Assignments
+,,homework,Assignments
+,,ethics essay,Assignments
+,,economics exam,Exams
+,,project work,Other
+,,photo story,Assignments
+,,design night presentation,Presentations and Demos
+,,final presentation,Presentations and Demos
+,CE408,preliminary plan submittal,Proposals and Plans
+,,preliminary project cost estimate,"Designs,Reports and Analyses"
+,,preliminary drainage report,"Designs,Reports and Analyses"
+,,preliminary structural report,"Designs,Reports and Analyses"
+,,pavement design report,"Designs,Reports and Analyses"
+,,final drainage report,"Designs,Reports and Analyses"
+,,final structures report,"Designs,Reports and Analyses"
+,,traffic report,"Designs,Reports and Analyses"
+,,environmental&sustainabiliy: landscaping,Milestones and Deliverables
+,,final plans,Proposals and Plans
+,,engineers construction cost estimate,"Designs,Reports and Analyses"
+,,project presentation,Presentations and Demos
+,,peer reviews,Other
+,,HW,Assignments
+,,attendance,Participation
+,CE 438,homework,Assignments
+,,quizzes,Assignments
+,,process&equiment diaries,Other
+,,group project,Other
+,CE495,final project report & plans(indivdual),Proposals and Plans
+,,final project report & plans(team),Proposals and Plans
+,,oral Presentation (team),Presentations and Demos
+,,oral Presentation (individual),Presentations and Demos
+,,confidential evaluations by other teams,Other
+,BIO484,Class meetings,Participation
+,,Individiual meetings,Participation
+,,project proposal,Proposals and Plans
+,,literature review & hypothesis,"Designs,Reports and Analyses"
+,,experimental design & data collection,"Designs,Reports and Analyses"
+,,data analysis & interpretation,"Designs,Reports and Analyses"
+,,final report,"Designs,Reports and Analyses"
+,,presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,chem102,team formation & project proposal,Proposals and Plans
+,,process flow diagram & initial design,"Designs,Reports and Analyses"
+,,preliminary design review,Milestones and Deliverables
+,,midterm progress report,"Designs,Reports and Analyses"
+,,detailed design doc,Milestones and Deliverables
+,,prototype development & testing report,"Designs,Reports and Analyses"
+,,final presentation & demo,Presentations and Demos
+,chem495,team formation report,"Designs,Reports and Analyses"
+,,literature review & research proposal,Proposals and Plans
+,,synthesis plan,Proposals and Plans
+,,midterm progress report,"Designs,Reports and Analyses"
+,,synthesis & characterization report,"Designs,Reports and Analyses"
+,,application analysis report,"Designs,Reports and Analyses"
+,,final presentation,Presentations and Demos
+,,final report,"Designs,Reports and Analyses"
+,FLM 484,Class meetings,Participation
+,,Individiual meetings,Participation
+,,project proposal,Proposals and Plans
+,,visual research & shot planning,"Designs,Reports and Analyses"
+,,principal photography,"Designs,Reports and Analyses"
+,,post-production & color grading,"Designs,Reports and Analyses"
+,,final report,"Designs,Reports and Analyses"
+,,presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,CIV401,team formation & project outline,Other
+,,feasibility report&project plan,Proposals and Plans
+,,environmental impact & sustainability report,"Designs,Reports and Analyses"
+,,detailed design submission,Milestones and Deliverables
+,,final report and presentation,Presentations and Demos
+,CIV460(civ490 & civL210 are identical to this),Team Formation and Project Proposal,Proposals and Plans
+,,Preliminary Design Review,Milestones and Deliverables
+,,Traffic Analysis and Design,"Designs,Reports and Analyses"
+,,Midterm Presentation,Presentations and Demos
+,,final presentation & demo,Presentations and Demos
+,,Environmental Impact Assessment,"Designs,Reports and Analyses"
+,,Detailed Design Document,Milestones and Deliverables
+,PSY478,Class meetings,Participation
+,,Individual meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Revised Proposal,Proposals and Plans
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,COM480,project proposal,Proposals and Plans
+,,Draft Script,Assignments
+,,Production Plan,Proposals and Plans
+,,Raw Footage Submission,Milestones and Deliverables
+,,Rough Cut,Milestones and Deliverables
+,,Final Cut,Milestones and Deliverables
+,,Screening Prep,Milestones and Deliverables
+,,final documentary,Milestones and Deliverables
+,,reflection report,"Designs,Reports and Analyses"
+,AST483,Class meetings,Participation
+,,Individual meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Data Collection and Analysis:,"Designs,Reports and Analyses"
+,,Modeling and Simulation,"Designs,Reports and Analyses"
+,,Hypothesis Testing and Interpretation,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,CS497,Team Formation,Other
+,,Initial Project Plan,Proposals and Plans
+,,Software Requirements Specification 15% Document,"Designs,Reports and Analyses"
+,,System Architecture and Design 20% Document,"Designs,Reports and Analyses"
+,,Functional Prototype and Presentation,Presentations and Demos
+,,Test Plan and Testing Report,"Designs,Reports and Analyses"
+,,final project submission & presentation,Presentations and Demos
 ,CS4704&CS4704Proposal don’t make sense,,
-,CSC148,9 weekly preparation exercises,homework & assignments
-,,9 labs,lab
-,,Assignment 0,homework & assignments
-,,Assignment 1,homework & assignments
-,,Asssignment 2,homework & assignments
-,,Embedded Ethics Module,homework & assignments
-,,Final Exam,final exam
-,,Midterm Test,term test
-,CSC396,a1: Post Heuristic review of Toronto Transit system,homework & assignments
-,,a2: Post Individual research plan & instruments for feedback,"homework & assignments, research"
-,,"a3:Post Individual research results, paper review, Berlin expectations","research, report/analytical writing"
-,,participation,other/participation
-,,"Post Group Design Requirements, Experience Map, UX Strategy,",Milestone
-,,Usability test individual low-fi prototypes,Milestone
-,,"Group combined solutions, internal evaluations, functional prototype(s), & usability test plans",Milestone
-,,"Post Group usability test results, & updated prototype(s)",Milestone
-,,Present A8 Group Project in-class for practice and feedback,Milestone
-,,Present A8 Final Group Project for guests. Last Class.,Milestone
-,,Post Usability Testing Reflection,report/analytical writing
-,csc412,assignments(3),homework & assignments
-,,midterm exam,midterm
-,,final exam,final exam
-,CSCI250,Team Formation and Project Proposal,Milestone
-,,Data Structures Implementation Assignment:,homework & assignments
-,,Algorithm Design Assignment:,homework & assignments
-,,Midterm Progress Report:,report/analytical writing
-,,Advanced Data Structures and Algorithms,Milestone
-,,Prototype Development and Testing Report,report/analytical writing
-,,Final Presentation and Demonstration:,presentation
-,CSE305,Team Formation and Project Proposal:,Milestone
-,,Requirements Specification Document,Milestone
-,,Preliminary Design Review,Milestone
-,,Midterm Progress Report,Milestone
-,,Detailed Design Document,report/analytical writing
-,,Implementation and Testing Report,report/analytical writing
-,,Final Presentation and Demonstration:,presentation
-,CSE475,Team Formation Report,report/analytical writing
-,,Literature Review & Research Proposal,"milestone, research"
-,,AI & Computer Vision Design Proposal,milestone/proposal
-,,Mid-Term Presentation,presentation
-,,Initial System Design Report,report/analytical writing
-,,Sensor Integration Report,report/analytical writing
-,,Final Testing Report:,report/analytical writing
-,,Final Presentation:,presentation
-,,Final Report:,report/analytical writing
-,Data Analysis Techniques,Discussion Post,homework&assignments
-,,project proposal,milestone/proposal
-,,Research Methods,Research/Analysis
-,,data collection,Data Analysis
-,,analysis techniques,Data Analysis
-,Data Science Capstone Syllabus,Project Proposal,milestone/proposal
-,,Data Cleaning & Preprocessing,Milestone
-,,Model Development,Milestone
-,,Final Report & Presentation,"report/analytical writing, presentation"
-,Digital Marketing Stratgies Syllabus,Discussion Post,homework & assignments
-,,SEO and Content Marketing,milestone
-,,Social Media Strategies,milestone
-,,Email Marketing,milestone
-,,Campaign Analytics,milestone
-,FLM 483,Class meetings,other/meetings
-,,Individual meetings,other/meetings
-,,Project Proposal,milestone/proposal
-,,Research and Pre-Production,Research/Analysis
-,,Principal Photography,milestone
-,,Post-Production,milestone
-,,Final Report,report/analytical writing
-,,Presentation,presentation
-,,Poster,Milestone/poster
-,E296,First interim project deliverable,Milestone
-,,Capstone Expo(REPORTING deliverable),Milestone
-,,Second interim project deliverabl,Milestone
-,,Third interim project deliverable,Milestone
-,,Final Project Reports,report/analytical writing
-,,Final project deliverable,Milestone
-,,Capstone Showcase,Milestone
-,ECE297,Milestone 0 - basic SW tools & debugging (individual),homework & assignments
-,,"Milestone 1 – create & load data structures, answer simple queries",Milestone
-,,Code review,other
-,,Milestone 2 - graphics: draw map,Milestone
-,,Milestone 3 – finding travel routes between points,Milestone
-,,Milestone 4 – find an order and route for a set of courier deliveries to minimize travel time,Milestone
-,,Weekly status reporting to TA,report/analytical writing
-,,Weekly status reporting to CI,report/analytical writing
-,,Written Document 1: Graphics Proposal,report/analytical writing
-,,Oral Presentation 1: graphics functionality / demo,presentation
-,,Oral 1 Analysis (Individual),other
-,,Written Document 2: final report & plan,report/analytical writing
-,,Oral Presentation 2: project summary & pitch,presentation
-,ECE444,Idea proposal & meet team,Milestone
-,,Team workflow,Milestone
-,,requiremnets eliciation,Milestone
-,,project requirements doc & peer review,Milestone
-,,design & coding (midterm report & presentation),"report/analytical writing, presentation"
-,,final report &architecture report,report/analytical writing
-,,open source excursion,homework & assignments
-,,"participation(lab quizzes, etc)",other/participation
-,ECE450,Team Formation and Project Proposal,Milestone
-,,Requirements Specification Document,Milestone
-,,Preliminary Design Review,Milestone
-,,Midterm Progress Report,report/analytical writing
-,,Detailed Design Document,report/analytical writing
-,,Implementation and Testing Report,report/analytical writing
-,,Final Presentation and Demonstration,presentation
-,ECE482,Proposal for Smart Grid Component,Milestone
-,,Preliminary Design Report,report/analytical writing
-,,RegulatoryandEconomicImpactReport,report/analytical writing
-,,"Final Design, Prototype, and Presentation",milestone/presentation
-,,Peer Evaluation Report,report/analytical writing
-,,Final Project Report,report/analytical writing
-,EDU450,Curriculum Design Overview,Milestone
-,,Needs Analysis Report,report/analytical writing
-,,Curriculum Framework Draft,report/analytical writing
-,,Lesson Plan Set,Milestone
-,,Assessment Tools,Milestone
-,,Implementation Plan:,Milestone
-,,Pilot Test Report,Milestone
-,,Reflection Report,report/analytical writing
-,,Revised Curriculum Plan,Milestone
-,EE 471,progress reports,report/analytical writing
-,,midterm presentation & design Progress Demonstration,presentation
-,,Final Project Report,report/analytical writing
-,,Final Design Presentation and Demonstration,presentation
-,EE475,Project Proposal,Milestone
-,,Design progress reports and presentations,"report/analytical writing, presentation"
-,,Final design project report,report/analytical writing
-,,Final design project oral presentation,presentation
-,eecs442,Proposal,Milestone
-,,Final Project Report,report/analytical writing
-,,virtual showcase,Milestone
-,,homework,homework & assignments
-,EECE4790,Weekly Progress Report,report/analytical writing
-,,Individual Presentation,presentation
-,,Midterm,midterm
-,,Proposal ,report/analytical writing
-,,Group Presentation,presentation
-,,Meetings and teamwork,other/participation
-,EECS486,Programming assignments,homework & assignments
-,,Midterm 1,midterm
-,,Midterm 2,midterm
-,,Milestone 1,Milestone
-,,Milestone 2,Milestone
-,,Presentation,presentation
-,,Final Project,Milestone
-,EECS497,Initial Project Concept Document,Research/Analysis/report
-,,Lecture Summaries ,report/analytical writing
-,,Team Evaluations,other/participation
-,,Project Planning Document,planning/ report writing
-,,User Requirements Document,Research/Analysis/report
-,,Lo-Fi Prototype,design/research
-,,Testing and Debugging Report,report/analytical writing
-,,Final Demo,demo/presentation
-,,Exam,final exam
-,EECS440,Build HTML parser,design/research
-,,Build Crawler,design/research
-,,Build Index,design/research
-,,Build constraint solver,design/research
-,,Build Front End,design/research
-,,homework,homework & assignments
-,,Midterm,midterm
-,,Optional Final exam,final exam
-,,presentation,presentation
-,,demo,demo/presentation
-,,final report,Research/Analysis/report
-,EECS498,Project Pitch,Reserach/report
-,,Project Update,report/analysis writing
-,,Project presentation,presentation
-,,Project papers,report/analysis writing
-,,Demo,design/research
-,,Code review,coding/review
-,,Final presentation,presentation
-,,Final report,report/analysis writing
-,,Participation,other/participation
-,EEE302,Project Proposal,Research/report writing
-,,Solar System Design Assignment,design/research/analysis/report
-,,Wind System Design Assignment,design/research/analysis/report
-,,Interim Design Review Presentation,demo/presentation/analysis
-,,Environmental Impact Report,report/analysis writing
-,,Final Project Report,report/analysis writing
-,,Final Project Demo,demo/presentation/analysis
-,ELEC220,Team Formation,other/participation
-,,Project Proposal,Research/report writing
-,,Digital Logic Design Assignment,design/research/analysis/report
-,,Microcontroller Programming Assignment,code/research/analysis/report
-,,Midterm Progress Report,report/analysis writing
-,,System Integration and Testing Report,design/code/testing/ report/ analysis writing
-,,Prototype Development and Testing Report,design/code/testing/ report/ analysis writing
-,,Final Presentation,presentation
-,,Final Demonstration,demo/analysis
+,CSC148,9 weekly preparation exercises,Assignments
+,,9 labs,Assignments
+,,Assignment 0,Assignments
+,,Assignment 1,Assignments
+,,Asssignment 2,Assignments
+,,Embedded Ethics Module,Other
+,,Final Exam,Exams
+,,Midterm Test,Exams
+,CSC396,a1: Post Heuristic review of Toronto Transit system,"Designs,Reports and Analyses"
+,,a2: Post Individual research plan & instruments for feedback,"Designs,Reports and Analyses"
+,,"a3:Post Individual research results, paper review, Berlin expectations","Designs,Reports and Analyses"
+,,participation,Participation
+,,"Post Group Design Requirements, Experience Map, UX Strategy,","Designs,Reports and Analyses"
+,,Usability test individual low-fi prototypes,"Designs,Reports and Analyses"
+,,"Group combined solutions, internal evaluations, functional prototype(s), & usability test plans","Designs,Reports and Analyses"
+,,"Post Group usability test results, & updated prototype(s)","Designs,Reports and Analyses"
+,,Present A8 Group Project in-class for practice and feedback,"Designs,Reports and Analyses"
+,,Present A8 Final Group Project for guests. Last Class.,"Designs,Reports and Analyses"
+,,Post Usability Testing Reflection,"Designs,Reports and Analyses"
+,csc412,assignments(3),Assignments
+,,midterm exam,Exams
+,,final exam,Exams
+,CSCI250,Team Formation,Other
+,,project proposal,Proposals and Plans
+,,Data Structures Implementation Assignment:,Assignments
+,,Algorithm Design Assignment:,Assignments
+,,Midterm Progress Report:,"Designs,Reports and Analyses"
+,,Advanced Data Structures and Algorithms,Assignments
+,,Prototype Development and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation and Demonstration:,Presentations and Demos
+,CSE305,Team Formation ,Other
+,,project proposal,Proposals and Plans
+,,Requirements Specification Document,"Designs,Reports and Analyses"
+,,Preliminary Design Review,Milestones and Deliverables
+,,Midterm Progress Report,"Designs,Reports and Analyses"
+,,Detailed Design Document,"Designs,Reports and Analyses"
+,,Implementation and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation and Demonstration:,Presentations and Demos
+,CSE475,Team Formation Report,Other
+,,Literature Review & Research Proposal,Proposals and Plans
+,,AI & Computer Vision Design Proposal,Proposals and Plans
+,,Mid-Term Presentation,Presentations and Demos
+,,Initial System Design Report,"Designs,Reports and Analyses"
+,,Sensor Integration Report,"Designs,Reports and Analyses"
+,,Final Testing Report:,"Designs,Reports and Analyses"
+,,Final Presentation:,Presentations and Demos
+,,Final Report:,"Designs,Reports and Analyses"
+,Data Analysis Techniques,Discussion Post,Other
+,,project proposal,Proposals and Plans
+,,Research Methods,"Designs,Reports and Analyses"
+,,data collection,"Designs,Reports and Analyses"
+,,analysis techniques,"Designs,Reports and Analyses"
+,Data Science Capstone Syllabus,Project Proposal,Proposals and Plans
+,,Data Cleaning & Preprocessing,"Designs,Reports and Analyses"
+,,Model Development,"Designs,Reports and Analyses"
+,,Final Report & Presentation,Presentations and Demos
+,Digital Marketing Stratgies Syllabus,Discussion Post,Other
+,,SEO and Content Marketing,Milestones and Deliverables
+,,Social Media Strategies,"Designs,Reports and Analyses"
+,,Email Marketing,"Designs,Reports and Analyses"
+,,Campaign Analytics,"Designs,Reports and Analyses"
+,FLM 483,Class meetings,Participation
+,,Individual meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Research and Pre-Production,Milestones and Deliverables
+,,Principal Photography,Milestones and Deliverables
+,,Post-Production,Milestones and Deliverables
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,E296,First interim project deliverable,Milestones and Deliverables
+,,Capstone Expo(REPORTING deliverable),"Designs,Reports and Analyses"
+,,Second interim project deliverabl,Milestones and Deliverables
+,,Third interim project deliverable,Milestones and Deliverables
+,,Final Project Reports,"Designs,Reports and Analyses"
+,,Final project deliverable,"Designs,Reports and Analyses"
+,,Capstone Showcase,Presentations and Demos
+,ECE297,Milestone 0 - basic SW tools & debugging (individual),Assignments
+,,"Milestone 1 – create & load data structures, answer simple queries","Designs,Reports and Analyses"
+,,Code review,Milestones and Deliverables
+,,Milestone 2 - graphics: draw map,"Designs,Reports and Analyses"
+,,Milestone 3 – finding travel routes between points,"Designs,Reports and Analyses"
+,,Milestone 4 – find an order and route for a set of courier deliveries to minimize travel time,"Designs,Reports and Analyses"
+,,Weekly status reporting to TA,Other
+,,Weekly status reporting to CI,Other
+,,Written Document 1: Graphics Proposal,Assignments
+,,Oral Presentation 1: graphics functionality / demo,Presentations and Demos
+,,Oral 1 Analysis (Individual),Presentations and Demos
+,,Written Document 2: final report & plan,Assignments
+,,Oral Presentation 2: project summary & pitch,Presentations and Demos
+,ECE444,Idea proposal & meet team,Proposals and Plans
+,,Team workflow,Assignments
+,,requirements elicitation,"Designs,Reports and Analyses"
+,,project requirements doc & peer review,"Designs,Reports and Analyses"
+,,design & coding (midterm report & presentation),"Designs,Reports and Analyses"
+,,final report &architecture report,"Designs,Reports and Analyses"
+,,open source excursion,Assignments
+,,"participation(lab quizzes, etc)",Participation
+,ECE450,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Requirements Specification Document,"Designs,Reports and Analyses"
+,,Preliminary Design Review,Milestones and Deliverables
+,,Midterm Progress Report,"Designs,Reports and Analyses"
+,,Detailed Design Document,"Designs,Reports and Analyses"
+,,Implementation and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation and Demonstration,Presentations and Demos
+,ECE482,Proposal for Smart Grid Component,Proposals and Plans
+,,Preliminary Design Report,"Designs,Reports and Analyses"
+,,Regulatory and Economic Impact Report,"Designs,Reports and Analyses"
+,,"Final Design, Prototype, and Presentation",Presentations and Demos
+,,Peer Evaluation Report,Other
+,,Final Project Report,"Designs,Reports and Analyses"
+,EDU450,Curriculum Design Overview,Assignments
+,,Needs Analysis Report,"Designs,Reports and Analyses"
+,,Curriculum Framework Draft,"Designs,Reports and Analyses"
+,,Lesson Plan Set,Proposals and Plans
+,,Assessment Tools,Assignments
+,,Implementation Plan:,Proposals and Plans
+,,Pilot Test Report,"Designs,Reports and Analyses"
+,,Reflection Report,"Designs,Reports and Analyses"
+,,Revised Curriculum Plan,Proposals and Plans
+,EE 471,progress reports,"Designs,Reports and Analyses"
+,,midterm presentation & design Progress Demonstration,Presentations and Demos
+,,Final Project Report,"Designs,Reports and Analyses"
+,,Final Design Presentation and Demonstration,Presentations and Demos
+,EE475,Project Proposal,Proposals and Plans
+,,Design progress reports and presentations,"Designs,Reports and Analyses"
+,,Final design project report,"Designs,Reports and Analyses"
+,,Final design project oral presentation,Presentations and Demos
+,eecs442,Proposal,Proposals and Plans
+,,Final Project Report,"Designs,Reports and Analyses"
+,,virtual showcase,Presentations and Demos
+,,homework,Assignments
+,EECE4790,Weekly Progress Report,"Designs,Reports and Analyses"
+,,Individual Presentation,Presentations and Demos
+,,Midterm,Exams
+,,Proposal ,Proposals and Plans
+,,Group Presentation,Presentations and Demos
+,,Meetings and teamwork,Participation
+,EECS486,Programming assignments,Assignments
+,,Midterm 1,Exams
+,,Midterm 2,Exams
+,,Milestone 1,Milestones and Deliverables
+,,Milestone 2,Milestones and Deliverables
+,,Presentation,Presentations and Demos
+,,Final Project,Milestones and Deliverables
+,EECS497,Initial Project Concept Document,Proposals and Plans
+,,Lecture Summaries ,Other
+,,Team Evaluations,Other
+,,Project Planning Document,"Designs,Reports and Analyses"
+,,User Requirements Document,"Designs,Reports and Analyses"
+,,Lo-Fi Prototype,Milestones and Deliverables
+,,Testing and Debugging Report,"Designs,Reports and Analyses"
+,,Final Demo,Presentations and Demos
+,,Exam,Exams
+,EECS440,Build HTML parser,"Designs,Reports and Analyses"
+,,Build Crawler,"Designs,Reports and Analyses"
+,,Build Index,"Designs,Reports and Analyses"
+,,Build constraint solver,"Designs,Reports and Analyses"
+,,Build Front End,"Designs,Reports and Analyses"
+,,homework,Assignments
+,,Midterm,Exams
+,,Optional Final exam,Exams
+,,presentation,Presentations and Demos
+,,demo,Presentations and Demos
+,,final report,"Designs,Reports and Analyses"
+,EECS498,Project Pitch,Proposals and Plans
+,,Project Update,Milestones and Deliverables
+,,Project presentation,Presentations and Demos
+,,Project papers,Proposals and Plans
+,,Demo,Presentations and Demos
+,,Code review,Milestones and Deliverables
+,,Final presentation,Presentations and Demos
+,,Final report,"Designs,Reports and Analyses"
+,,Participation,Participation
+,EEE302,Project Proposal,Proposals and Plans
+,,Solar System Design Assignment,"Designs,Reports and Analyses"
+,,Wind System Design Assignment,"Designs,Reports and Analyses"
+,,Interim Design Review Presentation,Milestones and Deliverables
+,,Environmental Impact Report,"Designs,Reports and Analyses"
+,,Final Project Report,"Designs,Reports and Analyses"
+,,Final Project Demo,Presentations and Demos
+,ELEC220,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Digital Logic Design Assignment,Assignments
+,,Microcontroller Programming Assignment,Assignments
+,,Midterm Progress Report,"Designs,Reports and Analyses"
+,,System Integration and Testing Report,"Designs,Reports and Analyses"
+,,Prototype Development and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation,Presentations and Demos
+,,Final Demonstration,Presentations and Demos
 ,ELT495 (needs website),,
-,ENGR101,Team Formation,other/participation
-,,Project Proposal,Research/report writing
-,,Prototype Development and Testing,design/research/analysis/testing/report
-,,Midterm Presentation,presentation
-,,Final Design Review,design/code/testing/ report/ analysis writing
-,,Final Prototype and Testing report,design/code/testing/ report/ analysis writing
-,,Final Presentaition,presentation
-,,Final Demostration,demo/analysis
+,ENGR101,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Prototype Development and Testing,"Designs,Reports and Analyses"
+,,Midterm Presentation,Presentations and Demos
+,,Final Design Review,Milestones and Deliverables
+,,Final Prototype and Testing report,"Designs,Reports and Analyses"
+,,Final Presentaition,Presentations and Demos
+,,Final Demostration,Presentations and Demos
 ,ENT56(not enough details),,
-,ENV410,Project Proposal,Research/report writing
-,,Preliminary Design,design/research/analysis/testing/report
-,,Midterm Presentation,presentation
-,,Policy Analysis Report ,Research/Analysis/report
-,,Community Engagement Plan,Research/Analysis/report
-,,Draft Sustainable Urban Plan,Research/Analysis/report
-,,Final Plan Integration Report,Research/Analysis/report
-,,Final Presentation,presentation
-,,Final Report,Research/Analysis/report
-,ENVE330,Team Formation,other/participation
-,,Project Proposal,Research/report writing
-,,Environmental Impact Assessment Report,design/research/analysis/report
-,,Preliminary Design Review,design/review/report/anaylsis
-,,Midterm Progress Report,report/analysis writing
-,,Detailed Design Document,Research/report writing
-,,Prototype Development and Testing Report,desing/analysis/report/testing
-,,Final Presentation,presentation
-,,Final Demonstration,demo/analysis
+,ENV410,Project Proposal,Proposals and Plans
+,,Preliminary Design,"Designs,Reports and Analyses"
+,,Midterm Presentation,Presentations and Demos
+,,Policy Analysis Report ,"Designs,Reports and Analyses"
+,,Community Engagement Plan,"Designs,Reports and Analyses"
+,,Draft Sustainable Urban Plan,"Designs,Reports and Analyses"
+,,Final Plan Integration Report,"Designs,Reports and Analyses"
+,,Final Presentation,Presentations and Demos
+,,Final Report,"Designs,Reports and Analyses"
+,ENVE330,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Environmental Impact Assessment Report,"Designs,Reports and Analyses"
+,,Preliminary Design Review,Milestones and Deliverables
+,,Midterm Progress Report,"Designs,Reports and Analyses"
+,,Detailed Design Document,Milestones and Deliverables
+,,Prototype Development and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation,Presentations and Demos
+,,Final Demonstration,Presentations and Demos
 ,ENVE4918(not enough details),,
-,ESC101,Device Design Report,design/research/testing/analysis/report
-,,Design Brief,research/analysis/report
-,,Conceptual Design,design/research/analysis/report
-,,Detailed Design,design/research/analysis/report
-,,Design Portfolio,report/analysis writing
-,,Final Examination,final exam
-,ESC102,Community Pitch,research/analysis/report
-,,ESEC Feedback,other/participation
-,,Request for Proposal,research/analysis/report
-,,RPF revision,research/analysis/report/review
-,,Design critique,design/review/report/analysis
-,,Design Showcase,demo/presentation/report/analysis
-,,Praxis II course surveys,other/participation
-,,Design Handbook,analysis/research/report writing
-,,Design Portfolio,report/analysis writing
-,ESC471,Proposal Draft,research/analysis/report
-,,Proposal,research/analysis/report
-,,Preliminary Design Draft,design/review/report/analysis
-,,Preliminary Design,design/review/report/testing/report
-,,Design critique,design/review/report/analysis
-,,Walkthrough,demo/presentation/report/analysis
-,,Final Design,demo/presentation/report/analysis
-,,Record of Reflection,report/analysis writing
-,ETRO470,Project Menu/Title,research/report 
-,,Request for Proposal,research/analysis/report
-,,Proposal,research/analysis/report
-,,Oral Proposal Presentation,presentation/analysis
-,,Final Proposal,research/analysis/report
-,,Class Activities/ Homework,homework & assignments
-, Entrepreneurship and Innovation,Discussion Posts,homework & assignments
-,,Business Idea Generation,research/analysis/report
-,,Market Analysis Report,research/analysis/report
-,,Business Plan Draft,research/analysis/report
-,,Final Business Pitch,presentation
-,AST482,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Data Collection and Analysis,research/analysis/report/code
-,,Characterization and Modeling,code/design/research/analysis
-,,Interpretation and Hypothesis Testing,research/design/code/testing/report/analysis
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,FAS484,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Market Research. and Product Selection,research/analysis/report
-,,Visual Merchandising and Store Layout,design/research/analysis/report
-,,Inventory Management and Pricing Strategy,design/research/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,FLM482,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Footage Review and Rough Cut,review/analysis/edit
-,,Fine Cut and Sound Design,review/analysis/edit/design
-,,Color Grading and Final Cut,review/analysis/edit
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,Financial Analysis and Reporting,Discussion Posts,homework & assignments
-,,Ratio Analysis Report,research/analysis/report
-,,Financial Forcast Report,research/analysis/report
-,,Financial Statements,research/analysis/report
-,,Financial Analysis Report,reseach/analysis/report
-,GGR462,Proposal,reseach/analysis/report
-,,Progress Report,design/report/analysis writing
-,,Final Report,design/report/analysis writing
-,,Final Presentation,presentation
-,BIO482,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Sample Collection and DNA extraction,research/analysis/report
-,,Genetic Analysis and Data Interpretation,research/analysis/report
-,,Hypothesis Testing and Populaton Genetics Modeling,testing/analysis/code/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,GH480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Needs Assessment and Planning,research/analysis/report
-,,Implementation,design/analysis/report
-,,Evaluation and Feedback,testing/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,Grant Writing Essentials,Discussion Posts,homework & assignments
-,,Proposal Outline,research/analysis/report
-,,Budget Plan,research/analysis/report
-,,Draft Proposal,research/analysis/report
-,,Final Proposal,report writing
-,HIS390,Proposal,research/report 
-,,Reseach Outline,Research/planning/analysis/report
-,,Project Plan,planning/report writing
-,,Content Draft,research/analysis/report
-,,Beta Version,design/code/analyse/test
-,,Final Project Submission,design/code/analyse/test
-,,Presentation & Reflection,presentation/analysis/review
-,HUM400,Reading Reflection,homework & assignments
-,,Site Documentation Report,research/report 
-,,Conservation Plan,research/analysis/report
-,,Policy Analysis Report,research/analysis/report
-,,Final Project Presentation,presentation
-,,Final Report,report/analysis writing
-,PSY485,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Revised Proposal,research/analysis/report/review
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,PSY483,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Revised Proposal,research/analysis/report/review
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,IDT310,Team Charter,documentation
-,,Problem Definition Report,research/report writing
-,,Research Summary,research/analysis/report writing
-,,Ideation Report,report/analysis writing
-,,Prototype Demonstration,design/research/testing/demo
-,,Testing Feedback Report,report/analysis writing
-,,Refined Prototype,design/research/testing/demo
-,,Final Presentation,presentation
-,,Reflection Paper,report/analysis writing
-,IE305,Team Formation,other/participation
-,,Project Proposal,research/report
-,,Problem Formulation Report,report/analysis writing
-,,Optimization Model and Solution,design/code/analyse/test
-,,Simulation Analysis Report,report/analysis writing
-,,Decision Analysis Report,testing/report/analysis writing
-,,Final Presentation,presentation
-,,Final Report,report/analysis writing
-,IE410,Team Formation,other/participation
-,,Project Proposal,research/report
-,,Ergonomic Assessment Report,research/analysis/report
-,,User Needs Analysis,report/analysis writing
-,,Preliminary Design Review,design/analyse/test
-,,Midterm Progress Report,report/analysis writing
-,,Detailed Design Document,design/report/analysis writing
-,,Usability Testing Report,testing/analysis/report
-,,Final Presentation,presentation
-,,Final Report,report/analysis writing
-,IE450,Progress Report,milestone/report
-,,Midterm Presentation & Demo,design/report/analysis writing
-,,Progress Demonstration,demo/presentation/report/analysis
-,,Final Project Report,design/report/analysis writing
-,,Final Design Presentation and Demo,demo/presentation/report/analysis
-,IE480,Weekly Project Updates,report/analysis writing
-,,Project Proposal,research/report
-,,Interim Progress Report,design/report/analysis writing
-,,Participation,other/participation
-,,Ethics Assignment,other/participation
-,,Final Report,design/report/analysis writing
-,,Showcase,demo/presentation/report/analysis
-,IEE485,Team Written assignments,research/report/analysis writing
-,,Initial Individual research report,research/report
-,,Oral Presentation,presentation
-,,Individual written assignments,research/report/analysis writing
-,,Sponsor Scorecards,presentation/report
-,CHM481,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Literature Review and Synthesis Planning,research/analysis/report/review
-,,Sythesis and Characterization,design/analysis/report
-,,Catalytic Testing and Optimization,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,LAW410,Orientation Attendance,other/participation
-,,Training Report,report/analysis writing
-,,Case Assignment Report,report/analysis writing
-,,Initial Research Summary,research/report
-,,Drafted Legal Documents,research/report/analysis writing
-,,Progress Report,report/analysis writing
-,,Case Management Report,report/analysis writing
-,,Court Appearance Reflection,report/analysis writing
-,,Final Reflection Paper,report/analysis writing
-,,Supervisor Evaluation,other/participation
-,MATH499,Team Formation Report,other/report
-,,Fundamentals of Modeling Report,research/report
-,,Initial Modeling Proposal,research/analysis/report
-,,Midterm Presentation,presentation
-,,Advanced Techniques Report,research/analysis/report
-,,Draft Final Report,report/analysis writing
-,,Final Testing Report,testing/report/analysis writing
-,,Final Presentaion,presentation
-,,Final Report,report/analysis writing
-,ME497,Team Charter & Presentation,other/presentation
-,,Background Report,research/report/analysis writing
-,,Preliminary Proposal,research/report
-,,Final Proposal,design/research/report
-,,Project Notebook,report/analysis writing
-,,weekly presentations,other/presentation
-,MECH454,Project Selection,other/participation
-,,Proposal Document,research/report
-,,Concept Presentations,design/research/report
-,,CFP Presentations,design/research/report
-,,Technical Analysis,testing/report/analysis writing
-,,Alpha Design Review Presentation,design/research/report
-,,Test Protocol Reviews,reseach/analysis/report
-,,Design and Innovation Day,design/report/presentation
-,,Final Report,report/analysis writing
-,MECH320,Team Formation,other/participation
-,,Project Proposal,research/report
-,,Thermodynamic Analysis Report,research/report/analysis writing
-,,Heat Transfer Analysis Report,research/report/analysis writing
-,,Midterm Progress Report,design/report/analysis writing
-,,Detailed Design Document,design/report/analysis writing
-,,Prototype Development and Testing Report,design/testing/analysis/report
-,,Final Presentaition and Demonstration,presentation
-,MECH455,Project Proposal,research/report
-,,Conceptual Design Presentation,design/research/report
-,,Mechanical Design Report,design/research/report
-,,Control Systems Integration Report,design/research/report
-,,Interim Project Report,report/analysis writing
-,,Final Design Review Presentation,design/research/report
-,,Final Project Report,report/analysis writing
-,,Prototype Demonstration,demo/presentation/report/analysis
-,MECH490,Team Formation,other/participation
-,,Project Proposal,research/report
-,,Preliminary Design Review,design/report/analysis writing
-,,Prototype Development and Testing Report,design/testing/analysis/report
-,,Midterm Presentation,presentation/demo
-,,Final Design Review,design/report/analysis writing
-,,Final Prototype and Testing Report,design/testing/analysis/report
-,,Final Presentation and Demonstration,presentation/demo
-,MME4499,Team Formation,other/participation
-,,Project Selection,other/participation
-,,Report 1,research/design/report/analysis
-,,Report 2,design/report writing
-,,Concept Design Presentation,presentation
-,,Report 3,design/report writing
-,,Final Design Presentation,presentation
-,,"Final Project Report Prototyping, Testing, Design Iteratations",research/design/testing/analysis/report
-,,Participation,other/participation
-,BIO483,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Fieldwork and Data Collection,research/analysis/report/review
-,,Data Analysis and Ecosystem Modeling,research/analysis/report
-,,Hypothesis Testing and Conservation Planning,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,MED480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Content Creation,create/design
-,,Implementation and Distribution,implement/track/report
-,,Audience Feedback and Analysis,report/analysis writing
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,NAN480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Design and Fabrication,research/design/report/review
-,,Characterization and Testing,design/analysis/report
-,,Optimization and Refinement,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,BIO485,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Literature Review and Hypothesis Development,research/analysis/report/review
-,,Experimental Design and Data Collection,design/analysis/report
-,,Data Analysis and Interpretation,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,AST484,Class meetings,other/meetings
-,,Individual meetings,other/meetings
-,,Project Proposal,report/analysis writing
-,,Observing Strategy and Data Collection,data analysis/research/analysis writing
-,,Data Reduction and Analysis,report/analysis writing
-,,Hypothesis Testing and Interpretation,testing/report/analysis writing
-,,Final Report,report/analytical writing
-,,Presentation,presentation
-,,poster,report/analysis writing
-,CHM480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Literature Review and Synthesis Planning,research/analysis/report/review
-,,Sythesis and Characterization,design/analysis/report
-,,Optimization and Yield Improvement,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,PSY460,Project Proposal,research/report
-,,Needs Assessment Report,research/report/analysis writing
-,,Program Design Document,design/research/report
-,,Stakeholder Feedback Summary,report/analysis writing
-,,Implementation Plan ,design/research/report
-,,Mid-Implementation Report,report/analysis writing
-,,Monitoring Report,report/analysis writing
-,,Final Evaluation Report,research/report/analysis writing
-,,Final Reflection Essay,report/analysis writing
-,PSY477,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Revised Proposal,research/analysis/report/review
-,,Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,PHY480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Experiment Design and Simulation,design/analysis/report
-,,Experiment Implementation and Data Collection,design/analysis/report
-,,Data Analysis and Interpretation,design/analysis/report
-,,Final Report,report/analysis writing
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,PHM484,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Literature Review and Data Collection,research/analysis/report/review
-,,Economic Modeling and Analysis,design/analysis/report
-,,Scenario Analysis and Optimization,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,PHM487,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Literature Review and Risk Assessment,research/analysis/report/review
-,,Data Collection and Monitoring,design/analysis/report
-,,Signal Detection and Risk Mitigation,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,PHM483,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Literature Review and Practice Design,research/analysis/report/review
-,,Implementation Strategy and Simulation,design/analysis/report
-,,Outcome Evaluation and Optimization,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,CHM482,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Experiment Design and Simulation,research/analysis/report/design
-,,Experiment Implementation and Data Collection,report/analysis writing
-,,Data Analysis and Interpretation,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,POS480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Research and Data Collection,research/analysis/report/review
-,,Analysis and Strategy Development,design/analysis/report
-,,Implementation and Outreach,design/analysis/report
-,,Final Report,report/analysis writing
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,Professional Communication Skills Course,Discussion Post,other/participation
-,,Project Proposal,research/report/analysis writing
-,,Research Methods,research/training/report
-,,Data Collection Plan,research/report/analysis writing
-,,Analysis Techniques,research/report/analysis writing
-,QNT480,Class Meetings,other/participation
-,,Individual Meetings,other/participation
-,,Project Proposal,research/analysis/report
-,,Algorithm Design and Simulation,design/research/report
-,,Quantum Implementation,design/analysis/report
-,,Performance Analysis and Optimization,test/design/analysis/report
-,,Final Report,research/analysis/report
-,,Presentation,presentation
-,,Poster,report/analysis writing
-,RSM270,Class Participation/Attendance,other/participation
-,,HBR Case Analysis,research/report/analysis writing
-,,Mid-Term Test,midterm 
-,,Assignment,homework & assignments
-,,Final Exam,final exam
+,ESC101,Device Design Report,"Designs,Reports and Analyses"
+,,Design Brief,"Designs,Reports and Analyses"
+,,Conceptual Design,Milestones and Deliverables
+,,Detailed Design,Milestones and Deliverables
+,,Design Portfolio,Other
+,,Final Examination,Exams
+,ESC102,Community Pitch,Presentations and Demos
+,,ESEC Feedback,Other
+,,Request for Proposal,Milestones and Deliverables
+,,RPF revision,Milestones and Deliverables
+,,Design critique,Milestones and Deliverables
+,,Design Showcase,Presentations and Demos
+,,Praxis II course surveys,Other
+,,Design Handbook,Other
+,,Design Portfolio,Other
+,ESC471,Proposal Draft,Proposals and Plans
+,,Proposal,Proposals and Plans
+,,Preliminary Design Draft,"Designs,Reports and Analyses"
+,,Preliminary Design,Milestones and Deliverables
+,,Design critique,Milestones and Deliverables
+,,Walkthrough,Presentations and Demos
+,,Final Design,Milestones and Deliverables
+,,Record of Reflection,Assignments
+,ETRO470,Project Menu/Title,Other
+,,Request for Proposal,Milestones and Deliverables
+,,Proposal,Proposals and Plans
+,,Oral Proposal Presentation,Presentations and Demos
+,,Final Proposal,Proposals and Plans
+,,Class Activities/ Homework,Assignments
+, Entrepreneurship and Innovation,Discussion Posts,Other
+,,Business Idea Generation,"Designs,Reports and Analyses"
+,,Market Analysis Report,"Designs,Reports and Analyses"
+,,Business Plan Draft,Proposals and Plans
+,,Final Business Pitch,Presentations and Demos
+,AST482,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Data Collection and Analysis,"Designs,Reports and Analyses"
+,,Characterization and Modeling,"Designs,Reports and Analyses"
+,,Interpretation and Hypothesis Testing,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,FAS484,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Market Research. and Product Selection,"Designs,Reports and Analyses"
+,,Visual Merchandising and Store Layout,"Designs,Reports and Analyses"
+,,Inventory Management and Pricing Strategy,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,FLM482,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Footage Review and Rough Cut,Milestones and Deliverables
+,,Fine Cut and Sound Design,Milestones and Deliverables
+,,Color Grading and Final Cut,Milestones and Deliverables
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,Financial Analysis and Reporting,Discussion Posts,Other
+,,Ratio Analysis Report,"Designs,Reports and Analyses"
+,,Financial Forcast Report,"Designs,Reports and Analyses"
+,,Financial Statements,"Designs,Reports and Analyses"
+,,Financial Analysis Report,"Designs,Reports and Analyses"
+,GGR462,Proposal,Proposals and Plans
+,,Progress Report,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Final Presentation,Presentations and Demos
+,BIO482,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Sample Collection and DNA extraction,"Designs,Reports and Analyses"
+,,Genetic Analysis and Data Interpretation,"Designs,Reports and Analyses"
+,,Hypothesis Testing and Populaton Genetics Modeling,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,GH480,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Needs Assessment and Planning,Proposals and Plans
+,,Implementation,Other
+,,Evaluation and Feedback,Other
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,Grant Writing Essentials,Discussion Posts,Other
+,,Proposal Outline,Proposals and Plans
+,,Budget Plan,Proposals and Plans
+,,Draft Proposal,Proposals and Plans
+,,Final Proposal,Proposals and Plans
+,HIS390,Proposal,Proposals and Plans
+,,Reseach Outline,"Designs,Reports and Analyses"
+,,Project Plan,Proposals and Plans
+,,Content Draft,"Designs,Reports and Analyses"
+,,Beta Version,Milestones and Deliverables
+,,Final Project Submission,Milestones and Deliverables
+,,Presentation & Reflection,Presentations and Demos
+,HUM400,Reading Reflection,Milestones and Deliverables
+,,Site Documentation Report,"Designs,Reports and Analyses"
+,,Conservation Plan,Proposals and Plans
+,,Policy Analysis Report,"Designs,Reports and Analyses"
+,,Final Project Presentation,Presentations and Demos
+,,Final Report,"Designs,Reports and Analyses"
+,PSY485,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Revised Proposal,Proposals and Plans
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,PSY483,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Revised Proposal,Proposals and Plans
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,IDT310,Team Charter,Other
+,,Problem Definition Report,Proposals and Plans
+,,Research Summary,"Designs,Reports and Analyses"
+,,Ideation Report,"Designs,Reports and Analyses"
+,,Prototype Demonstration,Presentations and Demos
+,,Testing Feedback Report,"Designs,Reports and Analyses"
+,,Refined Prototype,Milestones and Deliverables
+,,Final Presentation,Presentations and Demos
+,,Reflection Paper,"Designs,Reports and Analyses"
+,IE305,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Problem Formulation Report,"Designs,Reports and Analyses"
+,,Optimization Model and Solution,"Designs,Reports and Analyses"
+,,Simulation Analysis Report,"Designs,Reports and Analyses"
+,,Decision Analysis Report,"Designs,Reports and Analyses"
+,,Final Presentation,Presentations and Demos
+,,Final Report,"Designs,Reports and Analyses"
+,IE410,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Ergonomic Assessment Report,"Designs,Reports and Analyses"
+,,User Needs Analysis,"Designs,Reports and Analyses"
+,,Preliminary Design Review,Milestones and Deliverables
+,,Midterm Progress Report,"Designs,Reports and Analyses"
+,,Detailed Design Document,Milestones and Deliverables
+,,Usability Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation,Presentations and Demos
+,,Final Report,"Designs,Reports and Analyses"
+,IE450,Progress Report,"Designs,Reports and Analyses"
+,,Midterm Presentation & Demo,Presentations and Demos
+,,Progress Demonstration,Presentations and Demos
+,,Final Project Report,"Designs,Reports and Analyses"
+,,Final Design Presentation and Demo,Presentations and Demos
+,IE480,Weekly Project Updates,Other
+,,Project Proposal,Proposals and Plans
+,,Interim Progress Report,"Designs,Reports and Analyses"
+,,Participation,Participation
+,,Ethics Assignment,Assignments
+,,Final Report,"Designs,Reports and Analyses"
+,,Showcase,Presentations and Demos
+,IEE485,Team Written assignments,Milestones and Deliverables
+,,Initial Individual research report,"Designs,Reports and Analyses"
+,,Oral Presentation,Presentations and Demos
+,,Individual written assignments,Assignments
+,,Sponsor Scorecards,Other
+,CHM481,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Literature Review and Synthesis Planning,"Designs,Reports and Analyses"
+,,Sythesis and Characterization,"Designs,Reports and Analyses"
+,,Catalytic Testing and Optimization,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,LAW410,Orientation Attendance,Participation
+,,Training Report,Milestones and Deliverables
+,,Case Assignment Report,Milestones and Deliverables
+,,Initial Research Summary,Milestones and Deliverables
+,,Drafted Legal Documents,Milestones and Deliverables
+,,Progress Report,Milestones and Deliverables
+,,Case Management Report,Milestones and Deliverables
+,,Court Appearance Reflection,Milestones and Deliverables
+,,Final Reflection Paper,Milestones and Deliverables
+,,Supervisor Evaluation,Other
+,MATH499,Team Formation Report,Other
+,,Fundamentals of Modeling Report,"Designs,Reports and Analyses"
+,,Initial Modeling Proposal,Proposals and Plans
+,,Midterm Presentation,Presentations and Demos
+,,Advanced Techniques Report,"Designs,Reports and Analyses"
+,,Draft Final Report,"Designs,Reports and Analyses"
+,,Final Testing Report,"Designs,Reports and Analyses"
+,,Final Presentaion,Presentations and Demos
+,,Final Report,"Designs,Reports and Analyses"
+,ME497,Team Charter & Presentation,Other
+,,Background Report,"Designs,Reports and Analyses"
+,,Preliminary Proposal,Proposals and Plans
+,,Final Proposal,Proposals and Plans
+,,Project Notebook,"Designs,Reports and Analyses"
+,,weekly presentations,Participation
+,MECH454,Project Selection,Other
+,,Proposal Document,Proposals and Plans
+,,Concept Presentations,"Designs,Reports and Analyses"
+,,CFP Presentations,"Designs,Reports and Analyses"
+,,Technical Analysis,"Designs,Reports and Analyses"
+,,Alpha Design Review Presentation,"Designs,Reports and Analyses"
+,,Test Protocol Reviews,"Designs,Reports and Analyses"
+,,Design and Innovation Day,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,MECH320,Team Formation,Other
+,,Project Proposal,Proposals and Plans
+,,Thermodynamic Analysis Report,"Designs,Reports and Analyses"
+,,Heat Transfer Analysis Report,"Designs,Reports and Analyses"
+,,Midterm Progress Report,"Designs,Reports and Analyses"
+,,Detailed Design Document,"Designs,Reports and Analyses"
+,,Prototype Development and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentaition and Demonstration,Presentations and Demos
+,MECH455,Project Proposal,Proposals and Plans
+,,Conceptual Design Presentation,"Designs,Reports and Analyses"
+,,Mechanical Design Report,"Designs,Reports and Analyses"
+,,Control Systems Integration Report,"Designs,Reports and Analyses"
+,,Interim Project Report,"Designs,Reports and Analyses"
+,,Final Design Review Presentation,"Designs,Reports and Analyses"
+,,Final Project Report,"Designs,Reports and Analyses"
+,,Prototype Demonstration,Presentations and Demos
+,MECH490,Team Formation,Other
+,,Project Proposal,"Designs,Reports and Analyses"
+,,Preliminary Design Review,"Designs,Reports and Analyses"
+,,Prototype Development and Testing Report,"Designs,Reports and Analyses"
+,,Midterm Presentation,Presentations and Demos
+,,Final Design Review,"Designs,Reports and Analyses"
+,,Final Prototype and Testing Report,"Designs,Reports and Analyses"
+,,Final Presentation and Demonstration,Presentations and Demos
+,MME4499,Team Formation,Participation
+,,Project Selection,Participation
+,,Report 1,"Designs,Reports and Analyses"
+,,Report 2,"Designs,Reports and Analyses"
+,,Concept Design Presentation,Presentations and Demos
+,,Report 3,"Designs,Reports and Analyses"
+,,Final Design Presentation,Presentations and Demos
+,,"Final Project Report Prototyping, Testing, Design Iteratations","Designs,Reports and Analyses"
+,,Participation,Participation
+,BIO483,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Fieldwork and Data Collection,"Designs,Reports and Analyses"
+,,Data Analysis and Ecosystem Modeling,"Designs,Reports and Analyses"
+,,Hypothesis Testing and Conservation Planning,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,MED480,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Content Creation,"Designs,Reports and Analyses"
+,,Implementation and Distribution,"Designs,Reports and Analyses"
+,,Audience Feedback and Analysis,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,NAN480,Class Meetings,Proposals and Plans
+,,Individual Meetings,Proposals and Plans
+,,Project Proposal,Proposals and Plans
+,,Design and Fabrication,"Designs,Reports and Analyses"
+,,Characterization and Testing,"Designs,Reports and Analyses"
+,,Optimization and Refinement,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,BIO485,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Literature Review and Hypothesis Development,"Designs,Reports and Analyses"
+,,Experimental Design and Data Collection,"Designs,Reports and Analyses"
+,,Data Analysis and Interpretation,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,AST484,Class meetings,Participation
+,,Individual meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Observing Strategy and Data Collection,"Designs,Reports and Analyses"
+,,Data Reduction and Analysis,"Designs,Reports and Analyses"
+,,Hypothesis Testing and Interpretation,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,poster,"Designs,Reports and Analyses"
+,CHM480,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Literature Review and Synthesis Planning,"Designs,Reports and Analyses"
+,,Sythesis and Characterization,"Designs,Reports and Analyses"
+,,Optimization and Yield Improvement,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,PSY460,Project Proposal,Proposals and Plans
+,,Needs Assessment Report,"Designs,Reports and Analyses"
+,,Program Design Document,"Designs,Reports and Analyses"
+,,Stakeholder Feedback Summary,"Designs,Reports and Analyses"
+,,Implementation Plan ,"Designs,Reports and Analyses"
+,,Mid-Implementation Report,"Designs,Reports and Analyses"
+,,Monitoring Report,"Designs,Reports and Analyses"
+,,Final Evaluation Report,"Designs,Reports and Analyses"
+,,Final Reflection Essay,"Designs,Reports and Analyses"
+,PSY477,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Revised Proposal,Proposals and Plans
+,,Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,PHY480,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Experiment Design and Simulation,"Designs,Reports and Analyses"
+,,Experiment Implementation and Data Collection,"Designs,Reports and Analyses"
+,,Data Analysis and Interpretation,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,PHM484,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Literature Review and Data Collection,"Designs,Reports and Analyses"
+,,Economic Modeling and Analysis,"Designs,Reports and Analyses"
+,,Scenario Analysis and Optimization,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,PHM487,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Literature Review and Risk Assessment,"Designs,Reports and Analyses"
+,,Data Collection and Monitoring,"Designs,Reports and Analyses"
+,,Signal Detection and Risk Mitigation,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,PHM483,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Literature Review and Practice Design,"Designs,Reports and Analyses"
+,,Implementation Strategy and Simulation,"Designs,Reports and Analyses"
+,,Outcome Evaluation and Optimization,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,CHM482,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Experiment Design and Simulation,"Designs,Reports and Analyses"
+,,Experiment Implementation and Data Collection,"Designs,Reports and Analyses"
+,,Data Analysis and Interpretation,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,POS480,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Research and Data Collection,"Designs,Reports and Analyses"
+,,Analysis and Strategy Development,"Designs,Reports and Analyses"
+,,Implementation and Outreach,Presentations and Demos
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,Professional Communication Skills Course,Discussion Post,Participation
+,,Project Proposal,Proposals and Plans
+,,Research Methods,"Designs,Reports and Analyses"
+,,Data Collection Plan,"Designs,Reports and Analyses"
+,,Analysis Techniques,"Designs,Reports and Analyses"
+,QNT480,Class Meetings,Participation
+,,Individual Meetings,Participation
+,,Project Proposal,Proposals and Plans
+,,Algorithm Design and Simulation,"Designs,Reports and Analyses"
+,,Quantum Implementation,"Designs,Reports and Analyses"
+,,Performance Analysis and Optimization,"Designs,Reports and Analyses"
+,,Final Report,"Designs,Reports and Analyses"
+,,Presentation,Presentations and Demos
+,,Poster,"Designs,Reports and Analyses"
+,RSM270,Class Participation/Attendance,Participation
+,,HBR Case Analysis,"Designs,Reports and Analyses"
+,,Mid-Term Test,Exams
+,,Assignment,Assignments
+,,Final Exam,Exams
