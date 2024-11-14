@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Support | Discussion Post | N/A | N/A | 1/12 | N/A |
+| Core | Submit SEO Plan | N/A | Develop an SEO strategy | 1/19 | SEO Plan |
+| Core | Create Social Media Campaign | N/A | Design a social media campaign | 1/26 | Social Media Campaign |
+| Core | Submit Email Marketing Plan | N/A | Create an email marketing strategy | 2/2 | Email Marketing Plan |
+| Core | Submit Campaign Performance Report | N/A | Analyze and report on campaign performance | 2/9 | Campaign Performance Report |

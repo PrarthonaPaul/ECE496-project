@@ -1,0 +1,16 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation and Project Proposal | 10% | N/A | September 15, 2023 | N/A |
+| Core | Preliminary Design Review | 15% | N/A | October 10, 2023 | N/A |
+| Core | Prototype Development and Testing | 20% | N/A | November 7, 2023 | N/A |
+| Core | Midterm Presentation | 10% | N/A | November 21, 2023 | N/A |
+| Core | Final Design Review | 15% | N/A | December 5, 2023 | N/A |
+| Core | Final Prototype and Testing Report | 20% | N/A | December 12, 2023 | N/A |
+| Core | Final Presentation and Demonstration | 10% | N/A | December 12, 2023 | N/A |
+| Support | Attend course meetings | N/A | Participate in class work and discussions | N/A | N/A |
+| Support | Regularly log into the course website | N/A | Download course material, submit coursework, and follow up on announcements | N/A | N/A |
+| Support | Perform required course assessments | N/A | Support the anticipated learning objectives, such as progress reports and design demonstrations | N/A | N/A |
+| Support | Participate in team activities | N/A | N/A | N/A | N/A |
+| Support | Present work progress regularly | N/A | N/A | N/A | N/A |
+| Support | Perform design demonstrations | N/A | N/A | N/A | N/A |
+| Support | Submit a comprehensive final report | N/A | N/A | N/A | N/A |

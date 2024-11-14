@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation and Project Proposal | N/A | N/A | September 15, 2023 |
+| Preliminary Design Review | N/A | N/A | October 10, 2023 |
+| Traffic Analysis and Design | N/A | N/A | November 7, 2023 |
+| Midterm Presentation | N/A | N/A | December 5, 2023 |
+| Environmental Impact Assessment | N/A | N/A | February 15, 2024 |
+| Detailed Design Document | N/A | N/A | March 20, 2024 |
+| Final Presentation and Demonstration | N/A | N/A | April 10, 2024 |

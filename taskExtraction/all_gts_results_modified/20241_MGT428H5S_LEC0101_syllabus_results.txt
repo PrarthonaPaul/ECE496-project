@@ -1,0 +1,16 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Presentations | 20% | Student-led case discussion as part of a team | Ongoing | N/A |
+| Core | Class Participation | 15% | Participation in class discussions | Ongoing | N/A |
+| Core | Assignment | 35% | Weekly case submissions and peer evaluations | Ongoing | N/A |
+| Core | Final Exam | 30% | Final exam covering all topics and cases discussed | TBA | N/A |
+| Support | Reading Materials | N/A | Reading assigned materials before class | N/A | N/A |
+| Support | Discussion Questions | N/A | Preparing assigned discussion questions before class | N/A | N/A |
+| Support | Attendance | N/A | Attending classes punctually and staying for the entire duration | N/A | N/A |
+| Support | Communication | N/A | Following professional norms when sending emails to the instructor | N/A | N/A |
+| Support | Special Consideration Requests | N/A | Following the process for requesting academic accommodation for missed tests and quizzes | N/A | N/A |
+| Support | Academic Misconduct | N/A | Understanding and adhering to the University's Code of Behaviour on Academic Matters | N/A | N/A |
+| Support | Standard of Conduct | N/A | Conducting oneself in a professional and respectful manner during class | N/A | N/A |
+| Support | Remote Assessments | N/A | Understanding the guidelines for remote assessments to maintain academic integrity | N/A | N/A |
+| Support | Copyright Notice | N/A | Understanding and respecting intellectual property rights of course materials | N/A | N/A |
+| Support | Additional Resources | N/A | Utilizing additional resources such as the Robert Gillespie Academic Skills Centre and the UTM Library | N/A | N/A |

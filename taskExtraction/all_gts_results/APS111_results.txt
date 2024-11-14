@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Problem Statement & Questions | 4% | N/A | N/A |
+| Project Requirements | 6% | N/A | N/A |
+| Conceptual Design Specification | 20% | N/A | N/A |
+| Research Worksheets | 5% | N/A | N/A |
+| Engineering Notes | 5% | N/A | N/A |
+| Seminar Participation & Oral Presentation | 5% | N/A | N/A |
+| Professional Development (Lecture participation, Piazza participation, other activities as posted) | 5% | N/A | N/A |
+| Midterm Exam | 20% | N/A | 24-Oct-2013 |
+| Final Exam | 30% | N/A | N/A |

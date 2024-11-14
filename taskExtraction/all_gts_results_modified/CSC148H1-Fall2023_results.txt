@@ -1,0 +1,22 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Weekly Preparation Exercises | 8% | Complete readings and short exercises before each week of lecture. | Mondays before 10:00am | N/A |
+| Core | Labs | 8% | Participate in weekly two-hour labs to reinforce and extend learning from lectures. | Thursdays during your TUT section | N/A |
+| Core | Assignment 0 | 5% | Complete the first individual assignment. | Tuesday, October 3 before 12:00pm | N/A |
+| Core | Midterm Test | 16% | Evaluate learning in a focused setting in the middle of the semester. | Held Wednesday Oct 18, during class time | N/A |
+| Core | Assignment 1 | 10% | Complete the first group assignment with a partner. | Tuesday, October 31 before 12:00pm | N/A |
+| Core | Assignment 2 | 10% | Complete the second group assignment with a partner. | Tuesday, November 28 before 12:00pm | N/A |
+| Core | Embedded Ethics Module | 2% | Complete two surveys and a written exercise related to ethics in computing. | Various | N/A |
+| Core | Final Exam | 41% | Comprehensive assessment at the end of the course. | During the final assessment period | N/A |
+| Support | Reading Material | N/A | Read the required course notes and other materials on Quercus. | N/A |
+| Support | Forum Participation | N/A | Post questions and answer others' questions on the online discussion forum, Piazza. | N/A |
+| Support | Office Hours | N/A | Attend office hours for course-related questions and discussions. | N/A |
+| Support | Communication Guidelines | N/A | Follow guidelines for contacting course staff and instructors, and for using the online discussion board. | N/A |
+| Support | Special Consideration Requests | N/A | Request special consideration for illness or emergencies affecting assessments. | N/A |
+| Support | Accessibility Services | N/A | Students with disabilities or health considerations can request accommodations through the Accessibility Services Office. | N/A |
+| Support | Midterm Remark Requests | N/A | Request a remark of the midterm test if there is a suspected error in marking. | N/A |
+| Support | Academic Integrity | N/A | Understand and adhere to the academic integrity guidelines, including policies on collaboration and the use of generative AI. | N/A |
+| Support | Copyright Notice | N/A | Be aware of the copyright restrictions on course materials and recordings. | N/A |
+| Support | Lecture and Tutorial Recordings | N/A | Understand the guidelines for accessing and using lecture and tutorial recordings. | N/A |
+| Support | Course Work Guidelines | N/A | Follow guidelines for sharing and publishing course work, including exercises, assignments, and tests. | N/A |
+| Support | GitHub Usage | N/A | Learn how to use GitHub's private repositories for storing and collaborating on course work. | N/A |

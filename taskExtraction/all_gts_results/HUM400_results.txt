@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Reading Reflections | 10% | Reflective essays on assigned readings. | September 30, 2022 |
+| Site Documentation Report | 20% | Comprehensive report on the documentation of a chosen site. | November 15, 2022 |
+| Conservation Plan | 25% | Detailed plan outlining conservation techniques for a specific site. | January 15, 2023 |
+| Policy Analysis Report | 15% | Analysis of relevant policies and their impact on heritage preservation. | February 15, 2023 |
+| Final Project Presentation | 15% | Presentation of the final preservation project. | March 10, 2023 |
+| Final Report | 15% | Detailed report summarizing the project, findings, and recommendations. | March 15, 2023 |

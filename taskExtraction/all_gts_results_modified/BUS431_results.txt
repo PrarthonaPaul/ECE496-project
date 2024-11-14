@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation Report | 5% | Document outlining team members, roles, and initial ideas for the social enterprise. | September 15, 2022 | N/A |
+| Core | Needs Assessment Report | 10% | Report analyzing community needs and identifying a specific social issue to address. | October 15, 2022 | N/A |
+| Core | Market Research Report | 15% | Detailed report on market research findings, including analysis of target audience and competition. | November 15, 2022 | N/A |
+| Core | Business Model Proposal | 15% | Proposal outlining the business model, including value proposition, revenue streams, and impact. | December 15, 2022 | N/A |
+| Core | Draft Business Plan | 15% | Draft of the comprehensive business plan, including mission, objectives, and operational plans. | January 31, 2023 | N/A |
+| Core | Financial Plan | 10% | Financial projections and strategy, including budgets, funding needs, and financial forecasts. | February 28, 2023 | N/A |
+| Core | Pitch Presentation | 20% | Presentation of the business plan to potential investors or partners, including a pitch deck and oral presentation. | March 15, 2023 | N/A |
+| Core | Final Business Plan | 10% | Final version of the business plan incorporating feedback and revisions. | April 1, 2023 | N/A |
+| Core | Final Reflection Report | 10% | Reflective report on the course experience, challenges, and learning outcomes. | April 15, 2023 | N/A |

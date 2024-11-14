@@ -1,0 +1,15 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project 1 - 60% | N/A | A group project of developing a web application in teams of 3-5 students. There will be a series of milestones requiring group and individual reports (source code, documentation, commit history, etc). Some of the languages that will have to be used in conjunction with the project are Python, Flask, HTML, CSS, JavaScript, etc. | N/A |
+| Project 2- 20% | N/A | A term project in which each team contributes to an open source project of their choice. This involves identifying an issue in the existing project, understanding the development process of that project and how to contribute, and actually making a contribution such as fixing a bug or adding a feature. Extra credit will be awarded if the contribution is merged into the project. | N/A |
+| (20%) Participation: Individual reading quizzes, Lab tasks. | N/A | N/A | N/A |
+| (60%) Web Application Development | N/A | Your mark will be determined by the quality of your design, source code, version control, documentation, how well you manage your project, and your mid-term and final presentations. | N/A |
+| Milestone 0 | 2% | Meet your team & Proposing a project idea | 9/16 |
+| Milestone 1 | 3% | Team workflow | 9/21 |
+| Milestone 2 | 5% | Requirements Elicitation | 9/27 |
+| Milestone 3 | 5% | Project Requirement Documentation & Peer Review | 10/5 |
+| Milestone 4 | 20% | Design and Coding (Midterm Report & Presentation) | 10/19 |
+| Milestone 5 | 25% | Final Report & Architecture Report | 12/19 |
+| (20%) Open Source Excursion | N/A | Your high-level goal is to produce and submit a non-trivial modification or extension to an open-source project in a way that maximizes the chances that the project maintainers accept it. If you demonstrate to us that your change has been accepted and integrated into the project’s code base, you will get up to 5(5%) bonus points. Your team will select an open source project, select a change to implement, actually contribute to the project, and present your insights to the class. You will individually reflect on your teamwork and open source experience. | N/A |
+| Milestone 1 | 10% | Task Selection and Planning | 11/24 |
+| Milestone 2 | 10% | Project Report & Presentation | 12/19 |

@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Topic Proposal | 10% | Propose a specific historical event or theme for the digital history project. | September 15, 2022 | N/A |
+| Core | Research Outline | 15% | Outline the research methods and sources for the chosen topic. | October 15, 2022 | N/A |
+| Core | Project Plan | 20% | Plan the structure, content, and digital tools for the project. | November 15, 2022 | N/A |
+| Core | Content Draft | 15% | Create a draft of the digital history project content. | December 15, 2022 | N/A |
+| Core | Beta Version | 20% | Develop a beta version of the digital history project, including content and digital tools. | January 31, 2023 | N/A |
+| Core | Final Project Submission | 20% | Submit the final, polished digital history project. | February 28, 2023 | N/A |
+| Core | Presentation & Reflection | 10% | Present the project and provide a comprehensive reflection on the process and outcomes. | March 15, 2023 | N/A |
+| Support | Research & Planning | N/A | Conduct thorough research on the chosen historical topic, including selecting the topic, determining research methods, and planning the project. | N/A | N/A |
+| Support | Development | N/A | Create content and implement digital tools for the project. | N/A | N/A |
+| Support | Finalization | N/A | Make final adjustments, prepare for presentation, and submit the final project. | N/A | N/A |

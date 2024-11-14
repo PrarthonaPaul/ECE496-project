@@ -1,0 +1,14 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal detailing the project's objectives, target audience, and anticipated impact. Include a timeline and assign roles to team members. | Week 3 | N/A |
+| Core | Content Creation | 15 points | Develop media content based on the approved proposal, ensuring alignment with project objectives. | Weeks 4-6 | N/A |
+| Core | Implementation and Distribution | 18 points | Implement the media campaign, distribute content through appropriate channels, and monitor reach and engagement. | Weeks 7-10 | N/A |
+| Core | Audience Feedback and Analysis | 10 points | Collect and analyze feedback from the target audience to assess the effectiveness of the media content. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the development process, design decisions, challenges, and solutions in a comprehensive report. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare and deliver a presentation highlighting key project aspects at the Innovation Showcase. | Dec 6 | Innovation Showcase |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase that summarizes the project. | Dec 6 | Innovation Showcase |
+| Support | Class Attendance | N/A | Attend all scheduled class meetings. | N/A | N/A |
+| Support | Individual Sessions | N/A | Attend individual sessions and complete any missed work if unable to attend a class. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy, avoiding plagiarism and other forms of academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center for accommodations and notify the instructor. | N/A | N/A |
+| Support | Important Dates | N/A | Be aware of and prepare for key course dates, including class meetings, individual meetings, and the Innovation Showcase. | N/A | N/A |

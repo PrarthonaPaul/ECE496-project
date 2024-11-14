@@ -1,0 +1,89 @@
+CIV401: Infrastructure Design and Development
+Institution: Grand Valley University Term: Fall 2020 Instructor: Prof. Sarah Nguyen Email: snguyen@gvu.edu Office Location: Civil Engineering Building, Room 217 Office Hours: Wednesday 2:00-4:00 PM, Friday 10:00-12:00 PM Class Schedule: Tuesday & Thursday, 9:00 AM - 10:30 AM Classroom: Engineering Hall, Room 302
+Course Overview
+CIV401: Infrastructure Design and Development is an advanced course focused on the design and development of infrastructure projects. Students will work in teams to address real-world challenges in civil infrastructure, including transportation systems, water management, and urban development. The course covers the complete lifecycle of infrastructure projects, from initial planning and feasibility studies to detailed design and implementation.
+Course Learning Objectives
+By the end of this course, students will be able to:
+1.
+Develop comprehensive project plans and feasibility studies for infrastructure projects.
+2.
+Apply engineering principles and design standards to create detailed infrastructure designs.
+3.
+Conduct environmental impact assessments and incorporate sustainable practices into designs.
+4.
+Collaborate with team members to integrate various engineering disciplines into a cohesive project.
+5.
+Present and defend project proposals to a panel of experts, incorporating feedback into the final design.
+Course Modules and Timeline
+Module
+Topics Covered
+Key Dates
+Module 1
+Introduction to Infrastructure Design & Development
+Start: September 8, 2020
+- Course Introduction
+- Overview of Infrastructure Systems
+- Team Formation and Project Selection
+Deliverable: Team Formation and Project Outline (0%)
+Due: September 15, 2020
+Module 2
+Feasibility Studies and Project Planning
+Start: September 22, 2020
+Module
+Topics Covered
+Key Dates
+- Feasibility Studies
+- Project Scope and Objectives
+- Cost Estimation and Budgeting
+Deliverable: Feasibility Report and Project Plan (15%)
+Due: October 6, 2020
+Module 3
+Environmental and Sustainability Considerations
+Start: October 13, 2020
+- Environmental Impact Assessments
+- Sustainable Infrastructure Practices
+- Regulatory and Permitting Processes
+Deliverable: Environmental Impact and Sustainability Report (20%)
+Due: October 27, 2020
+Module 4
+Detailed Infrastructure Design
+Start: November 3, 2020
+- Transportation Systems Design
+- Water Management Systems
+- Urban Infrastructure and Public Utilities
+Deliverable: Detailed Design Submission (25%)
+Due: November 24, 2020
+Module 5
+Project Integration and Finalization
+Start: December 1, 2020
+- Integration of Design Components
+- Risk Assessment and Mitigation Strategies
+- Final Project Preparation and Presentation Skills
+Deliverable: Final Project Report and Presentation (40%)
+Due: December 15, 2020
+Assessment and Evaluation
+•
+Feasibility Report and Project Plan: 15% Teams will develop a feasibility study and a comprehensive project plan that outlines the scope, objectives, and budget for their chosen infrastructure project.
+•
+Environmental Impact and Sustainability Report: 20% This report will assess the environmental impact of the project and propose sustainable practices to be integrated into the design. The report should also address regulatory requirements.
+•
+Detailed Design Submission: 25% The detailed design submission will include engineering drawings, calculations, and specifications for the infrastructure components. Teams must ensure that the design meets all relevant standards and regulations.
+•
+Final Project Report and Presentation: 40% The final deliverable will be a complete project report, including all aspects of the project from initial planning to final design. Teams will also present their project to a panel of faculty and industry experts, incorporating feedback into their final submission.
+Course Policies
+•
+Attendance: Attendance at all scheduled classes and presentations is mandatory. Participation in team meetings outside of class is also expected.
+•
+Late Submissions: Late deliverables will incur a penalty of 5% per day, up to a maximum of 20%. Submissions more than 4 days late will not be accepted.
+•
+Teamwork and Collaboration: Successful completion of the course requires effective teamwork. Teams are expected to manage their own schedules and distribute work evenly among members. Conflicts should be resolved internally or escalated to the instructor if necessary.
+•
+Academic Integrity: All work submitted must be original and properly cited. Plagiarism or other forms of academic dishonesty will result in severe consequences, including possible failure of the course.
+Resources
+•
+Textbook: "Infrastructure Planning, Engineering, and Economics" by Alvin S. Goodman and Makarand Hastak (2nd Edition).
+•
+Software: AutoCAD, Civil 3D, and MS Project will be used for design and project management tasks.
+•
+Additional Resources: Access to university libraries, online databases, and industry case studies will be provided.
+This syllabus for CIV401: Infrastructure Design and Development outlines the key modules, deliverables, and expectations for students, ensuring a comprehensive understanding of the infrastructure project lifecycle.

@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Course Introduction | N/A | N/A | 1/11 |
+| Project Proposal | N/A | Submit a proposal for a research project. | 1/18 |
+| Research Methods | N/A | Complete CITI training related to research methodologies. | 1/25 |
+| Data Collection | N/A | Submit a detailed plan for data collection. | 2/1 |
+| Analysis Techniques | N/A | Submit a plan outlining analysis techniques to be used. | 2/8 |

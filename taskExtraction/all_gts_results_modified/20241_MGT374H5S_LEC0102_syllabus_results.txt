@@ -1,0 +1,18 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Simulation Performance | 24% | Students will work in groups to create and manage the parts and service department of a new auto dealership throughout the semester. | On-going | N/A |
+| Core | Weekly Quizzes | 15% | Students will complete ten quizzes worth 1.5 marks each throughout the semester. | On-going | N/A |
+| Core | Smartbook Submissions | 6% | Students will have at least one week to complete each Smartbook assignment, and they must be completed along with the assigned readings by the day prior to the class covering the subject. | On-going | N/A |
+| Core | Mid-Term Test | 20% | The mid-term test is 60 minutes in duration and will be held in-class on Wednesday, February 7th. | 2024-02-07 | N/A |
+| Core | Final Exam | 35% | The final examination will be scheduled during the final exam period and will be two hours in length. | TBA | N/A |
+| Support | Reading Materials | N/A | Students are expected to come to class having done all assigned readings including any handouts. | N/A | N/A |
+| Support | Simulation Registration | N/A | Students who have not registered for the simulation by January 29th, without prior permission from the instructor, will receive a deduction of two marks (out of 24) from their simulation grade. | N/A | N/A |
+| Support | Peer Evaluation | N/A | Students who do not submit their simulation peer evaluation by the April 3rd deadline will receive a deduction of two marks (out of 24) from their simulation grade. | N/A | N/A |
+| Support | Case Study Analysis | N/A | Students are encouraged to prepare case analysis and complete assigned problems prior to class to identify areas where further information is required and provide context for in-class discussion. | N/A | N/A |
+| Support | Special Consideration Requests | N/A | Students who miss the midterm exam due to illness and have submitted a Special Consideration Request are expected to write a make-up test. | N/A | N/A |
+| Support | Re-marking Requests | N/A | Requests to have term tests remarked will be considered if certain conditions are met. | N/A | N/A |
+| Support | Late Assignments | N/A | Students who do not submit their Smartbook assignments or quizzes by the due date will be assigned a grade of zero. | N/A | N/A |
+| Support | Academic Misconduct | N/A | The University of Toronto’s Code of Behaviour on Academic Matters outlines behaviours that constitute academic dishonesty and the process for addressing academic offences. | N/A | N/A |
+| Support | Academic Integrity | N/A | UTM wishes to remind students that they are expected to adhere to the Code of Behaviour on Academic Matters regardless of the course delivery method. | N/A | N/A |
+| Support | Copyright Notice | N/A | Students are not authorized to reproduce or distribute course materials without prior consent from the intellectual property owner. | N/A | N/A |
+| Support | Academic Resources | N/A | The Robert Gillespie Academic Skills Centre (RGASC) and the UTM Library offer various resources and services to support students' academic success. | N/A | N/A |

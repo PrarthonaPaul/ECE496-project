@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Discussion Post | N/A | N/A | 1/16 | N/A |
+| Core | Submit Chart Design | N/A | N/A | 1/23 | N/A |
+| Core | Complete Dashboard Tutorial | N/A | N/A | 1/30 | N/A |
+| Core | Submit Visualization Project | N/A | N/A | 2/6 | N/A |
+| Core | Submit Final Presentation | N/A | N/A | 2/13 | N/A |

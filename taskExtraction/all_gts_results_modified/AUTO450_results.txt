@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Course Engagement | 4% | N/A | N/A | N/A |
+| Core | Progress Presentations | 8% | Each progress presentation will consist of 1) three slides to show current work and 2) project management update. | N/A | N/A |
+| Core | Design Process (Team meetings and documentation) | 10% | Four team meetings to review progress, uncover problems, and plan for future events. | N/A | Meeting minutes submitted as a living document |
+| Core | Pre-Class Assignments | 5% | Short assignments to prepare for synchronous discussions during lectures. | N/A | N/A |
+| Core | Project Requirements | 10% | Submit a concise document communicating the design requirements of the chosen automotive need. | Oct 30, 2023 | N/A |
+| Core | Project Proposal | 10% | Draft a proposal defining the design problem, proposing solutions, and providing a plan. | Dec 4, 2023 | N/A |
+| Core | Design Review and Critique | 5% | Present an overview of the project, show preliminary prototypes, and defend design choices. | Jan 22, 2024 | N/A |
+| Core | Demonstration Day Presentation | 15% | Present and demonstrate the final working prototype to project supervisors and potential users. | Mar 30, 2024 | N/A |
+| Core | Final Report | 40% | Produce a final report with enough information for future project development, incorporating feedback. | Apr 1, 2024 | N/A |
+| Support | Reading Textbook | N/A | Read the required textbook "Electric and Hybrid Vehicles: Design Fundamentals" by Iqbal Husain. | N/A | N/A |
+| Support | Communication Guidelines | N/A | Follow communication guidelines for written and oral discourse, with support from the Communication Instructor. | N/A | N/A |
+| Support | Attendance | N/A | Attend lectures and team meetings, with the option to coordinate with the team for any necessary absences. | N/A | N/A |
+| Support | Online Communication | N/A | Post course-related questions in the "Course Q & A" discussion forum, following the provided guidelines. | N/A | N/A |

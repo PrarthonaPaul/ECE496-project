@@ -1,0 +1,14 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Class Meetings | 20 points | Participate in discussions, provide project updates, and engage in group activities. | N/A | N/A |
+| Core | Individual Meetings | 12 points | Schedule consultations to discuss project development and receive feedback. | N/A | N/A |
+| Core | Project Proposal | 10 points | Submit an initial proposal outlining the project's objectives, methodology, and timeline. | N/A | N/A |
+| Core | Revised Proposal | 13 points | Revise the proposal based on feedback, providing more detailed planning and adjustments. | N/A | N/A |
+| Core | Final Report | 25 points | Create a comprehensive report detailing the project from start to finish, including analysis and reflection. | N/A | N/A |
+| Core | Presentation (Elevator Pitch) | 10 points | Deliver a 2-minute elevator pitch summarizing the project's key points. | N/A | N/A |
+| Core | Poster | 10 points | Design a visually appealing and informative poster for the Innovation Showcase. | Dec 6 | Innovation Showcase |
+| Support | Reading Materials | N/A | Engage with readings and resources provided based on project needs. | N/A | N/A |
+| Support | Computer Access | N/A | Ensure access to a computer with design and data analysis software as required for the project. | N/A | N/A |
+| Support | Attendance | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy, avoiding plagiarism and other forms of academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

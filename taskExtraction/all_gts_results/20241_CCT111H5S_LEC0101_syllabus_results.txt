@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Lab exercises | 10% | N/A | On-going |
+| Assignment 1 - Coding Exercise | 10% | N/A | 2024-01-30 |
+| Test 1 | 20% | N/A | 2024-02-27 |
+| Assignment 2 - Coding Exercise | 12.5% | N/A | 2024-02-13 |
+| Assignment 3 - Tentative Topic - Information visualization presentation and report | 15% | N/A | 2024-03-26 |
+| Test 2 | 25% | N/A | 2024-04-02 |
+| Zybook Learning Activities | 5% | N/A | 2024-04-02 |
+| Class Contribution (Attendance, Contribution, Presentation Peer Reviews, etc) | 2.5% | N/A | On-going |

@@ -1,0 +1,14 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Information Retrieval and Web Search Course | N/A | A course covering traditional and advanced topics in Information Retrieval (IR) and Web Search, including indexing, processing, querying, classifying data, IR models, algorithms, and system implementations. It focuses on textual data but also covers IR for images, videos, audio, and geospatial information. Web search topics include crawling, link analysis, search engine development, social media, and crowdsourcing. | N/A |
+| Read Required Textbook | N/A | Read the textbook 'Introduction to Information Retrieval' by Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schutze. | N/A |
+| Read Recommended Readings | N/0 | Read the recommended books 'Readings in Information Retrieval' and 'Modern Information Retrieval'. | N/A |
+| Programming Assignments | 40% | Complete four programming assignments, considered as projects with room for design decisions. | 11:59pm on the due date, with a 10% penalty for each day late, up to 3 days. |
+| Exam I | 20% | Take the first exam on February 23, 6:30-8:00pm. | February 23, 6:30-8:00pm |
+| Exam II | 20% | Take the second exam on April 13, 6:30-8:00pm. | April 13, 6:30-8:00pm |
+| Project | 20% | Work in a team of 5 to address a problem related to information retrieval and web search. Includes two checkpoints, a final submission, and a poster presentation. | Multiple deadlines, with the poster presentation on April 16, 3:30-7:00pm. |
+| Regularly Check Piazza Forum | N/A | Regularly read the Piazza forum for important course announcements, assignment clarifications, and help/hints on assignments. | N/A |
+| Create a CAEN Account | N/A | Set up a CAEN account for the programming environment. | N/A |
+| Write Programs in Python | N/A | Develop programs in Python and ensure they run correctly in the CAEN Linux environment. | N/A |
+| Honor Code Compliance | N/A | Adhere to the University of Michigan Honor Code, promoting integrity and mutual respect in all academic work. | N/A |
+| Request Accommodations for Disabilities | N/A | Students with disabilities should inform the instructor at the beginning of the semester or at least 2 weeks in advance to arrange accommodations through the Services for Students with Disabilities (SSD) office. | N/A |

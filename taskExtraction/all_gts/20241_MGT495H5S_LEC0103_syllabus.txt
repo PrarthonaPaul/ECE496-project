@@ -1,0 +1,435 @@
+DEPARTMENT OF MANAGEMENT
+UNIVERSITY OF TORONTO MISSISSAUGA
+MGT495H5S LEC0103
+Entrepreneurial Finance and Private Equity
+Course Outline - Winter 2024
+Class Location & Time Mon, 05:00 PM - 07:00 PM DH 2070
+Instructor Camille Hebert
+Office Location
+Office Hours on request
+E-mail Address cam.hebert@utoronto.ca
+Course Web Site https://q.utoronto.ca
+Teaching Assistant Fiona Murphy-Trepanier
+E-mail Address fiona.trepanier@mail.utoronto.ca
+Teaching Assistant Nurzhan Mussabekov
+E-mail Address nurzhan.mussabekov@mail.utoronto.ca
+Course Description
+The primary objective of the course is to improve students' ability to understand the concepts and institutions involved in
+entrepreneurial finance and private equity. Private equity firms have demonstrated an ability to create value by acting as a financial
+intermediary, between firms and ultimate investors. The course will provide students with skill sets so they can analyze and
+understand entrepreneurial financing opportunities and private equity from multiple perspectives: the perspective of the founder
+seeking and receiving private equity financing for their project; the perspective of the private equity fund (GP); and, the perspective
+of the limited partners (LP) that provide finance for private equity funds.
+Prerequisite:
+MGT231H5 and MGT232H5
+Exclusion: RSM439H1 (SSc)
+Distribution Requirement: SSc
+Course Objective
+MGT495 examines the elements of entrepreneurial finance, focusing on technology-based start-up ventures and the early stages of
+company development. The course addresses key questions that challenge all entrepreneurs: how much money can and should be
+raised; when should it be raised and from whom; what is a reasonable company valuation; and how should funding, employment
+contracts and exit decisions be structured. It aims to prepare students for these decisions, both as entrepreneurs and venture
+capitalists. In addition, the course includes an in-depth analysis of the structure of the private equity industry.
+The course covers all stages of the financing process, from startup to harvest and exit. Issues covered in this course will include
+valuation of high-risk projects, negotiations and deal structuring, incentive design, term-sheet contracts, financial management in
+rapidly growing firms, initial public offerings, mergers and acquisitions, inequalities and discrimination in the context of
+entrepreneurial finance. Among capital suppliers, we consider the role and incentives of angel investors, venture capital firms, other
+private equity firms, commercial banks, and investment banks.
+Course Learning Outcomes
+Help students gain a deeper understanding of finance and evaluation techniques
+Provide a framework for making investment decisions about high-uncertainty projects
+Provide students with institutional background, specialized vocabulary, and important facts about the VC industry
+Expose students to several promising new companies
+Introduce students to DEI issues in entrepreneurial finance
+Improve communication skills
+Teaching methods
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 1 of 11
+Lectures about the key concepts
+Business cases
+Class discussions
+A semester-long project that requires teamwork, creativity, and multiple rounds of presentations
+Financing for Startups: Our course emphasizes the financing of early-stage startups, where traditional financial approaches are
+often inadequate. We'll explore initial funding avenues-bootstrapping, angel investors, and venture capital-examining their fit for
+different stages of startup growth. Students will learn to assess risk, value pre-revenue startups, and navigate early-stage investment
+to lay the foundation for successful entrepreneurial ventures. Hence, in our exploration of entrepreneurial finance, we delve into the
+intricate evaluation process that underpins successful entrepreneurial ventures. Recognizing that entrepreneurship is not a linear
+journey but a multifaceted endeavor, this course dissects the stages and dimensions that shape its landscape.
+Diversity, Equity, and Inclusion in Entrepreneurial Finance:
+Entrepreneurial finance will also serve as an exemplary context to study Diversity, Equity, and Inclusion (DEI) due to the inherent
+complexities and multidimensional nature of the field. Entrepreneurs come from diverse backgrounds, bring diverse educational
+experiences and human capital to their ventures. This diversity is a driving force behind innovation and economic growth. We will
+explore the effects of financing constraints on underrepresented groups and the critical role that financial intermediaries play in
+either perpetuating or alleviating these inequalities. By examining the geographic concentration of resources, we will reveal the
+disparities in opportunity based on location and demography. The course also tackles the challenges posed by information
+asymmetry, particularly how biases and stereotypes can influence investor decisions. An objective of this course is to understand
+these dimensions to think of more equitable financial practices and a more inclusive entrepreneurial ecosystem.
+Textbooks and Other Materials
+Students are responsible for checking Quercus regularly for announcements, assignments, and supplementary material. I consider
+posting information on Quercus to be sufficient notice for you to be held responsible for it.
+Required readings and electronic course materials
+I will post the lecture notes before each class. However, I will not post slides associated with the cases. This is because there are
+usually no absolute right answers when discussing a case. The best cases are deliberately written to be ambiguous. Cases are not
+algebraic proofs that build on mathematical axioms. They are not exercises in classic mechanical Physics either. While there are no
+right answers, there are good arguments and bad arguments.
+All materials generated for the course, including slides, handouts, review materials, and assignments, or any other materials
+prepared by you or the professor for this course, are intended for use by current students in this class only unless you have the
+permission of your instructor. You are not permitted to use materials related to the class that were generated by the professor or
+students in previous versions of this course.
+Required Case Package from HBS publishing
+All the required and recommended readings subject to copyright can be purchased in the form of a course pack from Harvard
+Business Publishing after you register as a student. I will post the readings that are not subject to copyright on Quercus.
+You can download the required readings in the form of a course pack from this link: https://hbsp.harvard.edu/import/1119890
+The cost of the case package is about 50 Canadian dollars. The case pack replaces a mandatory textbook.
+The use of these materials complies with all University of Toronto policies, which govern fees for course materials.
+Books and Textbooks to go beyond:
+Metrick, A., & Yasuda, A. (2021). Venture capital and the finance of innovation. John Wiley & Sons.
+Mallaby, S. (2022). The Power Law: Venture Capital and the Making of the New Future. Penguin.
+Feld, B., & Mendelson, J. (2019). Venture deals: Be smarter than your lawyer and venture capitalist. John Wiley & Sons.
+I made these books optional because we will use small portions of each textbook throughout the course. You can purchase these
+books online or at the university bookstore.
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 2 of 11
+Type Description Due Date Weight
+Class Participation Class participation (on-going) On-going 15%
+Assignment Case write-ups (5 out of 6) On-going 15%
+Quiz Quizzes (in class 4 out of 6) On-going 10%
+Presentations Business Plan Presentation 2024-02-12 20%
+Presentations Term Sheet Presentation 2024-03-25 20%
+Final Exam Final exam (during exam period) TBA 20%
+Total 100%
+Assessment and Grading Policies
+Note that the Course Schedule, Assessment and Grading Policies detailed in this course outline are contingent on class delivery
+staying unchanged. The course outline may change at the instructors' discretion under unforeseeable circumstances, e.g. lockdown
+due to COVID. For example, if we are required to offer courses via remote delivery during the semester, the instructor will make
+the necessary adjustments, including, but not limited to, the nature and timing of assignments and tests, reweighting of course
+assessments, and other course content. These changes will be communicated via Quercus.
+Requirements and Criteria
+The course is based on two crucial building blocks: the cases and the project. Entrepreneurship often involves working in teams,
+and communication skills are particularly important in this industry and an important component of your grade.
+Class participation (15%)
+Your participation will be based on the quality of your comments (e.g., demonstrating understanding and analysis of the topic,
+generating ideas, promoting further discussion), the frequency of comments, and your professionalism. I expect you to attend every
+class, be on time, and be prepared to participate. You must bring a name tent to every class, so I can call on you using the name you
+prefer. During the first class, you will choose a seat that you will keep for the rest of the semester, so class participation can be
+appropriately recorded and rewarded. This means that you must attend classes in the section you registered for.
+Case write-ups (15%)
+For most class meetings, you will prepare one case study. You will be responsible for preparing the cases in teams before class.
+Each team will submit a minimum of five cases out of the six. Case 2 (part 2 only) and case 3 are mandatory cases. Each team will
+have to submit a write-up for these two cases. The four other cases are at your discretion. The final case write-up grade will be the
+average of the five highest case write-ups. The case deliverable due date is on Sundays, the day before class, at 23:59 PM
+(submissions will automatically lose 1% per minute following the deadline). One write-up report per team must be uploaded to
+Quercus (except for the first case). Make sure all team members' names appear on the first page of the case write-up.
+To guide the case preparation, I will assign study questions, which will be posted on Quercus. Teams are responsible for producing
+a two-page maximum write-up for each case. The two-page limit is for text only. You may attach numerical calculations, excel
+spreadsheets or other appendices as you wish. Write the write-up as if you were writing a recommendation to the major decisionmaker
+in the case. You should start by briefly stating your recommendation and then articulate how and why you reached that
+conclusion. The study questions should help you think through the case. You should aim for clarity, strong organization, concision,
+professionalism, and correct grammar. Sources should always be correctly attributed.
+The use of AI-assisting software such as Chat GPT is not prohibited. However, for each case submission, you must indicate
+whether you have used these tools. In addition, you will briefly explain how you used these tools, if any. Examples of the use of
+Chat GPT include (and are not restricted to) enhancing writing skills, getting ideas for assignments, brainstorming, and researching
+specific concepts. Be as specific as you can. Note that I ran all case questions in Chat GPT. Hence, case write-ups that will end up
+being too close to what I got from Chat GPT will be penalized. In addition, each case submission will be checked for plagiarism
+using the Quercus-embedded plagiarism tool.
+In-class quizzes (10%)
+Students will take six in-class quizzes during the semester. Students will not be permitted to take quizzes outside of class. Quizzes
+are individual assignments. The duration of each quiz will be 5 to 10 minutes, depending on the quiz. Quizzes will be about the
+case of the day. To be able to complete the quiz, you need to read the case. Questions are expected to be specific to the case. The
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 3 of 11
+final quiz grade will be the average of the four highest quiz grades.
+Team project (40% = 20% + 20%)
+The project is a crucial component of the class that will follow us throughout the semester. The project is developed at the team
+level, and the teams preparing the case write-ups weekly are the same.
+The project allows you to put into practice what we learn in class. You will take the side of both the entrepreneur who seeks
+financing (part 1) and the investor who seeks opportunities (part 2). For those of you who are interested in pursuing your own
+entrepreneurial ideas, the project will help you to organize your initial thoughts in the systematic framework before further
+launching to the market. For those who want to learn more about entrepreneurial finance and private equity, the project will be a
+great learning opportunity to test the extent to which you can put the content of the course into practice.
+Each team member will be evaluated for the business plan (part 1) and for the term sheet proposal (part 2). The final grade will
+reflect the work of the whole team , and hence, the grade will be the same for all members of the team. Both in part 1 and part 2,
+the deliverable will consist of (i) PowerPoint slides (submitted on Quercus) and (ii) a 5 to 10-minute presentation during class in
+front of the jury and the other students. During presentations in class, all members of the team are expected to stand in front of the
+class and speak for an approximately equal time. More information will be communicated in class.
+Final exam (25%)
+The final exam will be an individual final exam. The final exam will be a open-book exam during the exam period.
+Project Short Description
+A crucial component of the class, which will follow us throughout the semester, is the project. The project is developed at the team
+level, and the teams that prepare the case write-ups each week are the same. Each team should include three students.
+The project allows you to put into practice what we learned in class. You will take the side of both the entrepreneur who seeks
+financing and the investor who seeks opportunities. For those of you interested in pursuing your own entrepreneurial ideas, the
+project will help organize your initial thoughts in the systematic framework you will use when interfacing with investors. For those
+who want to learn more about entrepreneurial finance and private equity, the project will be a great learning opportunity to test the
+extent to which you can put the content of the course into practice.
+The timeline of the project is as follows:
+Step 1: On Tuesday, January 23rd (after class 3), you will submit a brief description of two ideas for a high-growth-oriented
+startup. We will read the proposals, and we will come back to you with suggestions for the idea that seems more promising and for
+which it would be easier to convince investors. Importantly, the teams need not necessarily follow the idea we select. Choosing to
+pursue the idea I selected or the other one will have no implications in terms of your grade. Being an entrepreneur means you
+should pursue the idea you find more convincing, which does not need to be the one an external advisor recommends.
+Step 2: On Monday, February 12th (class 6), teams will pitch and present their business plan to the class. During the presentation,
+each team member must talk for an equal amount of time. I will give more information about the structure of the business plan
+during class 3. Of course, we will be very happy to discuss the aspects of the business plans with which the teams might be
+uncertain before the deadline. Slides for the presentation will be uploaded to Quercus on Sunday, February 11th.
+Once the business plans are ready, we will all change roles and become venture capitalists who want to invest in one of the startup's
+businesses presented during Step.
+Step 3: On Monday, March 25th (class 11), teams will present their term sheet assessment and funding proposal for one of the
+business plans presented in Step 2. This means that teams cannot reject all projects, and they cannot decide to fund all. The teams
+cannot fund the business plan they presented in step 2. During the presentation, each team member must talk for an equal amount
+of time. Note that whether your business plan is funded or not will not be part of the grading of the project. However, it might be
+investor teams pass on your business plan because it is inaccurate or presents inconsistencies, which will affect the grading. Slides
+for the presentation will be uploaded to Quercus on Sunday, March 24th.
+Step 4: For the projects that received funding from the most teams of investors, I will ask the business plan teams to prepare a few
+presentation slides for Monday, April 1st (last session). The rest of the class, including those who did not review the project as
+investors, will act as potential investors and will ask questions and raise doubts that the presenting team is expected to address as if
+in a real investor meeting.
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 4 of 11
+The project beyond MGT495: I partnered with ICUBE, the UTM startup accelerator, to set up this project. The most promising
+projects or students interested in pursuing an entrepreneurial project will have the opportunity to continue with ICUBE. ICUBE
+offers dedicated resources, workshops and mentorship to early-stage startups.
+Conduct of Class
+This course is designed to be a time-consuming and challenging course. You will have to prepare one case per week and handle a
+two-page write-up for each case. In addition, you will work on a team project throughout the semester. Coming to class unprepared
+is a waste of your time because you will not be able to internalize the contents of the class discussion if you do not understand all
+the aspects of a case.
+Lectures
+This course places a strong emphasis on presentation and discussion skills. Students will need to explain their positions to each
+other and argue for the implementation of their recommendations. They should expect to participate actively, drawing on
+information from the cases. Recall that once on the job, your presentation and discussion skills will be as important, if not more
+important, than the content you present. Because of the nature of this course (and its grading criteria, see below), it is extremely
+important that you attend every class, arrive on time, and be prepared to participate. If you cannot make a class, we expect that you
+send me a note in advance unless your absence is due to unforeseen circumstances.
+Team formation rules
+Teams must be formed by three students who are registered in the same section. Students will keep the same team during the whole
+semester. Teams will be defined in the first week of class and must include only students who registered in the same section. If
+a student is not part of a team or if a student joins after the first week of class, I will assign them to an existing team, or I will form
+a new team. If a student's team member(s) drop the course by the official deadline, I will reassign the student to a team of my
+choice.
+Laptop Policy: It is expected that students will use technology responsibly, with consideration for their fellow students and
+other members of the University community. Laptops are not to be used during class for email, instant messaging, web browsing, or
+any other activity that is disruptive to other students, the instructor, or the classroom environment. Violation of the laptop policy
+may lead to a prohibition on laptop use for all students to ensure a productive classroom environment for everyone.
+Note that a laptop will be needed to take the in-class quizzes. If a student cannot bring a laptop to class, I will provide quizzes on
+paper.
+Course Resources: Students must check Quercus regularly for course-related material, including recommended problems, news
+stories, etc. Students are responsible for all content posted on the course website. Important announcements may be posted on the
+course website periodically, so students are advised to check there frequently for updates.
+Office Hours:
+I will hold open office hours on request or otherwise announced on Quercus.
+Email policy:
+You can also contact me by email. Please include the course code in the subject line. You can expect a response within 48 weekday
+hours.
+Attendance Policy:
+Attendance will be recorded on quiz days and presentation days, as students are required to take the quiz in class and all speak
+during group presentations. Also, note that attendance impacts your participation. Students who do not attend classes cannot
+participate.
+Recorded Lectures:
+Lectures will not be recorded. Students are expected to catch up on the missed lectures with the material posted on Quercus.
+Procedures and Rules
+Special Consideration Request for Academic Accommodation Request - Missed Tests & Quizzes (term work only, no final
+exams):
+To be considered for academic accommodation for missed tests and quizzes (ONLY), please follow the appropriate next steps
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 5 of 11
+depending on your circumstance (i.e. illness related or non-illness related). Do NOT submit a petition for final exams. Final exam
+deferrals must be submitted through the Registrar's Office. Extension of time requests should follow the same process.
+Special Consideration Request Application: https://uoft.service-now.com/utm_scr
+Illness or Non-illness Related Next Steps
+1. Inform your professor in writing (e-mail is acceptable) no later than 24 hours after the test or quiz date of any
+circumstances that prevent you from writing a test or quiz. Failure to do so will result in your special consideration request
+petition being denied.
+2. Submit an online Special Consideration Request as soon as possible, but no later than 72 hours after the test or quiz
+date. Failure to do so will result in your request being denied. Special Consideration Request Application:
+https://uoft.service-now.com/utm_scr
+3. Provide your supporting documentation on the Special Consideration Request Application by attaching screenshots
+or relevant documents within one week of the missed test/quiz. Supporting documentation may include a screenshot of
+the Absence Declaration tool on ACORN. Please ensure the dates identified in your absence declaration include the actual
+test or quiz date, if applicable. Please refer the course outline for term work exclusions from use of Absence
+Declaration. The Department requires supporting documentation (such as Verification of Illness form) if your course
+outline excludes test/quiz from the one-time ACORN declaration. Illness related documentation include the Verification
+of Illness form which must be in English and completed by a practitioner registered and licensed in the Province of
+Ontario with original signature and business stamp. Non illness related documentation will vary but a death in the family
+requires submission of a death certificate. Requests without supporting documentation will be denied.
+IMPORTANT
+Failure to follow this process will result in your Special Consideration Request being denied.
+If your form is not completed correctly with the necessary details to assess your Special Consideration Request, your
+request may be denied.
+In the case of an illness, you need to follow the specific Missed Tests requirements for your course (see Missed Tests
+section below).
+You may receive a follow up email or response on the Special Consideration Request Application from the UTMM
+petitions committee. If so, you MUST respond within 24 hours.
+If there is concern about your Special Consideration Request, your request may be refused and/or you may be asked to meet
+with an Associate Chair or Program Director.
+If you have multiple Special Consideration Requests your request may be refused.
+If you do not complete the make-up work as and when required, you will receive a grade of zero for the original missed
+test; further special consideration is not permitted.
+Holidays and pre-purchased plane tickets, family plans (unless critical, such as death of an immediate family member), your
+friend's wedding, lack of preparation, or too many other tests are not acceptable excuses for missing a quiz, a test, or an item of
+course work.
+The written explanation and documentation that you submit represents an appeal from you, which requests the opportunity to
+account for that portion of your grade in an alternate manner than the normal one that is described in this course outline. If an
+appeal is not received by the deadline specified above, or if the appeal is deemed unacceptable, you will receive a grade of zero.
+Missed Test(s):
+Missed in class-quiz
+The final quiz grade is the average of four best quizzes (out of six), which means that if you miss two quizzes or less, your final
+grade won't be impacted, and documentation will not be required. If you miss more than two quizzes (for illness or non-illness
+reasons), you are required to provide documentation with your online Petition for Academic Accommodation, as per point 3 above.
+Students who miss more than two quizzes will be required to take a make-up assignment at the instructor's discretion.
+Missed presentation day (February 12, 2024 or March 25, 2024)
+All team members are expected to be present on presentation days (and speak during their team's presentation). If you cannot make
+a presentation day, I expect you will send me a note in advance unless your absence is due to unforeseen circumstances. Note that
+your absence may impact your team's performance, hence your grade.
+Late Assignment(s):
+All assignments are due on the date and at the time specified in Quercus. Students will lose 1% for every minute they are late.
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 6 of 11
+Students who, for reasons beyond their control, are unable to submit an assignment by its deadline must obtain prior approval from
+the instructor for an extension. Supporting documentation will be required as per the policy on missed tests and assignments
+Final Exams:
+Students who cannot complete their final examination due to illness or other serious causes must file an online petition within 72
+hours of the missed examination. Late petitions will NOT be considered. Upon approval of a deferred exam request, a nonrefundable
+fee is required for each examination approved. See the Office of the Registrar Administrative Fees for Services page for
+more information.
+Academic Misconduct:
+Academic integrity is essential to the pursuit of learning and scholarship in a university, and to ensuring that a degree from the
+University of Toronto Mississauga is a strong signal of each student’s individual academic achievement. As a result, UTM treats
+cases of cheating and plagiarism very seriously.
+The University of Toronto’s Code of Behaviour on Academic Matters outlines behaviours that constitute academic dishonesty and
+the process for addressing academic offences. Potential offences include, but are not limited to:
+In papers and assignments:
+Using someone else’s ideas or words without appropriate acknowledgement.
+Submitting your own work in more than one course without the permission of the instructor.
+Making up sources or facts.
+Obtaining or providing unauthorized assistance on any assignment.
+On tests and exams:
+1. Using or possessing unauthorized aids.
+2. Looking at someone else's answers during an exam or test.
+3. Misrepresenting your identity.
+In academic work:
+1. Falsifying institutional documents or grades.
+2. Falsifying or altering any documentation required, including (but not limited to) doctor's notes.
+Students should note that copying, plagiarizing, or other forms of academic misconduct will not be tolerated. Any student caught
+engaging in such activities will be subject to academic discipline ranging from a mark of zero on the assignment, test or
+examination to dismissal from the university as outlined in the academic handbook. Any student abetting or otherwise assisting in
+such misconduct will also be subject to academic penalties.
+Normally, students will be required to submit their course essays to the University's plagiarism detection tool for a review of textual
+similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in
+the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the
+University’s use of this tool are described on the Centre for Teaching Support & Innovation web site (https://uoft.me/pdt-faq).
+Standard of Conduct in this Course:
+Since this course is part of a degree designed to give you a broad understanding of the world of business, we aim to run the course
+in a way which will be consistent with the world of business - where many of you will spend your working lives. We strive to
+provide accurate information, quality materials and good service, consistent with our obligations to maintain the high academic
+standards of the Department of Management at the University of Toronto Mississauga.
+In return we expect that you will conduct yourself in a way that prepares you for the world of work.
+We start on time, so please do not arrive late and disrupt others.
+Leaving class early is also disruptive to your colleagues and will not be permitted unless you have made prior arrangements
+with the instructor.
+Turn off your cell phone.
+Keep up to date. Make sure that you know the class schedule. Check on the course web page for updates and posted
+materials.
+During the class, respect the learning opportunities of others. Don't distract others by chatting to your neighbour. Our
+expectation is that you will not only contribute in class to your own learning, but also that of others.
+Remote assessments:
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 7 of 11
+1. Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+2. Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+3. Posting test, essay, or exam questions to message boards or social media.
+4. Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+5. Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources .
+Copyright Notice:
+Please be advised that the intellectual property rights in the material referred to on this syllabus and posted on the course site may
+belong to the course instructor or other persons. You are not authorized to reproduce or distribute such material, in any form or
+medium, without the prior consent of the intellectual property owner. For example, uploading course assignments or solutions to
+Coursehero, Easy Edu, and other tutoring sites and services is strictly prohibited. Violation of intellectual property rights may be a
+violation of the law and University of Toronto policies and may entail significant repercussions for the person found to have
+engaged in such act. If you have any questions regarding your right to use the material in a manner other than as set forth in the
+syllabus, please speak to your instructor.
+Additional Information:
+U of T statement on commitment to equity, human rights, and respect for diversity
+The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning
+environment in this course should strive to create an atmosphere of mutual respect where all members of our community can
+express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or
+harassment against any persons or communities.
+UTM statement on academic integrity
+UTM wishes to remind students that they are expected to adhere to the Code of Behaviour on Academic Matters regardless of
+the course delivery method. UTM expects that students will maintain the same academic honesty and integrity both in a
+classroom setting and online. Potential academic offences related to digital contexts include, but are not limited to:
+Accessing unauthorized resources (search engines, chat rooms, Reddit, etc.) for assessments.
+Using technological aids (e.g. software) beyond what is listed as permitted in an assessment.
+Posting test, essay, or exam questions to message boards or social media.
+Creating, accessing, and sharing assessment questions and answers in virtual "course groups."
+Working collaboratively, in-person or online, with others on assessments that are expected to be completed individually.
+All suspected cases of academic dishonesty will be investigated following procedures outlined in the Code of Behaviour on
+Academic Matters . If you have questions or concerns about what constitutes appropriate academic behaviour or appropriate
+research and citation methods, you are expected to seek out additional information on academic integrity from your instructor or
+from other institutional resources.
+RGASC
+The Robert Gillespie Academic Skills Centre (RGASC) is located in Room 3251 on the third floor of the Maanjiwe
+nendamowinan Building. The RGASC offers individual consultations, workshops (many CCR-accredited), and a wide range of
+programs to help students identify and develop the academic skills they need for success in their studies. In Winter 2022, their
+programming will include both in-person and online options. Visit the RGASC website to explore their online resources, book
+an in-person or online appointment, or learn about other programming such as Writing Retreats, the Program for Accessing
+Research Training (PART), Mathematics and Numeracy Support, and dedicated resources for English Language Learners.
+UTM Library's
+UTM Library - The University of Toronto Library provides access to a vast collection of online and print resources to faculty,
+staff, and students and is the largest academic library in Canada. The UTM Library offers Reference and Research Help inperson
+and also virtually, through chat, Zoom, and individual research consultations, to help students navigate library
+databases, find relevant articles for their research, and cite correctly. The Library Workshops and Events help students learn
+about the search techniques and specialized software, needed to be successful in their academic journey. For more information,
+visit http://library.utm.utoronto.ca.
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 8 of 11
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 9 of 11
+Date Topic
+2024-01-08 Session 1 Introduction and Class Organization
+Who becomes entrepreneurs? How to finance start-ups? What is PE/VC/Entrepreneurial finance?
+Project: Submit your team by Friday, Jan 12 at 23.59pm
+2024-01-15 Session 2 The VC industry
+Facts and trends about the VC industry: Who are the top players? GPS, LPs, what do they do?
+Case 1: Carmichael Roberts - deadline to submit the case write-up to Quercus: Sunday, Jan 14 at 23.59pm
+Quiz 1 in class: Carmichael Roberts
+2024-01-22 Session 3 Writing a business plan
+Case 2 - part 1: Lady M - deadline to submit the case write-up to Quercus: Sunday, Jan 21 at 23.59pm
+Project: Submit two business ideas - deadline: Tuesday, Jan 23 at 23.59pm
+Quiz 2in class: Lady M
+2024-01-29 Session 4 Valuing Startups: DCF
+Qualitative valuation: DCF, FCF, Discount rates, Comparable and multiples
+Case 2 - part 2: Lady M (mandatory case) - deadline to submit the case write-up to Quercus: Sunday, Jan 28 at
+23.59pm
+2024-02-05 Session 5 Valuing Startups: VC method
+VC valuation method
+Case 3: ZipCar (mandatory case) - deadline to submit the case write-up to Quercus: Sunday, Feb 4 at 23.59pm
+Quiz 3 in class: ZipCar
+2024-02-12 Session 6 Presentation of the Business Plans
+Guest speaker 2 - The entrepreneur
+Project: business plan presentations in class
+deadline to submit the slides to Quercus: Sunday, Feb 11 at 23.59pm
+2024-02-19 Reading week
+2024-02-26 Session 7 VC Term Sheets and Deal Structure
+Term sheets, VC financing instruments (Common equity vs Preferred stocks, Payoff structures
+Case 4: Surya - deadline to submit the case write-up to Quercus: Sunday, Feb 25 at 23.59pm
+Quiz 4 in class: Surya
+Course Schedule
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 10 of 11
+2024-03-04 Session 8 Late-stage Ventures Valuation
+Multiple rounds, Private Equity Investments, Growth equity
+Guest speaker 2 - The investor
+Project: Submit the name of the startup idea you choose to invest in - deadline: Sunday, March 3 at 23.59pm
+2024-03-11 Session 9 Evaluating Exit Options
+IPO Process and Valuation, M&As, Direct listings, Secondary transactions
+Case 5: RightNow - deadline to submit the case write-up to Quercus: Sunday, March 10 at 23.59pm
+Quiz 5 in class: RightNow
+2024-03-18 Session 10 Gender and Racial Diversity in Entrepreneurial Finance
+Facts and Trends, Theories of Discrimination
+Case 6: Bulk Whiz - deadline to submit the case write-up to Quercus: Sunday, March 17 at 23.59pm
+Quiz 6 in class: BulkWhiz
+2024-03-25 Session 11 Project: Term sheets presentations
+Project: term sheet presentations in class
+deadline to submit the slides to Quercus: Sunday, March 24 at 23.59pm
+2024-04-08 Session 12 Class wrap-up
+Project: the most successful teams present their business plan
+TBA Final Examination
+Last Date to drop course from Academic Record and GPA is March 11, 2024.
+The Course Schedule above is subject to change due to the constantly evolving nature of COVID public health measures. Please
+check Quercus and emails regularly for any changes to the proposed schedule.
+MGT495H5S - Hebert, Camille 2024-01-05 16:25:58 Page 11 of 11

@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| AI History Report | N/A | N/A | 10th Oct |
+| Neural Network Implementation | N/A | N/A | 24th Oct |
+| AI Application (Final Project) | N/A | N/A | 9th Dec |
+| Develop AI-related Technical Writing Skills | N/A | Improve writing skills specific to AI topics. | N/A |
+| Understand Audience Expectations in AI | N/A | Demonstrate an understanding of the target audience's needs and preferences in the AI domain. | N/A |
+| Compose a Research Paper | N/A | Conduct research and write a paper on an AI-related topic. | N/A |

@@ -1,0 +1,18 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Identify and analyze key components of electric and hybrid vehicle systems | N/A | N/A | N/A |
+| Design and optimize powertrain systems for electric and hybrid vehicles | N/A | N/A | N/A |
+| Develop and implement battery management systems | N/A | N/A | N/A |
+| Conduct energy efficiency analysis and optimization | N/A | N/A | N/A |
+| Prototype and test electric and hybrid vehicle systems | N/A | N/A | N/A |
+| Communicate design choices and project results in oral and written formats | N/A | N/A | N/A |
+| Work effectively in teams to manage and complete a comprehensive design project | N/A | N/A | N/A |
+| Course Engagement | 4% | See schedule | N/A |
+| Progress Presentations | 8% | See schedule | N/A |
+| Design Process (Team meetings and documentation) | 10% | See schedule | N/A |
+| Pre-Class Assignments | 5% | See schedule | N/A |
+| Project Requirements | 10% | October 30, 2023 | N/A |
+| Project Proposal | 10% | December 4, 2023 | N/A |
+| Design Review and Critique | 5% | January 22, 2024 | N/A |
+| Demonstration Day Presentation | 15% | March 30, 2024 | N/A |
+| Final Report | 40% | April 1, 2024 | N/A |

@@ -1,0 +1,10 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Group Charter and Presentation | 50 points | A contract between team members outlining expectations, roles, and project goals. | Oct 10 | N/A |
+| Core | Project Notebook | 50 points | Logging all project-related activities and decisions. | Dec 12 | N/A |
+| Core | Background Report | 200 points | Analyzing the problem domain and current solutions in detail. | Oct 24 | N/A |
+| Core | Preliminary Proposal | 200 points | Initial project design and methodology. | Nov 14 | N/A |
+| Core | Final Proposal | 250 points | Comprehensive report on chosen methods and anticipated outcomes. | Dec 9 | N/A |
+| Core | Weekly Presentations | 100 points | Providing regular updates on project progress and upcoming milestones. | N/A | N/A |
+| Core | Project Contribution | 150 points | Assessing individual contributions to the team and project. | N/A | N/A |
+| Core | Project Results | 375 points | Evaluating the final project deliverables and outcomes. | N/A | N/A |

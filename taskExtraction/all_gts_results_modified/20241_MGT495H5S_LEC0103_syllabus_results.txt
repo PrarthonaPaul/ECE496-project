@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Class Participation | 15% | N/A | N/A | N/A |
+| Core | Case Write-ups | 15% | Prepare and submit case study write-ups for 5 out of 6 cases. | Ongoing | N/A |
+| Core | Quizzes | 10% | Complete 4 out of 6 in-class quizzes. | Ongoing | N/A |
+| Core | Business Plan Presentation | 20% | Present a business plan as a team. | 2024-02-12 | N/A |
+| Core | Term Sheet Presentation | 20% | Present a term sheet proposal as a team. | 2024-03-25 | N/A |
+| Core | Final Exam | 25% | Complete an individual final exam. | TBA | N/A |
+| Support | Check Quercus Regularly | N/A | Check Quercus for announcements, assignments, and supplementary material. | N/A | N/A |
+| Support | Read Required Materials | N/A | Read required readings and electronic course materials. | N/A | N/A |
+| Support | Attend Office Hours | N/A | Attend office hours for support and clarification. | N/A | N/A |
+| Support | Email Communication | N/A | Contact the instructor via email for questions or concerns. | N/A | N/A |
+| Support | Laptop Policy | N/A | Use laptops responsibly during class. | N/A | N/A |
+| Support | Course Resources | N/A | Check the course website for recommended problems, news stories, and updates. | N/A | N/A |
+| Support | Attendance Policy | N/A | Attend class regularly, especially on quiz and presentation days. | N/A | N/A |
+| Support | Academic Misconduct | N/A | Adhere to the University's academic integrity policies. | N/A | N/A |
+| Support | Copyright Notice | N/A | Respect intellectual property rights and do not reproduce or distribute course materials without permission. | N/A | N/A |
+| Support | Academic Integrity | N/A | Maintain academic honesty and integrity in all course activities. | N/A | N/A |
+| Support | RGASC | N/A | Utilize the Robert Gillespie Academic Skills Centre for academic support and resources. | N/A | N/A |
+| Support | UTM Library | N/A | Access the UTM Library for research and reference assistance. | N/A | N/A |

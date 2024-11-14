@@ -1,0 +1,25 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Fall interim DT report | 15% | N/A | N/A | N/A |
+| Core | Winter final DT report | 15% | N/A | N/A | N/A |
+| Core | Alertness plan | 15% | N/A | N/A | N/A |
+| Core | Portfolio | 15% | N/A | N/A | N/A |
+| Core | Opportunity development | 10% | N/A | N/A | N/A |
+| Core | Final individual report | 20% | N/A | N/A | N/A |
+| Core | Individual group assessment | 10% | N/A | N/A | N/A |
+| Support | Read required textbooks | N/A | Proactively read the required textbooks and find additional relevant resources. | N/A | N/A |
+| Support | Attend class | N/A | Attend all class sessions and arrive on time. | N/A | N/A |
+| Support | Participate in class | N/A | Actively participate in class discussions and activities. | N/A | N/A |
+| Support | Use D2L forum | N/A | Utilize the D2L forum for sharing questions and ideas outside of class. | N/A | N/A |
+| Support | Follow communication guidelines | N/A | Use professional communication in all interactions, including emails and assignments. | N/A | N/A |
+| Support | Check D2L regularly | N/A | Regularly check the D2L course site for updates and resources. | N/A | N/A |
+| Support | Submit assignments to Turnitin.com | N/A | Submit all assignments to Turnitin.com using the Assignment Drop Box on D2L. | N/A | N/A |
+| Support | Adhere to academic integrity policies | N/A | Avoid plagiarism and maintain academic integrity in all work. | N/A | N/A |
+| Support | Maintain a professional learning environment | N/A | Follow policies and guidelines to maintain a professional learning environment. | N/A | N/A |
+| Support | Use Zoom appropriately | N/A | Follow Zoom guidelines, including using video, muting microphones, and professional conduct. | N/A | N/A |
+| Support | Seek writing support | N/A | Utilize Writing Support services for assistance with written assignments. | N/A | N/A |
+| Support | Maintain professionalism | N/A | Conduct yourself professionally in all course-related activities. | N/A | N/A |
+| Support | Follow course management policies | N/A | Adhere to course management policies and any adjustments made by the instructor. | N/A | N/A |
+| Support | Understand academic consideration policies | N/A | Be aware of and follow academic consideration policies for absences and accommodations. | N/A | N/A |
+| Support | Understand examination policies | N/A | Comply with examination policies, including identification and electronic device restrictions. | N/A | N/A |
+| Support | Understand grading policies | N/A | Be familiar with the academic grading policy and the grading system. | N/A | N/A |

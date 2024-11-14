@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal outlining the physical chemistry problem, experiment/simulation details, anticipated outcomes, timeline, and team member roles. | Week 3 |
+| Experiment Design and Simulation | N/A | Design the physical chemistry experiment or simulation and develop simulations to predict outcomes. | Weeks 4-6 |
+| Experiment Implementation and Data Collection | N/A | Conduct the experiment, collect data on thermodynamic/kinetic/quantum properties, and analyze data to validate hypotheses. | Weeks 7-10 |
+| Data Analysis and Interpretation | N/A | Interpret collected data, compare with theoretical predictions, and refine the experiment/simulation. | Weeks 11-12 |
+| Final Report | N/A | Document the research process, design decisions, challenges, and outcomes in a comprehensive report. | N/A |
+| Presentation | N/A | Prepare a presentation for the Innovation Showcase. | Weeks 13-15 |
+| Poster | N/A | Create a poster for the Innovation Showcase, summarizing the project's key aspects. | Weeks 13-15 |

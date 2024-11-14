@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Homework | 15% | Complete approximately 12 homework sets, including open-ended design problems and written responses. | N/A | N/A |
+| Core | Midterm Exam 1 | 15% | First midterm exam. | Friday, Oct 05, 2007 | N/A |
+| Core | Midterm Exam 2 | 15% | Second midterm exam. | Friday, Nov 16, 2007 | N/A |
+| Core | Final Exam | 30% | Final examination. | Friday, December 14, 2007 | N/A |
+| Core | Laboratory | 25% | Laboratory work and attendance. | N/A | N/A |
+| Support | Reading Materials | N/A | Read the required textbook and supplementary materials on the course website. | N/A | N/A |
+| Support | Communication | N/A | Communicate with the instructor and TAs for grading inquiries and make-up exam arrangements. | N/A | N/A |
+| Support | Attendance & Participation | N/A | Regular class attendance and active participation. | N/A | N/A |
+| Support | Classroom Ethics | N/A | Follow classroom ethics guidelines, including paying attention, participating, and respecting the instructor and peers. | N/A | N/A |
+| Support | Plagiarism Policy | N/A | Adhere to the Department of Mechanical Engineering's plagiarism policy. | N/A | N/A |

@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project Proposal | 10 points | Create a proposal detailing the subject matter, target audience, and narrative goals for the documentary. Include a timeline and assign roles. | Week 3 | N/A |
+| Core | Research and Pre-Production | 15 points | Conduct research, including interviews, archival research, and location scouting. Plan the production and narrative structure. | Weeks 4-6 | N/A |
+| Core | Principal Photography | 18 points | Capture interviews, B-roll, and necessary footage according to the narrative plan. | Weeks 7-10 | N/A |
+| Core | Post-Production | 10 points | Edit the documentary, including sound design, visual effects, and color grading. Finalize for presentation. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the production process, challenges, solutions, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare a screening or presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase. | N/A | N/A |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy. Avoid plagiarism and other forms of academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

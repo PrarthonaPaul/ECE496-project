@@ -1,0 +1,122 @@
+ECE482: Smart Grid Systems Design
+Institution: Grand Bay Institute of Technology Term: Fall 2021 Instructor: Dr. Sarah Thompson Email: sthompson@gbtech.edu Office Location: Engineering Building, Room 218 Office Hours: Monday 2:00-4:00 PM, Wednesday 10:00 AM-12:00 PM Class Schedule: Tuesday & Thursday, 1:00 PM - 2:30 PM Classroom: Electrical Engineering Hall, Room 101
+Course Description
+ECE482: Smart Grid Systems Design is a senior-level, project-based course that focuses on the design and implementation of smart grid technologies. The course covers the integration of renewable energy sources, smart metering, demand response, and grid stability. Students will work in teams to develop a prototype of a smart grid system component, culminating in a final project presentation and demonstration.
+Learning Outcomes
+By the end of this course, students will:
+1.
+Understand the principles and components of smart grid systems, including renewable energy integration and smart metering.
+2.
+Design and implement a component of a smart grid system, considering technical, economic, and regulatory factors.
+3.
+Analyze the performance and stability of the smart grid under various operating conditions.
+4.
+Collaborate effectively in teams to develop and prototype a smart grid solution.
+5.
+Present technical designs and solutions clearly and effectively to both technical and non-technical audiences.
+Course Timeline and Deliverables
+Date
+Topic
+Deliverable
+Weight
+Sept 7, 2021
+Course Introduction & Overview
+-
+-
+Sept 14, 2021
+Introduction to Smart Grids & Key Components
+-
+-
+Sept 21, 2021
+Renewable Energy Integration
+-
+-
+Oct 5, 2021
+Smart Metering and Data Analytics
+Proposal for Smart Grid Component
+10%
+Oct 19, 2021
+Demand Response & Grid Management
+-
+-
+Date
+Topic
+Deliverable
+Weight
+Nov 2, 2021
+Power System Stability and Security
+Preliminary Design Report
+15%
+Nov 16, 2021
+Communication Networks in Smart Grids
+-
+-
+Nov 30, 2021
+Regulatory and Economic Considerations
+Regulatory and Economic Impact Report
+15%
+Dec 7, 2021
+Project Development Workshop
+-
+-
+Dec 14, 2021
+Final Design Review & Feedback
+-
+-
+Dec 21, 2021
+Final Project Presentation & Demonstration
+Final Design, Prototype, and Presentation
+30%
+Dec 21, 2021
+Peer Evaluation
+Peer Evaluation Report
+10%
+Dec 23, 2021
+Final Project Report Submission
+Final Project Report
+20%
+Detailed Deliverables
+1.
+Proposal for Smart Grid Component (10%) Due: October 5, 2021 Teams will submit a proposal outlining their chosen smart grid component, including objectives, expected outcomes, and a project plan. The proposal should demonstrate the feasibility and relevance of the project within the context of smart grid systems.
+2.
+Preliminary Design Report (15%) Due: November 2, 2021 The preliminary design report should include detailed technical specifications, design diagrams, and a plan for prototyping. Teams will also identify potential challenges and propose solutions.
+3.
+Regulatory and Economic Impact Report (15%) Due: November 30, 2021 This report will assess the regulatory requirements and economic implications of the proposed smart grid component. Teams should consider compliance with standards, cost-benefit analysis, and potential market barriers.
+4.
+Final Design, Prototype, and Presentation (30%) Due: December 21, 2021 The final deliverable includes a fully developed design, a working prototype, and a formal presentation. The presentation will be delivered to a panel of industry professionals, faculty, and peers, focusing on the technical and practical aspects of the project.
+5.
+Peer Evaluation Report (10%) Due: December 21, 2021 Students will submit a peer evaluation report assessing the contributions of each team member. This report will help ensure that all team members are contributing equally and fairly to the project.
+6.
+Final Project Report (20%) Due: December 23, 2021 The final project report should document the entire design and development process, including the problem statement, design methodology, testing results, and conclusions. The report should also discuss future work and potential improvements.
+Grading Breakdown
+Component
+Weight
+Proposal for Smart Grid Component
+10%
+Preliminary Design Report
+15%
+Regulatory and Economic Impact Report
+15%
+Final Design, Prototype, and Presentation
+30%
+Peer Evaluation Report
+10%
+Final Project Report
+20%
+Course Policies
+•
+Attendance: Attendance is mandatory for all lectures and team meetings. Active participation is critical to the success of your project.
+•
+Late Submissions: Late submissions will incur a 5% penalty per day, up to a maximum of 3 days. Submissions more than 3 days late will not be accepted unless prior arrangements have been made.
+•
+Teamwork: Effective teamwork is essential in this course. Team members should communicate regularly and work collaboratively. Any issues with teamwork should be addressed early, and if necessary, brought to the instructor’s attention.
+•
+Academic Integrity: Academic integrity is paramount. Plagiarism, cheating, or any form of academic dishonesty will be dealt with according to university policies, and may result in a failing grade for the course.
+Key Resources
+•
+Textbook: "Smart Grids: Fundamentals of Design and Analysis" by James Momoh.
+•
+Software: MATLAB/Simulink for simulation, PSCAD for power system analysis, and AutoCAD for design schematics.
+•
+Additional Resources: Access to the university’s Power Systems Lab, which includes tools for hardware testing and grid simulation.
+This syllabus provides a comprehensive guide to ECE482: Smart Grid Systems Design, outlining the expectations, milestones, and resources necessary for students to successfully complete their projects and gain hands-on experience in smart grid technology design and implementation.

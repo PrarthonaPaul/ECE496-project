@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation and Project Proposal | 10% | Teams form and submit a proposal outlining the project scope and objectives. | September 5, 2023 |
+| Problem Formulation Report | 15% | Detailed formulation of the operations research problem. | September 26, 2023 |
+| Optimization Model and Solution | 20% | Development and solution of the optimization model. | October 17, 2023 |
+| Simulation Analysis Report | 20% | Analysis of the problem using simulation techniques. | November 7, 2023 |
+| Decision Analysis Report | 15% | Evaluation of different solutions using decision analysis. | November 28, 2023 |
+| Final Presentation and Report | 20% | Final presentation and comprehensive report on the project. | December 12, 2023 |

@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation and Project Proposal | 10% | N/A | September 15, 2023 | N/A |
+| Core | Preliminary Design Review | 15% | N/A | October 10, 2023 | N/A |
+| Core | Traffic Analysis and Design | 20% | N/A | November 7, 2023 | N/A |
+| Core | Midterm Presentation | 10% | N/A | December 5, 2023 | N/A |
+| Core | Environmental Impact Assessment | 15% | N/A | February 15, 2024 | N/A |
+| Core | Detailed Design Document | 20% | N/A | March 20, 2024 | N/A |
+| Core | Final Presentation and Demonstration | 10% | N/A | April 10, 2024 | N/A |
+| Support | Attend course meetings | N/A | Students must attend course meetings. | N/A | N/A |
+| Support | Participate in class work and discussions | N/A | Students are expected to participate in class activities. | N/A | N/A |
+| Support | Perform required course assessments | N/A | Students must complete assessments to support learning objectives, such as progress reports and design demonstrations. | N/A | N/A |
+| Support | Regularly log into the course website | N/A | Students should regularly access the course website to download materials and submit work. | N/A | N/A |
+| Support | Follow up on new announcements | N/A | Students should stay updated with course announcements. | N/A | N/A |
+| Support | Work on the design project | N/A | Students are required to work on a design project, present progress, perform design demonstrations, and submit a final report. | N/A | N/A |

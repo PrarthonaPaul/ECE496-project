@@ -1,0 +1,6 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Term test | 25% | 2-hour in-class test | 2024-04-04 | N/A |
+| Core | Response papers | 20% | 10 response papers, up to 500 words each, submitted weekly night before class. | 2024-01-17,2024-01-24,2024-01-31,2024-02-07,2024-02-14,2024-02-28,2024-03-06,2024-03-13,2024-03-20,2024-03-27 | N/A |
+| Core | Exercise | 20% | N/A | 2024-02-15 | N/A |
+| Core | Individual research paper | 35% | N/A | 2024-03-28 | N/A |

@@ -1,0 +1,10 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Homework Assignment 1 | 4% | N/A | 2019-09-24 | N/A |
+| Core | Term Test 1 | 20% | N/A | 2019-10-01 | N/A |
+| Core | Homework Assignment 2 | 4% | N/A | 2019-10-22 | N/A |
+| Core | Homework Assignment 3 | 4% | N/A | 2019-10-29 | N/A |
+| Core | Term Test 2 | 20% | N/A | 2019-11-05 | N/A |
+| Core | Homework Assignment 4 | 4% | N/A | 2019-11-19 | N/A |
+| Core | Homework Assignment 5 | 4% | N/A | 2019-11-26 | N/A |
+| Core | Final Exam | 40% | N/A | TBA | N/A |

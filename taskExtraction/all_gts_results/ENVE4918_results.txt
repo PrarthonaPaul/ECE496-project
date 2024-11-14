@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline | Deliverable |
+|---|---|---|---|---|
+| Team Initiation | N/A | N/A | 12/09/21 | M1 |
+| Conception Report | N/A | N/A | 1/10/21 | M2 |
+| Feasibility Report | N/A | N/A | 12/11/21 | M3 |
+| Interim Presentation | N/A | N/A | 29/11/21 – 10/12/21 | M4 |
+| Design Basis Report | N/A | N/A | 28/01/21 | M5 |
+| Detailed Design Report | N/A | N/A | 11/03/21 | M6 |
+| Final Presentation | N/A | N/A | 17/03/22 – 31/03/22 | M7 |
+| Final Report | N/A | N/A | 10/04/21 | M8 |

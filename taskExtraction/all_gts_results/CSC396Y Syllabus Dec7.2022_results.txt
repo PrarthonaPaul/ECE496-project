@@ -1,0 +1,33 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Post Pitch a problem space and yourself to your class | N/A | N/A | Apr TBD |
+| Post Heuristic review of Toronto Transit system | N/A | N/A | May 16 |
+| Post Group forms, problem space, individual research plans | N/A | N/A | May 30 |
+| Post Individual research paper proposal for approval, for A3 | N/A | N/A | May 30 |
+| Post Individual research plan & instruments for feedback | N/A | N/A | June 13 |
+| Post Individual research results, paper review, Berlin expectations | N/A | N/A | July 11 |
+| Present Individual research, <2 mins timed | N/A | N/A | July 24 |
+| Present Group combined results in class | N/A | N/A | July 25 |
+| Post Group Design Requirements, Experience Map, UX Strategy, Low-Fi prototype plans | N/A | N/A | July 27 |
+| Post Individual low-fi prototypes | N/A | N/A | Aug 1 |
+| In class Usability test individual low-fi prototypes | N/A | N/A | Aug 1 |
+| Post Individual low-fi test results. | N/A | N/A | Aug 1 |
+| Present A6 in class: Group combined solutions, internal evaluations, functional prototype(s), & usability test plans | N/A | N/A | Aug 6 |
+| Post Group usability test results, & updated prototype(s) | N/A | N/A | Aug 14 |
+| Present A8 Group Project in-class for practice and feedback | N/A | N/A | Aug 17 |
+| Present A8 Final Group Project for guests. Last Class. | N/A | N/A | Aug 17 |
+| Post Usability Testing Reflection | N/A | N/A | Aug 17 |
+| Post Peer review, Berlin retrospective, Course evaluation | N/A | N/A | Aug 17 |
+| Class Participation | 25% | N/A | N/A |
+| Post problem space, not a specific problem just yet. | N/A | N/A | N/A |
+| Review the Toronto Transit system using industry established Heuristics | N/A | N/A | N/A |
+| Form groups and choose one problem space to focus on with your group. | N/A | N/A | N/A |
+| Individually conduct research and literature review of the chosen problem space. | N/A | N/A | N/A |
+| Compile research and choose one specific problem within the chosen problem space. Define your target audience and conduct primary research. | N/A | N/A | N/A |
+| Compile group research, analyze results, and develop design guidelines. | N/A | N/A | N/A |
+| Individually develop low fidelity prototypes (hand-drawn on paper or using low-fi tools). | N/A | N/A | N/A |
+| Informally usability test individual low-fi prototypes, analyze findings, and compile results. | N/A | N/A | N/A |
+| Combine individual insights to develop your group’s high-fidelity prototype(s). | N/A | N/A | N/A |
+| Formally usability test your high-fi prototype(s). | N/A | N/A | N/A |
+| Update your design concepts using insights from usability testing. | N/A | N/A | N/A |
+| Deliver final design, documentation, & project presentation. | N/A | N/A | N/A |

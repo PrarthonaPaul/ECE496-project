@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Homework Assignments | 76% | Complete seven programming assignments throughout the semester. | N/A | N/A |
+| Core | Course Project | 24% | Work in groups to produce a substantial project, including a proposal, final report, and virtual showcase. | N/A | Proposal, Final Report, Virtual Showcase |
+| Support | Piazza Engagement | N/A | Use Piazza for course communication, asking and answering questions, and making announcements. | N/A | N/A |
+| Support | Office Hours | N/A | Attend office hours for one-on-one assistance with course concepts and implementation questions. | N/A | N/A |
+| Support | Textbook Reading | N/A | Read suggested textbooks to accompany lectures. | N/A | N/A |
+| Support | Collaboration | N/A | Work on homework in teams, providing general advice and strategies without sharing specific implementation details. | N/A | N/A |
+| Support | Consulting Outside Material | N/A | Consult documentation, lecture notes, and library resources for help with assignments. | N/A | N/A |
+| Support | Late Policy | N/A | Understand the late policy for homework assignments and project proposals. | N/A | N/A |
+| Support | Regrade Policy | N/A | Submit regrade requests within one week of grade release for serious errors. | N/A | N/A |

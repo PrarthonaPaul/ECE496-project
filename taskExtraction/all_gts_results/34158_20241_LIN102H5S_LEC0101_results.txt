@@ -1,0 +1,30 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Complete syllabus quiz for access to rest of course materials | N/A | N/A | Jan 8 (M) |
+| Tutorial 1 | N/A | N/A | Jan 15 (M) |
+| Quiz 1 | N/A | N/A | Jan 22 (M) |
+| Homework 1 | N/A | N/A | Jan 29 (M) |
+| Tutorial 2 | N/A | N/A | Feb 5 (M) |
+| Quiz 2 | N/A | N/A | Feb 8 (Th) |
+| Homework 2 | N/A | N/A | Feb 12 (M) |
+| Tutorial 3 | N/A | N/A | Feb 19 (M) |
+| Tutorial 4 | N/A | N/A | Feb 26 (M) |
+| Quiz 3 | N/A | N/A | Feb 29 (Th) |
+| Homework 3 | N/A | N/A | Mar 4 (M) |
+| Tutorial 5 | N/A | N/A | Mar 11 (M) |
+| Quiz 4 | N/A | N/A | Mar 14 (Th) |
+| Homework 4 | N/A | N/A | Mar 18 (M) |
+| Tutorial 6 | N/A | N/A | Mar 25 (M) |
+| Quiz 5 | N/A | N/A | Mar 28 (Th) |
+| Homework 5 | N/A | N/A | Apr 1 (M) |
+| Tutorial 7 | N/A | N/A | Apr 4 (Th) |
+| Tutorial 8 | N/A | N/A | Apr 8 (M) |
+| Tutorial 9 | N/A | N/A | Apr 9 (M) |
+| Tutorial 10 | N/A | N/A | Apr 10 (M) |
+| Tutorial 11 | N/A | N/A | Apr 11 (M) |
+| Tutorial 12 | N/A | N/A | Apr 12 (M) |
+| Tutorial 13 | N/A | N/A | Apr 13 (M) |
+| Tutorial 14 | N/A | N/A | Apr 14 (M) |
+| Tutorial 15 | N/A | N/A | Apr 15 (M) |
+| Tutorial 16 | N/A | N/A | Apr 16 (M) |
+| Final exam | 35% | N/A | Apr 11 – 25 |

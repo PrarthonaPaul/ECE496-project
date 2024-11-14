@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10% | Proposal outlining the documentary topic, objectives, and initial ideas. | September 15, 2022 | N/A |
+| Core | Draft Script | 15% | Draft of the documentary script, including narrative structure and dialogue. | October 15, 2022 | N/A |
+| Core | Production Plan | 10% | Detailed plan for production, including schedules, equipment needs, and crew roles. | November 1, 2022 | N/A |
+| Core | Raw Footage Submission | 15% | Submission of unedited footage captured during filming. | December 1, 2022 | N/A |
+| Core | Rough Cut | 15% | Initial edited version of the documentary, including basic cuts and sequencing. | January 15, 2023 | N/A |
+| Core | Final Cut | 20% | Final edited version of the documentary, including sound, color correction, and final touches. | February 28, 2023 | N/A |
+| Core | Screening Preparation | 10% | Preparation for the final screening, including any additional materials or presentation elements. | March 15, 2023 | N/A |
+| Core | Final Documentary | 15% | Completed documentary film presented at the final screening. | March 22, 2023 | N/A |
+| Core | Reflection Report | 10% | Reflective report on the production process, challenges faced, and overall learning experience. | April 1, 2023 | N/A |
+| Support | N/A | N/A | Introduction to documentary filmmaking, team formation | N/A | N/A |
+| Support | N/A | N/A | Developing and refining the script | N/A | N/A |
+| Support | N/A | N/A | Planning production logistics, equipment setup | N/A | N/A |
+| Support | N/A | N/A | Filming and capturing footage | N/A | N/A |
+| Support | N/A | N/A | Introduction to editing software and techniques | N/A | N/A |
+| Support | N/A | N/A | Finalizing the edit, sound, and color correction | N/A | N/A |
+| Support | N/A | N/A | Preparing for final screening and presentation | N/A | N/A |
+| Support | N/A | N/A | Screening of documentaries and critique session | N/A | N/A |
+| Support | N/A | N/A | Reflecting on the project and course experience | N/A | N/A |

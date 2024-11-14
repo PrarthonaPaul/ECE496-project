@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Group Charter and Presentation | 50 | N/A | 10Oct13 |
+| Project Notebook | 50 | N/A | 12Dec13 |
+| Background Report | 200 | N/A | 24Oct13 |
+| Preliminary Proposal | 200 | N/A | 14Nov13 |
+| Final Proposal | 250 | N/A | 9Dec13 |
+| Weekly Presentations | 100 | N/A | N/A |
+| Project Contribution Subjective | 150 | N/A | N/A |
+| Final Report | 375 | N/A | 13Mar13 |
+| Project Results Subjective | 375 | N/A | N/A |

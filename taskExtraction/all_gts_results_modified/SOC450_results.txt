@@ -1,0 +1,8 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Community Needs Assessment Report | 15% | A comprehensive report on identified community needs and priority areas for development. | September 30, 2022 | N/A |
+| Core | Project Proposal | 20% | Detailed proposal outlining the community development project, including goals, objectives, and implementation strategies. | October 31, 2022 | N/A |
+| Core | Stakeholder Engagement Summary | 15% | Summary of engagement activities with local organizations and feedback received. | December 15, 2022 | N/A |
+| Core | Implementation Progress Report | 20% | Report on the progress of project implementation, including challenges encountered and solutions applied. | February 15, 2023 | N/A |
+| Core | Final Evaluation Report | 20% | Evaluation of the project's impact on the community, including data analysis and recommendations. | April 1, 2023 | N/A |
+| Core | Final Reflection Paper | 10% | Reflective paper on the overall course experience, including personal insights and development. | April 10, 2023 | N/A |

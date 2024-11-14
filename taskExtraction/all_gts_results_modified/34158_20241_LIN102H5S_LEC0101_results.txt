@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Tutorial Exercises | 15% | Weekly exercises completed during tutorial sessions. | Ongoing during tutorial | N/A |
+| Core | Homework Quizzes | 20% | Biweekly quizzes due on Mondays at 9am EST, alternating with written homework assignments. | Biweekly; due Mondays at 9am EST | N/A |
+| Core | Written Homework | 30% | Biweekly written homework assignments due on Mondays at 9am EST, alternating with homework quizzes. | Biweekly; due Mondays at 9am EST | N/A |
+| Core | Final Exam | 35% | In-person, closed-book final exam during the final examination period. | April exam period (TBA) | N/A |
+| Support | Reading Materials | N/A | Students are expected to read the assigned textbook chapters and additional readings before lectures. | N/A | N/A |
+| Support | Piazza Participation | N/A | Students are encouraged to use Piazza for class discussions and asking questions. | N/A | N/A |
+| Support | Office Hours Attendance | N/A | Students are encouraged to attend office hours for help or discussion. | N/A | N/A |
+| Support | Tutorial Attendance | N/A | Students must attend the tutorial section in which they are registered. | N/A | N/A |
+| Support | Pen/Pencil for Tutorials | N/A | Students must bring a pen or pencil to every tutorial for completing exercises. | N/A | N/A |
+| Support | Email Policy | N/A | Guidelines for emailing the professor, including subject line, addressing, and response time. | N/A | N/A |
+| Support | Academic Honesty and Plagiarism | N/A | Reminder of the university's academic honesty policy and consequences for plagiarism. | N/A | N/A |
+| Support | Use of Generative AI | N/A | Students are prohibited from using generative AI applications for completing assignments. | N/A | N/A |
+| Support | Accessibility Services | N/A | Information about accessibility services and accommodations for students with disabilities. | N/A | N/A |
+| Support | Mental Health Resources | N/A | Information about mental health resources available to students. | N/A | N/A |
+| Support | Student Emergencies | N/A | Information about support services for students facing financial or housing emergencies. | N/A | N/A |
+| Support | Academic Rights | N/A | Information about students' academic rights, including syllabus reliance, grade re-evaluation, and intellectual property. | N/A | N/A |
+| Support | RGASC | N/A | Information about the Robert Gillespie Academic Skills Centre and the resources it offers. | N/A | N/A |
+| Support | UTM Library | N/A | Information about the UTM Library and the resources it offers. | N/A | N/A |

@@ -1,0 +1,22 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Produce a proposal | N/A | Create a proposal that is acceptable to the team, client, and supervisor, and involve the mentor in this phase. | October 2019 | Proposal Document |
+| Core | Work steadily | N/A | Put in 100 hours per term per team member, working roughly 8 hours per week. | N/A | N/A |
+| Core | Create a prototype | N/A | Build a working prototype and test it. | End of the course | Working prototype |
+| Core | Create drawings and models | N/A | Develop detailed engineering drawings and models of the prototype. | N/A | N/A |
+| Core | Solicit feedback from the client | N/A | Gather feedback from the client for overall evaluation. | N/A | N/A |
+| Core | Present the final design | N/A | Present the final design and generate short reports and other documents throughout the process. | Various | Various |
+| Core | Design Paper literature review | N/A | Conduct a literature review for the design paper. | N/A | N/A |
+| Support | Regular meetings with supervisor | N/A | Prepare for and attend regular meetings with the supervisor to report progress, discuss issues, and plan activities. | Tuesdays and Thursdays 2-4 PM | N/A |
+| Support | Prepare for meetings | N/A | Before each meeting, prepare a brief memo covering progress, problems, overall progress assessment, and proposed activities for the coming week. | N/A | N/A |
+| Support | Maintain logbooks | N/A | Regularly update and bring logbooks for review and signing. | N/A | N/A |
+| Support | Attend lectures and workshops | N/A | Attend invited lectures, Participatory Workshops, and reflection sessions. | Thursdays, 4:00-5:00 PM, CHBE 101 | N/A |
+| Support | Use communication tools | N/A | Utilize phone, email, CANVAS, and online file repositories for communication between project teams, supervisors, clients, and mentors. | N/A | N/A |
+| Support | Select and rank projects | N/A | Review proposed projects, discuss with instructors and classmates, and rank top five choices on the "Project Selection Quiz" on CANVAS. | Before 7:00 AM, Monday, September 9, 2019 | N/A |
+| Support | Team formation and project selection | N/A | Finalize team formation and project selection, ensuring enthusiasm for the chosen project. | By noon, Tuesday, September 10, 2019 | N/A |
+| Support | Consult with faculty | N/A | Utilize weekly meetings and connections with faculty members as resources. | N/A | N/A |
+| Support | Plan technician resources | N/A | Plan ahead for technician assistance, remembering that the shop gets busy toward the end of the terms. | N/A | N/A |
+| Support | Submit drawings | N/A | Submit drawings for work done by workshop technicians and ensure they are suitable and approved by the project supervisor. | N/A | N/A |
+| Support | Use student shop time | N/A | Encourage students to do project work in the shop on their own, ensuring equipment and safety measures are followed. | N/A | N/A |
+| Support | Access workshop space and storage room | N/A | Utilize the lab space in Rusty Hut, RH118, and the storage room, RH104, for supplies and equipment. | N/A | N/A |
+| Support | Manage funds | N/A | Allocate and manage funds for materials, components, logbooks, posters, etc., ensuring all expenditures are approved by the faculty supervisor. | N/A | N/A |

@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal outlining the biochemical pathway or protein structure, proposed analysis, and anticipated outcomes. Include a timeline and assign roles. | Week 3 | N/A |
+| Core | Literature Review and Experimental Design | 15 points | Conduct a literature review and design experiments/computational models. | Weeks 4-6 | N/A |
+| Core | Experimentation or Simulation | 18 points | Conduct experiments/simulations, collect data on enzyme kinetics, binding affinities, or structural dynamics. | Weeks 7-10 | N/A |
+| Core | Data Analysis and Interpretation | 10 points | Analyze and interpret data, compare with existing models/theories, and refine experiments/simulations. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the research process, design decisions, challenges, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare a presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all class meetings and individual sessions, inform the instructor in advance of any absences, and complete missed work. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy, avoiding plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

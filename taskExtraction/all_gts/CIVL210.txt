@@ -1,0 +1,93 @@
+Powered by AI
+Copilot
+CIVL210 - Structural Engineering Project
+University:
+Western University of Civil Engineering
+Course Duration:
+Full Year (Fall and Winter)
+Instructor:
+Dr. Robert Williams
+Contact Information:
+robert.williams@wuce.edu
+Offi ce Hours:
+Tuesdays and Thursdays, 3:00 PM - 5:00 PM
+Course Description
+In this second-year course, students design and analyze a small-scale structural project, such as a pedestrian bridgeor a building framework. The project is based on specifi cations provided by a fi ctitious client.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Apply structural analysis and design principles to real-world projects.
+2.
+Select appropriate materials and conduct material testing.
+3.
+Perform load calculations and ensure safety factors are met.
+4.
+Create technical drawings and documentation.
+5.
+Work effectively in teams to complete engineering projects.
+6.
+Communicate design concepts and results through written reports and oral presentations.
+Course Timeline and Deliverables
+Fall Semester:
+Date
+Deliverable
+Description
+Weight
+September 15,2020
+Team Formation andProject Proposal
+Teams form and submit a proposal outliningthe project scope and objectives.
+10%
+October 20,2020
+Preliminary Design Report
+Submission of initial design, includingsketches and material selection.
+15%
+November 25,2020
+Structural Analysis andLoad Calculations
+Detailed analysis of structural components andload calculations.
+20%
+December 10,2020
+Midterm Presentation
+Presentation of progress, including design andanalysis results.
+10%
+Winter Semester:
+Date
+Deliverable
+Description
+Weight
+February 15,2021
+Detailed Design Document
+Comprehensive design document with detaileddrawings and specifi cations.
+15%
+March 20,2021
+Prototype Development andTesting Report
+Report on prototype development and testingresults.
+20%
+April 10,2021
+Final Presentation andDemonstration
+Final presentation and demonstration of thestructural project.
+10%
+Grading Breakdown
+Team Formation and Project Proposal: 10%
+Preliminary Design Report: 15%
+Structural Analysis and Load Calculations: 20%
+Midterm Presentation: 10%
+Detailed Design Document: 15%
+Prototype Development and Testing Report: 20%
+Final Presentation and Demonstration: 10%
+Total: 100%
+Course Policies
+Attendance:
+Regular attendance is required. More than three unexcused absences may result in a lowergrade.
+Late Submissions:
+Assignments submitted late will incur a penalty of 5% per day, up to a maximum of25%.
+Academic Integrity:
+All students are expected to adhere to the university’s academic integrity policy.Plagiarism or cheating will result in disciplinary action.
+Required Materials
+Textbook: “Structural Analysis” by R.C. Hibbeler
+Access to structural analysis software (e.g., SAP2000, ETABS)
+Prototyping materials (to be specifi ed based on project requirements)
+Additional Resources
+University Library
+Structural Engineering Lab
+Online tutorials and workshops
+This syllabus provides a comprehensive overview of the CIVL210 course, including key elements such as learningoutcomes, a detailed timeline with deliverables, and their respective weights. If you need any further details oradjustments, feel free to ask!

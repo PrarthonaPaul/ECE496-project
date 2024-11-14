@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Team Formation and Project Proposal | 10% | N/A | September 15, 2023 |
+| Preliminary Design Review | 15% | N/A | October 10, 2023 |
+| Prototype Development and Testing | 20% | N/A | November 7, 2023 |
+| Midterm Presentation | 10% | N/A | November 21, 2023 |
+| Final Design Review | 15% | N/A | December 5, 2023 |
+| Final Prototype and Testing Report | 20% | N/A | December 12, 2023 |
+| Final Presentation and Demonstration | 10% | N/A | December 12, 2023 |

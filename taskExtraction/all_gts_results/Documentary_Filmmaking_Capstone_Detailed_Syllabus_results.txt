@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal outlining the theme, intended audience, and storytelling objectives for the documentary. Include a schedule and assign responsibilities to group members. | Week 3 |
+| Research and Pre-Production | N/A | Conduct research on the documentary topic, including interviews, archival research, and location scouting. Plan the production, including narrative structure and shot list. | Weeks 4-6 |
+| Principal Photography | N/A | Execute the main photography, capturing interviews, B-roll, and other required footage. Adhere to the narrative plan for all elements. | Weeks 7-10 |
+| Post-Production | N/A | Edit the documentary, incorporating sound design, visual effects, and color grading. Prepare the documentary for presentation. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document the entire production process, including challenges, solutions, and outcomes, in a final report. Prepare a screening or presentation for the Innovation Showcase, showcasing the documentary's key elements. | Weeks 13-15 |

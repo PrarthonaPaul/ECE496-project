@@ -1,0 +1,6 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Homework | N/A | N/A | N/A |
+| Midterm Exam 1 | N/A | N/A | Friday, Oct 05, 2007 |
+| Midterm Exam 2 | N/A | N/A | Friday, Nov 16, 2007 |
+| Final Exam | N/A | N/A | Friday, December 14, 2007 |

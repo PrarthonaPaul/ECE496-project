@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Discussion Post | N/A | N/A | 1/12 |
+| Data Collection Plan | N/A | Submit a plan for data collection techniques | 1/19 |
+| Complete Software Tutorial | N/A | Learn and complete a tutorial on statistical tools | 1/26 |
+| Analysis Report | N/A | Perform data analysis and submit a report | 2/2 |
+| Final Research Paper | N/A | Interpret research and submit a final paper | 2/9 |

@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Team Formation and Project Proposal | 10% | N/A | September 15, 2023 | N/A |
+| Core | Preliminary Design Review | 15% | N/A | October 10, 2023 | N/A |
+| Core | Structural Analysis and Design | 20% | N/A | November 7, 2023 | N/A |
+| Core | Midterm Presentation | 10% | N/A | December 5, 2023 | N/A |
+| Core | Environmental Impact Assessment | 15% | N/A | February 15, 2024 | N/A |
+| Core | Detailed Design Document | 20% | N/A | March 20, 2024 | N/A |
+| Core | Final Presentation and Demonstration | 10% | N/A | April 10, 2024 | N/A |
+| Support | Course Meetings Attendance | N/A | Students must attend course meetings. | N/A | N/A |
+| Support | Class Work and Discussions Participation | N/A | Participate in class work and discussions. | N/A | N/A |
+| Support | Course Assessments | N/A | Perform required course assessments, such as progress reports and design demonstrations. | N/A | N/A |
+| Support | Course Website Engagement | N/A | Regularly log into the course website to download course material, submit coursework, and check announcements. | N/A | N/A |

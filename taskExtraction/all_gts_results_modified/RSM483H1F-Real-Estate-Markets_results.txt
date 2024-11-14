@@ -1,0 +1,17 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Property Valuation Exercise | 3% | N/A | After Class 1 | N/A |
+| Core | Weekly Quizzes on Quercus | 5% | N/A | Ongoing | N/A |
+| Core | R Assignment #1 | 8% | N/A | After Class 3 | N/A |
+| Core | In Class Exercise/Presentation | 2% | N/A | Class 5 | N/A |
+| Core | R Assignment #2 | 12% | N/A | After Class 5 | N/A |
+| Core | Case Write-Up | 3% | N/A | Before Class 8 | N/A |
+| Core | Case Participation | 3% | N/A | Class 8 | N/A |
+| Core | Debate, including write-up | 5% | N/A | Class 10 | N/A |
+| Core | R Assignment #3 | 12% | N/A | After Class 12 | N/A |
+| Core | Final Exam | 35% | N/A | Scheduled by A&S | N/A |
+| Support | Class Participation/Attendance | 12% | N/A | Ongoing | N/A |
+| Support | Missed Tests and Assignments | N/A | Students who miss a term test or assignment for reasons beyond their control may request special consideration within 2 business days. | N/A | N/A |
+| Support | Late Assignments | N/A | All assignments are due on the specified date and time. Late submissions will be penalized by 15% on the first day and an additional 5% for each subsequent day. | N/A | N/A |
+| Support | Recording Lectures | N/A | Students wishing to record lectures or course material must ask the instructor's permission and may not do so without it. | N/A | N/A |
+| Support | Weekly Schedule | N/A | The course includes in-person and asynchronous components. In-person sessions are primarily for discussions, questions, and practice. Asynchronous videos of lectures with new material should be watched before associated synchronous class sessions. | N/A | N/A |
