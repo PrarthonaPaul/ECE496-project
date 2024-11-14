@@ -7,7 +7,7 @@ from . import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('upload/', views.upload_pdf, name='upload_pdf'),
-    path('pdf_list/', views.pdf_list, name='pdf_list'),
+    # path('pdf_list/', views.pdf_list, name='pdf_list'),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
