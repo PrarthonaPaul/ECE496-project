@@ -1,0 +1,111 @@
+1. Course Outline: Irrelevant
+2. Course Code: Irrelevant
+3. Course Name: Irrelevant
+4. Term, Year: Irrelevant
+5. Course Meets: Irrelevant
+6. Web page URL: Irrelevant
+7. Instructor Details: Irrelevant
+8. Course Description: Irrelevant
+9. Learning Outcomes: Irrelevant
+10. Course Prerequisites: Irrelevant
+11. Co-requisite: Irrelevant
+12. Course Materials: Irrelevant
+13. Required Readings: Irrelevant
+14. Electronic Course Materials: Irrelevant
+15. classquestion.com: Irrelevant
+16. Evaluation and Grades: Relevant
+17. Work: Relevant
+18. Percentage of grade: Relevant
+19. Due Date: Relevant
+20. Class Participation/Attendance (I): Relevant
+21. Property Valuation Exercise (I): Relevant
+22. Weekly Quizzes on Quercus (I): Relevant
+23. R Assignment #1 (I): Relevant
+24. In Class Exercise/Presentation (G): Relevant
+25. R Assignment #2 (I): Relevant
+26. Case Write-Up (G): Relevant
+27. Case Participation (I): Relevant
+28. Debate, including write-up (G): Relevant
+29. R Assignment #3 (I): Relevant
+30. Final Exam: Relevant
+31. Course Format and Expectations: Irrelevant
+32. Writing Assignments or Presentations: Irrelevant
+33. Team or Group Assignments: Irrelevant
+34. Class Participation: Irrelevant
+35. Missed Tests and Assignments: Irrelevant
+36. Final Exams: Irrelevant
+37. Late Assignments: Irrelevant
+38. Statement on Equity, Diversity and Inclusion: Irrelevant
+39. Commitment to Accessibility: Irrelevant
+40. Plagiarism Detection: Irrelevant
+41. Generative AI / ChatGPT: Irrelevant
+42. Academic Integrity: Irrelevant
+43. Email: Irrelevant
+44. Recording Lectures: Irrelevant
+45. Weekly Schedule: Irrelevant
+46. Part I: Introduction and Real Estate Valuation: Irrelevant
+47. Class 1: Course Introduction (September 4): Irrelevant
+48. Readings: Lecture Notes: Irrelevant
+49. Class 2: Real Estate Valuation and Hedonic Pricing: Irrelevant
+50. Property Valuation Exercise Due (I) by 9AM: Irrelevant
+51. Readings: Lecture Notes: Irrelevant
+52. “A tale of two property taxes: Star investigation finds troubling trend hitting Toronto's cheapest homes while mansions catch a break” (Toronto Star, July 8, 2023): Irrelevant
+53. “Zillow, facing big losses, quits flipping houses and will lay off a quarter of its staff.” (New York Times, Nov 2, 2021): Irrelevant
+54. Discussion: How much would you pay for this house?: Irrelevant
+55. Introduction to using R: Irrelevant
+56. Part II: Land Use and Urban Spatial Structure: Irrelevant
+57. Class 3: Home Price Indexes and Spatial Equilibrium Ideas: Irrelevant
+58. Readings: Lecture Notes: Irrelevant
+59. “Unemployment, lower immigration to slow housing activity in major cities, CMHC says” Globe and Mail (June 23, 2020): Irrelevant
+60. “Despite the pandemic, Ottawa’s real estate market thunders ahead” Globe and Mail (June 17, 2020): Irrelevant
+61. Discussion: COVID-19 and housing prices. Supply and demand factors.: Irrelevant
+62. Friday 5PM: R Assignment #1 Due: Irrelevant
+63. Class 4: Fundamentals of Rent and Land Use: Irrelevant
+64. Readings: Lecture Notes: Irrelevant
+65. “A 2:15 Alarm, 2 Trains and a Bus Get Her to Work by 7 A.M.” New York Times (August 17, 2017): Irrelevant
+66. “Scarborough Subway will cost more and attract fewer people” Globe and Mail (Feb 28, 2017): Irrelevant
+67. “How Toronto’s Ontario Line Route Was Designed” Metrolinx News (July 21, 2020): Irrelevant
+68. Discussion: Should Toronto build more subways?: Irrelevant
+69. Class 5: Urban Growth and Zoning (Each Group Bring 1 Computer to Class): Irrelevant
+70. Readings: Lecture Notes: Irrelevant
+71. “Dupont Street Prepares for a Wave of Redevelopment” urbantoronto.ca (Mar 23, 2016): Irrelevant
+72. “Growth to Watch for … “ urbantoronto.ca (Jan 30, 2017): Irrelevant
+73. “Developer’s plan to build beside the rail corridor at Dupont St. would put lives at risk, city says” Toronto Star (May 29, 2017): Irrelevant
+74. “Why revamped Dupont Street will likely be more than just another condo mishmash,” Toronto Star (August 15, 2017): Irrelevant
+75. “Is the Greenbelt squeezing Toronto’s housing market?” The Globe and Mail (Oct 14, 2016): Irrelevant
+76. “Greenbelt forcing up home prices in GTA: Critics” Toronto Sun (Jan. 28, 2017): Irrelevant
+77. Discussion: Develop Dupont St., the Toronto Greenbelt or neither?: Irrelevant
+78. Groups give class presentations.: Irrelevant
+79. Sunday: R Assignment #2 Due: Irrelevant
+80. Class 6: Residential Housing Demand and Supply; Tax Treatment of Housing: Irrelevant
+81. Readings: Lecture Notes: Irrelevant
+82. “It won’t be popular, but we should scrap the homeowner tax break,” Globe and Mail (July 28, 2020): Irrelevant
+83. “A 30-Year Trap: The Problem With America’s Weird Mortgages” New York Times (Nov 19, 2023): Irrelevant
+84. Optional: Gyourko, J. (2009) “Housing Supply.”Annual Review of Economics: Irrelevant
+85. Discussion: Would establishing a tax deduction for mortgage interest make sense for Canada?: Irrelevant
+86. Part III: Nonresidential Real Estate: Irrelevant
+87. Class 7: Business Location and Agglomeration: Irrelevant
+88. Readings: Lecture Notes: Irrelevant
+89. “How the U.S. Lost Out on iPhone Work” New York Times (Jan. 21, 2012): Irrelevant
+90. “Tenants Troubles put stress on commercial real estate” New York Times (June 5, 2020): Irrelevant
+91. “How the ‘urban doom loop’ could pose the next economic threat” Washington Post (August 28, 2023): Irrelevant
+92. “Buyers Snap Up Aging and Empty Office Buildings for Deep Discounts” New York Times (June 12, 2024): Irrelevant
+93. Discussion: Office apocalypse? Retail apocalypse? Industrial boom?: Irrelevant
+94. Class 8: Canary Wharf Case: Irrelevant
+95. 9AM: Case Summary Due: Irrelevant
+96. Readings: Case Writeup: Irrelevant
+97. “London’s Canary Wharf Tries to Revamp Its Image …” New York Times (July 14, 2023): Irrelevant
+98. READING WEEK: Irrelevant
+99. Part IV: Real Estate Dynamics: Irrelevant
+100. Class 9: Real Estate Cycles: Irrelevant
+101. Reading: Lecture Notes: Irrelevant
+102. Optional: Glaeser, Edward L., “A Nation of Gamblers: Real Estate Speculation in American History,” NBER Working Paper #18225: Irrelevant
+103. Discussion: Why do some markets experience big cycles and other markets don’t?: Irrelevant
+104. Class 10: Debate on the state of the Toronto housing market: Irrelevant
+105. “Canada’s Cooling Experiment” The Globe and Mail (August 3, 2017): Irrelevant
+106. Optional: Crawford, Meh & Zhou “The Residential Mortgage Market in Canada: A Primer” Bank of Canada (2013): Irrelevant
+107. Part V: Advanced Topics: Irrelevant
+108. Class 11: Case Study of The 2008 US Financial Crisis: Irrelevant
+109. Readings: Lecture Notes: Irrelevant
+110. “The Big Short” movie (or, even better, read the book): Irrelevant
+111. Optional: Mayer, Christopher, Karen Pence, and Shane M. Sherlund, “The Rise in

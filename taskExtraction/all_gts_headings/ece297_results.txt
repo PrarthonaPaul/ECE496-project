@@ -1,0 +1,36 @@
+1. Course Information: Irrelevant
+2. Course Overview: Irrelevant
+3. Recommended Text: Irrelevant
+4. Course Web Page: Irrelevant
+5. Lecture Notes: Irrelevant
+6. Prerequisites: Irrelevant
+7. Lectures: Irrelevant
+8. Tutorials: Irrelevant
+9. Labs: Irrelevant
+10. Project and Organization: Relevant
+11. Detailed Deliverables and Evaluation: Relevant
+12. Deliverable Marks Due Date Marked by: Relevant
+13. Milestone 0 - basic SW tools & debugging (individual): Relevant
+14. Milestone 1 – create & load data structures, answer simple queries: Relevant
+15. Code review: Relevant
+16. Milestone 2 - graphics: draw map: Relevant
+17. Milestone 3 – finding travel routes between points: Relevant
+18. Milestone 4 – find an order and route for a set of courier deliveries to minimize travel time: Relevant
+19. Weekly status reporting to TA: Relevant
+20. Weekly status reporting to CI: Relevant
+21. Written Document 1: Graphics Proposal: Relevant
+22. Oral Presentation 1: graphics functionality / demo: Relevant
+23. Oral 1 Analysis (Individual): Relevant
+24. Written Document 2: final report & plan: Relevant
+25. Oral Presentation 2: project summary & pitch: Relevant
+26. Submission deadlines: Relevant
+27. Suggestions and Workload: Irrelevant
+28. Lecture Material: Irrelevant
+29. First three weeks of tutorials: Irrelevant
+30. Lectures: Irrelevant
+31. Laboratory Computers and Working from Home: Irrelevant
+32. Getting Help via the Discussion Board: Irrelevant
+33. Independent Work and Academic Integrity: Irrelevant
+34. All programs submitted for credit in this course will be compared pair-wise to identify cases of collusion, copying, and similar offenses. A sophisticated program that is capable of detecting similar programs even if considerable effort has been taken to conceal their similarity does the comparison.: Irrelevant
+35. All written reports and oral presentations must similarly be the work of a single team and will be submitted to turnitin.com for comparison to the documents of other groups and to published works for plagiarism detection.: Irrelevant
+36. Any work submitted for credit that is not the work of the person submitting it will be treated as an offense under the Code of Academic Discipline of the University. Similarly, aiding anyone in the submission of work that is not the work of the submitter will also be treated as an offense under the Code of Academic Discipline of the University. The Code of Academic Discipline will be rigidly enforced in this course. Penalties can range from grade penalties in the course to suspension from the University. The Dean, as advised by the instructor and the Departmental Chair, determines the penalty for each case.: Irrelevant

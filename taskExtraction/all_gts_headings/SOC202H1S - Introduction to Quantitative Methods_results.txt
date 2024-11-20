@@ -1,0 +1,144 @@
+1. Classroom: Irrelevant
+2. Class Hours: Irrelevant
+3. Tutorial Room: Irrelevant
+4. Tutorial Times: Irrelevant
+5. Professor: Irrelevant
+6. Email: Irrelevant
+7. Office Hours: Irrelevant
+8. TA: Leo Henry (Thursday Tutorial): Irrelevant
+9. TA: Mircea Gherghina (Friday Tutorial): Irrelevant
+10. To book appointments on Zoom: Irrelevant
+11. To go to office hours: Irrelevant
+12. Goals of this course: Irrelevant
+13. Required Materials: Irrelevant
+14. Required Texts: Irrelevant
+15. Statistics Packages: Irrelevant
+16. Other Required and Recommended Materials: Irrelevant
+17. Before the Semester Begins: Irrelevant
+18. Things you need to know to succeed in this class: Irrelevant
+19. Academic Integrity: Irrelevant
+20. Before Each Class: Irrelevant
+21. Preparing for Class: Irrelevant
+22. Contact Information: Irrelevant
+23. Email: Irrelevant
+24. Office Hours: Irrelevant
+25. Late or Missed Assignments: Irrelevant
+26. During Each Class: Irrelevant
+27. Rules of the Game: Irrelevant
+28. Attendance: Irrelevant
+29. Format: Irrelevant
+30. COVID-19 and Masking: Irrelevant
+31. Course Expectations and Evaluation: Relevant
+32. All assignments must be submitted on Quercus or on MindTap: Relevant
+33. Expectations Agreement (Mandatory): Relevant
+34. In-Class Worksheets (Mandatory): Relevant
+35. Group Class Participation Grade (15%): Relevant
+36. MindTap Assignments (9%): Relevant
+37. Confidence Interval Assignment (2%): Relevant
+38. Lab Assignments (40%): Relevant
+39. Take Home Test (10%): Relevant
+40. Research Poster (24%): Relevant
+41. Terms and Conditions that Apply: Irrelevant
+42. Accessibility: Irrelevant
+43. Grade Appeals: Irrelevant
+44. Ouriginal: Irrelevant
+45. TENTATIVE COURSE SCHEDULE: Relevant
+46. Readings and assignments are listed on the day they are due. Bolded assignments are graded or mandatory: Relevant
+47. Content: Relevant
+48. Before Class: Relevant
+49. Assignments: Relevant
+50. 1.11: Relevant
+51. Class Expectations: Relevant
+52. Levels of Measurement: Relevant
+53. Healey et al: Chapter 1: Relevant
+54. Lecture: The 7 Steps of Quantitative Research: Relevant
+55. Lecture: Levels of Measurement: Relevant
+56. Reading Notes & Pre-Class Preparation: Relevant
+57. Expectations Agreement 1.11 by 9 AM: Relevant
+58. In-Class Worksheet 1 due 1.11 by 11:59 PM: Relevant
+59. [Optional] Chapter 1 Homework (practice working in Mindtap): Relevant
+60. Part I: Descriptive Statistics: Relevant
+61. 1.18: Relevant
+62. Central Tendency: Relevant
+63. Dispersion (or Spread): Relevant
+64. Healey et al: Chapter 3: Relevant
+65. Lecture: Central Tendency: Relevant
+66. Lecture: Dispersion / Spread: Relevant
+67. Reading Notes & Pre-Class Activities: Relevant
+68. In-Class Worksheet 2 due 1.18 by 11:59 PM: Relevant
+69. MindTap Chapter 3 due SAT 1.21 11:59 PM: Relevant
+70. Complete Lab A, Part I (Attend Tutorial): Relevant
+71. 1.25: Relevant
+72. Frequency: Relevant
+73. Distributions: Relevant
+74. Standardization: Relevant
+75. Healey et al: Chapter 2: Relevant
+76. Lecture: Frequency Displays, Tables, and Distributions: Relevant
+77. Lecture: Standardization & Normalization: Relevant
+78. Reading Notes & Pre-Class Preparation: Relevant
+79. In-Class Worksheet 3 due 1.25 by 11:59 PM: Relevant
+80. MindTap Chapter 2 due SAT 1.28 11:59 PM: Relevant
+81. Complete Lab A, Part II (Attend Tutorial).: Relevant
+82. Lab A Due MON 1.30 11:59 PM: Relevant
+83. Part II: Sampling, Distributions, and Tests of Difference: Relevant
+84. 2.1: Relevant
+85. Sampling Distributions: Relevant
+86. Healey et al: Chapter 5: Relevant
+87. Reading Notes & Pre-Class Preparation: Relevant
+88. (Note: No video lecture this week!): Relevant
+89. MindTap Chapter 5 due SAT 2.4 11:59 PM: Relevant
+90. Complete Lab B, Part I (Attend Tutorial): Relevant
+91. 2.8: Relevant
+92. The Normal Curve: Relevant
+93. Degrees of Freedom: Relevant
+94. Healey et al: Chapter 4: Relevant
+95. Lecture: The Normal Curve & T-Distribution: Relevant
+96. Lecture: Degrees of Freedom: Relevant
+97. Reading Notes & Pre-Class Activities: Relevant
+98. In-Class Worksheet 5 due 2.8 by 11:59 PM: Relevant
+99. MindTap Chapter 4 due SAT 2.11 11:59 PM: Relevant
+100. Catch up or get ahead (Attend Tutorial): Relevant
+101. 2.15: Relevant
+102. Confidence Intervals: Relevant
+103. Healey et al: Chapter 6: Relevant
+104. Lecture: Confidence Intervals: Relevant
+105. Reading Notes & Pre-Class Preparation: Relevant
+106. In-Class Worksheet 6 due 2.15 by 11:59 PM: Relevant
+107. Quercus Homework: Confidence Intervals, due SAT 2.18 11:59 PM: Relevant
+108. Complete Lab B, Part II (Attend Tutorial): Relevant
+109. Lab B Due MON 2.20 11:59 PM: Relevant
+110. 2.22: Relevant
+111. Reading Week: Relevant
+112. Part III: Bivariate Association: Relevant
+113. 3.1: Relevant
+114. Hypothesis Testing: Relevant
+115. Alpha and Beta: Relevant
+116. T-Tests: Relevant
+117. Healey et al: Chapter 7, sections 7.1 to 7.4 only: Relevant
+118. Healey et al: Chapter 11: Relevant
+119. Lecture: Hypothesis Testing; Alpha and Beta: Relevant
+120. Lecture: The T-Test: Relevant
+121. Reading Notes & Pre-Class Preparation: Relevant
+122. In-Class Worksheet 7 due 3.1 by 11:59 PM: Relevant
+123. MindTap Chapter 11 due SAT 3.4 11:59 PM: Relevant
+124. Complete Lab C (Attend Tutorial): Relevant
+125. Lab C Due MON 3.6 11:59 PM: Relevant
+126. 3.8: Relevant
+127. Statistical & Substantive Significance: Relevant
+128. Correlation: Relevant
+129. Healey et al: Chapter 7, section 7.10 only: Relevant
+130. Healey et al: Chapter 13, sections 13.1, 13.2, 13.5, and 13.6 only: Relevant
+131. Lecture: Correlation and Covariance: Relevant
+132. Reading Notes & Pre-Class Preparation: Relevant
+133. In-Class Worksheet 8 due 3.8 by 11:59 PM: Relevant
+134. Take Home Test covering Weeks 1-7 Due WED 3.8 at 11:59 PM: Relevant
+135. Complete Proposal for Research Poster; go over exploring with data in lab (Lab Session Thursday, March 10): Relevant
+136. 3.15: Relevant
+137. Linear Regression: Relevant
+138. Dummy Variables: Relevant
+139. Sum of Squares: Relevant
+140. Inference: Relevant
+141. Healey et al: Chapter 13, sections 13.3, 13.4, and 13.6 (again): Relevant
+142. Lecture: Introduction to Linear Regression: Relevant
+143. Lecture: Sum of Squares and Inference: Relevant
+14
