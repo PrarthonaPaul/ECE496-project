@@ -1,0 +1,48 @@
+ Here is the information extracted from the document with tasks classified as either "Core" or "Support." 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|
+| Core | Attendance | 20% | Attendance and active participation in all classes | Ongoing | In-Class Participation |
+| Core | Reading Journal | 4% per week | Critical reflections on readings (at least one journal entry per week) | Before class | Reading Journal |
+| Core | Reflections on Classes | 2% per week | Reflections on own learning | Thursday after class | Reflections on Classes |
+| Core | Podcast Team Project | 50% | Podcast episode and proposal | See assignment details | Podcast Proposal, Sources Analysis, Podcast Layout and Script, Podcast Teaser, Group Meetings |
+| Core | Individual Learning Plan | 50% | Choose assignments from Options 1-4 (below) | See assignment details | Reading Journal, Reflections on Classes, AI output Evaluation, In-Class Participation |
+| Support | Learning About AI | N/A | Instructions for using AI | N/A | N/A |
+| Support | Using Quercus | N/A | Instructions for using Quercus | N/A | N/A |
+ Here is the tasks and classification extracted from the syllabus of the course “Invisible Punishment”: 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|
+| Core | Reading Journal | 4% | For each critical reflection, you must include:  · One to two reactions – What did you like or dislike about the content of the piece? And why?  · One to two keepers – What were the key ideas worth remembering and making note of? What did you take away the most from the readings?  · One to two annotated questions – What question(s) do you have for the author or after reading this piece? Why is this a good question?  · One so what – Why does the topic/viewpoint matter? How does it contribute to our understanding of Invisible punishment? | Monday 11am before class | N/A | 
+| Core | Reflections on Classes | 2% | Students will write a reflection on their own individual learning following class participation and discussion. These are a chance for you to reflect on the theme of the week, the connections between different ideas and readings, and what you’ve learned during the past week. | Thursday 11:59 pm | N/A | 
+| Core | AI output Evaluation | 10% | You will enter the prompt provided by the course instructor on an AI software of your choice. You will then write a 500 words response where you evaluate the AI generated response in light of the course readings and lectures. | Sunday 6pm | N/A | 
+| Core | In-Class participation | 20% | Class participation grade will be based on
+ Here is the tasks and assignments extracted from the document, classified as either "Core" or "Support," and formatted as you requested: 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|
+| Core | Course Introduction | N/A | Introduction to the course and expectations | N/A | N/A |
+| Core | Building Community Agreement | N/A | Activity to promote classroom community | N/A | N/A |
+| Core | Icebreaker | N/A | Activity to promote classroom community | N/A | N/A |
+| Core | Getting to know each other | N/A | Activity to promote classroom community | N/A | N/A |
+| Core | What is this course all about? | N/A | Introduction to the course and expectations | N/A | N/A |
+| Core | Syllabus | N/A | Introduction to the course and expectations | N/A | N/A |
+| Core | Introduction to Ouriginal | N/A | Software used to detect plagiarism | N/A | N/A |
+| Core | What is invisible punishment? | N/A | Introduction to the course and expectations | N/A | N/A |
+| Core | Skill Workshop: Aims, Methods, Materials for Podcast | N/A | Activity to promote classroom community | N/A | N/A |
+| Core | Skill Workshop: Developing good questions | N/A | Activity to promote classroom community | N/A | N/A |
+| Core | Skill Workshop: Integrating academic research into podcasts | N/A | Activity to promote classroom community | N/A | N/A |
+| Core | Skill Workshop: Listening to example | N/A | Activity to promote classroom community
+ Here is the information extracted from the document and formatted according to the given criteria: 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Support | Explore resources | N/A | Students are encouraged to seek out academic success resources, including those for academic skills, peer mentoring, and learning strategies. These resources can help students to improve their learning on a university scale. | N/A | N/A |
+| Support | Seek accessibility accommodations | N/A | Students are advised to reach out to the Accessibility Services to request accommodations for disabilities or to address accessibility concerns about the course or materials. | N/A | N/A |
+| Support | Access mental health services | N/A | Students can access mental health services such as the U of T Telus Health Student Support or Good2Talk helplines for 24/7 support. | N/A | N/A |
+| Support | Utilize the writing center | N/A | The document highlights the services offered by the writing center, including coaching, critiques, and workshops, for improving writing skills. | N/A | N/A |
+| Support | Utilize library services | N/A | The document encourages the use of the UofT library's services, including borrowing, interlibrary loans, and research help. | N/A | N/A |
+| Core | Assignments | N/A | The document does not provide any details about the assignments, their criteria, or their deadlines. | N/A | N/A |
+| Core | Exams | N/A | The document does not contain any information about the exams, their dates, or their relevance to the course. | N/A | N/A | 
+
+Please note that the document primarily contains information about the available support services for students and does not include specific details about core tasks, assignment deadlines, or their descriptions. 

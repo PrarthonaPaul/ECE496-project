@@ -1,0 +1,14 @@
+ Here is the list of tasks extracted from the provided document, classified into either "Core" or "Support" based on the given criteria, with provided information filled in where applicable:
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|
+| Core | Podcast Proposal | 5% | N/A | Sunday, January 28th @ 6pm | N/A |
+| Core | Sources and Analysis | 13% | N/A | Thursday, February 8th @ 6pm | N/A |
+| Core | Layout and Script | 10% | N/A | Thursday, February 29th @ 6pm | N/A |
+| Core | Podcast Teaser | 18% | N/A | Thursday, March 15th @ 6pm | N/A |
+| Core | Podcast | 18% | N/A | Sunday, March 31st @ 6pm | N/A |
+| Core | Group Meeting with Instructor #1 | 4% | N/A | Week 5 or 6 | N/A |
+| Core | Group Meeting with Instructor #2 | 4% | N/A | Week 9 or 10 | N/A |
+| Core | Individual Learning Plan - Reading Journal | 4% | One to two reactions - What did you like or dislike about the content of the piece? | Before class (Monday at 11am) | N/A |
+| Core | Individual Learning Plan - Reflections on class | 2% | N/A | Before class (Thursday at 6pm) | N/A |
+| Support | In-class participation | 20% | Active participation in class discussions, occasional in-class exercises/writing assignments, attendance | Ongoing | N/A |

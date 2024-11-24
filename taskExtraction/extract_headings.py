@@ -177,7 +177,8 @@ if __name__ == "__main__":
     training_data = main()
     print(training_data)
     # Train the model
-    output_model_path = r"C:\Users\earns\OneDrive\Desktop\uoft\ECE496-project\taskExtraction"
+    output_model_path = r"C:\Users\earns\OneDrive\Desktop\uoft\ECE496-project\taskExtraction\Ner"
+    os.makedirs(output_model_path, exist_ok=True)
     # *****************************TESTING************************8
 #     with open(r"C:\Users\earns\OneDrive\Desktop\uoft\ECE496-project\taskExtraction\train_data.txt", "r") as f:
 #         file_content = f.read()  # Read the entire content of the file

@@ -1,0 +1,13 @@
+ Here's a table that classifies the tasks from the course outline based on the criteria you provided. 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Term Test -1 | 17% | Biases in sampling | Feb. 14 | Textbook Chapter 6 |
+| Core | Term Test -2 | 18% | Quantitative data analysis - 1 | Mar. 20 | Textbook Chapter 9, 10 |
+| Core | Term Test -3 (Cumulative) | 25% | Quantitative data analysis - 2 | Apr. 3 | Textbook Chapter 11, 12 |
+| Core | Group Project -Part 1 (Proposal) | 5% | | Feb. 6 | N/A |
+| Core | Group Project -Part 2 (Final Report) | 20% | | Mar. 26 | N/A |
+| Core | Group Project -Part 3 (Presentation) | 5% | Video presentation based on slides | Mar. 27 | N/A |
+| Support | Course reflection | 8% | | On-going | N/A |
+| Support | In-class discussion | 8% | | On-going | N/A |
+| Support | Online discussion board | 8% | | On-going | N/A |
