@@ -4,6 +4,25 @@ import cohere
 import time
 import spacy
 import tiktoken
+import re
+def standardize_headers(text):
+    # Normalize headers
+    text = re.sub(r"[A-Z ]+\n", lambda match: match.group(0).strip().title() + "\n", text)
+    return text.lower()  # Convert to lowercase
+def extract_evaluative_content(text):
+    # Retain content with percentages or deadlines
+    evaluative_sentences = re.findall(r".*?\d+%.*|.*?\d{1,2}:\d{2}.*|.*?due.*", text, flags=re.IGNORECASE)
+    return "\n".join(evaluative_sentences)
+def flatten_nested_lists(text):
+    # Replace bullet points with sentence starters
+    text = re.sub(r"•|\*|\-|\d+\.", " ", text)
+    text = re.sub(r"\s{2,}", " ", text)  # Remove excessive whitespace
+    return text.strip()
+def preprocess_text(text):
+    text = standardize_headers(text)
+    # evaluative_content = extract_evaluative_content(text)
+    text = flatten_nested_lists(text)
+    return text
 
 def filter_relevant_text(document_text):
     """
@@ -57,47 +76,7 @@ def extract_info(document_text, cohere_client):
     """
     Extracts tasks, task percentages, descriptions, and deadlines from the provided document text.
     """
-    # prompt = f"""
-    # Extract all tasks, their percentages, descriptions, deadlines, milestones, and deliverables from the following document.
-
-    # 1. Look for tasks explicitly mentioned in bullet points, tables, and paragraphs.
-    # 2. For each task, ensure that you capture any related context or details mentioned, including milestones or deliverables associated with the task.
-    # 3. If any information (like description, deadline, task percentage, milestones, or deliverables) is missing, write 'N/A' in that cell.
-    # 4. If its a team project seperate the individual and team related tasks, i.e add Individual or Group in the Task Type column.
-    
-    # Format the output as follows:
-
-    # Document: 
-    # {document_text}
-
-    # Format the output as follows:
-    # | Task Type | Task | Task Percentage | Description | Deadline |
-    # | --- | --- | --- | --- | --- |
-    # | <Task Type> | <Task Name> | <Task Percentage> | <Description> | <Deadline> |
-    # """
-#     prompt = f"""
-# Extract all tasks and their related details from the following document in a single pass, ensuring all available information is captured. 
-
-# Please list each task with the following format:
-
-# | Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
-# | --- | --- | --- | --- | --- | --- |
-
-# Instructions:
-# 1. Identify each task only once, including details on individual tasks and team-based tasks if available.
-# 2. Ensure 'N/A' is filled for any missing information so that no cell is left blank.
-# 3. Specify if the task is for an 'Individual' or a 'Group' under 'Task Type'.
-# 4. Capture all contextual information related to tasks, such as milestones or deliverables, and avoid listing repetitive entries.
-
-# Document:
-# {document_text}
-
-#     """
     start_time = time.time()
-    # relevant_text = filter_relevant_text(document_text)
-    # print(relevant_text)
-    # if not relevant_text.strip():
-    #     return "No relevant information found."
     prompt = f"""
 Extract tasks from the following document and classify them as either "Core" or "Support." Use the following criteria:
 
@@ -132,7 +111,6 @@ Make sure to:
     end_time = time.time()
     extraction_time = end_time-start_time
     print("Extract_info time: ", end_time-start_time)
-    # Extract and return the generated response text
     return response.generations[0].text, extraction_time
 
 
@@ -203,7 +181,10 @@ Make sure to:
         if not os.path.exists(os.path.join(output_folder, f"{os.path.splitext(filename)[0]}_results.txt")):
             input_filepath = os.path.join(input_folder, filename)
             document_text = process_syllabus(input_filepath)
-            relevant_text = filter_relevant_text(document_text)
+            preprocessed_text = preprocess_text(document_text)
+            with open('preprocessed.txt', 'w') as pre_file:
+                pre_file.write(preprocessed_text)
+            relevant_text = filter_relevant_text(preprocessed_text)
             with open('relevant.txt', 'w') as file:
                 file.write(relevant_text)
             chunks = overlap_chunk_text(relevant_text)
