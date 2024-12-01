@@ -5,3 +5,6 @@
 */.DS_Store
 */.env
 .venv
+fastapi-backend/__pycache__
+backend/__pycache__
+data/prarthona/.DS_Store
