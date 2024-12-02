@@ -3,6 +3,7 @@ import json
 import pickle
 import pyrebase
 import torch
+import pyrebase
 from fastapi import FastAPI, HTTPException, UploadFile, Form, Request, status
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
@@ -200,6 +201,7 @@ async def upload_pdf(
     # Redirect to the list view
     # return RedirectResponse(url="/pdfs/", status_code=303)
     return {"extract_tasks": extrcted_tasks}
+
 
 # Route to display the list of uploaded PDFs
 @app.get("/pdfs/", response_class=HTMLResponse)
