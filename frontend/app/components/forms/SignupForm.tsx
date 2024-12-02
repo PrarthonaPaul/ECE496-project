@@ -26,7 +26,7 @@ export function SignupForm() {
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
-            <div className="space-y-2">
+            {/* <div className="space-y-2">
               <Label htmlFor="username">Username</Label>
               <Input
                 id="username"
@@ -34,7 +34,7 @@ export function SignupForm() {
                 type="text"
                 placeholder="username"
               />
-            </div>
+            </div> */}
             <div className="space-y-2">
               <Label htmlFor="email">Email</Label>
               <Input
@@ -47,6 +47,16 @@ export function SignupForm() {
 
             <div className="space-y-2">
               <Label htmlFor="password">Password</Label>
+              <Input
+                id="password"
+                name="password"
+                type="password"
+                placeholder="password"
+              />
+            </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="password">Please enter your password again</Label>
               <Input
                 id="password"
                 name="password"
