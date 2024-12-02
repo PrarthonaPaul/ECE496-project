@@ -1,0 +1,24 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Course Project | 24% | Students will work in groups of 3-5 to produce a substantial project over the second half of the semester. | N/A |
+| Proposal | 2% | Explain the problem, feasibility, and plan for the project. | N/A |
+| Final Project Report | 14% | Write a report in the style of a CVPR paper, including problem description, approach, results, and implementation details. | N/A |
+| Virtual Showcase | 8% | Create a ~4-minute video presentation of the project, covering problem statement, importance, related work, approach, results, and future challenges. | N/A |
+| Homework Assignments | 76% | Complete seven programming assignments throughout the semester, with varying weights (12% for Homeworks 1-5, 6% for HW0, and 10% for the last one). | N/A |
+| Regrade Request | N/A | Submit regrade requests within one week of grade release for serious errors or concerns. | N/A |
+| Administrative F | N/A | Submit handwritten homework or fail to mark pages in gradescope, resulting in a 0 grade. | N/A |
+| Read Course Document | N/A | Students are encouraged to read the course document on doing well, as computer vision requires simultaneous mastery of linear algebra, programming, and converting vague specs into specific code. | N/A |
+| Maintain Classroom Etiquette | N/A | Avoid being disruptive in class for both the instructor and classmates. | N/A |
+| Seek Accommodations | N/A | Students with learning or other disabilities are encouraged to seek accommodations through the Office of Service for Students with Disabilities. | N/A |
+| Utilize Counseling Center | N/A | Students can access free and confidential counseling services to deal with exam-related stress and other issues. | N/A |
+| Adhere to Academic Integrity | N/A | All students are expected to read, understand, and follow the College of Engineering Honor Code. | N/A |
+| Attend Office Hours | N/A | Students can attend office hours to ask questions and seek clarification on course concepts, with GSI office hours for implementation questions and faculty office hours for conceptual questions. | N/A |
+| Complete Prerequisites | N/A | Students should have a basic level of expertise in programming, computer science, and mathematics, including linear algebra and calculus. | N/A |
+| Utilize Textbooks | N/A | While there are no required textbooks, optional books are recommended for further reading and will accompany some lectures. | N/A |
+| Communicate via Piazza | N/A | Use Piazza for course communication, asking questions, and seeking help with homework. Avoid posting homework solutions or sensitive matters. | N/A |
+| Format and Submit Homework | N/A | Homework should be typed and submitted as a PDF to gradescope, with pages marked for questions. Handwritten homework or improper formatting will result in a 0 grade. | N/A |
+| Collaborate and Honor Code | N/A | Students are encouraged to work on homework in teams, but should not know specific implementation details of others' work. Pair-programming and sitting next to someone to debug their code is forbidden. | N/A |
+| Consult Outside Material | N/A | Students can consult textbooks, lecture notes, slides, and library documentation, but should avoid reading actual code. | N/A |
+| Utilize Late Policy | N/A | Homework submissions will be penalized at a rate of 1% per hour, rounding to the nearest hour, with 72 free late hours available over the semester. | N/A |
+| Attend Lectures | N/A | Lectures will be delivered via Zoom, with recordings posted after each lecture. Attendance is encouraged but not required, and students can attend either live lecture. | N/A |
+| Follow Zoom Etiquette | N/A | Keep camera and mic off unless speaking, and use the "raise hand" function to ask questions. | N/A |

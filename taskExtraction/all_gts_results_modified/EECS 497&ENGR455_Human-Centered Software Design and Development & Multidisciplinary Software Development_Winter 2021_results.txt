@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Initial Project Concept Document | 2% | N/A | N/A | N/A |
+| Core | Self and Team Evaluations | 5% | N/A | N/A | N/A |
+| Core | Project Planning Document | 7% | N/A | N/A | N/A |
+| Core | User Requirements Document | 9% | N/A | N/A | N/A |
+| Core | Lo-Fi Prototype | 12% | N/A | N/A | N/A |
+| Core | Testing and Debugging Report | 15% | N/A | N/A | N/A |
+| Core | Final Demo | 20% | N/A | N/A | N/A |
+| Core | Exam | 25% | N/A | N/A | N/A |
+| Support | Lecture Summaries | N/A | Fill out a short lecture summary form to track virtual attendance. | N/A | N/A |
+| Support | Reading Materials | N/A | Read lecture materials and selected online readings posted on Canvas. | N/A | N/A |

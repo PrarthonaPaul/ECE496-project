@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Submit a proposal outlining the nanoscale problem, proposed solution, and timeline. Assign group roles. | Week 3 | N/A |
+| Core | Design and Fabrication | 15 points | Design the nanoscale device/material, select materials, develop prototypes, and test functionality. | Weeks 4-6 | N/A |
+| Core | Characterization and Testing | 18 points | Characterize the device/material using advanced techniques and conduct performance tests. | Weeks 7-10 | N/A |
+| Core | Optimization and Refinement | 10 points | Optimize the device/material and refine the fabrication process based on test results. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the development process, design decisions, challenges, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare and deliver a presentation on the project's impact. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy. Avoid plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities should contact the ASU Disability Resource Center for accommodations and notify the instructor. | N/A | N/A |

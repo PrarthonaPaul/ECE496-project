@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points (10%) | Create a proposal detailing the project's objectives, problem, anticipated impact, timeline, and team roles. | Week 3 | N/A |
+| Core | System Design and Simulation | 15 points (15%) | Design the robotic system with mechanical, electrical, and software components. Develop a simulation for testing. | Weeks 4-6 | N/A |
+| Core | Prototype Development | 18 points (18%) | Build and test a robotic system prototype, refining it based on test results. | Weeks 7-10 | N/A |
+| Core | User Testing and Feedback | 10 points (10%) | Conduct user testing, evaluate performance, and gather feedback for adjustments. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points (10%) | Document the development process, design decisions, challenges, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points (5%) | Prepare and deliver a presentation on the project. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points (10%) | Create a poster for the Innovation Showcase, highlighting key project aspects. | Weeks 13-15 | Innovation Showcase |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy. Avoid plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

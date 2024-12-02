@@ -1,0 +1,17 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Midterm Test | 20% | N/A | Week of Oct 7 | N/A |
+| Core | RIT Case Performance | 10% | Students will apply critical thinking to analyze problems using the RIT Case and translate their thinking into financial models. | Nov 12, 13 (in-class) | N/A |
+| Core | Decision Case Report (Group) | 15% | A written report evaluating the Decision Case, focusing on communication skills. | 11:59PM, Nov 24 | N/A |
+| Core | Decision Case Q&A (Group) | 10% | A Q&A session for each group to address questions related to the Decision Cases. | Week of Nov 25 | N/A |
+| Core | Final Term Test | 45% | N/A | TBD | N/A |
+| Support | Reading lecture slides | N/A | Students are expected to read the lecture slides for each session. | N/A | N/A |
+| Support | Reading RIT Help files and FI case documents | N/A | Students should read the provided RIT Help files and FI case documents. | N/A | N/A |
+| Support | Using Rotman Interactive Trader | N/A | Students are encouraged to use the Rotman Interactive Trader, a market simulator, to practice decision-making in a controlled environment. | N/A | N/A |
+| Support | Following communication guidelines | N/A | Students should communicate their ideas clearly, concisely, and professionally in their written work. | N/A | N/A |
+| Support | Documenting AI tool usage | N/A | Students must document the use of AI tools in an appendix for each assignment, including the tools used, how they were used, and how the results were incorporated. | N/A | N/A |
+| Support | Seeking support for teamwork challenges | N/A | Students facing teamwork challenges can consult the Centre for Professional Skills Teamwork Resources page or book an appointment with a teamwork mentor. | N/A | N/A |
+| Support | Seeking support for writing and speaking | N/A | Students can access support for writing and speaking through the RC Centre for Professional Skills, college Writing Centres, or the Academic Success Centre. | N/A | N/A |
+| Support | Setting up UTmail+ email | N/A | Students are responsible for setting up and using their UTmail+ email address for course communication. | N/A | N/A |
+| Support | Recording lectures with permission | N/A | Students can record lectures with the instructor's permission, but must not publish or sell the recordings. | N/A | N/A |
+| Support | Dropping the course without penalty | N/A | The last day to drop the course without academic penalty is November 4, 2024. | N/A | N/A |

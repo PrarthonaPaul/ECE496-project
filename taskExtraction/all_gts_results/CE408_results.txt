@@ -1,0 +1,26 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Understand project structure, project tasks, scope and budget | N/A | N/A | N/A |
+| Develop a project schedule and budget | N/A | N/A | N/A |
+| Know how to track project hours and submit timesheets and progress reports | N/A | N/A | N/A |
+| Identify project design options and make recommendations | N/A | N/A | N/A |
+| Understand the components of a project and standard deliverables | N/A | N/A | N/A |
+| Know how to develop planning ideas into an engineering design | N/A | N/A | N/A |
+| Know how to prepare a preliminary set of roadway design plans for construction | N/A | N/A | N/A |
+| Know how to develop a preliminary design for various aspects (i.e. reports & studies) of a roadway project | N/A | N/A | N/A |
+| Know how to calculate and generate a preliminary project cost estimate and engineer’s cost estimate for construction | N/A | N/A | N/A |
+| Preliminary Plan Submittal | 10% | N/A | N/A |
+| Preliminary Project Cost Estimate | 2% | N/A | N/A |
+| Preliminary Drainage Report (progress only) | 0% | N/A | N/A |
+| Preliminary Structural Report (progress only) | 0% | N/A | N/A |
+| Pavement Design Report | 5% | N/A | N/A |
+| Final Drainage Report | 5% | N/A | N/A |
+| Final Structures Report | 5% | N/A | N/A |
+| Traffic Report | 4% | N/A | N/A |
+| Environmental & Sustainability (incl. Landscaping) | 4% | N/A | N/A |
+| Final Plans | 25% | N/A | N/A |
+| Engineers Construction Cost Estimate | 5% | N/A | N/A |
+| Project Presentation | 10% | N/A | N/A |
+| Peer Reviews | 10% | N/A | N/A |
+| Homework, Quizzes, Special Assignments, Extra Credit | 10% | N/A | N/A |
+| Attendance | 5% | N/A | N/A |

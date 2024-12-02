@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Problem Statement & Questions | 4% | N/A | N/A | N/A |
+| Core | Project Requirements | 6% | N/A | N/A | N/A |
+| Core | Conceptual Design Specification | 20% | N/A | N/A | N/A |
+| Core | Research Worksheets | 5% | N/A | N/A | N/A |
+| Core | Engineering Notes | 5% | N/A | N/A | N/A |
+| Core | Seminar Participation & Oral Presentation | 5% | N/A | N/A | N/A |
+| Core | Midterm Exam | 20% | N/A | N/A | N/A |
+| Core | Final Exam | 30% | N/A | N/A | N/A |
+| Support | Reading assigned texts | N/A | Read the required textbooks and any additional readings posted on Blackboard. | N/A | N/A |
+| Support | Attending lectures | N/A | Attend lectures, which are mandatory and held on specific days and times. | N/A | N/A |
+| Support | Tutorial attendance | N/A | Attend tutorials from Week 3 to 10, with specific activities and deliverables. | N/A | N/A |
+| Support | Seminar attendance | N/A | Attend seminars from Weeks 11 to 13, discussing engineering topics with broader considerations. | N/A | N/A |
+| Support | Professional Development | N/A | Participate in lectures, Piazza, and other activities to earn marks for professional behavior. | N/A | N/A |
+| Support | Communication | N/A | Use Blackboard, email, and Piazza for course communication, following professional email style requirements. | N/A | N/A |
+| Support | Plagiarism and cheating prevention | N/A | Understand and adhere to plagiarism and cheating policies, including the use of Turnitin.com. | N/A | N/A |
+| Support | Teamwork and attribution | N/A | Complete and sign attribution tables for team assignments, ensuring fair and accurate representation of contributions. | N/A | N/A |
+| Support | Late assignments and missed activities | N/A | Understand the policies for late assignments and missed activities, including penalties and deadlines. | N/A | N/A |
+| Support | Re-marking of assignments | N/A | Know the process for requesting a re-mark due to grading errors, including evidence and meeting requirements. | N/A | N/A |

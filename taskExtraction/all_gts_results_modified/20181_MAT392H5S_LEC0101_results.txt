@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | First essay - final version | 15% | N/A | 2018-02-26 | N/A |
+| Core | Second essay - final version | 15% | N/A | 2018-04-02 | N/A |
+| Core | Oral presentations | 10% | To be held in March | N/A | N/A |
+| Core | Final Exam | 35% | Cummulative | TBA | N/A |
+| Support | Homework, in-class assignments, essay drafts | 25% | On-going | N/A | N/A |
+| Support | Draft of first essay | N/A | Due Thu Feb 1. | N/A | N/A |
+| Support | Draft of second essay | N/A | Due Mon Mar 12. | N/A | N/A |

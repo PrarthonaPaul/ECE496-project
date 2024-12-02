@@ -1,0 +1,53 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Expectations Agreement | N/A | Return the expectations agreement, indicating you've read and agree to the syllabus. | 1.11 by 9 AM | N/A |
+| Core | In-Class Worksheets | N/A | Complete worksheets in class to practice. | Various | N/A |
+| Core | MindTap Assignments | 9% | Complete 6 MindTap assignments over the semester, each worth 1.5% of the grade. | Various | N/A |
+| Core | Confidence Interval Assignment | 2% | Complete an assignment on Quercus about Confidence Intervals. | 2.18 by 11:59 PM | N/A |
+| Core | Lab Assignments | 40% | Complete 4 lab assignments, analyzing General Social Survey data with a statistical program. | Various | N/A |
+| Core | Take Home Test | 10% | Complete a timed assignment testing hypothesis testing abilities. | 3.8 by 11:59 PM | N/A |
+| Core | Research Poster | 24% | Conduct a simple study using a dataset, identifying data types, describing them, formulating hypotheses, conducting hypothesis tests, and evaluating accuracy. | 4.9 at 11:59 PM | N/A |
+| Support | Reading Notes | N/A | Fill out a "Reading Notes" worksheet before most class periods to clarify understanding and build connections. | N/A | N/A |
+| Support | Watching Lectures | N/A | Watch lectures before coming to class. | N/A | N/A |
+| Support | Completing Homework Assignments | N/A | Complete homework assignments on MindTap between class sessions. | N/A | N/A |
+| Support | Attending Tutorials | N/A | Attend tutorials to receive instruction on using SPSS for assignments. | N/A | N/A |
+| Support | Reading the Textbook | N/A | Read the textbook, taking time to understand the material. | N/A | N/A |
+| Support | Using the Quercus Scheduling Tool | N/A | Use the Quercus Scheduling Tool to book appointments on Zoom. | N/A | N/A |
+| Support | Using the Quercus "Office Hours" Link | N/A | Access office hours by clicking the "Office Hours" link in the left-hand navigation menu on Quercus. | N/A | N/A |
+| Support | Checking Utoronto Email | N/A | Check utoronto email account daily. | N/A | N/A |
+| Support | Wearing Masks | N/A | Wear multi-layer masks covering mouth and nose during class, if university policy permits. | N/A | N/A |
+| Support | Getting Vaccinated | N/A | Get at least three doses of a COVID vaccine, if not already done. | N/A | N/A |
+| Support | Contacting Accessibility Services | N/A | Contact Accessibility Services for accommodations or accessibility concerns. | N/A | N/A |
+| Support | Submitting Assignments to Quercus or MindTap | N/A | Submit all assignments to Quercus or MindTap in a readable file format. | N/A | N/A |
+| Support | Adhering to Academic Integrity | N/A | Adhere to the University's principle of academic integrity and avoid unethical behavior. | N/A | N/A |
+| Support | Using the Ouriginal Plagiarism Detection Tool | N/A | Use the Ouriginal software integrated into Quercus for assignments to detect potential plagiarism. | N/A | N/A |
+| Support | Providing Secondary Material for Assignments | N/A | Provide sufficient secondary material with assignments to establish ownership if not using the Ouriginal tool. | N/A | N/A |
+| Support | Contacting the Instructor for Missed Assignments | N/A | Contact the instructor for permission to submit late assignments to avoid them being marked as missed. | N/A | N/A |
+| Support | Attending Class Regularly | N/A | Attend class consistently and inform the instructor of any expected absences. | N/A | N/A |
+| Support | Following Class Rules | N/A | Follow class rules, including starting and ending class on time, turning off personal devices, and using computers for course materials only. | N/A | N/A |
+| Support | Using the Chat Feature for Questions | N/A | Use the chat feature to ask questions during online classes. | N/A | N/A |
+| Support | Turning on Camera and Microphone for Small Group Work | N/A | Turn on camera and microphone for small group work in class. | N/A | N/A |
+| Support | Respecting Other Students | N/A | Give all other students respect for their efforts. | N/A | N/A |
+| Support | Filling Out Reading Notes | N/A | Fill out reading notes to the best of your ability, as they will be invaluable resources later in the semester. | N/A | N/A |
+| Support | Using Paper and Pencil for Notes | N/A | Take notes with paper and pencil during lectures and when watching lectures. | N/A | N/A |
+| Support | Contacting the Instructor or TA for Simple Questions | N/A | Contact the instructor or TA by email for simple questions. | N/A | N/A |
+| Support | Attending Office Hours for More Difficult Questions | N/A | Attend office hours for more difficult questions or if you need to get in touch within 48 hours. | N/A | N/A |
+| Support | Declaring Absence on ACORN for Medical Reasons | N/A | Declare absence on ACORN and email the instructor for medical reasons. | N/A | N/A |
+| Support | Contacting College Registrar for Other Reasons | N/A | Contact your college registrar for family or personal reasons and have them email the instructor. | N/A | N/A |
+| Support | Submitting Assignments on Time | N/A | Submit assignments on time; late assignments without permission become missed assignments. | N/A | N/A |
+| Support | Addressing Personal Issues with Registrar | N/A | Address personal issues with your registrar as they come up. | N/A | N/A |
+| Support | Contacting the Instructor for Re-grading | N/A | Contact the instructor for re-grading if you believe your assignment or test has been mismarked. | N/A | N/A |
+| Support | Submitting a Memo for Re-grading Requests | N/A | Submit a memo with specific reasons and evidence to justify re-grading requests. | N/A | N/A |
+| Support | Using the University's Plagiarism Detection Tool | N/A | Use the University's plagiarism detection tool for assignments as required. | N/A | N/A |
+| Support | Reading the Ouriginal Privacy Policy | N/A | Review the Ouriginal Privacy Policy to learn about its text matching technology and privacy practices. | N/A | N/A |
+| Support | Providing Secondary Material for Assignments Not Submitted Through Ouriginal | N/A | Provide sufficient secondary material with assignments not submitted through Ouriginal to establish ownership. | N/A | N/A |
+| Support | Reading the Statement of Academic Integrity | N/A | Read the statement of academic integrity carefully and thoroughly to understand and adhere to it. | N/A | N/A |
+| Support | Using Resources on Plagiarism | N/A | Use resources on plagiarism available at the provided link. | N/A | N/A |
+| Support | Contacting Accessibility Services for Accommodated Testing | N/A | Contact Accessibility Services for accommodated testing if needed. | N/A | N/A |
+| Support | Reading the Ouriginal FAQ | N/A | Read the Ouriginal FAQ to understand the terms that apply to the University's use of the tool. | N/A | N/A |
+| Support | Reading the Centre for Teaching Support & Innovation Web Site | N/A | Read the Centre for Teaching Support & Innovation web site to understand the terms that apply to the University's use of the plagiarism detection tool. | N/A | N/A |
+| Support | Reading the Course Schedule | N/A | Read the course schedule to understand readings and assignments due on each day. | N/A | N/A |
+| Support | Completing Optional Homework | N/A | Complete optional homework assignments for practice. | N/A | N/A |
+| Support | Catching Up or Getting Ahead | N/A | Use tutorial time to catch up or get ahead on assignments. | N/A | N/A |
+| Support | Working on Multiple Regression in Lab | N/A | Work on multiple regression in lab during the tutorial session. | N/A | N/A |
+| Support | Recap of Multiple Regression in Lab | N/A | Attend the tutorial for a recap of multiple regression. | N/A | N/A |

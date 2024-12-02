@@ -1,0 +1,47 @@
+Course Syllabus: Data Science Capstone - Predictive Analytics Project
+Description of Course:
+This course focuses on applying data science techniques to a real-world predictive analytics project.
+Students will work in teams to develop a predictive model using a large dataset, applying concepts
+such as data cleaning, feature engineering, model selection, and evaluation.
+Instructor and Contact Information:
+Dr. Jane Doe
+Email: janedoe@university.edu
+Office Hours: Mondays 2-4 PM (Online)
+Course Format and Teaching Methods:
+The course is entirely online and consists of weekly readings, discussion forums, and project work.
+The primary method of teaching will be through hands-on project development, supported by
+lectures and tutorials.
+Course Goals & Objectives:
+- Goal: To develop practical skills in predictive analytics through a comprehensive project.
+- Objectives:
+- Understand the process of data preprocessing and cleaning.
+- Apply different predictive models and select the most appropriate one.
+- Evaluate model performance using various metrics.
+Expected Learning Outcomes:
+By the end of this course, students will be able to:
+- Clean and preprocess large datasets.
+- Build and evaluate predictive models.
+- Present and defend their predictive analytics project.
+Assignment Schedule:
+- Week 1: Course Introduction & Project Proposal Submission
+- Week 2: Data Collection and Initial Cleaning
+- Week 3: Exploratory Data Analysis
+- Week 4: Feature Engineering and Model Selection
+- Week 5: Model Training and Evaluation
+- Week 6: Final Model Tuning and Validation
+- Week 7: Project Presentation and Report Submission
+Grading Policy:
+- Project Proposal: 10%
+- Data Cleaning & Preprocessing: 20%
+- Model Development: 30%
+- Final Report & Presentation: 40%
+Required Readings/Resources:
+- Introduction to Data Science by Laura Igual and Santi Seguí
+- Python for Data Analysis by Wes McKinney
+- Online resources: Kaggle, UCI Machine Learning Repository
+Additional Resources for Students:
+- University Data Science Lab (online access)
+- Python and R programming forums
+Final Project Submission:
+- Due Date: Final presentations are due on Week 7. Teams will submit a detailed report along with
+their final model code.

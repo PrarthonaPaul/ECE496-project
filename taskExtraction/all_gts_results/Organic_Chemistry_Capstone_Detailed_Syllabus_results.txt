@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Project Proposal | N/A | Create a proposal outlining objectives, the compound to be synthesized, anticipated impact, a timeline, and assigned roles. | Week 3 |
+| Literature Review and Synthesis Planning | N/A | Conduct a literature review, identify methods and gaps, and plan the synthesis route with reagents, conditions, and techniques. | Weeks 4-6 |
+| Synthesis and Characterization | N/A | Perform laboratory synthesis and characterize the compound using NMR, IR, and mass spectrometry. | Weeks 7-10 |
+| Optimization and Yield Improvement | N/A | Optimize synthesis for better yield and purity, and conduct tests to confirm compound structure and properties. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Write a report on the synthesis process, challenges, and outcomes, and prepare a presentation and poster for the Innovation Showcase. | Weeks 13-15 |

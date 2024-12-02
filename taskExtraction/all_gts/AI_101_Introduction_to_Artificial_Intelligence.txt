@@ -1,0 +1,35 @@
+AI 101 - Introduction to Artificial Intelligence
+General Information
+Credits: 4
+Day/Time: MW 10:00-11:50 am
+Instructor: Dr. Jane Smith (jane.smith@aiuniversity.edu)
+Course Overview
+This course introduces the foundational concepts of Artificial Intelligence (AI), including machine
+learning, neural networks, and natural language processing. Students will work on projects involving
+the application of AI to real-world problems.
+Course-Specific Learning Outcomes
+1. Explain the basic principles of AI and its history.
+2. Implement simple AI algorithms using Python.
+3. Analyze the ethical implications of AI technologies.
+4. Design a basic neural network for image classification.
+ABET Program Outcomes
+Supports the ability to apply knowledge of computing and mathematics appropriate to the discipline.
+WIC Program Outcomes
+1. Develop AI-related technical writing skills.
+2. Demonstrate understanding of audience expectations in AI.
+3. Compose a research paper on an AI topic.
+Policy on Students with Disabilities
+Accommodations will be made in collaboration with Disability Access Services (DAS).
+Policy on Academic Dishonesty and Conduct
+Any instances of academic dishonesty will be handled according to university policy.
+Course Assignments and Deadlines
+Assignment 1: AI History Report - Due 10th Oct
+Assignment 2: Neural Network Implementation - Due 24th Oct
+Final Project: AI Application - Due 9th Dec
+General Writing Requirements
+All assignments should be completed in LaTeX.
+Final Term Schedule
+Week 1: Introduction to AI
+Week 2: History and Ethics of AI
+Week 3: Introduction to Machine Learning
+Week 10: Final Presentations

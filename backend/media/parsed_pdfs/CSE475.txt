@@ -1,0 +1,138 @@
+CSE475: AI-Driven Robotics 
+University of Tech Dynamics 
+Course Duration: Fall 2022 - Winter 2023 (Full Year) 
+ 
+Course Description: 
+This course involves designing and programming a robotic system that utilizes artificial 
+intelligence to perform complex tasks. Students will focus on machine learning, computer 
+vision, and sensor integration, culminating in a final project demonstration. 
+ 
+Learning Outcomes: 
+1. Robotic System Design: Develop a robotic system with integrated AI capabilities 
+for performing specific tasks. 
+2. Machine Learning Implementation: Apply machine learning algorithms to enable 
+the robot to learn and adapt to its environment. 
+3. Computer Vision: Implement computer vision techniques for object detection, 
+recognition, and navigation. 
+4. System Integration: Integrate various sensors and components to create a 
+functional robotic system. 
+5. Presentation Skills: Effectively present the design, implementation, and outcomes 
+of the robotic system. 
+ 
+Course Structure & Timeline: 
+Week Topic 
+Deliverable 
+Due Date 
+Weight 
+1-2 
+Introduction & Team 
+Formation 
+Team Formation Report 
+September 15, 
+2022 
+5% 
+3-5 
+AI Basics & Machine Learning Literature Review & 
+Research Proposal 
+October 15, 
+2022 
+10% 
+6-8 
+Computer Vision 
+Fundamentals 
+AI & Computer Vision 
+Design Proposal 
+November 15, 
+2022 
+15% 
+9-12 Mid-Term Progress & 
+Feedback 
+Mid-Term Presentation 
+December 15, 
+2022 
+15% 
+13-16 Robotic System Design & 
+Development 
+Initial System Design 
+Report 
+January 31, 
+2023 
+10% 
+17-20 Sensor Integration & Testing 
+Sensor Integration Report 
+February 28, 
+2023 
+10% 
+21-24 Final System Testing & 
+Optimization 
+Final Testing Report 
+March 31, 2023 15% 
+25-27 Final Presentation & Project 
+Submission 
+Final Presentation & Final 
+Report 
+April 15, 2023 
+20% 
+ 
+Grading Breakdown: 
+• 
+Team Formation Report: 5% 
+• 
+Literature Review & Research Proposal: 10% 
+• 
+AI & Computer Vision Design Proposal: 15% 
+• 
+Mid-Term Presentation: 15% 
+• 
+Initial System Design Report: 10% 
+• 
+Sensor Integration Report: 10% 
+• 
+Final Testing Report: 15% 
+• 
+Final Presentation: 10% 
+• 
+Final Report: 10% 
+Total: 100% 
+ 
+Detailed Deliverables: 
+1. Team Formation Report (5%) 
+o Description: Document outlining team members, roles, and initial project 
+ideas. 
+o Due Date: September 15, 2022 
+2. Literature Review & Research Proposal (10%) 
+o Description: Summarize relevant research on AI and robotics, propose a 
+plan for the design and implementation of the robotic system. 
+o Due Date: October 15, 2022 
+3. AI & Computer Vision Design Proposal (15%) 
+o Description: Detailed proposal for the design and implementation of AI and 
+computer vision components in the robotic system. 
+o Due Date: November 15, 2022 
+4. Mid-Term Presentation (15%) 
+o Description: Presentation showcasing preliminary designs, progress, and 
+challenges. 
+o Due Date: December 15, 2022 
+5. Initial System Design Report (10%) 
+o Description: Report detailing the initial robotic system design, including 
+components and algorithms. 
+o Due Date: January 31, 2023 
+6. Sensor Integration Report (10%) 
+o Description: Report on the integration of sensors with the robotic system, 
+including testing and calibration. 
+o Due Date: February 28, 2023 
+7. Final Testing Report (15%) 
+o Description: Comprehensive report on final system testing, performance, 
+and optimization. 
+o Due Date: March 31, 2023 
+8. Final Presentation (10%) 
+o Description: Presentation of the complete robotic system, including design, 
+implementation, and results. 
+o Due Date: April 15, 2023 
+9. Final Report (10%) 
+o Description: Detailed final report covering all aspects of the project, from 
+design to implementation and testing. 
+o Due Date: April 15, 2023 
+ 
+This syllabus outlines the course structure for CSE475, emphasizing practical application 
+and integration of AI and robotics technologies through a comprehensive project. 
+ 

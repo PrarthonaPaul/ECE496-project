@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Team Initiation | N/A | N/A | 12/09/21 | M1 |
+| Core | Conception Report | N/A | N/A | 1/10/21 | M2 |
+| Core | Feasibility Report | N/A | N/A | 12/11/21 | M3 |
+| Core | Interim Presentation | N/A | N/A | 29/11/21 – 10/12/21 | M4 |
+| Core | Design Basis Report | N/A | N/A | 28/01/21 | M5 |
+| Core | Detailed Design Report | N/A | N/A | 11/03/21 | M6 |
+| Core | Final Presentation | N/A | N/A | 17/03/22 – 31/03/22 | M7 |
+| Core | Final Report | N/A | N/A | 10/04/21 | M8 |
+| Support | Attendance | N/A | Attendance at lectures and PA sessions is mandatory. | N/A | N/A |
+| Support | Individual Performance | N/A | Active participation, engagement, and professionalism as part of a project team. | N/A | N/A |
+| Support | Peer Review | N/A | Project team members evaluating other project team members through a confidential grading system. | N/A | N/A |
+| Support | Group Selection | N/A | Students form groups using the self-selection tool to create project teams. | N/A | N/A |
+| Support | Academic Integrity | N/A | Students must adhere to the Carleton University Academic Integrity Policy. | N/A | N/A |
+| Support | Academic Petition | N/A | Students can submit a petition for extenuating circumstances affecting academic obligations. | N/A | N/A |
+| Support | Appeal of Grade | N/A | Students can appeal grades by communicating with the assigned Teaching Assistant and Primary Evaluator. | N/A | N/A |
+| Support | Communications | N/A | Professionalism is expected in all course communications, primarily through the Announcements forum on the cuLearn course page. | N/A | N/A |
+| Support | Academic Accommodations | N/A | Students with academic accommodations should inform their Project Team Leader and Project Supervisor. | N/A | N/A |
+| Support | In-Class and Online Behaviour | N/A | Students must follow Carleton University regulations and observe behavioural norms, especially in virtual meetings. | N/A | N/A |

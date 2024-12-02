@@ -1,0 +1,20 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Conduct an in-depth cognitive systems engineering project | N/A | Address a current challenge in human-automation interaction or decision support systems. | N/A |
+| Develop a project proposal | N/A | Create a well-structured proposal with a timeline, methodology, and expected outcomes. | N/A |
+| Conduct original research or implement a practical project | N/A | Apply knowledge to a real-world problem, either through research or a practical application. | N/A |
+| Produce a final report | N/A | Write a comprehensive report detailing the project's process, analysis, and reflection on its success. | N/A |
+| Create a professional poster | N/A | Design an informative and visually appealing poster for the Innovation Showcase. | Dec 6 |
+| Prepare an elevator pitch | N/A | Summarize the project in a 2-minute persuasive pitch. | Dec 6 |
+| Attend class meetings | 20 points | Participate in discussions, provide project updates, and engage in group activities during class meetings. | N/A |
+| Participate in individual meetings | 12 points | Meet with the instructor for personalized guidance and feedback on project development. | Sep 4, Oct 2, Nov 13 |
+| Submit project proposal | 10 points | Outline the project's objectives, methodology, and timeline. | N/A |
+| Revise and resubmit proposal | 13 points | Make detailed adjustments to the proposal based on feedback. | N/A |
+| Complete final report | 25 points | Critically evaluate the entire project, including challenges and lessons learned. | N/A |
+| Deliver presentation | 10 points | Present the project at the Innovation Showcase. | Dec 6 |
+| Meet course objectives | N/A | Understand cognitive systems engineering and its applications, gain hands-on experience, improve technical writing and communication skills, and enhance problem-solving abilities. | N/A |
+| Meet learning outcomes | N/A | Gain a thorough understanding of the subject, develop research/project skills, enhance communication skills, and improve teamwork and independent work abilities. | N/A |
+| Attend class and individual sessions | N/A | Regular attendance and participation in class meetings and individual sessions are expected. | N/A |
+| Maintain academic integrity | N/A | Adhere to ASU's academic integrity policy to avoid severe penalties. | N/A |
+| Request accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and inform the instructor. | N/A |
+| Participate in class activities | N/A | Engage in various class activities, including introductions, brainstorming, proposal presentations, feedback sessions, and professional development discussions. | Aug 26, Sep 18, Oct 23, Nov 27 |

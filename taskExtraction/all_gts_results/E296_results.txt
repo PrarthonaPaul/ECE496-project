@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Capstone Expo Exhibit | N/A | Each team creates a display/exhibit that describes their project and demonstrates their progress to date. Teams are expected to create a dynamic and creative display that will attract people's attention and effectively communicate their work. | Week of 12/7/15 |
+| Capstone Showcase Presentation | N/A | Each team presents the results of their capstone project in a 10-minute presentation followed by a 10-minute Q&A session. Teams are also required to create a 1-minute video pitch that highlights their work. | Week of 5/2/16 |
+| Final Project Report | N/A | Each student submits an individual final report to the faculty advisor or faculty liaison. This report is a program-level requirement for the Masters of Engineering degree, requiring signatures from the faculty advisor/liaison and from a 2nd Reader indicating a passing grade. The 2nd reader must be a faculty member from the student's department. | 4/13/16 |
+| First Interim Project Deliverable | N/A | The first interim project deliverable is due to advisors. The specific date is to be mutually set by the student team and advisors. | Week of 10/26/15 |
+| Second Interim Project Deliverable | N/A | The second interim project deliverable is due to advisors. The specific date is to be mutually set by the student team and advisors. | Week of 12/14/15 |
+| Third Interim Project Deliverable | N/A | The third interim project deliverable is due to advisors. The specific date is to be mutually set by the student team and advisors. | Week of 2/29/16 |
+| Final Project Deliverable | N/A | The final project deliverable is due to advisors. The specific date is to be mutually set by the student team and advisors. | Week of 5/2/16 |

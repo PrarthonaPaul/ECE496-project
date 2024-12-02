@@ -1,0 +1,5 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Look for tasks explicitly mentioned in bullet points, tables, and paragraphs. | N/A | N/A | N/A |
+| For each task, ensure that you capture any related context or details mentioned, including milestones or deliverables associated with the task. | N/A | N/A | N/A |
+| If any information (like description, deadline, task percentage, milestones, or deliverables) is missing, write 'N/A' in that cell. | N/A | N/A | N/A |

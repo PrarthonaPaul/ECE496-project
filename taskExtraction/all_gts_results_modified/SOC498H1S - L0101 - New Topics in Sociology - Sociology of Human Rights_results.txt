@@ -1,0 +1,8 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Presentation | 25% | Each student presents one of the assigned texts, including biographical information, core arguments, critical reflections, and discussion questions. | One of the sessions | N/A |
+| Core | Class participation | 15% | Students are expected to attend every class, participate in discussions, and apply concepts. | Ongoing | N/A |
+| Core | Term paper proposal | 20% | A 750-word outline including research question, paper structure, and additional resources. | March 1 | N/A |
+| Core | Term paper | 40% | A 2,500-word term paper answering a clear research question, either theoretically or empirically. | April 5 | N/A |
+| Support | Reading course material | N/A | Students are expected to read the assigned course material before each class. | N/A | N/A |
+| Support | Reviewing previous session notes | N/A | Students should review their notes and material from the previous meeting to prepare for the current session. | N/A | N/A |

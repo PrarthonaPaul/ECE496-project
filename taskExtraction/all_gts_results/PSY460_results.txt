@@ -1,0 +1,17 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Project Proposal Outline | 10% | Initial proposal outlining the mental health program concept and objectives. | September 15, 2022 |
+| Needs Assessment Report | 15% | Report detailing community needs and program goals based on research and analysis. | October 15, 2022 |
+| Program Design Document | 20% | Comprehensive document outlining the program structure, activities, and expected outcomes. | November 15, 2022 |
+| Stakeholder Engagement | N/A | Engaging with community stakeholders and gathering feedback. | N/A |
+| Stakeholder Feedback Summary | 15% | Summary of feedback collected from community stakeholders and adjustments made to the program. | December 15, 2022 |
+| Implementation Planning | N/A | Developing a detailed implementation plan. | N/A |
+| Implementation Plan | 20% | Detailed plan for implementing the mental health program, including timelines and resources. | January 31, 2023 |
+| Program Launch | N/A | Executing the mental health program. | N/A |
+| Mid-Implementation Report | 10% | Report on the initial implementation phase, including successes and challenges faced. | February 28, 2023 |
+| Monitoring & Adjustments | N/A | Monitoring the program and making necessary adjustments. | N/A |
+| Monitoring Report | 10% | Report on the ongoing monitoring of the program, including adjustments and improvements. | March 15, 2023 |
+| Program Evaluation | N/A | Assessing the effectiveness and impact of the program. | N/A |
+| Final Evaluation Report | 15% | Evaluation of the program's impact and effectiveness, including data analysis and recommendations. | April 1, 2023 |
+| Final Reflection & Course Wrap-up | N/A | Reflecting on the project experience and learning outcomes. | N/A |
+| Final Reflection Essay | 15% | Reflective essay on the project experience, including personal insights and learning outcomes. | April 15, 2023 |

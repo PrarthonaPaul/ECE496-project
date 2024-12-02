@@ -1,0 +1,75 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Prepare a scope presentation | N/A | N/A | N/A | N/A |
+| Core | Generate and send draft questions to sponsor | N/A | N/A | N/A | N/A |
+| Core | Generate and approve specifications’ approval document to be signed by sponsor | N/A | N/A | N/A | N/A |
+| Core | Build concepts for presentation | N/A | N/A | N/A | N/A |
+| Core | Rehearse presentation | N/A | N/A | N/A | N/A |
+| Core | Carry out presentation | N/A | N/A | N/A | N/A |
+| Core | Seek approval to order, or a 2nd DR | N/A | N/A | N/A | N/A |
+| Core | Work on Report and Prototype | N/A | N/A | N/A | N/A |
+| Core | Submit Project Status Report (Proposal) | N/A | N/A | N/A | N/A |
+| Core | Complete Prototype or Simulation | N/A | N/A | N/A | N/A |
+| Core | Submit Peer Evaluation | N/A | N/A | N/A | N/A |
+| Core | Submit Electronic Poster | N/A | N/A | N/A | N/A |
+| Core | Submit Video - Electronic | N/A | N/A | N/A | N/A |
+| Core | Submit Sign-off sheet | N/A | N/A | N/A | N/A |
+| Core | Expo, Demo and Presentation | N/A | N/A | N/A | N/A |
+| Core | Final Report | N/A | N/A | N/A | N/A |
+| Core | Exit Survey | N/A | N/A | N/A | N/A |
+| Core | Submit Peer Evaluation I (individual) | N/A | N/A | N/A | N/A |
+| Core | Take Ethics Quiz | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Specifications | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Concept Generation | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Concepts Assignment | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Design Review | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Prototype or Simulation | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Test specifications | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Poster | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Video | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Final Report | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Exit Survey | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Peer Evaluation | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Ethics reference assignment | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Initial Status Report | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Final Presentation | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Final Video | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Final Poster | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Sign-off sheet | N/A | N/A | N/A | N/A |
+| Core | Submit Team Assignment to CANVAS: Presentation Rehearsals | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission - 10 Pts for complete weekly Group submissions (first 3 items) | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and Tracking | N/A | N/A | N/A | N/A |
+| Support | Weekly Group Submission and

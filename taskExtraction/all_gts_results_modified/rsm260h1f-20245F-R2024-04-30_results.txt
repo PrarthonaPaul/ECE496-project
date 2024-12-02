@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Midterm assessment | 25% | N/A | Thursday, May 23rd, 1-3pm | N/A |
+| Core | Research credit | 3% | Participate in research studies or analyze research articles | Credits must be completed by June 13th at 5pm | N/A |
+| Core | Group project | 22% | Create a podcast or informative video based on a news article related to organizational behavior | Uploaded to Quercus by June 9th at the latest | N/A |
+| Core | Final exam | 40% | N/A | TBA | N/A |
+| Support | Attendance & Participation | N/A | Attend class and participate in discussions | Ongoing | N/A |
+| Support | Reaction assignments | N/A | Submit short reaction papers in response to weekly assignments | Ongoing | N/A |
+| Support | Reading | N/A | Read selected chapters from the textbook "Organizational Behavior: Improving Performance and Commitment in the Workplace" | N/A | N/A |

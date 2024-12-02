@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Formulate and write a detailed proposal | N/A | Describe the work to be done on the project, including a complete specification of the problem, literature survey, analysis and breakdown of the project into tasks, technical approach, required tools and equipment, and a project organization plan. | August 25 |
+| Weekly Progress Report | 10 Points | N/A | N/A |
+| Individual Task and Presentation | 15 Points | N/A | N/A |
+| Midterm Report "White Paper" | 15 Points | In-depth report of the project | July 29 |
+| Final Written Proposal | 20 Points | N/A | N/A |
+| Final Oral Presentation | 20 Points | N/A | N/A |
+| Meeting Participation and Teamwork | 20 Points | N/A | N/A |

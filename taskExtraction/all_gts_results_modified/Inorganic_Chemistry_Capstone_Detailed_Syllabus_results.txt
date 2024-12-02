@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal with objectives, complex details, and impact. Assign roles and timeline. | Week 3 | N/A |
+| Core | Literature Review and Synthesis Planning | 15 points | Conduct a literature review and plan the synthesis route. | Weeks 4-6 | N/A |
+| Core | Synthesis and Characterization | 18 points | Perform laboratory synthesis and characterize the complex. | Weeks 7-10 | N/A |
+| Core | Catalytic Testing and Optimization | 10 points | Test and optimize the catalytic activity of the complex. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the synthesis process and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare and deliver a presentation on the project. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all class meetings and individual sessions. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy. | N/A | N/A |
+| Support | Accommodations | N/A | Students with special needs should contact the Disability Resource Center and notify the instructor. | N/A | N/A |

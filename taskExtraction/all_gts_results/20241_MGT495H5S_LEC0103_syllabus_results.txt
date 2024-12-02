@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Class Participation | 15% | N/A | On-going |
+| Assignment Case Write-ups | 15% | For most class meetings, you will prepare one case study. You will be responsible for preparing the cases in teams before class. Each team will submit a minimum of five cases out of the six. Case 2 (part 2 only) and case 3 are mandatory cases. Each team will have to submit a write-up for these two cases. The four other cases are at your discretion. The final case write-up grade will be the average of the five highest case write-ups. The case deliverable due date is on Sundays, the day before class, at 23:59 PM (submissions will automatically lose 1% per minute following the deadline). One write-up report per team must be uploaded to Quercus (except for the first case). Make sure all team members' names appear on the first page of the case write-up. | On-going |
+| Quiz | 10% | Students will take six in-class quizzes during the semester. Students will not be permitted to take quizzes outside of class. Quizzes are individual assignments. The duration of each quiz will be 5 to 10 minutes, depending on the quiz. Quizzes will be about the case of the day. To be able to complete the quiz, you need to read the case. Questions are expected to be specific to the case. The final quiz grade will be the average of the four highest quiz grades. | On-going |
+| Presentations Business Plan Presentation | 20% | N/A | 2024-02-12 |
+| Presentations Term Sheet Presentation | 20% | N/A | 2024-03-25 |
+| Final Exam | 20% | N/A | TBA |

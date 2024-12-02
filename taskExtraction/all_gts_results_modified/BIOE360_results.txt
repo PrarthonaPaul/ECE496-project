@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Needs Identification Report | 10% | Identify a specific clinical need and define the problem and its impact on patient care. | January 18, 2021 | Report |
+| Core | Concept Proposal | 10% | Propose a selected concept with details on advantages, feasibility, and potential impact. | February 1, 2021 | Proposal |
+| Core | Prototype Development Plan | 15% | Outline the plan for prototype development, including design, materials, fabrication, and testing. | February 22, 2021 | Plan |
+| Core | Regulatory Strategy Report | 15% | Detail the regulatory pathway, approvals, standards compliance, and ethical considerations. | March 15, 2021 | Report |
+| Core | Market Analysis & Business Plan | 20% | Conduct market analysis and develop a business plan for device commercialization. | April 5, 2021 | Plan and Analysis |
+| Core | Final Prototype, Documentation, and Presentation | 30% | Develop a final prototype, provide comprehensive documentation, and present to a panel. | April 26, 2021 | Prototype, Documentation, and Presentation |
+| Support | Attendance | N/A | Regularly attend classes and actively participate in discussions and team meetings. | N/A | N/A |
+| Support | Team Collaboration | N/A | Collaborate effectively with team members, ensuring equal contribution. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to academic integrity standards, avoiding plagiarism and dishonesty. | N/A | N/A |

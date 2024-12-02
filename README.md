@@ -10,6 +10,34 @@ The overarching goal here is to amplify group efficiency by ensuring that each t
 Moreover, this system of efficient task distribution and careful integration into the team's daily routine will create a mechanism that keeps the entire group on track. This not only fosters a sense of shared responsibility and commitment but also ensures the successful and timely completion of the project.
 
 ---
+## How to run the project
+
+To run the backend of the project locally, follow the following instructions: 
+
+1. Start the virtual environment for python:
+```
+source .venv/bin/activate
+```
+
+2. Use pip to install all the packages needed for the project: 
+```
+python -m pip install --upgrade pip
+pip install -r /path/to/requirements.txt
+```
+
+3. (Optional) Apply the migrations needed for the project:
+```
+python manage.py makemigrations projectPath
+python manage.py migrate
+```
+
+4. Run the backend project: 
+```
+python manage.py runserver
+```
+You can now access the backend by sending requests to http://localhost:8080
+
+---
 
 ## Key Objectives for the Project:
 

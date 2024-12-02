@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points (10%) | Create a proposal detailing observational goals, celestial objects, and anticipated outcomes, including a timeline and team member roles. | Week 3 | N/A |
+| Core | Observing Strategy and Data Collection | 15 points (15%) | Develop an observing strategy, select instruments, schedule observations, and collect data using telescopes. | Weeks 4-6 | N/A |
+| Core | Data Reduction and Analysis | 18 points (18%) | Reduce observational data, analyze it to extract information about celestial objects. | Weeks 7-10 | N/A |
+| Core | Interpretation and Hypothesis Testing | 10 points (10%) | Interpret data analysis results and test hypotheses about observed phenomena. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points (10%) | Document the research process, challenges, solutions, and outcomes in a report. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points (5%) | Prepare a presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points (10%) | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all scheduled class meetings and individual sessions, inform the instructor of any absences in advance. | N/A | N/A |
+| Support | Individual Meetings | N/A | Attend individual meetings to discuss ideas, readings, proposal feedback, methods, data analysis, and progress. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy, avoid plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and inform the instructor. | N/A | N/A |

@@ -1,0 +1,21 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Support | Use the Mindworks website as the course textbook and schedule | N/A | N/A | N/A | N/A |
+| Support | Bound personal logbook for notes, calculations, sketches, responses to instructor/mentor questions, and evidence of progress toward course learning outcomes | N/A | N/A | N/A | N/A |
+| Core | Logbook usage | 25% | N/A | N/A | N/A |
+| Core | Team member citizenship: Individual contributions | 25% | N/A | N/A | N/A |
+| Core | Team member citizenship: Joint contributions | 25% | N/A | N/A | N/A |
+| Core | Team member citizenship: Project time invested | 25% | N/A | N/A | N/A |
+| Core | Individual Design Assignments | 25% | N/A | N/A | N/A |
+| Core | One-on-one communication with instructor and mentors | 25% | N/A | N/A | N/A |
+| Core | Portfolio (documentation) | 25% | N/A | N/A | N/A |
+| Core | Team member citizenship: Team Climate - Work Product | 25% | N/A | N/A | N/A |
+| Core | Client interaction | 25% | N/A | N/A | N/A |
+| Core | Design/Product Quality (incl. Validation) | 25% | N/A | N/A | N/A |
+| Core | Snapshop & EXPO Presentations | 25% | N/A | N/A | N/A |
+| Core | Design Reviews | 25% | N/A | N/A | N/A |
+| Core | Instructor/Team Meetings | 25% | N/A | N/A | N/A |
+| Core | Portfolio and Final Design Report | 25% | N/A | N/A | N/A |
+| Core | Project Management - Schedule | 25% | N/A | N/A | N/A |
+| Core | Project Management - Budget | 25% | N/A | N/A | N/A |
+| Core | Client Acceptance | 25% | N/A | N/A | N/A |

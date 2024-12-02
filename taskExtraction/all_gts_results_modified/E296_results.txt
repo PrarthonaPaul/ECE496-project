@@ -1,0 +1,8 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Capstone Expo Exhibit | N/A | Each team creates a display/exhibit that describes their project and demonstrates their progress to date. | Week of 12/7/15 | N/A |
+| Core | Capstone Showcase Presentation | N/A | Each team presents the results of their capstone project in a 10-minute presentation followed by a 10-minute Q&A session. | Week of 5/2/16 | N/A |
+| Core | Final Project Report | N/A | Each student submits an individual final report to the faculty advisor or faculty liaison. | 4/13/16 | N/A |
+| Core | Interim Project Deliverables | N/A | Teams submit 3 interim project deliverables to their project advisors. | Week of 10/26/15, Week of 12/14/15, Week of 2/29/16 | N/A |
+| Core | Final Project Deliverable | N/A | Teams submit a final project deliverable to their project advisors. | Week of 5/2/16 | N/A |
+| Support | N/A | N/A | N/A | N/A | N/A |

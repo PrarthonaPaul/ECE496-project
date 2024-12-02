@@ -1,0 +1,24 @@
+Quantitative Research Methods Course Syllabus
+Description of Course:
+This course covers the principles and practices of quantitative research, including data collection, statistical analysis,
+and interpretation of results. Students will engage in hands-on activities to apply these methods to real-world scenarios.
+Instructor and Contact Information:
+Dr. Alex Johnson
+Office: Room 303, Academic Building
+Phone: 321-654-0987
+Email: alexjohnson@university.edu
+Office Hours: Thursday, 1-3 PM or by appointment
+Course Goals & Objectives:
+The course aims to develop students' understanding of quantitative research techniques and enhance their ability to
+apply statistical tools to analyze data.
+Expected Learning Outcomes:
+- Mastery of quantitative data collection methods
+- Ability to perform statistical analysis using software tools
+- Competence in interpreting and reporting research findings
+Assignments and Due Dates
+Week Topic Assignments/Activities
+Week 1 Introduction to Quantitative Research Discussion Post due 1/12
+Week 2 Data Collection Techniques Submit Data Collection Plan due 1/19
+Week 3 Statistical Tools Complete Software Tutorial due 1/26
+Week 4 Data Analysis Submit Analysis Report due 2/2
+Week 5 Research Interpretation Submit Final Research Paper due 2/9

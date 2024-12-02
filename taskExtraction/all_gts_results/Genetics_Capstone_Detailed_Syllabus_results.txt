@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal with study details, objectives, outcomes, timeline, and team roles. | Week 3 |
+| Sample Collection and DNA Extraction | N/A | Collect samples, extract DNA, and prepare for analysis using PCR and sequencing. | Weeks 4-6 |
+| Genetic Analysis and Data Interpretation | N/A | Analyze genetic data, identify variation patterns, and interpret data using bioinformatics tools. | Weeks 7-10 |
+| Hypothesis Testing and Population Genetics Modeling | N/A | Test hypotheses, study evolutionary forces, and develop population genetics models. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Prepare a comprehensive final report and a presentation for the Innovation Showcase. | Weeks 13-15 |

@@ -1,0 +1,24 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Collaborate with industry sponsors to identify and define a statistical problem | N/A | N/A | N/A |
+| Develop hypotheses and statistical models | N/A | Address the identified statistical problem | N/A |
+| Collect and analyze data using advanced techniques | N/A | N/A | N/A |
+| Implement and test models/methods | N/A | N/A | N/A |
+| Evaluate results based on statistical criteria | N/A | N/A | N/A |
+| Document and present findings | N/A | N/A | N/A |
+| Manage the project | N/A | Ensure timely completion and high-quality deliverables | N/A |
+| Define a statistical problem and develop a research plan | N/A | Work with sponsors | N/A |
+| Design and implement statistical methods/models | N/A | N/A | N/A |
+| Analyze data and evaluate model performance | N/A | Use statistical measures | N/A |
+| Manage project resources | N/A | Meet deadlines and goals | N/A |
+| Address ethical issues (data privacy, bias, reporting) | N/A | N/A | N/A |
+| Communicate results (written reports, oral presentations) | N/A | N/A | N/A |
+| Function effectively within a team | N/A | Produce a comprehensive statistical analysis | N/A |
+| Group Charter and Presentation | 50 points | Create a contract detailing team expectations, roles, and project goals | Oct 10 |
+| Project Notebook | 50 points | Maintain a log of project activities and decisions | Dec 12 |
+| Background Report | 200 points | Analyze the problem domain and current approaches | Oct 24 |
+| Preliminary Proposal | 200 points | Outline initial design and methodology | Nov 14 |
+| Final Proposal | 250 points | Comprehensive report on chosen methods and expected outcomes | Dec 9 |
+| Weekly Presentations | 100 points | Provide updates on progress and upcoming milestones | N/A |
+| Project Contribution | 150 points | Evaluate individual team contributions | N/A |
+| Project Results | 375 points | Evaluate final project deliverables and outcomes | N/A |

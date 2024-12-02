@@ -1,0 +1,69 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Project Menu/Title | N/A | N/A | September 8, 2017 | N/A |
+| Core | Requests for Proposals (RFP) | N/A | N/A | September 22, 2017 | N/A |
+| Core | Proposals | N/A | N/A | November 17, 2017 | N/A |
+| Core | Oral Proposal Presentations | N/A | N/A | December 1 & 8, 2017 | N/A |
+| Core | Final Proposal Submission | N/A | N/A | December 8, 2017 | N/A |
+| Core | Order specialized parts | N/A | N/A | N/A | N/A |
+| Core | Written Progress/Final Report | 40% | N/A | N/A | N/A |
+| Core | Pre-proposal Presentation | 15% | N/A | N/A | N/A |
+| Core | Class Activities /Homework | 25% | N/A | N/A | N/A |
+| Core | Project proposal Presentation | 20% | N/A | N/A | N/A |
+| Support | Learning teamwork skills | N/A | N/A | N/A | N/A |
+| Support | Project management skills | N/A | N/A | N/A | N/A |
+| Support | Maintaining a design notebook | N/A | N/A | N/A | N/A |
+| Support | Preparing a proposal | N/A | N/A | N/A | N/A |
+| Support | Literature review | N/A | N/A | N/A | N/A |
+| Support | Description of what the sponsoring agency wants | N/A | N/A | N/A | N/A |
+| Support | Timeline of activities | N/A | N/A | N/A | N/A |
+| Support | Action item list | N/A | N/A | N/A | N/A |
+| Support | Organizational chart | N/A | N/A | N/A | N/A |
+| Support | Resumes of all candidate investigators | N/A | N/A | N/A | N/A |
+| Support | Estimated cost for all components | N/A | N/A | N/A | N/A |
+| Support | Design work | N/A | N/A | N/A | N/A |
+| Support | Individual design notebooks | N/A | N/A | N/A | N/A |
+| Support | Using project management tools | N/A | N/A | N/A | N/A |
+| Support | Weekly status reports | N/A | N/A | N/A | N/A |
+| Support | Design reviews | N/A | N/A | N/A | N/A |
+| Support | Progress reports | N/A | N/A | N/A | N/A |
+| Support | Oral, poster, and written design reports | N/A | N/A | N/A | N/A |
+| Support | Engineering drawings | N/A | N/A | N/A | N/A |
+| Support | Working model | N/A | N/A | N/A | N/A |
+| Support | Action item list | N/A | N/A | N/A | N/A |
+| Support | Design review handouts | N/A | N/A | N/A | N/A |
+| Support | Progress report documents | N/A | N/A | N/A | N/A |
+| Support | Written design report | N/A | N/A | N/A | N/A |
+| Support | Slide-based design presentation | N/A | N/A | N/A | N/A |
+| Support | Copy of poster as a PDF file | N/A | N/A | N/A | N/A |
+| Support | End-of-project memo | N/A | N/A | N/A | N/A |
+| Support | Project management assessment report | N/A | N/A | N/A | N/A |
+| Support | Recommendations to engineers | N/A | N/A | N/A | N/A |
+| Support | List of things team members had to learn | N/A | N/A | N/A | N/A |
+| Support | Resources Needed section | N/A | N/A | N/A | N/A |
+| Support | Project action item list | N/A | N/A | N/A | N/A |
+| Support | Initial timeline | N/A | N/A | N/A | N/A |
+| Support | Time log for proposal preparation phase | N/A | N/A | N/A | N/A |
+| Support | Team meeting agendas | N/A | N/A | N/A | N/A |
+| Support | Action item list for past week and next two weeks | N/A | N/A | N/A | N/A |
+| Support | Meetings and/or oral reports | N/A | N/A | N/A | N/A |
+| Support | Design review | N/A | N/A | N/A | N/A |
+| Support | Design report | N/A | N/A | N/A | N/A |
+| Support | Executive summary | N/A | N/A | N/A | N/A |
+| Support | Introduction | N/A | N/A | N/A | N/A |
+| Support | Literature review | N/A | N/A | N/A | N/A |
+| Support | Project description | N/A | N/A | N/A | N/A |
+| Support | Block diagram or plot plan | N/A | N/A | N/A | N/A |
+| Support | Capital cost and schedule | N/A | N/A | N/A | N/A |
+| Support | Design eﬀorts | N/A | N/A | N/A | N/A |
+| Support | Oral presentation | N/A | N/A | N/A | N/A |
+| Support | Poster presentation | N/A | N/A | N/A | N/A |
+| Support | Problem statement | N/A | N/A | N/A | N/A |
+| Support | Description of each subsystem | N/A | N/A | N/A | N/A |
+| Support | Total capital cost and time | N/A | N/A | N/A | N/A |
+| Support | Log in to UH email and Web services | N/A | N/A | N/A | N/A |
+| Support | Homework | N/A | N/A | N/A | N/A |
+| Support | Attend lectures | N/A | N/A | N/A | N/A |
+| Support | Attend examinations | N/A | N/A | N/A | N/A |
+| Support | Individual assignments | N/A | N/A | N/A | N/A |
+| Support | Maintain decorum in the classroom | N/A | N/A | N/A | N/A |

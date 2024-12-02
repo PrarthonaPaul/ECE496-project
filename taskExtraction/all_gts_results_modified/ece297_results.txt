@@ -1,0 +1,32 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Milestone 0 - basic SW tools and debugging (individual) | 2 | Debug a program and submit the fixed code and a demo | Friday, Jan. 16 | N/A |
+| Core | Milestone 1 – create and load data structures, answer simple queries | 9 | Submit code | Monday, Feb. 2 | N/A |
+| Core | Code review | 2 | Write a brief document detailing what you like and don’t like about another team’s Milestone 1 code | Monday, Feb. 9 | N/A |
+| Core | Milestone 2 - graphics: draw map | 11 | Submit code and demo | Monday, Feb. 23 | N/A |
+| Core | Milestone 3 – finding travel routes between points | 11 | Submit code and demo | Monday, March 16 | N/A |
+| Core | Milestone 4 – find an order and route for a set of courier deliveries to minimize travel time | 11 | Submit code and demo | Thursday, April 2 | N/A |
+| Core | Weekly status reporting to TA | 4 | Write status reports on wiki each week | All Semester | N/A |
+| Core | Weekly status reporting to CI | 4 | Write status reports on wiki each week | All Semester | N/A |
+| Core | Written Document 1: Graphics Proposal | 8 | Write a written document summarizing your plan of how to visualize a city map, and any interesting features | Friday, Feb. 13 | N/A |
+| Core | Oral Presentation 1: graphics functionality / demo | 8 | Oral progress presentation detailing your original plan for visualizing the map, your evaluation of the implementation and any changes that you made | Scheduled Feb. 23 to March 6 | N/A |
+| Core | Oral 1 Analysis (Individual) | 2 | A brief written analysis of your own oral presentation performance: what did you do well and what could you improve? | Monday, March 9 | N/A |
+| Core | Written Document 2: final report & plan | 14 | Part of this final report is “client-facing” and should detail the interesting features of your program, and list a plan for a future project / set of features that could be built into the program to address some interesting business opportunity. The other half of the report will be technical (in industry, it would be intended for engineering management) and will give an overview of your software organization choices, algorithm and data structure choices, and performance data. | Friday, April 10 | N/A |
+| Core | Oral Presentation 2: project summary & pitch | 14 | This is a final presentation summarizing what you achieved in your program, and it is intended for both a client and engineering management audience. You should describe the interesting features of your program, including screenshots (and possibly a brief demo), and you should give a “pitch” for a future feature(s) that you could add to the program to address some business opportunity; you want to convince the client (CI) to fund development of these new feature(s). | Monday, April 13 | N/A |
+| Support | N/A | N/A | Read the recommended text: Made to Stick: Why Some Ideas Survive and Others Die, Chip and Dan Heath, Random House, 2007. | N/A | N/A |
+| Support | N/A | N/A | Check the course web page: http://www.eecg.toronto.edu/~vaughn/ece297 | N/A | N/A |
+| Support | N/A | N/A | Attend lectures and tutorials to learn about C++ templates, The C++ Standard Template Library classes, source code control, team formation, project management, graphs and data structures, software style, testing, computer graphics, effective written and oral communication, finding paths/routes in graphs, software tools, the traveling salesman problem, integrating text and graphics, user-focused communication, advanced oral communication, choosing the right communication mode, and design case studies. | N/A | N/A |
+| Support | N/A | N/A | Use the discussion board to ask questions and engage in discussions about the assignments with fellow students. | N/A | N/A |
+| Support | N/A | N/A | Ensure your code works correctly on the lab ECE computers. | N/A | N/A |
+| Support | N/A | N/A | Form a group of three students with complementary skill sets, similar work ethics, and good personal rapport. | N/A | N/A |
+| Support | N/A | N/A | Enter your team composition from the Team Selection System on the course webpage. | N/A | N/A |
+| Support | N/A | N/A | Balance work well across the three team members to ensure a reasonable workload. | N/A | N/A |
+| Support | N/A | N/A | Use the VNC Quick Start Guide on the course website to remotely access the lab machines from home. | N/A | N/A |
+| Support | N/A | N/A | Discuss issues and problems with students from different teams, but ensure work submitted for credit is your own. | N/A | N/A |
+| Support | N/A | N/A | Do not post code on the discussion board. | N/A | N/A |
+| Support | N/A | N/A | Do not rely on another team's work to obtain credit for an assignment. | N/A | N/A |
+| Support | N/A | N/A | Do not allow a copy of your work to be submitted by another person/team for credit. | N/A | N/A |
+| Support | N/A | N/A | Do not post written notes of what was said during discussions with other teams. | N/A | N/A |
+| Support | N/A | N/A | Do not detail the entire algorithm or set of data structure choices to another team. | N/A | N/A |
+| Support | N/A | N/A | Submit all programs for credit in this course to be compared pair-wise to identify cases of collusion, copying, and similar offenses. | N/A | N/A |
+| Support | N/A | N/A | Submit all written reports and oral presentations to turnitin.com for comparison to the documents of other groups and to published works for plagiarism detection. | N/A | N/A |

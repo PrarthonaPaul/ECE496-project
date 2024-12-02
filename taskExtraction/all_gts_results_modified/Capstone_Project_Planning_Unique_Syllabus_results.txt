@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Draft Project Proposal | N/A | Create a draft project proposal for the capstone project. | 1/14 | N/A |
+| Core | Submit Timeline Plan | N/A | Develop and submit a timeline for the project. | 1/21 | N/A |
+| Core | Complete Risk Assessment | N/A | Conduct a risk assessment for the project. | 1/28 | N/A |
+| Core | Submit Resource Plan | N/A | Allocate and submit a resource plan for project execution. | 2/4 | N/A |
+| Core | Submit Final Project Proposal | N/A | Finalize and submit the project proposal. | 2/11 | N/A |

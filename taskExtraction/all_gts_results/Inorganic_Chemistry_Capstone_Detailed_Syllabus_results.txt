@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal outlining the project objectives, the specific inorganic complex to be synthesized, its potential impact, a timeline, and assigned roles for team members. | Week 3 |
+| Literature Review and Synthesis Planning | N/A | Conduct a comprehensive literature review to identify previous methods and knowledge gaps. Plan the synthesis process, including reagents, conditions, and techniques. | Weeks 4-6 |
+| Synthesis and Characterization | N/A | Perform the synthesis in a laboratory setting. Utilize techniques such as X-ray crystallography, UV-Vis, and IR spectroscopy to characterize the complex. | Weeks 7-10 |
+| Catalytic Testing and Optimization | N/A | Test the catalytic capabilities of the complex and optimize conditions for peak efficiency. Conduct additional tests to verify the structure and properties. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Write a comprehensive report documenting the entire synthesis process, challenges encountered, solutions implemented, and outcomes. Prepare a presentation and poster for the Innovation Showcase. | Weeks 13-15 |

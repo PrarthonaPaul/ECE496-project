@@ -1,0 +1,12 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Conduct a project on a specific Human-Robot Interaction (HRI) challenge | N/A | Identify a relevant HRI topic, develop a project proposal, conduct research or an applied project, and present findings at the Innovation Showcase. | N/A |
+| Develop a project proposal | N/A | Create a detailed proposal with a timeline and methodology for the HRI project. | N/A |
+| Produce a final report | N/A | Critically assess and document the outcomes of the HRI project. | N/A |
+| Present the project at the Innovation Showcase | N/A | Prepare and deliver a professional presentation of the HRI project. | N/A |
+| Gain understanding of HRI principles | N/A | Study and comprehend the fundamental principles of human-robot interaction. | N/A |
+| Design and evaluate HRI systems | N/A | Develop skills in creating and assessing interfaces and interactions between humans and robots. | N/A |
+| Enhance project management skills | N/A | Improve abilities in managing complex HRI projects. | N/A |
+| Improve technical writing | N/A | Develop effective technical writing skills for documenting HRI projects. | N/A |
+| Refine presentation skills | N/A | Enhance the ability to present HRI projects in a clear and professional manner. | N/A |
+| Work independently and collaboratively | N/A | Demonstrate the capacity to work both independently and as part of a team to address HRI challenges. | N/A |

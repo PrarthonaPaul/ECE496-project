@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation Report | 5% | Document outlining team members, roles, and initial project ideas. | September 15, 2022 |
+| Literature Review & Research Proposal | 10% | Summarize relevant research on AI and robotics, propose a plan for the design and implementation of the robotic system. | October 15, 2022 |
+| AI & Computer Vision Design Proposal | 15% | Detailed proposal for the design and implementation of AI and computer vision components in the robotic system. | November 15, 2022 |
+| Mid-Term Presentation | 15% | Presentation showcasing preliminary designs, progress, and challenges. | December 15, 2022 |
+| Initial System Design Report | 10% | Report detailing the initial robotic system design, including components and algorithms. | January 31, 2023 |
+| Sensor Integration Report | 10% | Report on the integration of sensors with the robotic system, including testing and calibration. | February 28, 2023 |
+| Final Testing Report | 15% | Comprehensive report on final system testing, performance, and optimization. | March 31, 2023 |
+| Final Presentation | 10% | Presentation of the complete robotic system, including design, implementation, and results. | April 15, 2023 |
+| Final Report | 10% | Detailed final report covering all aspects of the project, from design to implementation and testing. | April 15, 2023 |

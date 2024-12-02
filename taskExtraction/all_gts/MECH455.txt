@@ -1,0 +1,107 @@
+MECH455: Robotics and Automation Capstone
+Institution: Lakeside Polytechnic University Term: Full Year (Fall 2020 - Winter 2021) Instructor: Dr. Emily Smith Email: esmith@lakeside.edu Office Hours: Tuesday 3:00-5:00 PM, Thursday 1:00-3:00 PM Class Time: Monday & Wednesday, 2:00-3:30 PM Location: Engineering Building, Room 305
+Course Description
+The Robotics and Automation Capstone course is a full-year project-based course where students work in teams to design, prototype, and demonstrate a robotic system for an industrial automation task. This course integrates concepts from mechanical design, control systems, and sensor integration, culminating in a final project that is presented to a panel of industry experts. The course emphasizes practical design, team collaboration, and professional communication.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Design a robotic system that meets specific industrial automation requirements.
+2.
+Integrate mechanical, electrical, and software components into a functional prototype.
+3.
+Analyze and optimize robotic systems for efficiency, reliability, and cost-effectiveness.
+4.
+Collaborate effectively within a multidisciplinary team.
+5.
+Present and defend design decisions and project outcomes to a professional audience.
+Course Timeline and Deliverables
+Date
+Topics
+Deliverables
+Weight
+Sept 21, 2020
+Course Introduction, Team Formation
+None
+-
+Oct 12, 2020
+Project Proposal & Planning
+Project Proposal Submission
+10%
+Nov 9, 2020
+Conceptual Design Review
+Conceptual Design Presentation
+15%
+Dec 7, 2020
+Mechanical Design & Prototyping
+Mechanical Design Report
+15%
+Jan 25, 2021
+Electrical & Control Systems Design
+Control Systems Integration Report
+15%
+Feb 22, 2021
+System Integration & Testing
+Interim Project Report
+20%
+Date
+Topics
+Deliverables
+Weight
+Mar 22, 2021
+Final Design Review
+Final Design Review Presentation
+10%
+Apr 12, 2021
+Final Project Demonstration & Submission
+Final Project Report and Prototype Demonstration
+15%
+Deliverable Descriptions
+1.
+Project Proposal Submission (10%) Due: October 12, 2020 Teams will submit a detailed project proposal outlining the project scope, objectives, timeline, and initial design concepts. This document will include a problem statement, proposed solutions, and a preliminary project plan.
+2.
+Conceptual Design Presentation (15%) Due: November 9, 2020 Teams will present their conceptual design to the class, including design alternatives, selected approach, and justification for design decisions. This presentation will be evaluated on the clarity of the design, feasibility, and innovation.
+3.
+Mechanical Design Report (15%) Due: December 7, 2020 Teams will submit a comprehensive report detailing the mechanical design of their robotic system, including CAD drawings, material selection, and manufacturing considerations. The report will also address any challenges encountered during the design process.
+4.
+Control Systems Integration Report (15%) Due: January 25, 2021 This report will focus on the design and integration of the electrical and control systems within the robotic system. Teams will discuss sensor selection, control algorithms, and the implementation of the control system.
+5.
+Interim Project Report (20%) Due: February 22, 2021 The interim report will document the progress made on the project, including system integration, testing results, and any modifications to the original design. This report should provide a clear overview of the current state of the project and outline the steps needed to complete it.
+6.
+Final Design Review Presentation (10%) Due: March 22, 2021 Teams will present their final design to a panel of industry experts, focusing on the system’s functionality, reliability, and performance. The presentation should include a demonstration of the robotic system (if possible) and address any questions or concerns from the panel.
+7.
+Final Project Report and Prototype Demonstration (15%) Due: April 12, 2021
+The final deliverable includes a detailed report documenting the entire design and
+development process, along with a functional prototype of the robotic system. The report should include an analysis of the system’s performance, a discussion of the challenges faced, and recommendations for future improvements. The prototype will be demonstrated to the class and evaluated based on its functionality, innovation, and overall design.
+Grading Scale
+•
+A+: 90-100%
+•
+A: 85-89%
+•
+A-: 80-84%
+•
+B+: 75-79%
+•
+B: 70-74%
+•
+B-: 65-69%
+•
+C+: 60-64%
+•
+C: 55-59%
+•
+C-: 50-54%
+•
+D: 45-49%
+•
+F: 0-44%
+Academic Integrity
+Students are expected to adhere to the highest standards of academic integrity. Plagiarism, cheating, or any form of academic dishonesty will not be tolerated and may result in severe penalties, including failure of the course.
+Course Policies
+•
+Attendance: Attendance is mandatory for all lectures and presentations. Absences must be communicated in advance and may require documentation.
+•
+Late Submissions: Late submissions will incur a penalty of 10% per day, up to a maximum of 3 days. After 3 days, the submission will not be accepted.
+•
+Collaboration: Collaboration is crucial for the success of the team project. All team members are expected to contribute equally, and individual contributions must be clearly documented.
+This syllabus outlines the structure, expectations, and key deliverables for the MECH455: Robotics and Automation Capstone course, providing students with a clear roadmap for the academic year.

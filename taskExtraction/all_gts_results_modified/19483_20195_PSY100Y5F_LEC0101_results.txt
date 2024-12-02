@@ -1,0 +1,17 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Term tests - lecture component | 21% | 6 tests, short answers | N/A | N/A |
+| Core | Term tests - textbook component | 21% | 6 tests, 30 multiple choice questions each | N/A | N/A |
+| Core | Lab work | 21% | 2 lab tests @ 6% each; lab report 4%; lab completion credits 5% | N/A | N/A |
+| Core | Experiments | 4% | Participation in 6 hours of experiments (3 per term) or completion of substitute assignments | N/A | N/A |
+| Core | Final Exam | 33% | 160 multiple choice questions, based on the textbook | N/A | N/A |
+| Support | PsychED Participation | N/A | Participation in faculty's research experiments for course credit | N/A | N/A |
+| Support | Required Reading Materials | N/A | Purchase and use required reading materials | N/A | N/A |
+| Support | Course Webpages | N/A | Access course materials and monitor course information via the course website | N/A | N/A |
+| Support | Laboratory Component | N/A | Enroll in one of the two lab sections and complete experiments or simulation assignments for attendance credits | N/A | N/A |
+| Support | Recommended Materials | N/A | Purchase and use recommended course materials | N/A | N/A |
+| Support | Academic Guidelines | N/A | Ensure you meet all course prerequisites and review academic regulations | N/A | N/A |
+| Support | AccessAbility Services | N/A | Contact AccessAbility Services for academic accommodations | N/A | N/A |
+| Support | Academic Honesty and Plagiarism | N/A | Review the Academic Integrity website and understand the consequences of academic offenses | N/A | N/A |
+| Support | Equity Statement | N/A | Understand and respect the University's commitment to equity and diversity | N/A | N/A |
+| Support | Academic Rights | N/A | Be aware of your rights as a student, including the right to a syllabus, fair grading, and intellectual property | N/A | N/A |

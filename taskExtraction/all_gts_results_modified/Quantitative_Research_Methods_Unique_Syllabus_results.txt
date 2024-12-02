@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Discussion Post | N/A | N/A | 1/12 | N/A |
+| Core | Submit Data Collection Plan | N/A | N/A | 1/19 | N/A |
+| Core | Complete Software Tutorial | N/A | N/A | 1/26 | N/A |
+| Core | Submit Analysis Report | N/A | N/A | 2/2 | N/A |
+| Core | Submit Final Research Paper | N/A | N/A | 2/9 | N/A |
