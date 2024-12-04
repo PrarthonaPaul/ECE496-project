@@ -132,3 +132,18 @@ class ModelPipeline:
             self.model = pickle.load(f)
         self.model.to(self.device)
         print(f"Model loaded from {filename}")
+
+    def extract_tasks(self, file_path, delimiter="|", save_path=None):
+        """Extract tasks from a text or CSV file."""
+        data = pd.read_csv(file_path, delimiter=delimiter)
+        data.columns = data.columns.str.strip()  # Clean up column names
+        data = data.applymap(lambda x: x.strip() if isinstance(x, str) else x)  # Clean data
+        # Remove rows where the 'Task' column contains '---'
+        data = data[data["Task"] != "---"]
+        task_column = data["Task"]
+        
+        if save_path:
+            task_column.to_csv(save_path, index=False, header=True)
+            print(f"Cleaned task column saved to '{save_path}'.")
+
+        return task_column.tolist()
