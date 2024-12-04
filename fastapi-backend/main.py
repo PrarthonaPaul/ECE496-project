@@ -1,6 +1,8 @@
 import os
 import json
+import pickle
 import pyrebase
+import torch
 from fastapi import FastAPI, HTTPException, UploadFile, Form, Request, status
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
@@ -9,7 +11,8 @@ from pydantic import BaseModel
 from datetime import datetime
 from database import SessionLocal, engine, Base
 from models import PDF
-from utils import extract_tasks, write_files
+from utils import extract_tasks, write_files, extract_tasks_from_file, classify_tasks
+# from classify import ModelPipeline
 
 # Initialize FastAPI app
 app = FastAPI()
@@ -134,11 +137,24 @@ class IdToken(BaseModel):
     id_token: str  # id_token of the user whose profile is being updated
     
 
+def classify(output_filepath):
+    loaded_model = pickle.load(open("trained_model.pkl", 'rb')) 
+    device = torch.device("cpu")
+    loaded_model = loaded_model.to(device)
+    loaded_model.eval()
+    tasks = extract_tasks_from_file(file_path=output_filepath)
+    classified_tasks = classify_tasks(r"Dataset - Sheet1.csv", tasks, loaded_model)
+    
+    output = {}
+    for val, task in enumerate(tasks):
+        output[task] = classified_tasks[val]
+    
+    return output
+
 @app.post("/upload/")
 async def upload_pdf(
     title: str = Form(...), 
     pdf: UploadFile = UploadFile(...)
-    # db: Session = Depends(get_db)  # Use Depends for the database session
 ):
     db = next(get_db())
     input_dir = os.path.join(MEDIA_ROOT, 'pdfs')
@@ -171,15 +187,10 @@ async def upload_pdf(
     extract_tasks(output_dir, extracted_tasks_output_dir, course_name + '.txt')
 
     output_filepath = os.path.join(extracted_tasks_output_dir, f"{course_name}_results.txt")
-    extrcted_tasks = []
-
-    with open(output_filepath, "r") as f:
-        for line in f:
-            extrcted_tasks.append(line)
+    classified_tasks = classify(output_filepath)
 
     # Redirect to the list view
-    # return RedirectResponse(url="/pdfs/", status_code=303)
-    return {"extract_tasks": extrcted_tasks}
+    return {"classified_tasks": classified_tasks}
 
 
 # Route to display the list of uploaded PDFs

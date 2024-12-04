@@ -1,8 +1,12 @@
 import os
 import cohere
 from collections import defaultdict
+from datasets import Dataset
 from dotenv import load_dotenv
 import fitz  # PyMuPDF
+import pandas as pd
+from transformers import RobertaTokenizer
+import torch
 
 def pdf_to_text(pdf_path):
     try:
@@ -106,3 +110,54 @@ def extract_tasks(input_folder, output_folder, input_filename):
         output_filepath = os.path.join(output_folder, f"{os.path.splitext(filename)[0]}_results.txt")
         with open(output_filepath, 'w') as result_file:
             result_file.write(output_text)
+
+
+def extract_tasks_from_file(file_path, delimiter="|", save_path=None):
+    """Extract tasks from a text or CSV file."""
+    data = pd.read_csv(file_path, delimiter=delimiter)
+    data.columns = data.columns.str.strip()  # Clean up column names
+    data = data.applymap(lambda x: x.strip() if isinstance(x, str) else x)  # Clean data
+    # Remove rows where the 'Task' column contains '---'
+    data = data[data["Task"] != "---"]
+    task_column = data["Task"]
+    
+    if save_path:
+        task_column.to_csv(save_path, index=False, header=True)
+        print(f"Cleaned task column saved to '{save_path}'.")
+
+    return task_column.tolist()
+
+
+def tokenize_function(examples):
+    """Tokenize the text column."""
+    tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
+    return tokenizer(examples["tasks"], padding="max_length", truncation=True)
+
+
+def classify_tasks(data_path, tasks, model):
+        """Classify tasks using the trained RoBERTa model."""
+        model.eval()
+        tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        inputs = tokenizer(tasks, padding=True, truncation=True, max_length=128, return_tensors="pt")
+        inputs = {key: value.to(device) for key, value in inputs.items()}
+
+        with torch.no_grad():
+            outputs = model(**inputs)
+            predictions = torch.argmax(outputs.logits, dim=-1)
+
+        df = pd.read_csv(data_path)
+        df = df.drop(columns=['Unnamed: 0'], errors='ignore') #remove the first unnamed column
+        df = df.drop(0).reset_index(drop=True) #remove first row
+        df.columns = ['pdf', 'tasks', 'class']
+        df['pdf'] = df['pdf'].fillna(method='ffill')
+        
+        print(df.head(10))
+        print(df["class"])
+        dataset = Dataset.from_pandas(df)
+        dataset = dataset.class_encode_column("class")
+
+        class_labels = dataset.features["class"].names
+        predicted_labels = [class_labels[pred] for pred in predictions]
+
+        return predicted_labels
