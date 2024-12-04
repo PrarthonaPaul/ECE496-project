@@ -2,9 +2,7 @@ import pandas as pd
 import torch
 from datasets import Dataset
 from transformers import RobertaTokenizer, RobertaForSequenceClassification, Trainer, TrainingArguments
-# from sklearn.preprocessing import LabelEncoder
 from evaluate import load
-# from torch.utils.data import Dataset as TorchDataset
 
 class ModelPipeline:
     def __init__(self, data_path, model_name="roberta-base", max_length=128):
@@ -110,12 +108,11 @@ class ModelPipeline:
         inputs = self.tokenizer(tasks, padding=True, truncation=True, max_length=self.max_length, return_tensors="pt")
         inputs = {key: value.to(self.device) for key, value in inputs.items()}
 
-        self.model.eval()  # Set model to evaluation mode
+        self.model.eval()  
         with torch.no_grad():
             outputs = self.model(**inputs)
             predictions = torch.argmax(outputs.logits, dim=-1)
 
-        # Map predictions to class labels
         class_labels = self.dataset.features["class"].names
         predicted_labels = [class_labels[pred] for pred in predictions]
 
@@ -135,14 +132,3 @@ class ModelPipeline:
             self.model = pickle.load(f)
         self.model.to(self.device)
         print(f"Model loaded from {filename}")
-
-
-# pipeline = ModelPipeline(data_path=r"Dataset - Sheet1.csv")
-# pipeline.load_and_preprocess_data()
-# pipeline.train_model()
-# pipeline.evaluate_model()
-# tasks = ["Presentation", "Assignment 1"]
-# predictions = pipeline.classify_tasks(tasks)
-# print(predictions)
-# pipeline.save_model('trained_model.pkl')
-# pipeline.load_model('trained_model.pkl')
