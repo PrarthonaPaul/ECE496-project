@@ -10,10 +10,18 @@ from datetime import datetime
 from database import SessionLocal, engine, Base
 from models import PDF
 from utils import extract_tasks, write_files
+from fastapi.middleware.cors import CORSMiddleware
 
 # Initialize FastAPI app
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  
+    allow_credentials=True,
+    allow_methods=["*"],  
+    allow_headers=["*"], 
+)
 # Set up Jinja2 templates
 templates = Jinja2Templates(directory="templates")
 

@@ -15,6 +15,7 @@ import {
   CardContent,
   CardFooter,
 } from "@/components/ui/card";
+import { useRouter } from "next/navigation"; 
 
 export default function SignupForm() {
   const { signup, error } = useAuth();
@@ -22,6 +23,8 @@ export default function SignupForm() {
   const [password, setPassword] = useState("");
   const [password2, setPassword2] = useState("");
   const [successMessage, setSuccessMessage] = useState<string | null>(null);
+  const router = useRouter(); 
+
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -29,6 +32,8 @@ export default function SignupForm() {
     const message = await signup(email, password, password2);
     if (message) {
       setSuccessMessage(message);
+      router.push("/signin");
+
     }
   };
 
