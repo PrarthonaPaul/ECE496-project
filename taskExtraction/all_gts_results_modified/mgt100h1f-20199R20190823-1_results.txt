@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Midterm Test | 39% | A midterm test consisting of multiple-choice and/or short-answer questions. | As per course schedule | N/A |
+| Core | Final Exam | 50% | A final exam consisting of multiple-choice and/or short-answer questions. | As per exam schedule | N/A |
+| Core | Research Requirement | 1% | Participation in one hour of research studies or analysis of one article reporting research studies. | November 1st, 2019 | N/A |
+| Core | Online Quizzes | 10% | Regular quizzes assigned by instructors using the WileyPLUS platform and Quercus. | 11:59 pm on the dates specified in the course schedule | N/A |
+| Support | Reading Materials | N/A | Students are expected to read assigned materials before class. | N/A | N/A |
+| Support | Top Hat Software | N/A | Students must register for and use the Top Hat classroom response system in class. | Before the start of week 2 of the course | N/A |
+| Support | Accessibility Services | N/A | Students with accessibility needs should contact Accessibility Services. | N/A | N/A |
+| Support | Academic Integrity | N/A | Students are expected to maintain academic integrity and avoid academic misconduct. | N/A | N/A |
+| Support | Email Communication | N/A | Important course information may be communicated via email. | N/A | N/A |
+| Support | Quercus and Course Page | N/A | The online course page is accessed through Quercus, and students should check it regularly for updates and materials. | N/A | N/A |
+| Support | Lecture Recording | N/A | Students must ask for permission to record lectures or other course materials. | N/A | N/A |
+| Support | SUS101: Saving Paper in Courses | N/A | Students are encouraged to reduce paper usage by working with digital materials and taking electronic notes. | N/A | N/A |
+| Support | Class Conduct and Expectations | N/A | Students are expected to arrive on time, turn off electronic devices, and participate in class discussions. | N/A | N/A |

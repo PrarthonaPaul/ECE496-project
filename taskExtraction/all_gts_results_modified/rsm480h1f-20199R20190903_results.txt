@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Group Project | 20% | A group project with specific learning objectives, assigned by the instructor. | Oct 16 / Nov 27 | N/A |
+| Core | Midterm Exam | 30% | Exam covering topics 1-4 and project presentations from Oct 16. | Oct 23 | N/A |
+| Core | Final Exam | 50% | Comprehensive exam covering all course topics and project presentations from Oct 16 and Nov 27. | During Faculty of Arts & Science Final Examination period | N/A |
+| Support | Reading "Working in Teams: Guidelines for Rotman Commerce Students" | N/A | Students are required to read this document to understand team expectations. | N/A | N/A |
+| Support | Class Assignments | N/A | Practice questions assigned at the end of each topical lecture to consolidate understanding. | N/A | N/A |

@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Project Proposal | N/A | Create a proposal with objectives, specific exoplanets/planetary systems, anticipated outcomes, timeline, and assigned roles. | Week 3 |
+| Data Collection and Analysis | N/A | Collect data from telescopes, analyze light curves and radial velocity data to detect exoplanets. | Weeks 4-6 |
+| Characterization and Modeling | N/A | Model and characterize exoplanet atmospheres, compositions, and habitability; compare with observational data. | Weeks 7-10 |
+| Interpretation and Hypothesis Testing | N/A | Interpret data analysis results and test hypotheses about exoplanet formation and evolution. | Weeks 11-12 |
+| Final Report and Presentation | N/A | Document research process, challenges, solutions, and outcomes; prepare a presentation and poster for the showcase. | Weeks 13-15 |

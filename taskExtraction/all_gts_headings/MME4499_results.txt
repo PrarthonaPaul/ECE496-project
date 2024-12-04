@@ -1,0 +1,72 @@
+1. CALENDAR DESCRIPTION:: Relevant
+2. COURSE INFORMATION:: Irrelevant
+3. Instructors:: Irrelevant
+4. Lectures:: Irrelevant
+5. Tutorials (team meeting/advising):: Irrelevant
+6. Full Course 1.0 Credits:: Irrelevant
+7. PREREQUISITES:: Irrelevant
+8. ANTIREQUISITES:: Irrelevant
+9. ACCREDITATION UNITS:: Irrelevant
+10. TOPICS:: Irrelevant
+11. LEARNING OUTCOMES:: Irrelevant
+12. TEXTBOOK:: Irrelevant
+13. REFERENCES:: Irrelevant
+14. TECHNICAL REQUIREMENTS:: Irrelevant
+15. UNITS:: Irrelevant
+16. EVALUATION:: Relevant
+17. NOTE:: Relevant
+18. Item:: Relevant
+19. Deliverable:: Relevant
+20. Weight:: Relevant
+21. A passing grade in this course shall be equivalent to 60%. The items in the table above are subject to adjustments and changes as needed. Students who have failed an Engineering course (i.e., <50%) must repeat all components of the course. No special permissions will be granted enabling a student to retain evaluation marks from previous years. Previously completed evaluations cannot be resubmitted for grading by the student in subsequent years.:: Relevant
+22. • The deliverables in the table above are assigned to teams except for Team Formation, Participation and Professionalism which is an individual mark.:: Relevant
+23. • Design teams will be formed around approved project topics to be determined early in the course. A dedicated OWL enrolment feature will be used for team signup. The opening of the team signup feature will be announced through OWL.:: Relevant
+24. • Design teams can be formed by a minimum of 3 and a maximum of 4 members. No exceptions from this rule will be allowed.:: Relevant
+25. • Individuals who do not join a project group by the due date will forfeit the marks allotted for this task and will be assigned to a group at the discretion of the faculty team. Faculty advisors reserve the right to assign students to groups and projects as appropriate.:: Relevant
+26. • Faculty members will set up the individual team sites for the teams that they are supervising.:: Relevant
+27. • Teams will be provided $800 for project materials. Any additional funding requirements will be provided through the project sponsor if applicable. All project material acquisition being made through the established procedure that will be communicated during the course, or through the project sponsor where appropriate.:: Relevant
+28. • While the default assumption for team submissions is that all team members have contributed equally and hence, they should receive identical marks for team deliverables, the project advisor can discretionarily adjust the marks depending on individual contributions brought to the team effort.:: Relevant
+29. • At the latitude of the project advisor, extensively prolonged unsatisfactory assessment and/or project progress may result in immediate project termination and course failure.:: Relevant
+30. • All team members are expected to contribute equally to team’s efforts. This will be periodically verified by project advisors with team members being held accountable for their:: Relevant
+31. • Project topics could be proposed by: i) project advisors; ii) external to the course faculty members; iii) student clubs; iv) third party/industry partners v) lab managers and UMS. Since certain conditions are to be met by a particular design problem in order to become an approved project topic in the course, those interested to propose projects falling under the last two categories are encouraged to contact the course coordinator as early as possible.:: Relevant
+32. • Professional-level deliverables are expected in the course, regardless of their format (written or oral). Please keep this in mind while preparing your submissions and make sure to allocate enough time for this step.:: Relevant
+33. TEAMWORK:: Relevant
+34. ENGLISH:: Relevant
+35. CLASSROOM DEMEANOR:: Irrelevant
+36. • Please arrive to class on time:: Irrelevant
+37. • Keep in mind the different cultural and linguistic backgrounds of the students in the course.:: Irrelevant
+38. • Be courteous toward the instructor, your colleagues, and authors whose work you are discussing.:: Irrelevant
+39. • Be respectful of the diversity of viewpoints that you will encounter in the class and in your readings. The exchange of diverse ideas and opinions is part of the scholarly environment.:: Irrelevant
+40. • Be professional and scholarly in all course activities. Cite the ideas of others appropriately.:: Irrelevant
+41. Disruptive behaviour of any type during classes, is unacceptable. Students engaging in disruptive behaviour may be subject to disciplinary measures under the Code of Student Conduct.:: Irrelevant
+42. ATTENDANCE:: Relevant
+43. CHEATING:: Irrelevant
+44. Students must write their essays and assignments in their own words. Whenever students take an idea, or a passage of text from another author, they must acknowledge their debt both by using quotation marks where appropriate and by proper referencing such as footnotes or citations. Plagiarism is a major academic offence. Scholastic offences are taken seriously and attended by academic penalties. Students are directed to read the appropriate policy,:: Irrelevant
+45. KEY SESSIONAL DATES:: Irrelevant
+46. Fall Term:: Irrelevant
+47. Fall Classes Begin: September 7:: Irrelevant
+48. Thanksgiving: October 9:: Irrelevant
+49. Fall Reading Week: October 30 – November 5:: Irrelevant
+50. Fall Classes End: December 8, 2023:: Irrelevant
+51. Study Day: December 9:: Irrelevant
+52. Fall Exam period: December 10 – 22:: Irrelevant
+53. Winter Term:: Irrelevant
+54. Winter Classes Begin: January 8:: Irrelevant
+55. Winter Reading Week: February 17 – February 25:: Irrelevant
+56. Winter Classes End: April 8:: Irrelevant
+57. Winter Exam period: April 11 – 30, 2024:: Irrelevant
+58. NOTICES:: Irrelevant
+59. Students are responsible for checking their Western email and notices posted on OWL (http://owl.uwo.ca) for news and updates. This is the primary method by which information will be disseminated to all students in the class.:: Irrelevant
+60. If students need assistance with the course OWL site, they can seek support on the OWL Help page. Alternatively, they can contact the Western Technology Services Helpdesk. They can be contacted by phone at 519-661-3800 or ext. 83800.:: Irrelevant
+61. Western University - Faculty of Engineering:: Irrelevant
+62. 2023-2024:: Irrelevant
+63. STATEMENT ON GENDER-BASED AND SEXUAL VIOLENCE:: Irrelevant
+64. Western is committed to reducing incidents of gender-based and sexual violence and providing compassionate support to anyone who has gone through these traumatic events. If you have experienced gender-based or sexual violence (either recently or in the past), you will find information about support services for survivors, including emergency contacts, here. To connect with a case manager or set up an appointment, please contact support@uwo.ca.:: Irrelevant
+65. INSTRUCTIONS FOR STUDENTS UNABLE TO WRITE TESTS OR EXAMINATIONS OR SUBMIT ASSIGNMENTS AS SCHEDULED:: Irrelevant
+66. If, on medical or compassionate grounds, you are unable to write term tests or final examinations or complete course work by the due date, you should follow the instructions listed below. You should understand that academic relief will not be granted automatically on request. You must demonstrate to your department (or the Undergraduate Services Office) that there are compelling medical or compassionate grounds that can be documented before academic relief will be considered. Different regulations apply to term tests, final examinations and late assignments. Please read the instructions carefully.:: Irrelevant
+67. A. GENERAL REGULATIONS & PROCEDURES:: Irrelevant
+68. 1. All first-year students will report to the Undergraduate Services Office by submitting the Academic Consideration Request Form, for all instances.:: Irrelevant
+69. 2. If you are an upper year student and you are missing a test/assignment/lab or examination you will report the absence by submitting Academic Consideration Request Form. Absences worth LESS THAN 10% of your mark, will be processed by your department office. If your course work is worth 10% OR MORE of your final grade, your request will be processed by the Undergraduate Services Office.:: Irrelevant
+70. 3. Check the course outline to see if the instructor has a policy for missed tests, examinations, late assignments or attendance.:: Irrelevant
+71. 4. Documentation must be provided as soon as possible. If no one is available in your department office or the Undergraduate Services Office, leave a message clearly stating your name & student number and reason for your call. The department telephone numbers are given at the end of these instructions.:: Irrelevant
+72. 5. If you decide to write a test or an examination you should be prepared to accept the mark you earn. Rewrit

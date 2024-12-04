@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Simulation Performance | 24% | N/A | On-going |
+| Weekly Quizzes | 15% | N/A | On-going |
+| Smartbook Submissions | 6% | N/A | On-going |
+| Mid-Term Test | 20% | N/A | 2024-02-07 |
+| Final Exam | 35% | N/A | TBA |

@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Case Write Up | 15% | N/A | November 15 | N/A |
+| Core | Mid-Term Test | 30% | N/A | November 4 | N/A |
+| Core | Group Presentation | 35% | N/A | Last week of class | N/A |
+| Core | Research | 3% | N/A | N/A | N/A |
+| Support | Class Participation | N/A | Students are expected to prepare thoroughly, attend every class, and actively contribute to discussions. | N/A | N/A |
+| Support | Research Participation | N/A | Students can fulfill this requirement by participating in research studies, analyzing research articles, or a combination of both. | N/A | N/A |
+| Support | Teamwork | N/A | Students are expected to work in teams of 4-6 and can seek support for common teamwork challenges. | N/A | N/A |
+| Support | Reading Assignments | N/A | Students are expected to complete weekly reading assignments before lectures and class discussions. | N/A | N/A |
+| Support | Attendance | N/A | Students must attend classes to participate in discussions and earn participation grades. | N/A | N/A |
+| Support | Plagiarism and AI Usage Guidelines | N/A | Students must adhere to guidelines for using AI tools and citing sources to maintain academic integrity. | N/A | N/A |
+| Support | Academic Integrity | N/A | Students must understand and adhere to the University's academic integrity policies. | N/A | N/A |
+| Support | Email Communication | N/A | Students are expected to use their UTmail+ email address for course-related communication. | N/A | N/A |
+| Support | Lecture Recording | N/A | Students must seek instructor permission to record lectures and adhere to copyright guidelines. | N/A | N/A |

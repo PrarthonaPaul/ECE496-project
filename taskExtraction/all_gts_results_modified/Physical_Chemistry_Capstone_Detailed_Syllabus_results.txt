@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal | 10 points | Create a proposal outlining the physical chemistry problem, experiment/simulation, and outcomes. Include a timeline and team roles. | Week 3 | N/A |
+| Core | Experiment Design and Simulation | 15 points | Design the experiment/simulation and develop simulations to predict outcomes. | Weeks 4-6 | N/A |
+| Core | Experiment Implementation and Data Collection | 18 points | Conduct the experiment/simulation, collect data, and analyze it to identify patterns and validate hypotheses. | Weeks 7-10 | N/A |
+| Core | Data Analysis and Interpretation | 10 points | Interpret data, compare with theoretical predictions, and refine the experiment/simulation. | Weeks 11-12 | N/A |
+| Core | Final Report | 10 points | Document the research process, design decisions, challenges, and outcomes. | Weeks 13-15 | N/A |
+| Core | Presentation | 5 points | Prepare a presentation for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Core | Poster | 10 points | Create a poster for the Innovation Showcase. | Weeks 13-15 | N/A |
+| Support | Attendance and Participation | N/A | Attend all class meetings and individual sessions. Inform the instructor in advance of any absences. | N/A | N/A |
+| Support | Individual Meetings | N/A | Attend individual meetings to discuss ideas, readings, proposal feedback, and data analysis. | Sep 4, Oct 2, Nov 13 | N/A |
+| Support | Academic Integrity | N/A | Adhere to ASU's academic integrity policy and avoid academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

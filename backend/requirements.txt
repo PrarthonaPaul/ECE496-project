@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+editdistance
+pdf2image
+pymupdf
+tools
+=======
+numpy
+opencv-python
+python-dotenv
+torch
+tqdm
+cohere-5.11.2
+editdistance
+collections
+codecs
+pymupdf-1.24.13
+tools
+re
+>>>>>>> ceec293 (added requirements.txt)

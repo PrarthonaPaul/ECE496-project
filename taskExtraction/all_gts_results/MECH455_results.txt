@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Course Introduction, Team Formation | N/A | N/A | Sept 21, 2020 |
+| Project Proposal & Planning | 10% | Teams submit a detailed project proposal with scope, objectives, timeline, and initial design concepts, including a problem statement, proposed solutions, and a preliminary project plan. | Oct 12, 2020 |
+| Conceptual Design Review | 15% | Teams present their conceptual design, including design alternatives, selected approach, and justification for design choices. The presentation is evaluated on clarity, feasibility, and innovation. | Nov 9, 2020 |
+| Mechanical Design & Prototyping | 15% | Teams submit a report detailing the mechanical design, including CAD drawings, material choices, and manufacturing considerations, as well as challenges faced during the process. | Dec 7, 2020 |
+| Electrical & Control Systems Design | 15% | Focus on the design and integration of electrical and control systems, discussing sensor selection, control algorithms, and implementation. | Jan 25, 2021 |
+| System Integration & Testing | 20% | Document project progress, including system integration, testing results, and modifications to the original design. Provide an overview of the current state and steps needed for completion. | Feb 22, 2021 |
+| Final Design Review | 10% | Teams present their final design to industry experts, showcasing functionality, reliability, and performance, with a demonstration if possible, and addressing panel questions. | Mar 22, 2021 |
+| Final Project Demonstration & Submission | 15% | Submit a detailed report on the entire design and development process, along with a functional prototype. The report includes system performance analysis, challenges, and recommendations for future improvements. The prototype is demonstrated and evaluated for functionality, innovation, and design. | Apr 12, 2021 |

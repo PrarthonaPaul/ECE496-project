@@ -1,0 +1,55 @@
+1. CE185 Capstone Design 1 and CE 186 Capstone Design 2: Irrelevant
+2. Fall 2017 Schedule: Irrelevant
+3. Lectures – MWF 2:20 -3:10 Kalkin 004: Irrelevant
+4. Recitation – Tuesday 6-9PM Kalkin 004: Irrelevant
+5. Spring 2018 Schedule TBD: Irrelevant
+6. Course Instructor: John Lens, P.E., jelens@uvm.edu: Irrelevant
+7. Office: Votey 233A Office Phone 802-656-8156 Cell: 802-272-2796: Irrelevant
+8. Fall Office Hours: Monday and Wednesday 12-2PM and 3:30-4:30PM: Irrelevant
+9. Friday 9:30-10:30AM and 12-1PM: Irrelevant
+10. These hours are for drop-in or appointments. Prior scheduled appointments, faculty meetings, or unanticipated circumstances may alter my availability to meet with you during these hours, so please make an appointment by phone or email if it is critical to meet. I will do my best to accommodate all reasonable meeting requests at these hours or other times, as needed.: Irrelevant
+11. Teaching Assistant: Soham Banerjee sbanerj1@uvm.edu: Irrelevant
+12. Jack Reed Jack.Reed@uvm.edu: Irrelevant
+13. Office Hours to be announced in class.: Irrelevant
+14. COURSE DESCRIPTION: Irrelevant
+15. This is a required course for 3-credits in each semester of a two-semester capstone design course sequence.: Irrelevant
+16. COURSE OBJECTIVES: Irrelevant
+17. The overall course objective is to provide students the opportunity to learn what is expected of entry-level, and more experienced, engineers working in professional engineering and construction practice and offer opportunity for students to develop their skills to meet and excel in those expectations. This objective is pursued by providing opportunity for students:: Irrelevant
+18. To experience and learn about civil and environmental engineering “project work” through doing it. The different facets of “project work” will include learning what the client needs, technical problem solving, analysis and design, as well as non-technical aspects (e.g. communication, teamwork, leadership, ethics, and following professional standards of practice).: Irrelevant
+19. To follow a systems approach to problem solving by investigating social, regulatory, environmental, economic, and overall sustainability aspects of assignments and projects.: Irrelevant
+20. To design engineering systems that include considerations of risk, uncertainty, sustainability, life-cycle principles, and environmental impacts.: Irrelevant
+21. To learn how effective engineering leaders conduct themselves both on project levels, and on entrepreneurial and policy making levels, and the importance of high standards of ethical practice.: Irrelevant
+22. To apply civil and environmental engineering design principles in a comprehensive project typically involving two or more sub-disciplines of civil engineering (e.g. transportation, geotechnical, structural, environmental) and/or environmental engineering (e.g. water, land, air). Projects may involve other interdisciplinary components.: Irrelevant
+23. To learn and practice skills for communicating in written and graphic formats using notes, sketches, drawings, plan sheets, specifications, and reports explaining their design and construction recommendations.: Irrelevant
+24. To learn and then rigorously practice skills for successfully working in teams.: Irrelevant
+25. To learn and practice skills for communicating in one-on-one settings such as with clients and colleagues and in formal presentations such as to a review panel of faculty and practitioners.: Irrelevant
+26. COMMUNITY SERVICE LEARNING PROJECTS: This course is structured around real projects for community and nonprofit partners in a service-learning format. Service-learning is a form of experiential education in which students engage in activities that address human and community needs together with structured opportunities intentionally designed to promote student learning of academic materials and personal development. Research has shown that service learning promotes student learning and development in areas such as academic and intellectual development, civic engagement, career development, ethical judgment, and personal/interpersonal skills. Service learning is a two-way process in which students provide a service which offers them learning opportunities from both doing the work and interacting with their community partner clients.: Relevant
+27. Successful project experiences require students to reach out to their clients with frequent and meaningful communication, and above-and-beyond effort to understand and then meet their client’s needs. Following those precepts offers students an often-unique opportunity early in their engineering practice careers to experience working directly with high-level client managers, something that can otherwise sometimes take several years after graduation.: Relevant
+28. COURSE POLICIES: Irrelevant
+29. STUDENT ACCESSIBILITY SERVICES: In keeping with University policy, any student with a documented disability interested in utilizing accommodations should contact ACCESS, the office of Disability Services on campus. ACCESS works with students to create reasonable and appropriate accommodations via an accommodation letter to their professors as early as possible each semester. Contact ACCESS: A170 Living/Learning Center; 802-656-7753; access@uvm.edu; or www.uvm.edu/access.: Irrelevant
+30. ATTENDANCE AND PARTICIPATION: Every class and recitation counts. Prompt attendance is expected and counts in your grade. If you cannot make a class or will be late, notify the TA by email sufficiently before the class. Absences will only be excused for appropriate circumstances.: Irrelevant
+31. RELIGIOUS HOLIDAYS: Students have the right to practice the religion of their choice. You should submit in writing to me by the end of the second full week of classes your documented religious holiday schedule for the semester so we can develop a plan to accommodate that schedule.: Irrelevant
+32. WRITTEN ASSIGNMENTS: Submit all assignments per the instructions. Late submittals without adequate prior explanation and approval by the instructor are not acceptable and will not be graded.: Irrelevant
+33. BLACKBOARD: Please check Blackboard for important correspondence and course updates. Blackboard will be generally be used to notify you of class messages regarding assignment changes or notices. Also, check your e-mail regularly for similar information. In the event of inclement weather, please check your Blackboard e-mail for any notice of cancellation or delay of class and/or activities.: Irrelevant
+34. SYLLABUS: This syllabus is subject to change with verbal and electronic notice.: Irrelevant
+35. ACADEMIC HONESTY: The University of Vermont and the College Engineering & Mathematical Sciences are learning communities. Consistent with the University’s mission and purpose, and the values the College seeks to foster within its community, we expect that academic honesty and integrity guide the actions of all its members. It is the responsibility of every person in the academic community to ensure that dishonesty is NOT tolerated. Academic dishonesty (cheating and/or plagiarism) violates the Academic Integrity Policy and may result in an “F” on the work involved or in the course. Cheating not only violates the Academic Integrity Policy, but also may be grounds for probation, suspension, and/or expulsion.: Irrelevant
+36. http://www.uvm.edu/~uvmppg/ppg/student/acadintegrity.pdf: Irrelevant
+37. TEXTBOOK:: Irrelevant
+38. Principles of Applied Civil Engineering Design, by Ying Kit-Choi, ASCE Press The original 2004 edition is replaced by a second addition now available through ASCE.: Irrelevant
+39. Engineering Your Future: The Professional Practice of Engineering, by Stuart G. Walesh, available through ASCE.: Irrelevant
+40. Purchasing these through the American Society of Civil Engineers (ASCE) online bookstore as an ASCE member (student members included) is the lowest price that I have found. The following three links reach the ASCE membership portal and the books, respectively. ASCE student membership is free and strongly recommended.: Irrelevant
+41. http://www.asce.org/membership/student/: Irrelevant
+42. http://www.asce.org/templates/publications-book-detail.aspx?id=7301: Irrelevant
+43. http://www.asce.org/templates/publications-book-detail.aspx?id=25211: Irrelevant
+44. ADDITIONAL TEXT REFERENCES: I will provide other civil and environmental engineering references which you need for the course reading assignments.: Irrelevant
+45. GRADING: All course assignments and team participation criteria must be satisfactorily completed for a passing grade to be achieved. Late submittals will not be accepted unless there are special circumstances accepted by the instructor, in advance of the due date.: Relevant
+46. Course Element: Relevant
+47. CE185: Relevant
+48. CE186: Relevant
+49. Attendance: Relevant
+50. 10%: Relevant
+51. 10%: Relevant
+52. Quizzes (drop lowest 2): Relevant
+53. 10%: Relevant
+54. 10%: Relevant
+55. Homework:

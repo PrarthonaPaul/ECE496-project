@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation | 2% | N/A | N/A |
+| Project selection | 3% | N/A | N/A |
+| Report 1: Problem statement, state-of-the-art review, design specifications | 10% | N/A | N/A |
+| Report 2: Conceptual Design | 10% | N/A | N/A |
+| Concept Design Presentation | 10% | N/A | N/A |
+| Report 3: Detailed Design (including drawing package and prototype test plans) | 15% | N/A | N/A |
+| Final Design Presentation | 10% | N/A | N/A |
+| Final Project Report Prototyping, Testing, Design Iterations | 25% | N/A | N/A |
+| Participation and professionalism (including lecture attendance) | 15% | N/A | N/A |

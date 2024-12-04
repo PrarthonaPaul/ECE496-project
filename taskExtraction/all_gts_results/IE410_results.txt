@@ -1,0 +1,10 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Team Formation and Project Proposal | 10% | Teams form and submit a proposal outlining the project scope and objectives. | September 5, 2023 |
+| Ergonomic Assessment Report | 15% | Conduct an ergonomic assessment of an existing system or product. | September 26, 2023 |
+| User Needs Analysis | 15% | Analyze user needs and requirements for the project. | October 17, 2023 |
+| Preliminary Design Review | 15% | Presentation of initial design concepts and user feedback. | November 7, 2023 |
+| Midterm Progress Report | 10% | Report on progress, challenges, and next steps. | December 5, 2023 |
+| Detailed Design Document | 15% | Comprehensive design document with detailed drawings and specifications. | February 15, 2024 |
+| Usability Testing Report | 10% | Report on usability testing and design iterations. | March 20, 2024 |
+| Final Presentation and Demonstration | 10% | Final presentation and demonstration of the project. | April 10, 2024 |

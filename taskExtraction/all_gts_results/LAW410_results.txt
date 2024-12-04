@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Orientation Attendance & Training Report | 10% | Report detailing attendance and understanding of the training sessions during orientation. | September 8, 2022 |
+| Case Assignment Report | 15% | Report on the assignment of cases, including case details and initial action plans. | October 15, 2022 |
+| Initial Research Summary | 10% | Summary of initial legal research conducted for the assigned cases. | October 31, 2022 |
+| Drafted Legal Documents | 20% | Set of legal documents drafted during the practicum, including briefs, motions, and client correspondence. | December 15, 2022 |
+| Progress Report | 15% | Report on the progress of case development, including challenges and solutions. | January 15, 2023 |
+| Case Management Report | 15% | Detailed report on case management, including file organization, client interactions, and case outcomes. | February 15, 2023 |
+| Court Appearance Reflection | 10% | Reflective analysis on experiences during court appearances, including learning outcomes and personal growth. | March 1, 2023 |
+| Final Reflection Paper | 15% | Comprehensive reflection on the overall practicum experience, including skills gained and insights into legal practice. | April 1, 2023 |
+| Supervisor Evaluation | 5% | Evaluation by the supervising attorney, assessing performance and professional development. | April 5, 2023 |

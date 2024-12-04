@@ -1,0 +1,263 @@
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 1/9
+Software Engineering Capstone Project Course
+SEG4910/SEG4911 Course Sequence
+(previous course codes: SEG 4000,SEG4912/SEG4913)
+Rules for Projects
+This document contains the rules for the Software Engineering Capstone Project. Changes to the rules may be added to the document. Please consult new versions ofthe document.
+Changes as of May 2010: Clarified that the 20% evaluation by the course coordinatorcan combine an individual grade for each team member with the overall group gradebased on their participation, effort, performance and overall professional attitude.
+Changes as of May 2009: Minor typos corrected. Length of presentations clarified to be20 minutes, including time for questions. Clarifications of expectations aroundindividual group meetings.
+Changes as of May 2005: The course codes for the Capstone Projects have beenchanges to SEG4912 (from SEG4910) and SEG4913 (from SEG4911). The coursesremain the same except that the number of credits have been changed. Revisedschedule to better reflect the division of the work between the two courses for eachstudent stream (non coop and coop streams).
+Changes as of November 2004: Minor edits to reflect that the project is nowcompleted over two single semester courses (SEG4910/SEG4911) instead of a singletwo semester course (SEG4000). Other than the course codes, and the fact thatstudents will get a grade after the first semester, there are no changes to the rules. Students are required to take SEG4910/SEG4911 in sequence and work on the sameproject with the same group members for both semesters just as they did withSEG4000.
+Change as of December 2003: Minor edits to correct spelling mistakes and clean upwording. Clearer definition of the marking scheme, lectures, and deliverables for sixmilestones in anticipation of breaking the course into two one semester courses.
+Change as of January 2003: Emphasis on impact analysis and risk assessment toaddress concerns of CEAB. Also emphasize on iterative development with 6milestones. Group size is now larger. More examples of special roles in team structuresection. Introduction of 2 quality assurance presentations, one each semester.
+1.
+Group size
+Students will work in groups of between 4 and 6. Exceptions will only be considered inexceptional situations.
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 2/9
+2.
+Kinds of projects that are acceptable
+All the projects must involve serious software engineering work. You must dorequirements analysis, design, implementation, testing and deployment. However thedetails will depend heavily on the project. A project could be a prototype of a morecomplex system, or a final version of a simpler system. It could also be anenhancement to an existing system. A process based on the Unified Process will bepresented in the class. The waterfall model is not recommended; an iterative, spiral orstar approach is preferred. All aspects of quality will be important, includingmaintainability, usability and reliability. You will also have to use project managementskills to estimate costs, plan schedules, make sure you don't try to do too much etc.
+3.
+Customers
+Each project has to have at least one defined customer -- the person who has theproblem you are solving. This could be a professor, somebody from a company, or the'open market'. In the latter case, you have to do a market analysis and actually findsome people who will review requirements and prototypes and beta-test your product(these people should not be students in SITE). You will spend a lot of time interactingwith your customer(s); they will be asked to read your final report, act as beta testersand complete two questionnaires that will be used to help determine your final mark.
+4.
+Type of software
+Anything goes as long as it involves real software development. Some possible types ofsoftware include data processing, MIS, personal productivity, e-commerce, telecom,real-time, embedded, games etc. However, for some kinds of software you will clearlyhave a harder time delivering something, so you will have to justify the feasibility ofthe project. Web sites, per se, are
+not
+considered valid projects, but the web can be usedas the user interface provided there is useful programmed functionality in the site(CGIs or other Server capabilities, or Java applets). Projects that purely involveresearch (e.g. analyzing an algorithm) are not acceptable, although developing softwareto
+support
+researchers would be acceptable if it meets other criteria.
+5.
+Team structure
+The SEG project coordinator will act as if he were the CEO of a small company, whereeach team is a unit of that company. The co-coordinator will veto things of which he orshe disapproves, and also give students general advice etc. One member of each teamwill normally be elected 'project manager'. This does not mean that that person canorder the others around, just that he has the prime responsibility for projectmanagement. Others on the team may take other specialized responsibilities such as'chief programmer', 'user interface expert', 'documentation manager/technicalwriter/configuration manager', ‘quality assurance manager’, ‘requirements manager’.Part of your final report will be a section describing the work each person performed.
+6.
+How will projects be found?
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 3/9
+This can occur in several ways. Firstly, if any group of students has a project in mind,they can suggest it to the co-ordinator. Secondly, the coordinator will approach industryand faculty members to see if they have any ideas. The co-ordinator will acceptprojects that relate to a student's existing employer, provided: a) All team memberswork for the same employer, b) the SEG project coordinator retains the ability to directyour work, with your employer being considered the customer, c) you can stick to thesame schedule as other students, and d) the employer declares in writing that thestudents will be able to manage their own project according to these rules, and that theproject can continue even if the employer changes plans regarding for what it is willingto pay financial compensation.
+7.
+Financial compensation and intellectual property
+Unless the students and customer have an agreement (explicit or implicit) to thecontrary, SEG project students retain the intellectual property rights to their project (butonly those aspects of the project they actually worked on). They may therefore sell it orderivatives of it for profit. Students have a responsibility to let their customers knowthis, and give the customers the opportunity to negotiate some alternative arrangement.Students may, for example, receive financial compensation for their project work; ifthey receive such compensation then the customer will normally retain the intellectualproperty rights. Any intellectual property arrangements must be disclosed to the SEGproject supervisor. In all cases, the SEG project supervisor must be granted rights toread and run results of the project.
+8. Schedule
+For regular students (non-coop) (Starting in September of any given year)
+SEG4912 (Fall term)
+·
+Compulsory initial group meeting: 3-4 days after classes start.
+·
+Determining the subject matter: Between April and Sept 15.
+·
+Work on project: Sept to December
+§
+3 milestones with deliverables, one every 4-5 weeks.
+§
+Project definition , Analysis report, Quality Assurance Presentation (Strategyand Framework)
+§
+Each milestone is meant to be iterative, show progress in terms of a “running”system
+§
+Regular status reports for each milestone include screenshots (“Mockup”,“Hello World”, “Demo”)
+·
+Intermediate evaluation by customers: end of December.
+SEG4913 (Winter term)
+·
+Work on project: January to April
+§
+3 milestones with deliverables, one every 4-5 weeks.
+§
+Winter: Design report, Quality Assurance Presentation (Measuring Progress),Final Report
+§
+Each milestone is meant to be iterative, show progress in terms of a “running”system
+§
+Regular status reports for each milestone include screenshots (“AlphaRelease”, “Beta Release”, Final Release)
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 4/9
+·
+Final report due: April, of the following year.
+·
+Final evaluations by customers: Same date as final report.
+For coop students (starting in January of any given year)
+SEG4912 (Winter term)
+·
+Compulsory initial group meeting: 3-4 days after classes start.
+·
+Determining the subject matter: Prior to January 15.
+·
+Work on project: January to April
+§
+3 milestones with deliverables, one every 4-5 weeks.
+§
+Project definition , Analysis report, Quality Assurance Presentation (Strategyand Framework)
+§
+Each milestone is meant to be iterative, show progress in terms of a “running”system
+§
+Regular status reports for each milestone include screenshots (“Mockup”,“Hello World”, “Demo”)
+·
+Intermediate evaluation by customers: end of April.
+SEG4913 (Fall term)
+·
+Work on project: September to December
+§
+3 milestones with deliverables, one every 4-5 weeks.
+§
+Winter: Design report, Quality Assurance Presentation (Measuring Progress),Final Report
+§
+Each milestone is meant to be iterative, show progress in terms of a “running”system
+§
+Regular status reports for each milestone include screenshots (“AlphaRelease”, “Beta Release”, Final Release)
+·
+Final report due: December, of the following term
+·
+Final evaluations by customers: Same date as final report.
+9.
+On peut faire le projet en Français.
+10.
+Workload
+Each person to put in about 3-4 person-weeks of work (full-time equivalent) for each ofthe two semesters of the project. This is the normal workload for a 1 semester 3-creditcourse.
+11.
+Grading
+Your grade will be determined as follows.
+·
+20%: Satisfaction of customers. Computed from two questionnaires completedby your customers worth 10 marks each. One at the end of each of the courses(i.e each semester). This questionnaire will ask about all aspects of the workincluding whether the customer's problem was adequately solved, thecustomer's perception of the quality of the software, whether the studentscommunicated well with the customer etc. If you do work without a definedcustomer, then you get 0 for this component. If you have multiple customers,then they will all complete the questionnaire, and the average value will beused.
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 5/9
+·
+20%: Evaluation of course coordinator based on the effectiveness of projectmanagement and professionalism of the team. There will be a mark out of 10assigned at the end of each course (i.e. each semester). You will be asked togive regular reports to the co-coordinator as the project progresses. At the endof the project, the coordinator will assess the project management aspects ofthese. Marks will be given for such aspects as regularity in delivery of reports,quality and accuracy of schedules and cost estimates, effectiveness ofdistribution of work to team members, and overall professional attitude. At thediscretion of the course coordinator, this part of the evaluation can combine anindividual grade for each team member with the overall group grade based ontheir participation, effort, performance and overall professional attitude.
+·
+Team member adjustment: If team members agree that one member of a teamcontributed more than others, then that member's mark may be increased by upto 5%, with the other team members' marks being reduced to compensate. Suchan agreement must be arranged and approved no later than the designdeliverable due data (e.g. end of the first month of the second semester).
+The following items will be judged by the coordinator, based on the six deliverables(three each semester).
+·
+10%: Quality of presentations: Each team will present their work. Thepresentations will be rated by the co-coordinator and other faculty members orcustomers who attend.
+·
+20%: Quality of the software's design, including maintainability, usability andreliability. In some projects other aspects of quality such as safety andefficiency will be of great importance. You should provide analyses that proveyou have reached satisfactory levels of quality (e.g. the results of usabilityevaluation, algorithm analysis, proofs of program correctness and/orperformance evaluation). The marker will also study your design, looking forweaknesses.
+·
+10%: Quality of the writing and graphics. This includes writing style, clarityand effectiveness of communication.
+·
+10%: Completeness of the written material. Good marks if you haverequirements, design, test cases, user manual, report on usability evaluation etc.The exact components of the written material will vary depending on the needsof each project. You have to justify the documentation you produce. Also, don'tproduce unnecessary documentation. Material delivered late will not count.
+·
+10%: Complexity/difficulty/innovation of project: If you get a lower mark onsatisfaction of customers or quality of the software (e.g. the project is notworking properly) because you ran into technical difficulties, then you may beable to compensate in this category. The default mark in this category is 5marks. A project judged with lower than average complexity will get less than5; a project with higher than average complexity will get more than 5.
+Please note that the above grading scheme provides 100% for the project. A mark willbe assigned to each of the two courses based on half of the project grading, that is, thegrade for SEG4912 will be based on the first half of project grade, while the grade forSEG4913 will be based on the second half of the project grade.
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 6/9
+12.
+Proposals
+In order to officially start work on your project, the SEG project coordinator mustaccept a written proposal. This should be reasonably detailed and must be accepted bythe project start date. You should submit it as soon as possible, preferably by Sept 5 fornon-co-op and Jan 5 for co-op students. This gives time for feedback and resubmissionbefore the final Sept 15 (or Jan 15) deadline. The proposal must include:
+·
+Names, student numbers and co-op/non-co-op status of the group members.Also describe each member's role on the team.
+·
+Title, and a few paragraphs describing the project, including a clear problemstatement.
+·
+Names and backgrounds of customers, and plan for interacting with thecustomers. If your customers are from off campus, include their addresses andtelephone numbers. If you have solicited customers (e.g. in an open-marketproject), include a letter from them indicating they agree to evaluate theresulting software, as beta-testers.
+·
+If you are interfacing with non-standard hardware or software, describe this.
+·
+If you are working on a part of a larger project (e.g. with electrical engineeringstudents doing the hardware component), describe the larger project.
+·
+Engineering challenges and risks you expect to face, and how you anticipateaddressing them.
+·
+Impact Analysis: what are the potential liabilities and benefits of the projectfrom a business, environmental, financial, legal, and end-user perspective. What standards and/or legislation are relevant to your project?
+·
+Development process you plan to follow.
+E.g. RUP, SCRUM, spiral model etc.
+Give some details.
+·
+How you plan to evaluate your work. It is suggested that you set measurablequality objectives, and describe procedures you will follow to verify you havemet these objectives. Your evaluation procedures can include formal reviews orinspections, analyses of various kinds, and usability evaluation (videotaped,heuristic and/or cognitive).
+·
+Schedule for the work, including documents you plan to deliver, and on whatdates. Gantt and Pert charts can help convey this information.
+You will be permitted to make changes to the above as you develop the project,although the original proposal, and any changes, is subject to approval by thecoordinator.
+13.
+Delivery dates
+You will be expected to deliver to the coordinator six reports, spaced about a monthapart. Co-op students will have a 5-month gap between the third and fourth report. Youwill not be reminded to deliver the reports, you will simply be penalized on the projectmanagement component of your mark if you do not deliver reports on a regularmonthly basis. Each report should, as a minimum contain:
+Summary of the work completed since the last report.
+Summary of issues you have had to consider and resolve since the last report.Include key requirements and technical challenges that have required discussion.
+Time spent by each team member.
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 7/9
+Summary of interactions with customers, users and other people.
+Update to any of the information given in the original proposal. In particular, youmust refine the schedule -- giving greater detail about what you plan to do in thenext month.
+Any documentation you are scheduled to deliver (e.g. requirements, design, testplan, user manual, source code, usability evaluation, etc.)
+14.
+Meetings with customers:
+Groups should meet with their customers on a weekly or bi-weekly basis, and moreoften when requirements are being gathered and prototypes are being evaluated. If thecustomer is at a distant location, then email communication is acceptable, as long asthere are monthly telephone communications and at least two physical visits.
+15.
+Scheduled meetings with the SEG project coordinator(s):
+These will be held on a regular basis and will be compulsory for all students asindicated in the tables below. The following will be the general schedule for themeetings. Students from both streams are encouraged to attend all meetings. Eachmeeting will fit into a 1.5 hour pre-assigned time slot.
+FALL SESSION
+Regular Stream Students (SEG4912)
+Coop Stream Students (SEG4913)
+Early September
+Regular stream students meet otherregular stream members to discussproject proposals and find partners ifthey have not yet done so.
+Review of Design Deliverable. Lectureon Managing Deployment and iterativereleases. Project Status update.
+Overview of course. Lecture on iterativedevelopment and managing expectationswith customer. Project DefinitionDeliverable.
+Late September/Early October
+Lecture on prototyping and analysis ofrequirements. Analysis Deliverable.
+Lecture on testing, quality assurancereporting and stabilizing a release. QAPresentation II Deliverable.
+Late October
+Attend QA Presentation II by Coopstudents.
+QA Presentation II for Coop stream (bothstreams attend).
+Late October/Early November
+Lecture on quality assurance frameworksand strategies, software process, buildand test environments. QA PresentationI.
+Lecture on post mortems, lessonslearned, documentation, deploymentissues. Final Report Deliverable.
+Late November/EarlyDecember
+QA Presentation I for regular stream(both streams attend).
+Attend QA Presentations I by regularstream students.
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 8/9
+COOP Stream wrap up. Final demos.Course Post mortem).
+WINTER SESSION
+Regular Stream Students (SEG4913)
+Coop Stream Students (SEG4912)
+Early January
+Review of Design Deliverable. Lectureon Managing Deployment and iterativereleases. Project Status update.
+Coop stream students meet other regularstream members to discuss projectproposals and find partners if they havenot yet done so.
+Overview of course. Lecture on iterativedevelopment and managing expectationswith customer. Project DefinitionDeliverable.
+Late January/Early February
+Lecture on testing, quality assurancereporting and stabilizing a release. QAPresentation II Deliverable.
+Lecture on prototyping and analysis ofrequirements. Analysis Deliverable.
+Late February
+QA Presentation II for Regular stream(both streams attend).
+Attend QA Presentation II by regularstream students.
+Late February/Early March
+Lecture on post mortems, lessonslearned, documentation, deploymentissues. Final Report Deliverable.
+Lecture on quality assurance frameworksand strategies, software process, buildand test environments. QA PresentationI.
+Late March/Early April
+Attend QA Presentation I by Coopstudents.
+QA Presentation I for coop stream (bothstreams attend).
+Regular Stream wrap up. Final demos.Course Post mortem).
+16.
+Quality Assurance Presentation I:
+You will have 20 minutes to present your plan and approach for addressing qualityassurance in your project to the class. You will demonstrate the traceability of yourrequirements to a) the design and architecture of the system and b) the test plan, testingstrategies and process, and test tools that will be used to verify the requirements andvalidate the design. Allow for up to 5 minutes of questions during your presentation
+17.
+Quality Assurance Presentation II:
+You will have 20 minutes in which you should highlight the main difficulties youencountered, and how you overcame them. The objective will be to help the other classmembers learn something from your experiences. You will be expected to define theprogress and quality of what you have developed in terms of a Quality Assurance
+4/14/24, 2:10 PM SEG 4000: Rules for Projects
+https://www.site.uottawa.ca/~lpeyton/rules.html 9/9
+Report (that is done for each milestone in second semester). Allow for up to 5 minutesof questions during your presentation
+18.
+Presentations in general:
+Consider the following to help improve your presentations:
+·
+Use Powerpoint or a similar tool.
+·
+Understand the intent of the presentation and get to the point. Do not takeup a lot of time with uninteresting background. You may have done a lotof work, but focus on a few points about which your audience will be mostinterested (leave full details for a written report).
+·
+Make sure font size is at least 32 point for slide headings and 20 point forother text.
+·
+Make sure no point takes more than 2 lines. Don't expect readers to read along sentence - use point form.
+·
+Use diagrams (e.g. UML or pictures of screens) as much as possible. Youcan point to these and explain details of them.
+·
+Plan on using one slide for each 1-3 minutes.
+·
+Make sure you proofread your slides so they do not have spelling orgrammar errors.
+·
+Your slides should only highlight key points of what you will say orally.Make sure you don't 'read' your slides.
+·
+Practice your presentation in advance in front of other members of yourgroup, plus other friends. Make sure you get the timing right.
+·
+Practice speaking up and projecting your voice. Try to put energy intoyour presentation. Convince your audience that you are enthusiastic aboutwhat you are trying to say.
+·
+Each group member should be involved in the presentations during thecourse, however it is acceptable for a single group member to do onepresentation, while the next presentation is done by another groupmember.
+19.
+Individual Group Meetings
+Groups may also meet with the coordinator individually on an ad-hoc basis. Generallyspeaking, it is expected that groups will schedule such a meeting at least once a monthin addition to regularly scheduled meetings when good progress is being made, and thatthey will schedule even more meetings, as needed, if problems arise. Please try to give5 days notice of a desired meeting, but if problems occur the coordinator should becontacted immediately by email, if not in person. If the coordinator is not satisfied withany report, then he or she may request a meeting.

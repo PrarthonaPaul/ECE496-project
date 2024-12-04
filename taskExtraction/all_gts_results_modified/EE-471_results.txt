@@ -1,0 +1,10 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Progress Reports | 20% | Biweekly progress reports | Week 15 | N/A |
+| Core | Midterm Presentation and Design Progress Demonstration | 20% | Midterm presentation and design progress demonstration | Week 8 | N/A |
+| Core | Final Project Report | 30% | Comprehensive final report of the design project | Week 15 | N/A |
+| Core | Final Design Presentation and Demonstration | 30% | Final design presentation and demonstration | Week 16 | N/A |
+| Support | Attendance | N/A | Students must attend course meetings, participate in class work and discussions, and perform required course assessments. | N/A | N/A |
+| Support | Course Website Engagement | N/A | Students are expected to regularly log into the course website to download course material, submit their course work as instructed, and follow up on new announcements. | N/A | N/A |
+| Support | Class Participation | N/A | Students are highly encouraged to participate in class activities, ask questions, and solve technical problems in class. | N/A | N/A |
+| Support | Group Work | N/A | Students are highly encouraged to work in groups during the Lab sessions, prepare full documentations of their Lab work, gain experience on software simulations and hardware work, and gain experience on team work, communication skills, and technical writing. | N/A | N/A |

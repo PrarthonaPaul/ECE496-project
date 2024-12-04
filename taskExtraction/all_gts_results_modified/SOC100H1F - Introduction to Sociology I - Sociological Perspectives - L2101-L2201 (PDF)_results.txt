@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Peer Contributions | 5% | Encourage students to contribute to their colleagues' learning experience through various methods, such as note-taking, answering questions, posting relevant material, or suggesting contributions. | Throughout the semester | N/A |
+| Core | Tutorial | 10% | Participate in discussion groups, Q&A sessions, and exam preparation during tutorials. | N/A | N/A |
+| Core | Midterm | 25% | Complete an online midterm exam offered at two different times on October 19th. | October 19th | N/A |
+| Core | Micro Assignment | 10% | Complete a micro assignment with detailed instructions provided in lecture and online. | November 23rd | N/A |
+| Core | Final Exam | 50% | Complete a three-hour cumulative final exam drawing on material from the entire course. | December exam period | N/A |
+| Support | Announcements | N/A | Regularly check the Announcement tab on the SOC100H Quercus page for course-related matters, deadlines, new content, instructions, grade releases, and other important information. | N/A |
+| Support | General Questions about the Course | N/A | Use the General Questions about the Course forum on Quercus for non-personal course-related questions. This is monitored by professors and TAs, ensuring all clarifications are available to everyone. | N/A |
+| Support | Tutorial Assistance | N/A | Contact your tutorial TA for help and additional resources throughout the semester. | N/A |
+| Support | Lead TA Assistance | N/A | Contact the Lead TA, Maria Finnsdottir, for administrative matters, peer contribution grading, tests and exams, submission issues, grade reviews, special accommodations, missing grades, and deadlines. | N/A |
+| Support | Professor Assistance | N/A | Contact the course instructors, Prof. Christian Caron and Prof. Mitch McIvor, for any questions or concerns about the course or for private discussions. | N/A |
+| Support | Office Hours | N/A | Attend office hours for professors and TAs to seek assistance or ask questions. | N/A |
+| Support | Reading Materials | N/A | Complete assigned readings before lectures. | N/A |
+| Support | Communication and Quercus Usage | N/A | Utilize the UofT LMS (Learning Management System) Quercus for course materials, announcements, grades, and student-generated content on discussion boards. | N/A |
+| Support | Textbook Purchase | N/A | Purchase the required textbook, "Exploring Sociology: A Canadian Perspective, 5th Edition" by Ravelli, Bruce & Michelle Webber, as an ebook or downloadable ebook. | N/A |
+| Support | Academic Integrity | N/A | Adhere to the University's principles of academic integrity and avoid plagiarism. | N/A |
+| Support | Accessibility and Accommodations | N/A | Students with diverse learning styles and needs are welcome and encouraged to approach the instructor or contact the Accessibility Services Office for accommodations. | N/A |
+| Support | Writing Support | N/A | Utilize writing resources provided by the Faculty of Arts and Science, including the Writing Centre, advice files, and group instruction on writing and study skills. | N/A |
+| Support | Other University Student Services | N/A | Utilize various university student services, such as the Academic Success Centre, Campus Safety, Career Centre, Centre for International Experience, Family Care Office, First Nations House, Health & Wellness, and Ombudsperson. | N/A |

@@ -1,0 +1,8 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | AI History Report | N/A | N/A | 10th Oct | N/A |
+| Core | Neural Network Implementation | N/A | Implement a simple neural network. | 24th Oct | N/A |
+| Core | AI Application | N/A | Develop an AI application for a real-world problem. | 9th Dec | N/A |
+| Core | Research Paper | N/A | Write a research paper on an AI topic. | N/A | N/A |
+| Support | Reading Materials | N/A | Read about the history and ethics of AI, machine learning, and natural language processing. | N/A | N/A |
+| Support | LaTeX Usage | N/A | Use LaTeX for all assignments. | N/A | N/A |

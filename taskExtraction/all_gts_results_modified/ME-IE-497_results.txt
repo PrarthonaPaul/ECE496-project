@@ -1,0 +1,18 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Group Charter and Presentation | 50 | Create a group charter and present it to the class. | 10Oct13 | N/A |
+| Core | Project Notebook | 50 | Maintain a log of all engineering work not on Google. | 12Dec13 | N/A |
+| Core | Background Report | 200 | Follow the Example Report template through section 2.1 Current State Analysis. | 24Oct13 | N/A |
+| Core | Preliminary Proposal | 200 | Follow the Example Report template through section 3 Design Analysis, with previous sections updated per critique. | 18Nov13 | N/A |
+| Core | Final Proposal | 250 | Follow the Example Report template through section 4 Design Selected, with previous sections updated per critique. | 9Dec13 | N/A |
+| Core | Weekly Presentations | 100 | Present progress, plans, and issues in Google Presentations. | N/A | N/A |
+| Core | Project Contribution Subjective | 150 | Evaluate individual and group contributions to the project. | N/A | N/A |
+| Core | Final Report | 375 | Follow the Example Report template through Section 7 Conclusion and make corrections/modifications from Final Proposal critique. | 13Mar13 | N/A |
+| Core | Project Results Subjective | 375 | Assess the manufacturing and testing of parts, process improvements, and objective fulfillment. | N/A | N/A |
+| Support | Team Meetings | N/A | Attend team meetings and record results/decisions in the project notebook. | N/A | N/A |
+| Support | Reading Materials | N/A | Read and understand course materials, including the Example Report template and grading rubrics. | N/A | N/A |
+| Support | Communication | N/A | Use Google tools for communication and information sharing. | N/A | N/A |
+| Support | Writing and Presentation Skills | N/A | Develop writing and presentation skills through assignments and feedback. | N/A | N/A |
+| Support | Lab Certification | N/A | Obtain certification to work in the MIME machining lab for projects with significant mechanical design requirements. | N/A | N/A |
+| Support | Disability Accommodations | N/A | Students with approved accommodations should contact the faculty member to discuss accommodations. | N/A | N/A |
+| Support | Academic Honesty and Conduct | N/A | Adhere to university policies regarding academic honesty and conduct. | N/A | N/A |

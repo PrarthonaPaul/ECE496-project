@@ -1,0 +1,9 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Programming Assignments | 40% | Four programming assignments throughout the semester, with room for design decisions. | N/A | N/A |
+| Core | Exam I | 20% | First exam. | February 23, 6:30-8:00pm | N/A |
+| Core | Exam II | 20% | Second exam. | April 13, 6:30-8:00pm | N/A |
+| Core | Project | 20% | Term project in teams of 5, with two checkpoints and a final submission deadline. | Multiple deadlines, Poster presentations April 16, 3:30-7:00pm | N/A |
+| Support | Reading Materials | N/A | Required reading of course materials on Canvas. | N/A | N/A |
+| Support | Forum Engagement | N/A | Regularly read and engage with the course forum on Piazza for announcements, clarifications, and help. | N/A | N/A |
+| Support | Communication Guidelines | N/A | Direct technical questions to the forum and use email for other inquiries. | N/A | N/A |

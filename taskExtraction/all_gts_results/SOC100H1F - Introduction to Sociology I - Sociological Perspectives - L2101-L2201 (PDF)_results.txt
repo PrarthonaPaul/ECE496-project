@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Peer Contributions | 5% | Encourage students to contribute to their colleagues' learning experience through various means such as note-taking, answering questions, posting relevant material, and suggesting contributions. | Throughout the semester |
+| Tutorial | 10% | Participate in discussion groups, Q&A sessions, and exam preparation. | Tutorials held on specific dates in September, October, November, and December. |
+| Midterm | 25% | Online midterm exam offered at two different times on October 19th. | October 19th |
+| Micro Assignment | 10% | Details to be shared in lecture and online on Quercus. | November 23rd |
+| Final Exam | 50% | A three-hour cumulative exam covering the entire course material. | December exam period |

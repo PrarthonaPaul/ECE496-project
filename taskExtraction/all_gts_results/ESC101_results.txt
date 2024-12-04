@@ -1,0 +1,6 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Device Design | 15% | Students work in pairs to explore and analyze the concept of "engineering design" by investigating the key design decisions embodied in household electro-mechanical devices. | 2013-10-07 @ 0900 |
+| Product Design | N/A | Students engage in an engineering design sequence that spans framing, conceptual design, detailed design, and design critique. Students take on the roles of entrepreneur-client and, in multiple forms, design engineer. | N/A |
+| Non-Project Deliverables | 20% | Students are expected to continue to develop their independent learning and reflective skills throughout the term. | N/A |
+| Final Examination | 25% | The Final Examination for ESC101 will likely take place on either Friday, December 6th, 2013 or on Monday, December 9th, 2013. The exam will be written online and will have three questions, weighted unequally, that focus on: Framing and Requirements, Implementing "Design for X", and Critical Self-Reflection. | N/A |

@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Class Meetings | 20 points | N/A | N/A | N/A |
+| Core | Individual Meetings | 12 points | N/A | N/A | N/A |
+| Core | Project Proposal | 10 points | Develop a project proposal with clear objectives, methods, and expected outcomes. | Sep 18 | Proposal Presentation |
+| Core | Revised Proposal | 13 points | N/A | Oct 23 | Revised Proposal Presentation |
+| Core | Final Report | 25 points | Produce a detailed final report analyzing the project's impact on healthcare. | Dec 6 | Final Presentations |
+| Core | Presentation | 10 points | Present the project professionally. | Dec 6 | Final Presentations |
+| Core | Poster | 10 points | Create a poster for the project. | Dec 6 | Poster Display |
+| Support | Attendance | N/A | Regular attendance at all scheduled class meetings and individual sessions. | N/A | N/A |
+| Support | Participation | N/A | Active participation in class discussions and activities. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adherence to ASU's academic integrity policy, avoiding plagiarism and academic dishonesty. | N/A | N/A |
+| Support | Accommodations | N/A | Students with disabilities or special needs should contact the ASU Disability Resource Center and notify the instructor. | N/A | N/A |

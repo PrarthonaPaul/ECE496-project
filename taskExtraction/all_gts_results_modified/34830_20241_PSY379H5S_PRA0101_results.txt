@@ -1,0 +1,8 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Experiment Worksheets | 40% | Submit a worksheet after each experiment, answering questions about the experiment and materials covered in the lecture. | Multiple dates (see course outline) | N/A |
+| Core | Research Proposal | 30% | Submit a 10-page double-spaced research proposal, including an introduction, literature review, research question, hypotheses, experimental procedures, predicted results, and discussion of potential outcomes. | April 05 | N/A |
+| Core | Oral Presentation | 20% | Deliver a 20-minute presentation on the research proposal. | March 22 or April 05 | N/A |
+| Support | Reading Material | N/A | Read 1-2 research articles per week posted on Quercus. | N/A | N/A |
+| Support | Software Usage | N/A | Use Microsoft Excel for data processing, JASP for statistical analyses, and Inquisit 6 Player app to run experiments. | N/A | N/A |
+| Support | Participation | N/A | Complete all four experiments throughout the course and provide commentary and questions on a classmate's presentation. | N/A | N/A |

@@ -1,0 +1,33 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Design, or redesign, an experiment for, or from, the Engineering Science undergraduate curriculum | N/A | Each Capstone Design team will (re)design, prototype, and test a working laboratory experiment. | N/A | N/A |
+| Core | Develop both the experiment itself, including all supporting apparatus and equipment, documentation, learning objectives, etc. | N/A | N/A | N/A | N/A |
+| Core | Develop a full set of engineering documentation that substantiates their design | N/A | N/A | N/A | N/A |
+| Core | Develop designs into functioning products suitable for immediate deployment in the classroom or laboratory | N/A | N/A | N/A | N/A |
+| Core | Provide evidence of reflective activities completed during the course | N/A | Each Capstone Design student is individually expected to provide evidence of reflective activities completed during the course. | N/A | N/A |
+| Core | Proposal Draft | N/A | N/A | 2012-09-22 | N/A |
+| Core | Proposal | N/A | N/A | 2012-09-28@1200 | N/A |
+| Core | Preliminary Design Draft | N/A | N/A | 2012-10-20 | N/A |
+| Core | Preliminary Design | N/A | N/A | 2012-10-26@1200 | N/A |
+| Core | Design Critique (group presentation) | N/A | N/A | 2012-11-19 | N/A |
+| Core | Walkthrough | N/A | N/A | From 2012-12-6 to 2012-12-14 | N/A |
+| Core | Final Design | N/A | N/A | 2012-12-21@1200 | N/A |
+| Core | Record of Reflection | N/A | N/A | 2012-12-21@1200 | N/A |
+| Support | N/A | N/A | Students are required to develop functional, and optionally non-functional, prototypes of their Capstone designs. | N/A | N/A |
+| Support | N/A | N/A | Students will be reimbursed for their purchases and will have access to machine shop services. | N/A | N/A |
+| Support | N/A | N/A | Students must obtain prior approval from both the course instructors and from a designated authority to receive reimbursement or gain access to machine shop services. | N/A | N/A |
+| Support | N/A | N/A | Students may choose to engage in activities that have associated costs, for example having posters printed on large format paper or producing bound, colour copy reports. | N/A | N/A |
+| Support | N/A | N/A | Students in Capstone Design are expected to spend an amount similar to the cost of a textbook over the course of the term without expectation of compensation. | N/A | N/A |
+| Support | N/A | N/A | As much as possible, assessment will be structured so that the grade and the level of expenditure will not be correlated, allowing students to choose their own level of expenditure. | N/A | N/A |
+| Support | N/A | N/A | Students should consult with the Course Instructors should they feel that the costs of the course are becoming excessive. | N/A | N/A |
+| Support | N/A | N/A | Students are prohibited from recording or otherwise reproducing any copyrighted materials associated with ESC471 Capstone Design unless they obtain prior permission from the copyright holder. | N/A | N/A |
+| Support | N/A | N/A | Tangible instructional materials (e.g. assignments, slides, handouts, etc.) developed by the Course Instructors are released under a Creative Commons license that permits the sharing of the materials, so long as attribution is made, no financial remuneration is asked, and any derivative works are similarly licensed. | N/A | N/A |
+| Support | N/A | N/A | Tangible instructional materials developed by other parties are assumed to be copyright those parties unless otherwise indicated. | N/A | N/A |
+| Support | N/A | N/A | Intangible instructional materials, in particular spoken or presented content, is assumed to be copyright those providing the materials, including the Course Instructors. | N/A | N/A |
+| Support | N/A | N/A | Students agree that by taking this course all submitted deliverables may be used for teaching and learning purposes, in this or subsequent courses, or to support research into improving engineering education. | N/A | N/A |
+| Support | N/A | N/A | Should such use take place, any content identifying the student will be removed. | N/A | N/A |
+| Support | N/A | N/A | Students who are concerned about the intellectual property ramifications of potential disclosure must notify the Course Instructors prior to the end of the 20129 academic session. | N/A | N/A |
+| Support | N/A | N/A | Students agree that by taking this course all required papers may be subject to submission for textual similarity review to Turnitin.com for the detection of plagiarism. | N/A | N/A |
+| Support | N/A | N/A | All submitted papers will be included as source documents in the Turnitin.com reference database solely for the purpose of detecting plagiarism of such papers. | N/A | N/A |
+| Support | N/A | N/A | The intellectual property of all students submitting to Turnitin.com is protected by the licensing agreement between the University of Toronto and iParadigms. | N/A | N/A |
+| Support | N/A | N/A | This agreement further ensures that student papers submitted to Turnitin.com will not be used for commercial purposes. | N/A | N/A |

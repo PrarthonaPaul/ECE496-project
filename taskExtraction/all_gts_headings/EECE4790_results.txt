@@ -1,0 +1,22 @@
+1. Northeastern University: Irrelevant
+2. Department of Electrical and Computer Engineering: Irrelevant
+3. Syllabus of Capstone Design Course I: EECE 4790: Irrelevant
+4. Term: Summer 2, 2021: Irrelevant
+5. Course Title: Electrical and Computer Engineering Capstone I (Capstone Design I): Irrelevant
+6. Course Number: EECE 4790: Irrelevant
+7. Instructors: Capstone Advisors: Irrelevant
+8. Prerequisite: Senior Standing: Irrelevant
+9. Basic Mathematical knowledge...: Irrelevant
+10. Course Description and Objectives:: Irrelevant
+11. ACE Objectives: Irrelevant
+12. Project Selection and Weekly Meetings:: Irrelevant
+13. Credit Hours: Capstone 1 (EECE 4790) is 4 credit hours.: Irrelevant
+14. Mandatory Requirement: Capstone 1 (EECE 4790) is required course by all senior undergraduate students. It is also required that students continue to take Capstone 2 (EECE 4792).: Relevant
+15. Textbook: No Textbook: Irrelevant
+16. Topics to be covered include: Brainstorming, Analysis of the Project, Feasibility Study. Division of Tasks and Project Management, Intellectual Property, Materials Selection, Effective Written and Oral Communication.: Irrelevant
+17. Tentative Schedule and Deliverables: Relevant
+18. Course Requirements: Relevant
+19. Facilities:: Irrelevant
+20. Grading:: Relevant
+21. Grading Remarks: Grading in EECE 4790 Capstone 1 is based on weekly meetings, progress report, analysis and feasibility study, written reports, oral presentations and the final proposal. However, the advisor may have specific strategy to give the above grade distribution which is determined based on the metrics for success developed by the team and his own evaluation criteria.: Relevant
+22. Note for Summer 2021: Due to the ongoing COVID-19 Pandemic, all rules and regulations are subject to change. Meetings can be arranged based on mutual agreement of Capstone Advisors and Students.: Irrelevant

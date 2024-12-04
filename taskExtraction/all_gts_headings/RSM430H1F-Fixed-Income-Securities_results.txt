@@ -1,0 +1,70 @@
+1. Course Outline: Irrelevant
+2. Course Code: Irrelevant
+3. Course Name: Irrelevant
+4. Term, Year: Irrelevant
+5. Course Meets: Irrelevant
+6. Web page URL: Irrelevant
+7. Instructor Details: Irrelevant
+8. Course Description: Irrelevant
+9. Learning Outcomes: Irrelevant
+10. Course Prerequisites: Irrelevant
+11. Course Materials: Irrelevant
+12. Electronic Course Materials: Irrelevant
+13. Evaluation and Grades: Relevant
+14. Work: Relevant
+15. Percentage of grade: Relevant
+16. Due Date: Relevant
+17. Midterm Test: Relevant
+18. RIT Case Performance: Relevant
+19. Decision Case Report (Group): Relevant
+20. Decision Case Q&A (Group): Relevant
+21. Final Term Test: Relevant
+22. Course Format and Expectations: Irrelevant
+23. RIT Decision Case Group Assignment: Report and Q&A: Irrelevant
+24. Support is available if you encounter common teamwork challenges such as:: Irrelevant
+25. Consult the Centre for Professional Skills Teamwork Resources page for tips, strategies, and best practices. You can also book an appointment with a teamwork mentor through the RC Centre for Professional Skills Writing Centre. Teamwork mentors can help you resolve or mitigate conflict, strategize on planning, or improve team communication.: Irrelevant
+26. If you are a student registered with Accessibility Services, and extensions are one of your academic accommodations, consult with your Accessibility Advisor about the teamwork in this course.: Irrelevant
+27. The Group Assignment is designed to help you develop your communication skills. How well you communicate your ideas in writing will be considered in the evaluation of the assignment. In your written work, aim for clarity, strong organization, conciseness, professionalism, and correct grammar. Additionally, a Q&A session will be scheduled for each group to address questions related to the Decision Cases. More detailed information will be provided on the course portal.: Irrelevant
+28. Support is available through the RC Centre for Professional Skills (CPS) for students who would like help or feedback on their writing or speaking (to prepare for the Q&A session). CPS offers both individual and group appointments with trained writing instructors and presentation coaches who are familiar with the RC program and common types of business assignments. You can also access your college Writing Centres for help with written assignments.: Irrelevant
+29. You can book an appointment with a writing or presentation coach through the RC Centre for Professional Skills Writing Centre. For more information about writing centres, student supports, and study resources, see the Writing and Presentation Coaching academic support page.: Irrelevant
+30. RIT Case Performance: Irrelevant
+31. Missed Tests and Assignments: Irrelevant
+32. Students who miss a term test or assignment for reasons entirely beyond their control (e.g. illness) may request special consideration within 2 business days of the missed midterm/test/ assignment due date.: Irrelevant
+33. In such cases, students must:: Irrelevant
+34. Complete the Request for Special Consideration form: https://uoft.me/RSMConsideration: Irrelevant
+35. Provide documentation to support the request, eg. Absence Declaration from ACORN, medical note etc.: Irrelevant
+36. Please note: As of September 2023, students may use the Absence Declaration on ACORN *one time per term* to report an absence and request consideration. Any subsequent absence will require a Verification of Illness form or other similar relevant documentation.: Irrelevant
+37. Students who do not submit their requests and documentation within 2 days may receive a grade of 0 (zero) on the missed course deliverable.: Irrelevant
+38. There will be no make-up for the RIT Case Performance. Students who miss the RIT Case Performance for valid documented reasons with an approval will have their grades re-allocated to their final exam.: Irrelevant
+39. Final Exams: If you miss the final exam in this course for a legitimate reason (illness, etc) you will need to contact your College Registrar to file a petition for a deferred exam. This deferred exam will be written at a later date as established by the Faculty of Arts & Science. Instructions: Irrelevant
+40. can be found here: https://www.artsci.utoronto.ca/current/faculty-registrar/petitions-appeals/preparing-petition: Irrelevant
+41. Late Assignments: Irrelevant
+42. All assignments are due on the date and at the time specified in Quercus. Late submissions will normally be penalized by 1% of the overall course grade if the assignment is not received on the specified date, at the specified time. A further penalty of additional 1% deduction will be applied to each subsequent day until the assignment is received or the allocated grade becomes zero as a result.: Irrelevant
+43. Statement on Equity, Diversity and Inclusion: Irrelevant
+44. The University of Toronto is committed to equity, human rights and respect for diversity. All members of the learning environment in this course should strive to create an atmosphere of mutual respect where all members of our community can express themselves, engage with each other, and respect one another’s differences. U of T does not condone discrimination or harassment against any persons or communities.: Irrelevant
+45. Commitment to Accessibility: Irrelevant
+46. The University is committed to inclusivity and accessibility, and strives to provide support for, and facilitate the accommodation of, individuals with disabilities so that all may share the same level of access to opportunities and activities offered at the University.: Irrelevant
+47. If you require accommodations for a temporary or ongoing disability or health concern, or have any accessibility concerns about the course, the classroom or course materials, please email Accessibility Services or visit the Accessibility Services website for more information as soon as possible. Obtaining your accommodation letter may take up to several weeks, so get in touch with them as soon as possible. If you have general questions or concerns about the accessibility of this course, you are encouraged to reach out to your instructor, course coordinator, or Accessibility Services.: Irrelevant
+48. Plagiarism Detection: Irrelevant
+49. Normally, students will be required to submit their course essays to the University’s plagiarism detection tool for a review of textual similarity and detection of possible plagiarism. In doing so, students will allow their essays to be included as source documents in the tool’s reference database, where they will be used solely for the purpose of detecting plagiarism. The terms that apply to the University’s use of this tool are described on the University's Plagiarism Detection Tool FAQ page from Centre for Teaching Support & Innovation.: Irrelevant
+50. Generative AI / ChatGPT: Irrelevant
+51. Students are allowed to make use of technology, including generative artificial intelligence tools, to contribute to their understanding of course materials as learning aids or to help produce assignments.: Irrelevant
+52. Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats are now providing information on citing generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/).: Irrelevant
+53. The use of generative artificial intelligence tools must be documented in an appendix for each assignment. The documentation should include what tool(s) were used, how they were used, and how the results from the AI were incorporated into the submitted work.: Irrelevant
+54. Academic Integrity: Irrelevant
+55. Academic Integrity is a fundamental value essential to the pursuit of learning and scholarship at the University of Toronto. Participating honestly, respectfully, responsibly, and fairly in this academic community ensures that the U of T degree that you earn will continue to be valued and respected as a true signifier of a student's individual work and academic achievement. As a result, the University treats cases of academic misconduct very seriously.: Irrelevant
+56. The University of Toronto’s Code of Behaviour on Academic Matters outlines the behaviours that constitute academic misconduct, the process for addressing academic offences and the penalties that may be imposed. You are expected to be familiar with the contents of this document. Potential offences include, but are not limited to:: Irrelevant
+57. In papers and assignments: Irrelevant
+58. Using someone else's ideas or words without appropriate acknowledgement.: Irrelevant
+59. Submitting your own work in more than one course without the permission of the instructor.: Irrelevant
+60. Making up sources or facts.: Irrelevant
+61. Obtaining or providing unauthorized assistance on any assignment (this includes collaborating with others on assignments that are supposed to be completed individually).: Irrelevant
+62. On test and exams: Irrelevant
+63. Using or possessing any unauthorized aid, including a cell phone.: Irrelevant
+64. Looking at someone else's answers.: Irrelevant
+65. Misrepresenting your identity.: Irrelevant
+66. Submitting an altered test for re-grading.: Irrelevant
+67. Misrepresentation: Irrelevant
+68. Falsifying institutional documents or grades.: Irrelevant
+69. Falsifying or altering any documentation required by the University, including (but not limited to) medical notes.: Irrelevant
+70. All suspected cases of academic dishonesty will be investigated by the procedures outlined in the Code of Behaviour on Academic Matters. If you have any questions about what is or is not permitted in the

@@ -1,0 +1,14 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Team Formation and Project Proposal | 10% | Teams form and submit a proposal outlining the project scope and objectives. | September 15, 2020 | N/A |
+| Core | Preliminary Design Review | 15% | Presentation of initial design, including sketches and initial calculations. | October 20, 2020 | N/A |
+| Core | Prototype Development and Testing | 20% | Development of a functional prototype and initial testing. | November 25, 2020 | N/A |
+| Core | Midterm Presentation | 10% | Presentation of progress and prototype performance. | December 10, 2020 | N/A |
+| Core | Final Design Review | 15% | Presentation of final design, including detailed drawings and calculations. | February 15, 2021 | N/A |
+| Core | Final Prototype and Testing Report | 20% | Submission of final prototype and detailed testing report. | March 20, 2021 | N/A |
+| Core | Final Presentation and Demonstration | 10% | Final presentation and demonstration of the project. | April 10, 2021 | N/A |
+| Support | Attendance | N/A | Regular attendance is required. | N/A | N/A |
+| Support | Reading Textbook | N/A | Reading the required textbook, "Mechanical Engineering Design" by J.E. Shigley and C.R. Mischke. | N/A | N/A |
+| Support | Using CAD Software | N/A | Accessing and utilizing CAD software for design purposes. | N/A | N/A |
+| Support | Prototyping | N/A | Acquiring and using prototyping materials for the project. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhering to the university's academic integrity policy to avoid plagiarism and cheating. | N/A | N/A |

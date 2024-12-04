@@ -1,0 +1,9 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Introduction to Full Stack Development & Project Planning | 15% | N/A | Week 1 |
+| Front-End Design (HTML/CSS/JavaScript) | 25% | Design the front-end of the web application using HTML, CSS, and JavaScript. | Week 2 |
+| Back-End Development (Node.js/Express) | 25% | Develop the back-end using Node.js and Express. | Week 3 |
+| Database Integration (MongoDB) | N/A | Integrate a MongoDB database into the application. | Week 4 |
+| Authentication & Security | N/A | Implement authentication and security measures. | Week 5 |
+| Deployment to Cloud (AWS/Heroku) | N/A | Deploy the web application to a cloud platform such as AWS or Heroku. | Week 6 |
+| Final Presentation & Application Demo | 35% | Present the final web application and provide a demonstration. | Week 7 |

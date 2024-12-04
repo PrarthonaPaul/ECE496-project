@@ -1,0 +1,11 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Curriculum Design Overview | 10% | Initial overview and outline of the curriculum design approach. | September 15, 2022 | N/A |
+| Core | Needs Analysis Report | 10% | Analysis of educational needs and setting objectives for the curriculum. | October 15, 2022 | N/A |
+| Core | Curriculum Framework Draft | 15% | Draft of the overall curriculum framework including goals and structure. | November 15, 2022 | N/A |
+| Core | Lesson Plan Set | 20% | Set of detailed lesson plans aligned with the curriculum framework. | December 15, 2022 | N/A |
+| Core | Assessment Tools | 15% | Design assessments to evaluate student learning and curriculum effectiveness. | January 31, 2023 | N/A |
+| Core | Implementation Plan | 15% | Plan outlining strategies for implementing the curriculum in a real or simulated setting. | February 28, 2023 | N/A |
+| Core | Pilot Test Report | 10% | Report on testing the curriculum, including observations and adjustments. | March 15, 2023 | N/A |
+| Core | Reflection Report | 15% | Reflective report on curriculum implementation, effectiveness, and personal learning. | April 1, 2023 | N/A |
+| Core | Revised Curriculum Plan | 10% | Revised curriculum plan incorporating feedback from peers and reflections. | April 15, 2023 | N/A |

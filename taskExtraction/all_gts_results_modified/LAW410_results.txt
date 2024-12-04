@@ -1,0 +1,16 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Orientation Attendance & Training Report | 10% | Report detailing attendance and understanding of the training sessions during orientation. | September 8, 2022 | N/A |
+| Core | Case Assignment Report | 15% | Report on the assignment of cases, including case details and initial action plans. | October 15, 2022 | N/A |
+| Core | Initial Research Summary | 10% | Summary of initial legal research conducted for the assigned cases. | October 31, 2022 | N/A |
+| Core | Drafted Legal Documents | 20% | Set of legal documents drafted during the practicum, including briefs, motions, and client correspondence. | December 15, 2022 | N/A |
+| Core | Progress Report | 15% | Report on the progress of case development, including challenges and solutions. | January 15, 2023 | N/A |
+| Core | Case Management Report | 15% | Detailed report on case management, including file organization, client interactions, and case outcomes. | February 15, 2023 | N/A |
+| Core | Court Appearance Reflection | 10% | Reflective analysis on experiences during court appearances, including learning outcomes and personal growth. | March 1, 2023 | N/A |
+| Core | Final Reflection Paper | 15% | Comprehensive reflection on the overall practicum experience, including skills gained and insights into legal practice. | April 1, 2023 | N/A |
+| Core | Supervisor Evaluation | 5% | Evaluation by the supervising attorney, assessing performance and professional development. | April 5, 2023 | N/A |
+| Support | N/A | N/A | Reading materials, using forums, or following communication guidelines. | N/A | N/A |
+| Support | N/A | N/A | Engage in case research, document drafting, and client representation. | N/A | N/A |
+| Support | N/A | N/A | Develop professional skills in client communication and representation. | N/A | N/A |
+| Support | N/A | N/A | Conduct thorough legal research and analysis relevant to cases handled. | N/A | N/A |
+| Support | N/A | N/A | Understand and apply ethical considerations in legal practice. | N/A | N/A |

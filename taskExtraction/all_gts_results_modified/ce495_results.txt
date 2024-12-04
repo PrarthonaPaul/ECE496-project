@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Design Plans | 25%* | Prepare a set of design plans on 24x36 inch sheets using AutoCAD or equivalent software, including a cover sheet, site plan, general notes, project layout, and detailed drawings. | April 28, 2014 | Submission of design plans |
+| Core | Final Report | 25%* | Compile a comprehensive final report with a title page, cover letter, table of contents, executive summary, project descriptions, scope of work, permits, specifications, standards, estimated quantities and costs, appendices with team member contributions, time tracking, meeting minutes, and design calculations. | April 28, 2014 | Submission of final report |
+| Core | Oral Presentation | 25%* | Prepare and deliver an oral presentation of the design project, including individual contributions. | April 29, 2014 | Final oral presentation |
+| Core | Progress Reports | N/A | Weekly progress reports to the class instructor by the Project Manager. | Weekly | N/A |
+| Core | Preliminary Plans | N/A | Submit preliminary plans, including a full-scale cover sheet and reduced-scale sheets. | March 24, 2014 | N/A |
+| Core | Preliminary Oral Presentations | N/A | Prepare and deliver preliminary oral presentations to practice and receive feedback. | April 21, 2014 | N/A |
+| Support | Team Meetings | N/A | Regular team meetings to discuss project progress and make decisions. | Weekly | N/A |
+| Support | Instructor Meetings | N/A | Project Manager meets with the instructor weekly, and the instructor evaluates teams every one or two weeks. | Weekly/Biweekly | N/A |
+| Support | Reading Materials | N/A | Read and understand the course catalog description, purpose, objectives, and grading policy. | N/A | N/A |
+
+*Note: These task percentages are based on the grading distribution provided in the document, assuming that the team and individual efforts are equally weighted within each category.

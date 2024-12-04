@@ -1,0 +1,91 @@
+Powered by AI
+Copilot
+ELEC220 - Digital Systems Design
+University:
+Central Technical University
+Course Duration:
+Full Year (Fall and Winter)
+Instructor:
+Dr. Laura Thompson
+Contact Information:
+laura.thompson@ctu.edu
+Offi ce Hours:
+Mondays and Wednesdays, 3:00 PM - 5:00 PM
+Course Description
+This second-year course focuses on the design and implementation of digital systems. Students work on projectssuch as designing a digital clock, a simple computer, or an automated control system. The course emphasizeshands-on experience with digital logic, microcontroller programming, and system integration.
+Learning Outcomes
+By the end of this course, students will be able to:
+1.
+Design and implement digital logic circuits.
+2.
+Program microcontrollers for various applications.
+3.
+Integrate digital components into a cohesive system.
+4.
+Test and debug digital systems.
+5.
+Document and present their design and implementation process.
+Course Timeline and Deliverables
+Fall Semester:
+Date
+Deliverable
+Description
+Weight
+September 15,2020
+Team Formation and ProjectProposal
+Teams form and submit a proposal outliningthe project scope and objectives.
+10%
+October 20,2020
+Digital Logic DesignAssignment
+Design and implementation of basic digitallogic circuits.
+15%
+November 25,2020
+MicrocontrollerProgramming Assignment
+Programming a microcontroller to performspecifi c tasks.
+15%
+December 10,2020
+Midterm Progress Report
+Report on progress, challenges, and nextsteps.
+10%
+Winter Semester:
+Date
+Deliverable
+Description
+Weight
+February 15,2021
+System Integration andTesting Report
+Report on the integration of digitalcomponents and initial testing results.
+15%
+March 20,2021
+Prototype Development andTesting Report
+Report on prototype development and testingresults.
+20%
+April 10,2021
+Final Presentation andDemonstration
+Final presentation and demonstration of thedigital system project.
+15%
+Grading Breakdown
+Team Formation and Project Proposal: 10%
+Digital Logic Design Assignment: 15%
+Microcontroller Programming Assignment: 15%
+Midterm Progress Report: 10%
+System Integration and Testing Report: 15%
+Prototype Development and Testing Report: 20%
+Final Presentation and Demonstration: 15%
+Total: 100%
+Course Policies
+Attendance:
+Regular attendance is required. More than three unexcused absences may result in a lowergrade.
+Late Submissions:
+Assignments submitted late will incur a penalty of 5% per day, up to a maximum of25%.
+Academic Integrity:
+All students are expected to adhere to the university’s academic integrity policy.Plagiarism or cheating will result in disciplinary action.
+Required Materials
+Textbook: “Digital Design and Computer Architecture” by David Harris and Sarah Harris
+Access to microcontroller development kits (e.g., Arduino, Raspberry Pi)
+Prototyping materials (to be specifi ed based on project requirements)
+Additional Resources
+University Library
+Digital Systems Lab
+Online tutorials and workshops
+This syllabus provides a comprehensive overview of the ELEC220 course, including key elements such aslearning outcomes, a detailed timeline with deliverables, and their respective weights. If you need any furtherdetails or adjustments, feel free to ask!

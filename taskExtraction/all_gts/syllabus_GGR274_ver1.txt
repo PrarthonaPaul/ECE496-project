@@ -1,0 +1,29 @@
+Course Syllabus: Web Development Capstone - Full Stack Project
+Description of Course:
+This course is designed to provide hands-on experience in full stack web development. Students will
+work on creating a complete web application, from front-end design to back-end development,
+deploying it to a cloud server.
+Instructor and Contact Information:
+Prof. John Smith
+Email: johnsmith@university.edu
+Office Hours: Tuesdays 3-5 PM (Online)
+Assignment Schedule:
+- Week 1: Introduction to Full Stack Development & Project Planning
+- Week 2: Front-End Design (HTML/CSS/JavaScript)
+- Week 3: Back-End Development (Node.js/Express)
+- Week 4: Database Integration (MongoDB)
+- Week 5: Authentication & Security
+- Week 6: Deployment to Cloud (AWS/Heroku)
+- Week 7: Final Presentation & Application Demo
+Grading Policy:
+- Project Proposal: 15%
+- Front-End Design: 25%
+- Back-End Development: 25%
+- Final Application & Presentation: 35%
+Required Readings/Resources:
+- Eloquent JavaScript by Marijn Haverbeke
+- You Dont Know JS by Kyle Simpson
+- Online resources: MDN Web Docs, W3Schools
+Final Project Submission:
+Due Date: The final application, along with a demonstration video, is due on Week 7. A detailed
+project report should be submitted, covering all stages of development.

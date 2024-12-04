@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Project Proposal | N/A | Create a proposal for an astrophysical project, detailing the research question, proposed methods, expected outcomes, timeline, and team member roles. | Week 3 |
+| Model Design and Simulation | N/A | Design an astrophysical model or experiment and create simulations for validation. Utilize existing telescope data or simulations for model refinement. | Weeks 4-6 |
+| Experiment Implementation | N/A | Carry out the experiment or collect observational data. Test the model against real-world data to validate and refine the hypothesis. | Weeks 7-10 |
+| Data Analysis and Interpretation | N/A | Analyze the collected data, interpret the results, and compare them to established astrophysics theories and models. | Weeks 11-12 |
+| Final Report | N/A | Document the research process, design choices, encountered challenges, and outcomes in a comprehensive report. | Weeks 13-15 |
+| Presentation and Poster Preparation | N/A | Craft a presentation and design a poster for the Innovation Showcase, showcasing the project's key elements. | Weeks 13-15 |

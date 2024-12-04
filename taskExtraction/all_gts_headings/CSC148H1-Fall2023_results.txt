@@ -1,0 +1,30 @@
+1. Course Syllabus: Irrelevant
+2. Course team: Irrelevant
+3. Lectures: Irrelevant
+4. Active learning: Irrelevant
+5. Lecture recordings: Irrelevant
+6. Labs: Irrelevant
+7. Office hours: Irrelevant
+8. CSC148 Community Code of Conduct: Irrelevant
+9. Contact: website, email, discussion board: Irrelevant
+10. Prerequisites: Irrelevant
+11. Dropping down to CSC108: Irrelevant
+12. Textbook: Irrelevant
+13. Course software: Irrelevant
+14. Assessments and course grading scheme: Relevant
+15. Weekly Preparation Exercises (8%): Relevant
+16. Weekly labs (8%): Relevant
+17. Assignments (25%): Relevant
+18. Midterm (16%) and Final Exam (41%): Relevant
+19. Special Consideration: Irrelevant
+20. Weekly Preps: Irrelevant
+21. Assignments: Late submission accommodation policy: Irrelevant
+22. Missed Midterm: Irrelevant
+23. Accommodations and accessibility services: Irrelevant
+24. Midterm remark requests: Irrelevant
+25. Academic integrity: Irrelevant
+26. Policy on generative AI (including ChatGPT): Irrelevant
+27. Copyright notice: Irrelevant
+28. Lecture and tutorial recordings: Irrelevant
+29. Your course work: Irrelevant
+30. GitHub: Irrelevant

@@ -1,0 +1,15 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Project Proposal Submission | 10% | Submit a detailed project proposal with scope, objectives, timeline, and initial design concepts. | October 12, 2020 | N/A |
+| Core | Conceptual Design Presentation | 15% | Present conceptual design to the class, including design alternatives and justifications. | November 9, 2020 | N/A |
+| Core | Mechanical Design Report | 15% | Submit a report detailing the mechanical design, CAD drawings, material selection, and manufacturing considerations. | December 7, 2020 | N/A |
+| Core | Control Systems Integration Report | 15% | Submit a report on the design and integration of electrical and control systems, including sensor selection and control algorithms. | January 25, 2021 | N/A |
+| Core | Interim Project Report | 20% | Document project progress, system integration, testing results, and modifications. | February 22, 2021 | N/A |
+| Core | Final Design Review Presentation | 10% | Present the final design to industry experts, demonstrating the system's functionality and addressing concerns. | March 22, 2021 | N/A |
+| Core | Final Project Report and Prototype Demonstration | 15% | Submit a detailed report on the design and development process, and demonstrate a functional prototype. | April 12, 2021 | N/A |
+| Support | N/A | N/A | Read and understand the course syllabus, policies, and expectations. | N/A | N/A |
+| Support | N/A | N/A | Attend all lectures, presentations, and team meetings. | N/A | N/A |
+| Support | N/A | N/A | Communicate absences in advance and provide documentation if necessary. | N/A | N/A |
+| Support | N/A | N/A | Adhere to the collaboration policy, ensuring equal contribution and documentation of individual work. | N/A | N/A |
+| Support | N/A | N/A | Maintain academic integrity and avoid plagiarism or academic dishonesty. | N/A | N/A |
+| Support | N/A | N/A | Be aware of the late submission policy and potential penalties. | N/A | N/A |

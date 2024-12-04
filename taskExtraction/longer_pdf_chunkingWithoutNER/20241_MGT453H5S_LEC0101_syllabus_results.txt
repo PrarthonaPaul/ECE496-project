@@ -1,0 +1,52 @@
+ Here is a table with the tasks extracted from the course outline, classified as either "Core" or "Support," with any missing information denoted by 'N/A.' 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|
+| Core | Class Participation | 8% | Participation is an important element of learning and case analysis. | On-going | N/A |
+| Core | Online module - TCPS 2 | 2% | Students will be required to complete an online module on Research Ethics. | 2024-01-23 | N/A |
+| Core | Term Test -1 | 17% | The first term test will be comprised of MC / TF / and/or short answer questions / and or mini case-based scenarios. | 2024-02-14 | N/A |
+| Core | Term Test -2 | 18% | The second term test will be comprised of MC / TF / and/or short answer questions / and or mini case-based scenarios. | 2024-03-20 | N/A |
+| Core | Term Test -3 (Cumulative) | 25% | The third term test will be comprised of MC / TF / and/or short answer questions / and or mini case-based scenarios. This test will cover ALL topics discussed in the course (cumulative). | 2024-04-03 | N/A |
+| Core | Group Project -Part 1 (Proposal) | 5% | Students will analyze the business situation to formulate the problem, finalize key objectives and propose a plan to meet the business objectives (PPTX format). | 2024-02-06 | N/A |
+| Core | Group Project -Part 2 (Final Report) | 20% | In this part, students will execute the plan proposed
+ Here is a table with the tasks extracted from the syllabus, classified into either "Core" or "Support," with additional information filled in where available:
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Complete all reading and preparation before each class | N/A | N/A | N/A | N/A |
+| Core | Attend and participate in all classes | N/A | N/A | N/A | N/A |
+| Core | Submit assignments by the specified deadlines | N/A | N/A | N/A | N/A |
+| Core | Complete any make-up work as and when required | N/A | N/A | N/A | N/A |
+| Core | Follow the guidelines for academic integrity and academic misconduct | N/A | N/A | N/A | N/A |
+| Core | Complete the RGASC and UTM Library training sessions | N/A | N/A | N/A | N/A |
+| Core | Comply with all Special Consideration Request instructions | N/A | N/A | N/A | N/A |
+| Support | Follow the course policies regarding **academic integrity** and **conduct** | N/A | N/A | N/A | N/A |
+| Support | Access and use **UTM's Library** and the **Robert Gillespie Academic Skills Centre (RGASC)** | N/A | N/A | N/A | N/A |
+| Support | Comply with all **Special Consideration Request** instructions | N/A | N/A | N/A | N/A |
+ Here is an analysis of the tasks from the academic course schedule according to their status as either core or support tasks: 
+
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Group Project - Part 1 | 5% | Assignments that students must complete individually, contribute to project completion | Feb 6th | N/A |
+| Core | Term Test - 1 | 17% | Evaluative assessments that measure knowledge of taught material | Feb 14th | N/A |
+| Core | Group Project - Part 2 - Final Report | 20% | Assignments that students must complete individually, contribute to project completion | Mar 26th | N/A |
+| Core | Group Project - Part 3 - Presentation | 5% | Assignments that students must complete individually, contribute to project completion | Mar 27th | N/A |
+| Core | Term Test - 3 | 25% | Evaluative assessments that measure knowledge of taught material | Apr 3rd | N/A |
+| Support | Introduction to Marketing Research | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Marketing Research Process and Proposal | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Qualitative Research | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Quantitative Research | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Measurement and Scaling | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Questionnaire Design | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Sampling Techniques and Methods | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Qualitative Data Analysis | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Quantitative Data Analysis - 1 | N/A | Preparatory topic-related reading | N/A | N/A |
+| Support | Quantitative Data Analysis - 2 | N/A | Preparatory topic-related reading | N/A | N/A |
+
+Please note that some tasks were repeated for each milestone of the group project. The above table only lists each task once, under the due date of the final milestone for that task. 
+
+The given criteria for core tasks include deliverables, assignments, projects, exams, or graded components. These tasks should have specific goals, deadlines, and descriptions, and may include milestones or deliverables. 
+
+Support tasks, on the other hand, are related to general course engagement, preparation, or participation, such as reading materials, using forums, or following communication guidelines. These are ongoing or preparatory activities without direct grading. 
+
+If you would like me to make any adjustments to this table, please let me know! 

@@ -1,0 +1,12 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Team Formation and Project Proposal | 10% | Teams form and submit a proposal outlining the project scope and objectives. | September 15, 2020 | N/A |
+| Core | Data Structures Implementation Assignment | 15% | Implement basic data structures such as linked lists, stacks, and queues. | October 20, 2020 | N/A |
+| Core | Algorithm Design Assignment | 15% | Design and implement algorithms for specific tasks. | November 25, 2020 | N/A |
+| Core | Midterm Progress Report | 10% | Report on progress, challenges, and next steps. | December 10, 2020 | N/A |
+| Core | Advanced Data Structures and Algorithms | 15% | Implement advanced data structures and algorithms. | February 15, 2021 | N/A |
+| Core | Prototype Development and Testing Report | 20% | Report on prototype development and testing results. | March 20, 2021 | N/A |
+| Core | Final Presentation and Demonstration | 15% | Final presentation and demonstration of the software project. | April 10, 2021 | N/A |
+| Support | N/A | N/A | Regular attendance is required. | N/A | N/A |
+| Support | N/A | N/A | Read the textbook "Introduction to Algorithms" and utilize additional resources like the university library, computer science lab, and online tutorials. | N/A | N/A |
+| Support | N/A | N/A | Access and use a programming environment (e.g., Eclipse, IntelliJ IDEA) and prototyping materials. | N/A | N/A |

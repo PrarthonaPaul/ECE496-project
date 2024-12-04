@@ -1,0 +1,10 @@
+1. Calendar Information: Irrelevant
+2. Course Overview: Irrelevant
+3. Learning Outcomes and Graduate Attributes: Irrelevant
+4. Timetable: Irrelevant
+5. Course Instructors: Irrelevant
+6. Textbook: Irrelevant
+7. Final Grade Determination: Relevant
+8. Deliverables: Relevant
+9. Course Policies: Irrelevant
+10. Additional Course Information: Irrelevant

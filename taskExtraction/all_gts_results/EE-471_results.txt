@@ -1,0 +1,6 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Progress Reports | 20 % | N/A | Biweekly |
+| Midterm Presentation and Design Progress Demonstration | 20 % | N/A | Week 8 |
+| Final Project Report | 30 % | N/A | Week 15 |
+| Final Design Presentation and Demonstration | 30 % | N/A | Week 16 |

@@ -1,0 +1,18 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Weekly Project Updates | 10% | N/A | N/A | N/A |
+| Core | Project Proposal Deliverables | 20% | Proposal and in-class presentation | 09/20 | 1) Problem identification and definition; 2) Company background; 3) Proposed methodology and approach; 4) Project management plan; 5) Anticipated results and deliverables. |
+| Support | Weekly Progress Memo | N/A | Write a weekly memo to the sponsor, following the provided template. | 7:00 a.m. every Monday | N/A |
+| Core | Interim Progress Deliverables | 10% | Major progress report | 10/18 | 1) Review problem definition, current product/system/service, and proposed solution methodology; 2) Show progress to date; 3) Review project management progress; 4) Note future changes in project timing; 5) Indicate remaining work and anticipated changes. |
+| Core | Participation/ Peer/Sponsor Evaluations | 15% | Evaluate team members and receive evaluations from peers and sponsor. | N/A | N/A |
+| Core | Ethics Assignment | 5% | Assignment based on an ethics video and the Code of Ethics for Engineers. | 09/04 | N/A |
+| Core | Final Deliverables | 30% | Final report, in-class presentation, one-page project recap summary, poster, and printed final report. | 12/04 | N/A |
+| Core | Meeting Sponsor's Project Objective | 10% | N/A | N/A | N/A |
+| Support | Project Kickoff Attendance | N/A | Attend the project kickoff event. | 08/30 | N/A |
+| Support | Advisor Meetings | N/A | Schedule and attend weekly meetings with your advisor. | N/A | N/A |
+| Support | Sponsor Conference Calls | N/A | Participate in weekly conference calls with your project sponsor. | N/A | N/A |
+| Support | In-Class Background Sessions | N/A | Attend in-class sessions for professional background and orientation. | N/A | N/A |
+| Support | In-Class Project Presentations | N/A | Attend in-class project presentations and discussions. | N/A | N/A |
+| Support | Group Meetings and Consultation | N/A | Participate in group meetings and consultations for project work. | N/A | N/A |
+| Support | Expense Reimbursement Procedures | N/A | Follow procedures for expense reimbursement. | N/A | N/A |
+| Support | Disability Accommodations | N/A | Contact the Office for Disability Services for academic adjustments if needed. | N/A | N/A |

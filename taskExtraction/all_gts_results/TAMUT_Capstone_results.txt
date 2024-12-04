@@ -1,0 +1,29 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Develop a project proposal | N/A | N/A | Weeks 1 to 3 |
+| Meet with the instructor each week | N/A | N/A | Weeks 4 to 14 |
+| Make an oral presentation of the project | N/A | N/A | Week 15 |
+| Submit the final project report | N/A | N/A | Week 16 |
+| Select a project proposal | N/A | Students are required to select their own project proposal, with a strong encouragement for projects involving hardware and software design. | N/A |
+| Provide a demonstration of a hardware prototype and a detailed design report | N/A | At the completion of the project, students must provide a hardware prototype demonstration and a comprehensive design report detailing all design process aspects. | N/A |
+| Address manufacturability, engineering economics, environmental, and ethical issues in the final design project report | N/A | The final design project report should address relevant issues related to manufacturability, economics, environmental impact, and ethics. | N/A |
+| Make weekly progress presentations to the instructor | N/A | Each design team must present their project progress during weekly meetings with the instructor. | N/A |
+| Submit design review reports as required | N/A | Design review reports must be submitted to the instructor as requested. | N/A |
+| Submit a written technical report on the final design process and results | N/A | A technical report detailing the final design process, results, and relevant conclusions must be submitted. | N/A |
+| Prepare and present the design project description to the class | N/A | At the end of the semester, each team must prepare and present their design project to the entire class. | N/A |
+| Guide students in their project designs | N/A | The instructor will guide and mentor students as they work on their project designs. | N/A |
+| Monitor project design progress during weekly meetings | N/A | The instructor will monitor the progress of project designs during the weekly meetings. | N/A |
+| Expose students to economic, ethical, and social effects related to their designs | N/A | Students will be introduced to various economic, ethical, and social considerations related to their design projects. | N/A |
+| Present technical report writing methods and enhance student writing skills | N/A | The instructor will provide guidance on writing technical reports and interact with students to improve their writing abilities. | N/A |
+| Assess the quality of the final design project presentation | N/A | The instructor will evaluate the presentation describing the final design project results. | N/A |
+| Apply knowledge of mathematics, science, and engineering | N/A | Students should be able to apply their knowledge of mathematics, science, and engineering in their work. | N/A |
+| Design and conduct experiments, analyze and interpret data | N/A | Students should gain the ability to design experiments, analyze data, and interpret results. | N/A |
+| Design a system, component, or process to meet needs within realistic constraints | N/A | Students should be able to design systems, components, or processes considering economic, environmental, social, and other practical constraints. | N/A |
+| Function as part of a multi-disciplinary team | N/A | Students should be able to collaborate effectively within a multi-disciplinary team. | N/A |
+| Identify, formulate, and solve engineering problems | N/A | Students should develop the skills to identify, formulate, and solve engineering challenges. | N/A |
+| Understand professional and ethical responsibility | N/A | Students should gain an understanding of professional ethics and responsibilities. | N/A |
+| Communicate effectively in written and oral forms | N/A | Students should improve their written and oral communication skills. | N/A |
+| Understand the global, economic, environmental, and societal impact of electrical and computer engineering solutions | N/A | Students should grasp the broader implications of electrical and computer engineering in various contexts. | N/A |
+| Recognize the need for and engage in life-long learning | N/A | Students should recognize the importance of continuous learning and professional development. | N/A |
+| Stay updated on contemporary issues | N/A | Students should be aware of and engage with contemporary issues in their field. | N/A |
+| Utilize modern engineering tools and techniques | N/A | Students should be proficient in using modern engineering tools and techniques for practical applications. | N/A |

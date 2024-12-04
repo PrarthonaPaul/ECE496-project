@@ -1,0 +1,14 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Team Formation | N/A | Form teams for the project. | Jan 15, 2021 | Project Kickoff |
+| Core | Software Requirements Specification Document | 15% | Create a detailed document outlining software requirements. | Feb 5, 2021 | Requirements Specification |
+| Core | System Architecture and Design Document | 20% | Develop a comprehensive design document with architecture, diagrams, models, and specifications. | Feb 26, 2021 | System Design |
+| Core | Functional Prototype and Presentation | 20% | Build a functional prototype and present it, including a demonstration, design discussion, and final development plan. | Mar 19, 2021 | Prototype Development |
+| Core | Test Plan and Testing Report | 15% | Create a test plan and report detailing testing strategies, tools, test cases, results, issues, and resolutions. | Apr 9, 2021 | Final Testing and Quality Assurance |
+| Core | Final Software, Documentation, and Presentation | 30% | Deliver the complete software, user/technical documentation, and present the project to faculty and professionals. | Apr 23, 2021 | Final Project Submission & Presentation |
+| Support | Reading Textbook | N/A | Read "Software Engineering: A Practitioner's Approach" by Pressman and Maxim. | N/A | N/A |
+| Support | Using Tools | N/A | Utilize GitHub, Jira, and suitable IDEs for version control, project management, and development. | N/A | N/A |
+| Support | Lab and Cloud Access | N/A | Access Central Tech University's software development labs and cloud resources. | N/A | N/A |
+| Support | Attendance | N/A | Attend team meetings, presentations, and class sessions. | N/A | N/A |
+| Support | Team Collaboration | N/A | Contribute equally to team efforts and report any team dynamic issues to the instructor. | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to the university's academic integrity policy, avoiding plagiarism and cheating. | N/A | N/A |

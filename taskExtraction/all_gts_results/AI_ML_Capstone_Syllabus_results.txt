@@ -1,0 +1,11 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Introduction to Neural Networks & CNNs | N/A | N/A | Week 1 |
+| Data Collection and Preprocessing | 20% | Gather and preprocess image datasets | Week 2 |
+| Building the CNN Architecture | N/A | Construct the CNN model structure | Week 3 |
+| Training the Model & Hyperparameter Tuning | N/A | Train the CNN and optimize hyperparameters | Week 4 |
+| Model Evaluation & Performance Metrics | N/A | Assess the model's performance using metrics | Week 5 |
+| Fine-Tuning & Transfer Learning | N/A | Refine the model and explore transfer learning techniques | Week 6 |
+| Project Proposal | 10% | Propose the image classification project idea | N/A |
+| CNN Model Development | 30% | Develop and implement the CNN model | N/A |
+| Final Model & Presentation | 40% | Complete the final model, write a report, and present the project | Week 7 |

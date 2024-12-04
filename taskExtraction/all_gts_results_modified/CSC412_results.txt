@@ -1,0 +1,13 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Assignments | 30% | 3 assignments, weighted equally | 2/04, 2/18, 3/24 | N/A |
+| Core | Midterm Exam | 30% | In-class midterm exam | 2/26 (Mon section) 2/28 (Wed section) | N/A |
+| Core | Final Exam | 40% | Final exam | TBD | N/A |
+| Support | Course Webpage | N/A | Check the course webpage regularly for information, readings, assignments, and announcements. | N/A | N/A |
+| Support | Collaboration Policy | N/A | Individual work, but discussion and collaboration with up to two classmates is allowed after individual attempts. | N/A | N/A |
+| Support | Late Policy | N/A | 10% deduction per late day, up to 3 days, then submission is blocked. | N/A | N/A |
+| Support | Absence Declaration | N/A | Students should record absences through the ACORN online system and inform instructors. | N/A | N/A |
+| Support | Grading Concerns | N/A | Requests for re-evaluation must be made within one week of grade release. | N/A | N/A |
+| Support | Computing | N/A | Students may need to write and debug programs in Python or other languages for assignments and projects. | N/A | N/A |
+| Support | Missed Tests | N/A | Documentation required for missed tests, especially for medical reasons. | N/A | N/A |
+| Support | Accommodation for Disability | N/A | Accessibility requests should be sent to the instructor at least a week before evaluation item due dates. | N/A | N/A |

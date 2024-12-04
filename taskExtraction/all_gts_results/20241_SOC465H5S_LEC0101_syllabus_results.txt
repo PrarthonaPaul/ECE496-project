@@ -1,0 +1,7 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Term Test | 30% | Two Essay Questions | 2024-02-05 |
+| Assignment | 30% | Review Essay on Patel and Moore's book | 2024-02-26 |
+| Assignment | 5% | Response paper | 2024-03-11 |
+| Assignment | 10% | Response paper | 2024-03-18 |
+| Term Test | 25% | Two Essays and a short answer question | 2024-04-01 |

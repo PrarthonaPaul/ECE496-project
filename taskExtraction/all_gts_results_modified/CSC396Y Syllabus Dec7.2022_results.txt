@@ -1,0 +1,54 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Post Pitch a problem space and yourself to your class | N/A | N/A | Apr TBD | N/A |
+| Core | Post Heuristic review of Toronto Transit system | N/A | N/A | May 16 | N/A |
+| Core | Post Group forms, problem space, individual research plans | N/A | N/A | May 30 | N/A |
+| Core | Post Individual research paper proposal for approval | N/A | N/A | May 30 | N/A |
+| Core | Post Individual research plan & instruments for feedback | N/A | N/A | June 13 | N/A |
+| Core | Post Individual research results, paper review, Berlin expectations | N/A | N/A | July 11 | N/A |
+| Core | Present Individual research | N/A | N/A | July 24 | N/A |
+| Core | Present Group combined results in class | N/A | N/A | July 25 | N/A |
+| Core | Post Group Design Requirements, Experience Map, UX Strategy, Low-Fi prototype plans | N/A | N/A | July 27 | N/A |
+| Core | Post Individual low-fi prototypes | N/A | N/A | Aug 6 | N/A |
+| Core | In class Usability test individual low-fi prototypes | N/A | N/A | Aug 6 | N/A |
+| Core | Post Individual low-fi test results | N/A | N/A | Aug 6 | N/A |
+| Core | Present Group combined solutions, internal evaluations, functional prototype(s), & usability test plans | N/A | N/A | Aug 6 | N/A |
+| Core | Post Group usability test results, & updated prototype(s) | N/A | N/A | Aug 14 | N/A |
+| Core | Present Group Project in-class for practice and feedback | N/A | N/A | Aug 16 | N/A |
+| Core | Present Final Group Project for guests | N/A | N/A | Aug 17 | N/A |
+| Core | Post Usability Testing Reflection | N/A | N/A | Aug 17 | N/A |
+| Core | Post Peer review, Berlin retrospective, Course evaluation | N/A | N/A | Aug 17 | N/A |
+| Core | Deliver final design, documentation, & project presentation | N/A | N/A | N/A | N/A |
+| Support | Read Plagiarism in CS http://www.cs.toronto.edu/~fpitt/documents/plagiarism.html and Arts & Science Code of Behaviour https://governingcouncil.utoronto.ca/media/15068/view | N/A | N/A | N/A | N/A |
+| Support | Use your own computer and the software of your choice for prototyping | N/A | N/A | N/A | N/A |
+| Support | Ensure your group's prototype is viewable in any standard Web browser | N/A | N/A | N/A | N/A |
+| Support | Discuss any software not listed with the instructor before starting | N/A | N/A | N/A | N/A |
+| Support | Ballot to qualify for the course extension CSC494H | N/A | N/A | N/A | N/A |
+| Support | Use Quercus for all course information and communication | N/A | N/A | N/A | N/A |
+| Support | Email via Quercus is the preferred method of communication with the professor | N/A | N/A | N/A | N/A |
+| Support | Do not expect immediate email responses from the professor | N/A | N/A | N/A | N/A |
+| Support | Ensure your ROSI email is correctly set to your University email address | N/A | N/A | N/A | N/A |
+| Support | Participate in the Berlin City Walking Tour | N/A | N/A | N/A | N/A |
+| Support | Visit Berlin's Technology Museum | N/A | N/A | N/A | N/A |
+| Support | Visit FUTURIUM the house of futures | N/A | N/A | N/A | N/A |
+| Support | Visit Berlin's Musical Instruments Museum | N/A | N/A | N/A | N/A |
+| Support | Visit Berlin's DDR Museum | N/A | N/A | N/A | N/A |
+| Support | Take a HALF DAY TRIP by local commuter train to Human Computer Interaction Laboratory in the Hasso Plattner Institute at Potsdam University | N/A | N/A | N/A | N/A |
+| Support | Take a TWO DAY TRIP to Volkswagen Factory at Autostadt, Wolfsburg, Germany with an overnight stay and a visit to the Phaeno Science Museum | N/A | N/A | N/A | N/A |
+| Support | Form groups at the start of the course and work in these groups for the duration of the course | N/A | N/A | N/A | N/A |
+| Support | Compare user experience aspects of transit systems in Toronto and Berlin | N/A | N/A | N/A | N/A |
+| Support | Attend lectures, critique sessions, and project presentations | N/A | N/A | N/A | N/A |
+| Support | Work successfully in a group | N/A | N/A | N/A | N/A |
+| Support | Contribute to group-work | N/A | N/A | N/A | N/A |
+| Support | Complete assignments A0 through A4 prior to departing for Germany | N/A | N/A | N/A | N/A |
+| Support | Complete the rest of the assignments while in Berlin | N/A | N/A | N/A | N/A |
+| Support | Participate in the course | N/A | N/A | N/A | N/A |
+| Support | Submit all work individually or within your group | N/A | N/A | N/A | N/A |
+| Support | Do not submit anyone else's work | N/A | N/A | N/A | N/A |
+| Support | Do not plagiarize | N/A | N/A | N/A | N/A |
+| Support | Ensure written work is in satisfactory university-level English prose | N/A | N/A | N/A | N/A |
+| Support | Ensure structure and organization, spelling, grammar, word usage, and document appearance are of high quality | N/A | N/A | N/A | N/A |
+| Support | Rewrite assignments if they are not in satisfactory university-level English prose | N/A | N/A | N/A | N/A |
+| Support | Request remarking of an assignment in writing within 24 hours after receiving the assignment | N/A | N/A | N/A | N/A |
+| Support | Include detailed reason and contact info in requests for remarking | N/A | N/A | N/A | N/A |
+| Support | Note that assignments submitted for remarking will be remarked fully and may result in lower grades | N/A | N/A | N/A | N/A |

@@ -1,0 +1,19 @@
+1. Group size: Irrelevant
+2. Kinds of projects that are acceptable: Irrelevant
+3. Customers: Irrelevant
+4. Type of software: Irrelevant
+5. Team structure: Irrelevant
+6. How will projects be found?: Irrelevant
+7. Financial compensation and intellectual property: Irrelevant
+8. Schedule: Relevant
+9. On peut faire le projet en Français.: Irrelevant
+10. Workload: Irrelevant
+11. Grading: Relevant
+12. Proposals: Relevant
+13. Delivery dates: Relevant
+14. Meetings with customers:: Irrelevant
+15. Scheduled meetings with the SEG project coordinator(s):: Irrelevant
+16. Quality Assurance Presentation I:: Relevant
+17. Quality Assurance Presentation II:: Relevant
+18. Presentations in general:: Irrelevant
+19. Individual Group Meetings: Irrelevant

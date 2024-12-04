@@ -1,0 +1,17 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Weekly Reading Quiz | 10% | Quiz on assigned articles | N/A | N/A |
+| Core | Discussion Participation | 5% | Active engagement in class discussions | N/A | N/A |
+| Core | Discussion Leader | 5% | Lead a discussion on an assigned article | N/A | N/A |
+| Core | Team Blog Posts | 15% | Write blog posts on the class blog | N/A | N/A |
+| Core | Research Brief | 15% | Submit an individual research report | N/A | N/A |
+| Core | Team Presentation | 10% | Upload a team research presentation to the course blog | N/A | N/A |
+| Core | Midterm Test | 20% | Midterm quiz on course readings | N/A | N/A |
+| Core | Term Test | 20% | End-of-term quiz on course readings | N/A | N/A |
+| Support | Reading | N/A | Read assigned articles and prepare for discussions | N/A | N/A |
+| Support | Attendance | N/A | Attend all scheduled meetings | N/A | N/A |
+| Support | Academic Integrity | N/A | Adhere to academic integrity guidelines | N/A | N/A |
+| Support | Email Communication | N/A | Use email for quick exchanges or information sharing | N/A | N/A |
+| Support | AccessAbility Services | N/A | Students with disabilities/health considerations should contact AccessAbility Services | N/A | N/A |
+| Support | Grading Curves | N/A | Final grades may be curved based on historic averages and departmental norms | N/A | N/A |
+| Support | Academic Services | N/A | Utilize academic resources like the Writing Centre and Sociology librarian | N/A | N/A |

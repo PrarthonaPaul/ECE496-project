@@ -1,0 +1,24 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Formulate and write a detailed proposal | N/A | Describe the work to be done on the project and defend it orally. | August 25 | N/A |
+| Core | Specify the problem to be solved | N/A | Provide a complete specification of the problem. | August 25 | N/A |
+| Core | Conduct a literature survey | N/A | Perform a thorough literature survey and include a bibliography. | August 25 | N/A |
+| Core | Analyze and break down the project into tasks | N/A | Break down the project, describe task interactions, and provide a technical approach for each task. | August 25 | N/A |
+| Core | Describe work in progress | N/A | Explain the current state of work on the project. | August 25 | N/A |
+| Core | Identify required tools and equipment | N/A | List the tools and equipment needed, and place orders for equipment parts. | August 25 | N/A |
+| Core | Create a project organization plan | N/A | Develop a plan with individual responsibilities, team effort, status reports, and a realistic schedule with milestones. | August 25 | N/A |
+| Core | Weekly Progress Report | 10 Points | N/A | N/A | N/A |
+| Core | Individual Task and Presentation | 15 Points | N/A | N/A | N/A |
+| Core | Midterm Report "White Paper" | 15 Points | N/A | July 29 | White Paper |
+| Core | Final Written Proposal | 20 Points | N/A | Aug 18, 19 | Final Proposal |
+| Core | Final Oral Presentation | 20 Points | N/A | Aug 18, 19 | Final Proposal |
+| Support | Form project groups | N/A | Students form teams. | July 12 | N/A |
+| Support | Propose project ideas and brainstorming | N/A | Brainstorm and propose project ideas. | July 15 | N/A |
+| Support | Discuss proposal ideas | N/A | Discuss and refine project proposals. | July 19 | N/A |
+| Support | Identify Project and Analysis | N/A | Analyze and select a project. | July 22 | N/A |
+| Support | Present tasks breakdown | N/A | Present the breakdown of tasks for the project. | July 26 | N/A |
+| Support | Discuss approach for each task | N/A | Discuss the approach and strategy for each task. | July 26 | N/A |
+| Support | Final Technical Discussion of Study Phase | N/A | Final technical discussion before proposal preparation. | Aug 5 | N/A |
+| Support | Identify equipment and cost analysis | N/A | Determine equipment needs and perform a cost analysis within the budget. | Aug 9 | N/A |
+| Support | Preparing Proposal draft and Presentation | N/A | Prepare a draft proposal and presentation. | Aug 12 | N/A |
+| Support | Meeting Participation and Teamwork | 20 Points | Participate in meetings and demonstrate effective teamwork. | N/A | N/A |

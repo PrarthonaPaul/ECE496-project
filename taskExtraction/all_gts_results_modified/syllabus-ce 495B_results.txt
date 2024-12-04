@@ -1,0 +1,16 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Design Plans | 25%* | Prepare a set of design plans on 24x36 inch sheets using AutoCAD or equivalent software, including a cover sheet, site plan, general notes, project layout, and detailed drawings. | April 28, 2014 | Submission of design plans |
+| Core | Final Report | 25%* | Compile a comprehensive final report with a title page, cover letter, table of contents, executive summary, project descriptions, scope of work, permits, specifications, standards, estimated quantities, costs, appendices, team member contributions, and time spent on the project. | April 28, 2014 | Submission of final report |
+| Core | Oral Presentation | 25%* | Prepare and deliver an oral presentation of the design project, including individual and team performances. | April 29, 2014 | Final oral presentation |
+| Core | Design Calculations | N/A | Provide signed and checked design calculations. | April 28, 2014 | Submission of design reports |
+| Core | Resumes | N/A | Update and submit resumes in team format. | N/A | N/A |
+| Support | Progress Reports | N/A | Project Manager to provide weekly progress reports to the class instructor. | Weekly | N/A |
+| Support | Preliminary Plans | N/A | Submit preliminary plans, including a full-scale cover sheet and reduced-scale sheets. | March 24, 2014 | N/A |
+| Support | Preliminary Oral Presentations | N/A | Prepare and deliver preliminary oral presentations to practice and identify areas for improvement. | April 21, 2014 | N/A |
+| Support | General Class Meeting | N/A | Attend the general class meeting. | April 24, 2014 | N/A |
+| Support | Team Meetings | N/A | Attend and participate in regular team meetings, including project manager-instructor meetings, instructor-team evaluation meetings, and full team meetings. | Weekly or Bi-Weekly | N/A |
+| Support | Other Meetings | N/A | Participate in other meetings as required, such as meetings with mentors or other relevant individuals. | As needed | N/A |
+| Support | Confidential Evaluations | N/A | Evaluate teammates' contributions to the team and project. | N/A | N/A |
+
+*Note: These task percentages are based on the grading distribution provided in the document, assuming that the team and individual efforts are equally weighted within each category.

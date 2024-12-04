@@ -1,0 +1,15 @@
+| Task | Task Percentage | Description | Deadline |
+|---|---|---|---|
+| Course Introduction & Overview | N/A | N/A | Sept 7, 2021 |
+| Introduction to Smart Grids & Key Components | N/A | N/A | Sept 14, 2021 |
+| Renewable Energy Integration | N/A | N/A | Sept 21, 2021 |
+| Smart Metering and Data Analytics | 10% | Submit a proposal for a smart grid component, including objectives, expected outcomes, and a project plan. Demonstrate the project's feasibility and relevance within the smart grid context. | Oct 5, 2021 |
+| Demand Response & Grid Management | N/A | N/A | Oct 19, 2021 |
+| Power System Stability and Security | 15% | Submit a preliminary design report with technical specifications, design diagrams, and a prototyping plan. Identify challenges and propose solutions. | Nov 2, 2021 |
+| Communication Networks in Smart Grids | N/A | N/A | Nov 16, 2021 |
+| Regulatory and Economic Considerations | 15% | Assess the regulatory requirements and economic impact of the proposed component. Consider standards compliance, cost-benefit analysis, and market barriers. | Nov 30, 2021 |
+| Project Development Workshop | N/A | N/A | Dec 7, 2021 |
+| Final Design Review & Feedback | N/A | N/A | Dec 14, 2021 |
+| Final Project Presentation & Demonstration | 30% | Present a final design, a working prototype, and a formal presentation to industry professionals, faculty, and peers, showcasing the technical and practical aspects. | Dec 21, 2021 |
+| Peer Evaluation | 10% | Submit a peer evaluation report assessing team member contributions to ensure fair and equal participation. | Dec 21, 2021 |
+| Final Project Report Submission | 20% | Submit a comprehensive report documenting the design process, problem statement, methodology, testing results, conclusions, and future improvements. | Dec 23, 2021 |

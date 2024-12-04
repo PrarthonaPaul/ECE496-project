@@ -1,0 +1,5 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Assignments | 30% | 3 assignments, to be completed individually or with up to two classmates, with collaboration policy and submission instructions provided. | 2/04, 2/18, 3/24 |
+| Midterm Exam | 30% | In-class midterm exam, with an optional A4 double-sided cheat sheet allowed. | 2/26 (Mon section), 2/28 (Wed section) |
+| Final Exam | 40% | Final exam with two optional A4 double-sided cheat sheets allowed. | N/A |

@@ -1,0 +1,7 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+|---|---|---|---|---|---|
+| Core | Discussion Post | N/A | N/A | 1/13 | N/A |
+| Core | Submit Ratio Analysis Report | N/A | N/A | 1/20 | Ratio Analysis Report |
+| Core | Submit Financial Forecast | N/A | N/A | 1/27 | Financial Forecast |
+| Core | Prepare Financial Statements | N/A | N/A | 2/3 | Financial Statements |
+| Core | Submit Financial Analysis Report | N/A | N/A | 2/10 | Financial Analysis Report |

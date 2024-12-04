@@ -1,0 +1,249 @@
+ETRO 497 { Capstone Project I { Fall 2017
+Syllabus: Capstone Project I
+Je rey Yepez
+University of Hawai`i Maui College
+Science, Technology, Engineering and Mathematics Department
+310 Ka`ahumanu Ave, Kahului, HI 96732-1617
+yepez@hawaii.edu
+(Dated: September 1, 2017)
+I. COURSE DESCRIPTION
+This is a 3 credit one-semester course on research and development.
+A. Overview
+The course teaches the research and development (R&D) cycle, beginning with the conceptual planning and review
+phases of an engineering project. The students practice project documentation, formal design review presentations,
+oral defense of the project, and writing a  nal report. The course introduces technical methods for analyzing,
+designing, prototyping, synthesizing, troubleshooting, and testing an integrated system (comprising multiple devices
+and subsystems) to create a scienti c experimental device.
+The class meets Fridays from 9:00-11:45am (via VTC as needed)
+O ce Hours: Friday after class and by appointment
+Prerequisites: ETRO 315 with grade C, or better. | This prerequisite cannot be waived.
+B. Course plan
+The course guides the students to build a rocket payload under the NASA RockSat-C program. The RockSat-C
+program o ers an opportunity for the students to build an experimental system payload (within a 9.5" high and 9.3"
+diameter cylindrical canister) that is launched in a sounding rocket at the NASA Wallops Flight Facility reaching a
+low Earth orbit altitude ( 110km) in space.
+The microgravity environment in NASA Cold Atom Laboratory to be installed in the International Space Station
+allows for exploring the behavior a Bose-Einstein condensate (BEC) in an optical lattice. In this course, a nonlinear
+optics experiment will be developed (for example laser-stabilization via novel digital PID controllers) that is useful
+for applications to in-space experiments that require lasers.
+This course, the  rst semester of a year long course, teaches the students using a hands-on and team-oriented approach.
+The course focuses on the concept development portion of the R&D acquisition cycle that begins with Concept
+Design Review (CoDR), Preliminary Design Review (PDR) through Critical Design Review (CDR). The students will
+participate by helping to plan an innovative experiment, including the preparation of a detailed budget of estimated
+costs for the experiment's subsystems and components as well as an enumerated supply and equipment list for
+subsequent purchase acquisition of the required subsystem components. Furthermore, the student will participate by
+developing a timeline and schedule of critical milestones for assembling the payload in the Spring semester|assuming
+the project is accepted in January 2017 by NASA|for participation in upcoming RockSat-C launch in the summer
+of 2018.
+2
+C. Course philosophy
+The overall objective of this course is to give students a simulated design experience that is as close to real life as is
+practicable in a university setting. Thus, the course involves:
+1. Learning how an engineering project works, including its systems, its standards, and its practices.
+2. Designing a fairly comprehensive project requiring interfacing of several subsystems.
+3. Working as an integral member of a design team, typically a few people (and not greater than a half dozen).
+4. De ning the scope of the project, planning and scheduling the collaborative e orts of the team, and documenting
+the e ort via oral and written proposals, design notebooks, design reviews, progress reports and oral and written
+design reports, including engineering drawings and a poster presentation.
+5. Levering and building upon previous experiences and skills of all the team members to accomplish the new
+design task.
+D. Skill set
+This course represents the culmination of the engineering and technology program at UH Maui College. The
+expected proposed UHMC experiment payload for RockSat-C will involve an encapsulated nonlinear optics experiment
+that draws together the students engineering skills acquired in several prerequisite courses, including Optics, Signals
+and Systems, Optoelectronics, Digital Signal Processing, Remote Sensing and Control Systems.
+II. PROSPECTUS
+A. Course activities
+This course gives the junior student preparing for graduation an insight into and  rst experience of the engineering
+environment in a real scienti c and engineering design project. The textbook covers teamwork, project management,
+planning, scheduling, engineering paperwork, etc. Guest lecturers may cover specialty areas such as intellectual
+property, personnel issues, job opportunities in the engineering  eld, and the like.
+Activities include learning teamwork skills, project management skills, maintaining a design notebook, preparing
+a proposal to do the work needed to provide a design speci cation, a construction, installation, or manufacturing
+schedule, and a equipment cost estimate.
+The proposal will include:
+  a literature review of the state of the art
+  a description of what the sponsoring agency wants
+  a timeline of activities to accomplish the project
+  a detailed action item list for the  rst two weeks of the design period
+  an organizational chart
+  resumes of all the candidate investigators
+  an estimated cost for all components required for building a working model.
+Teams will deliver their proposals in written and oral format as well as electronically; that is each team will post
+their written proposal provided in PDF document, their slide presentation, and their end-of-proposal memo on their
+teams web space.
+Activities in the proposals include:
+3
+  doing the design work as speci ed in the proposal
+  maintaining individual design notebooks
+  using project management tools to control the progress of the project
+  producing weekly status reports in the form of an action item list
+  conducting one to three design reviews
+  producing written and electronically delivered progress reports, and producing oral, poster, and written design
+reports, including engineering drawings and a working model, if appropriate
+  posting in their web space the action item list, design review handouts, progress report documents, written
+design report, slide-based design presentation, a copy of their poster as a PDF  le, and the end-of-project
+memo.
+Projects may be proposed by faculty who would like to be project technical advisors, the course instructors, local
+industry, or non-pro t groups, or student groups.
+Criteria for project selection include:
+  a work scope suitable for a team of few to a half-dozen students
+  feasibility in terms of di culty and complexity within the time constraint of a design period of 11 to 12 weeks
+  the mix of personnel required must match the personnel available in the class, and
+  suitability of the project for todays world.
+Attendance is mandatory for all classes and absenteeism adversely a ects your grade unless your absence is excused
+by an instructor. To obtain an excused absence, simply email to your professor your name, team number, dates of
+absence and valid reason(s) for absence. For scheduled events like job interviews, an email is expected ahead of the
+absence. For unscheduled events like illnesses, an email immediately after the absence is expected.
+Each individual student is required to keep a project design notebook covering his/her own design e ort. These are
+to be available for review at any class or team meeting by the faculty project technical advisor or course instructor.
+Progress will be reviewed weekly in a meeting with the faculty project technical advisor. Design notebooks are bound
+and have sequential page numbers. In the event of a debate over grade assignments, the design notebooks will be
+used to determine the quantity, quality and timeliness of the work in question.
+Late work is not accepted. You may receive a grade of Incomplete or Failure for the second phase (ETRO 498)
+unless you submit ALL of the following:
+  Any borrowed items (parts, tools, equipment, etc.)
+  Any items borrowed from the instructor, faculty technical advisor, faculty or sta  member, or any other person
+on or o  campus
+  Items purchased by the department have been returned to the person who paid for them
+  Your personal design notebook: duplicate pages, original, or photocopy
+  Teamwork Evaluation Form and Course Assessment Form has been submitted
+  Your team has submitted all the required documents and items.
+B. Project Teams
+The students, with the instructors guidance, form into teams. The instructor attempts to provide each team with
+members having the variety of interests and training needed for the project design.
+4
+C. Project Documents
+At the end of ETRO 497 each team presents a written and an oral proposal to the instructor and faculty or sta 
+member. This proposal outlines the relevant literature, describes the design, and de nes the work to be done on the
+project in the second phase, ETRO 498, and the deliverables to be submitted at the completion of the project. It
+also contains a list of resources that will be needed and a schedule for accomplishing this work.
+The team will also submit an End-of-Proposal memo. This memo will include:
+  a project management assessment report that tells what tools were used to manage the project to keep it on
+schedule and under budget, including any changes they made during the management process as the project
+proceeded 
+  recommendations to engineers undertaking proposals of this type in the future 
+  a list of the things that each of the team members had to learn that was not taught in any class s/he had taken 
+  if the project will include a working model, a copy of the Resources Needed section from the proposal
+  the complete project action item list with all items un-hidden
+  the initial timeline with as-bid blocks clearly identi ed and space for the as-worked blocks
+  from each individual, a time log for the proposal preparation phase that shows: Date, Hours worked, and total
+hours worked
+  copies of all the team meeting agendas during the work period since the proposal acceptance. Do not re-type,
+if they are handwritten or the electronic copy has been deleted, just scan them in from the one you used,
+handwritten meeting notes on it are okay.
+ The only three documents that are not copied from other reports or paperwork.
+Each week during both the  rst (ETRO497) and second (ETRO498) phase, each team presents its status to manage-
+ment in the form of its action item list for the past week and the next two weeks, meetings and/or oral reports.
+Two to four weeks into the second phase, each team will schedule a design review. These are formal presentations to
+outside experts, faculty, and undergraduate students. Formal dress is NOT required; just wear whatever you normally
+wear to work (school). Emphasis is on content. The team chooses attendees that are willing and able to provide
+helpful direction to the design work as part of a technical review.
+At the end of the second phase, ETRO 498, the team submits the design report on their assigned design project.
+This report has sections which pertain to the project as a whole: executive summary, introduction, literature review,
+project description including a block diagram or plot plan, capital cost and schedule to implement the designed
+project. It also has a section prepared by each team member covering his/her design e orts and backing up the team
+conclusions presented in the  rst part of the report. The team makes a formal oral presentation in which each team
+member is expected to speak for approximately the same amount of time. The team also presents the design as a
+poster presentation that gives the problem statement, describes each subsystem of the recommended solution, and
+presents the total capital cost and time required to implement the design presented in the  nal design report.
+D. Project Schedule
+Week Milestone Due date
+3rd Week Project Menu/Title (September 8, 2017)
+5th Week Requests for Proposals (RFP) out (September 22, 2017)
+13th Week Proposals due (November 17, 2017)
+15th & 16th Weeks Oral Proposal Presentations (December 1 & 8, 2017)
+16th Week, Friday by 3pm Final Proposal Submission due (December 8, 2017)
+17th Week Order specialized parts
+5
+Project
+Menu
+RFPs
+out
+Proposals
+due
+Oral Proposal
+Presentations
+Bound
+Proposals
+due
+Order
+Specialized
+Parts
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 weeks
+UH Policy on e-mail communication
+The electronic communications policy adopted in December 2005 establishes the University of Hawai'i
+Internet service as an official medium for communication among students, faculty, and staff. Every
+member of the system has a hawaii.edu address, and the associated username and password provide
+access to essential Web announcements and e-mail. You are hereby informed of the need to log
+regularly in to UH e-mail and Web services for announcements and personal mail. Failing to do so will
+mean missing critical information from academic and program advisors, instructors, registration, and
+business office staff, classmates, student organizations, and others.
+HOMEWORK:
+Homework will be assigned after every chapter and Homework test will be given covered assigned
+homework problems. There is no credit given for ONLY an answer. To receive full credit, you must
+show your work in a neat and ordinary fashion and do all the assigned problems.
+LATE POLICY:
+No late submission will be accepted..
+ATTENDANCE:
+Regular attendance to the lecture is strongly advised. You will be responsible for all the material
+presented in class, regardless of whether or not you were present. If you are habitually absent from class
+you will not be allowed to take the examinations.
+ACADEMIC INTEGRITY:
+We encourage full group and class collaboration on most aspects of this course: in-class work, lab
+experiments and reports, projects or research. However, individual assignments, such as homework, are
+to done individually, in the own words of the student. Non-original work will be disqualified.
+DECORUM:
+Your classroom behavior must not disrupt the learning experience of the other students. In particular: no
+eating, no drinking, no reading of newspapers or magazines, no “private conversations, no beeping
+pages, no rings cell phones.
+SUGGESTIONS:
+FIG. 1 Weekly schedule for Capstone Project I ETRO 497.
+III. COURSE REQUIREMENTS AND EVALUATION
+Each student's grade in the course depends in part on the evaluation of his/her performance of assigned individual
+tasks, but primarily on the evaluation of the teams overall accomplishment.
+Any member of the UH Maui College Engineering Technology faculty or sta  or participating parties outside the
+college may witness and review both written and oral reports. However, the course evaluation will be done by the
+course instructor and the faculty technical advisor.
+A. Grading
+The grading range for the course is A through F, with weighting as follows:
+Academic measurements Weight
+Written Progress/Final Report 40%
+Presenatation I Pre-proposal 15%
+Class Activities /Homework 25%
+Presentation II Project proposal 20%
+100%
+IV. METHOD OF INSTRUCTION
+  Class discussions and experiment preparation
+  Internet-based video teleconference as needed
+  Weekly o ce hours on Friday at 12pm or otherwise scheduled by e-mail request
+V. WIKIPEDIA
+Project management material related to Capstone Project I:
+  Project managment
+  Cost engineering
+6
+  Project management software
+  Small-scale project management
+Engineering and technology related material for Capstone Project I in the Fall 2017 semester:
+  Printed circuit board
+  Field-programmable gate array
+  PID controller
+  Nonlinear optics
+  Spontaneous parametric down-conversion
+  Ultracold atom
+  Cold Atom Laboratory
+VI. RESOURCES
+  Reference text book:
+Robert B. Angus, Norman R. Gundersen, Thomas P. Cullinane, \Planning, Performing and Controlling
+Projects", 3/E, Prentice Hall, 2003, ISBN-10: 0130416703.
+  Additional resources and weekly updates will be provided in class.
+7
+VII. DISABILITY STATEMENT
+1. If you have a disability and have not voluntarily disclosed the nature of your disability and the support you
+need, you are invited to contact Lisa Deneen - Disabilities Coordinator at 984-3227 or Telecommunication Device
+for the Deaf (TDD) 984-3325 or the Text Telephone (TT) replay service at 643-8833.
+2. Reasonable accommodations will be provided for students with documented physical, sensory, systemic, cogni-
+tive, learning and psychiatric disabilities. If you believe you have a disability requiring accommodations, please
+notify Lisa Deneen - Disabilities Coordinator at 984-3227 or Telecommunication Device for the Deaf (TDD)
+984-3325 or the Text Telephone (TT) replay service at 643-8833. The Disabilities Coordinator will verify your
+disability and provide the course instructor with recommendations for appropriate accommodations.

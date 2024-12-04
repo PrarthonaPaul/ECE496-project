@@ -1,0 +1,20 @@
+| Task Type | Task | Task Percentage | Description | Deadline | Milestone/Deliverable |
+| --- | --- | --- | --- | --- | --- |
+| Core | Community Pitch | 5% | A two-to-three minute presentation proposing a community of interest within the Greater Toronto Area, with the potential to develop into a "client" or "key stakeholder" for a design project. | Studio week of 2014-01-13 | N/A |
+| Core | ESEC Feedback | 1% | Completing a brief survey focusing on the talks attended at the mandatory ESEC event. | 2014-01-17 @ 2400 | N/A |
+| Core | Request for Proposal (RFP) | 20% | Framing an engineering challenge to industry and government standards, including identifying and engaging stakeholders, consulting codes and standards, and developing comprehensive engineering requirements. | 2014-02-17 @1800 | N/A |
+| Core | RFP Revision | 10% | Revising the RFP based on Teaching Team feedback, including a summary of changes. | 2014-03-02 @ 2400 | N/A |
+| Core | Design Critique | 10% | Presenting design concepts to the Studio Teaching Team and peers for feedback. | Studio week of 2014-03-24 | N/A |
+| Core | Design Showcase | 25% | A public event where student designs, supported by prototypes, are reviewed and evaluated on technical and non-technical merits, and students are assessed on their communication skills through written summaries, posters, and oral presentations. | TBD (Likely 2014-04-11 or 2014-04-14) | Prototypes, Posters, Presentations, One-Pager |
+| Core | Praxis II Course Surveys | 4% | Completing surveys at various points during the term to provide feedback on performance, team experiences, and workload allocation. | At various points during the term | N/A |
+| Core | Design Handbook | 15% | Creating a process- and tools-focused document that captures the designer's preferred design tools and processes, including design theory and worked examples from their own experience. | 7 days after the Design Showcase at 2400 | N/A |
+| Core | Design Portfolio | 10% | Extending and building upon the Design Portfolio developed in Praxis I, demonstrating strengths, areas of progress, and areas for future development as an engineering designer, with more depth and experience. | 7 days after the Design Showcase at 2400 | N/A |
+| Support | N/A | N/A | Reading the recommended text, "Engineering Communication From Principles to Practice" by Irish and Weiss. | N/A | N/A |
+| Support | N/A | N/A | Attending lectures (3 hours per week) to learn concepts and examples. | N/A | N/A |
+| Support | N/A | N/A | Participating in studios (2 hours per week) for focused activities, group work, and consultation with the teaching team. | N/A | N/A |
+| Support | N/A | N/A | Completing the ESEC survey, focusing on the talks attended. | N/A | N/A |
+| Support | N/A | N/A | Keeping a Design Notebook as a record of activities. | N/A | N/A |
+| Support | N/A | N/A | Consulting with the Teaching Team for support and accommodation. | N/A | N/A |
+| Support | N/A | N/A | Understanding and adhering to University policies, guidelines, and interpretations, especially regarding plagiarism and intellectual property. | N/A | N/A |
+| Support | N/A | N/A | Submitting required papers to Turnitin.com for textual similarity review and plagiarism detection. | N/A | N/A |
+| Support | N/A | N/A | Seeking medical documentation and making arrangements with teammates in case of illness. | N/A | N/A |
