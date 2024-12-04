@@ -1,0 +1,4 @@
+accelerate==1.1.1
+evaluate
+datasets
+transformers
