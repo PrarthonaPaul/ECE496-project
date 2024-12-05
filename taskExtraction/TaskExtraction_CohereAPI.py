@@ -2,11 +2,12 @@ import os
 from dotenv import load_dotenv
 import cohere
 
+
 def get_cohere_api_key():
     """
     Retrieves the Cohere API key from an environment variable.
     """
-    api_key = os.getenv('COHERE_API_KEY')
+    api_key = os.getenv("COHERE_API_KEY")
     if not api_key:
         raise EnvironmentError("COHERE_API_KEY environment variable not set.")
     return api_key
@@ -16,9 +17,10 @@ def process_syllabus(file_path):
     """
     Reads the syllabus text from the given file path.
     """
-    with open(file_path, 'r') as file:
+    with open(file_path, "r") as file:
         syllabus_text = file.read()
     return syllabus_text
+
 
 def extract_info(document_text, cohere_client):
     """
@@ -39,14 +41,12 @@ def extract_info(document_text, cohere_client):
     """
     # Call the Cohere API to generate text
     response = cohere_client.generate(
-        model='command-xlarge-nightly',  
-        prompt=prompt,
-        max_tokens=1500,
-        temperature=0.7
+        model="command-xlarge-nightly", prompt=prompt, max_tokens=1500, temperature=0.7
     )
 
     # Extract and return the generated response text
     return response.generations[0].text
+
 
 def main():
     # Get API key securely from environment variables
@@ -65,15 +65,18 @@ def main():
     for filename in os.listdir(input_folder):
         input_filepath = os.path.join(input_folder, filename)
         document_text = process_syllabus(input_filepath)
-        
+
         output_text = extract_info(document_text, cohere_client)
-        
+
         # Write the extracted information to an output file
-        output_filepath = os.path.join(output_folder, f"{os.path.splitext(filename)[0]}_results.txt")
-        with open(output_filepath, 'w') as result_file:
+        output_filepath = os.path.join(
+            output_folder, f"{os.path.splitext(filename)[0]}_results.txt"
+        )
+        with open(output_filepath, "w") as result_file:
             result_file.write(output_text)
-        
+
         print(f"Processed {filename} and saved output to {output_filepath}")
+
 
 if __name__ == "__main__":
     main()

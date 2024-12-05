@@ -13,25 +13,28 @@ import pandas as pd
 from collections import defaultdict
 import codecs
 import re
+
 # import fastwer
 import tabulate
 from tabulate import tabulate
 
-output = r'C:\Users\earns\OneDrive\Desktop\ECE496-project\tesseract'
+output = r"C:\Users\earns\OneDrive\Desktop\ECE496-project\tesseract"
 pdfs = r"C:\Users\earns\OneDrive\Desktop\ECE496-project\syllabus\plainpdf\pdf"
+
 
 def run_ocr(image):
     pages = convert_from_path(image, 350)
     i = 1
     for page in pages:
-        image_name = "Page_" + str(i) + ".jpg"  
+        image_name = "Page_" + str(i) + ".jpg"
         page.save(image_name, "JPEG")
-        i = i+1
+        i = i + 1
     full_text = ""
     for i, page in enumerate(pages):
         text = pytesseract.image_to_string(page)
         full_text += f"{text}\n"
     return full_text
+
 
 def write_files(dir):
     for file in os.listdir(dir):
@@ -40,19 +43,21 @@ def write_files(dir):
             continue
         pdf = os.path.join(dir, file)
         text = run_ocr(pdf)
-        output_file = os.path.join(output, f'{os.path.splitext(file)[0]}.txt')
-        with open(output_file, 'w') as f:
+        output_file = os.path.join(output, f"{os.path.splitext(file)[0]}.txt")
+        with open(output_file, "w") as f:
             f.write(text)
+
 
 def directory(dir, func, output):
     for img in os.listdir(dir):
         input_file = os.path.join(dir, img)
-        if os.path.isdir(input_file): 
+        if os.path.isdir(input_file):
             continue
         img_name = img
         img_thresh = cv2.imread(input_file)
         cv2.imwrite(os.path.join(output, img_name), func(img_thresh))
-    
+
+
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 # write_files(pdfs)
 
@@ -75,20 +80,23 @@ def bag_of_characters_error_rate(output_text, ref_text):
         incorrect_chars += abs(output_freq[char] - ref_freq[char])
 
     cer = incorrect_chars / total_chars
-    return cer*100
+    return cer * 100
+
 
 def read_and_normalize(file_path):
-    with codecs.open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
+    with codecs.open(file_path, "r", encoding="utf-8", errors="ignore") as file:
         lines = [normalize_text(line) for line in file.readlines() if line.strip()]
-        return ' '.join(lines)
+        return " ".join(lines)
+
 
 def normalize_text(text):
     for char in text:
-      if char == '\n':
-        char = " "
-    text = ''.join(char for char in text if char.isalnum() or char.isspace())
+        if char == "\n":
+            char = " "
+    text = "".join(char for char in text if char.isalnum() or char.isspace())
     # text = text.replace(" ", "")
     return text.lower().strip()
+
 
 def calculate_wer(output_text, ref_text):
     output_words = normalize_text(output_text).split()
@@ -98,15 +106,20 @@ def calculate_wer(output_text, ref_text):
 
     # Compute WER
     wer = distance / len(ref_words) if len(ref_words) > 0 else 0.0
-    return wer*100
+    return wer * 100
+
+
 def extract_number(filename):
-    match = re.match(r'(\d+)', filename)
+    match = re.match(r"(\d+)", filename)
     if match:
         return int(match.group(0))
     return filename
 
-ref_folder = r"C:\Users\earns\OneDrive\Desktop\ECE496-project\syllabus\plainpdf\text_doc"
-output_folder = r"C:\Users\earns\OneDrive\Desktop\ECE496-project\tesseract"#"/content/drive/MyDrive/ncert_qs/easyocr_results"
+
+ref_folder = (
+    r"C:\Users\earns\OneDrive\Desktop\ECE496-project\syllabus\plainpdf\text_doc"
+)
+output_folder = r"C:\Users\earns\OneDrive\Desktop\ECE496-project\tesseract"  # "/content/drive/MyDrive/ncert_qs/easyocr_results"
 
 ref_files = os.listdir(ref_folder)
 output_files = os.listdir(output_folder)
@@ -127,9 +140,9 @@ num_pairs = 0
 # v7_bad_imgs = ['4.txt', '5.txt','6.txt','7.txt', '9.txt', '10.txt',  '13.txt', '20.txt', '21.txt', '22.txt']
 # v7_good_imgs = ['0.txt', '1.txt', '2.txt', '3.txt', '8.txt', '11.txt', '12.txt', '14.txt', '15.txt', '16.txt', '17.txt', '18.txt', '19.txt', '23.txt', '24.txt', '26.txt', '27.txt']
 for ref_file, output_file in zip(ref_files, output_files):
-  # print(ref_file, output_file)
-  # if ref_file not in bad_imgs:
-#    if ref_file in v7_good_imgs:
+    # print(ref_file, output_file)
+    # if ref_file not in bad_imgs:
+    #    if ref_file in v7_good_imgs:
     ref_path = os.path.join(ref_folder, ref_file)
     output_path = os.path.join(output_folder, output_file)
 
@@ -152,20 +165,22 @@ for ref_file, output_file in zip(ref_files, output_files):
 
 table_data_dict = []
 for ref_file, ref_text, output_text, cer_score, wer_score in table_data:
-    table_data_dict.append({
-        "File": ref_file,
-        "Reference File": ref_text,
-        "Output File": output_text,
-        "CER Score": cer_score,
-        "WER Score": wer_score
-    })
+    table_data_dict.append(
+        {
+            "File": ref_file,
+            "Reference File": ref_text,
+            "Output File": output_text,
+            "CER Score": cer_score,
+            "WER Score": wer_score,
+        }
+    )
 
 df = pd.DataFrame(table_data_dict)
 
 excel_file = r"C:\Users\earns\OneDrive\Desktop\ECE496-project\tesseract_scores.xlsx"
 
 with pd.ExcelWriter(excel_file) as writer:
-    df.to_excel(writer, sheet_name='Scores', index=False)
+    df.to_excel(writer, sheet_name="Scores", index=False)
 
 print(f"Results saved to Excel file: {excel_file}")
 # print(tabulate(table_data, headers=table_headers, tablefmt="grid"))
@@ -176,4 +191,6 @@ else:
     overall_cer = 0.0
     overall_wer = 0.0
 
-print(f"\nOverall CER and WER for {num_pairs} pairs: {overall_cer:.4f}, {overall_wer:.4f}")
+print(
+    f"\nOverall CER and WER for {num_pairs} pairs: {overall_cer:.4f}, {overall_wer:.4f}"
+)
