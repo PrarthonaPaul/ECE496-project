@@ -1,0 +1,8 @@
+| Task | Task Percentage | Description | Deadline |
+| --- | --- | --- | --- |
+| Project Kickoff | N/A | Team Formation, Initial Project Plan | Jan 15, 2021 |
+| Requirements Specification | 15% | Software Requirements Specification Document | Feb 5, 2021 |
+| System Design | 20% | System Architecture and Design Document | Feb 26, 2021 |
+| Prototype Development | 20% | Functional Prototype and Presentation | Mar 19, 2021 |
+| Final Testing and Quality Assurance | 15% | Test Plan and Testing Report | Apr 9, 2021 |
+| Final Project Submission & Presentation | 30% | Final Software, Documentation, and Presentation | Apr 23, 2021 |

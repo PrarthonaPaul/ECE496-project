@@ -1,81 +1,119 @@
 "use client";
 
 import Link from "next/link";
-
+import { useState } from "react";
+import { useAuth } from "@/context/AuthContext";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { AuthProvider } from "@/context/AuthContext";
 import {
+  Card,
+  CardHeader,
   CardTitle,
   CardDescription,
-  CardHeader,
   CardContent,
   CardFooter,
-  Card,
 } from "@/components/ui/card";
+import { useRouter } from "next/navigation"; 
 
-import { Label } from "@/components/ui/label";
-import { Input } from "@/components/ui/input";
+export default function SignupForm() {
+  const { signup, error } = useAuth();
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [password2, setPassword2] = useState("");
+  const [successMessage, setSuccessMessage] = useState<string | null>(null);
+  const router = useRouter(); 
 
-export function SignupForm() {
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+
+    const message = await signup(email, password, password2);
+    if (message) {
+      setSuccessMessage(message);
+      router.push("/signin");
+
+    }
+  };
+
+
   return (
-    <div className="w-full max-w-md">
-      <form>
-        <Card>
-          <CardHeader className="space-y-1">
-            <CardTitle className="text-3xl font-bold">Sign Up</CardTitle>
-            <CardDescription>
-              Enter your details to create a new account
-            </CardDescription>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            {/* <div className="space-y-2">
-              <Label htmlFor="username">Username</Label>
-              <Input
-                id="username"
-                name="username"
-                type="text"
-                placeholder="username"
-              />
-            </div> */}
-            <div className="space-y-2">
-              <Label htmlFor="email">Email</Label>
+    <AuthProvider>
+      <Card className="w-full max-w-md mx-auto mt-10 p-6 bg-white dark:bg-gray-900 shadow-lg rounded-lg text-gray-900 dark:text-gray-100">
+        <CardHeader className="flex flex-col items-center text-center mb-4">
+          <CardTitle className="text-2xl font-bold">
+            Sign Up
+          </CardTitle>
+          <CardDescription className="text-sm text-gray-500 dark:text-gray-400">
+            Create a new account
+          </CardDescription>
+        </CardHeader>
+
+        <CardContent>
+          <form onSubmit={handleSubmit} className="space-y-4">
+            <div>
+              <Label htmlFor="email" className="block mb-1">
+                Email
+              </Label>
               <Input
                 id="email"
-                name="email"
                 type="email"
-                placeholder="name@example.com"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                required
+                placeholder="you@example.com"
               />
             </div>
 
-            <div className="space-y-2">
-              <Label htmlFor="password">Password</Label>
+            <div>
+              <Label htmlFor="password" className="block mb-1">
+                Password
+              </Label>
               <Input
                 id="password"
-                name="password"
                 type="password"
-                placeholder="password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                required
+                placeholder="••••••••"
               />
             </div>
 
-            <div className="space-y-2">
-              <Label htmlFor="password">Please enter your password again</Label>
+            <div>
+              <Label htmlFor="password" className="block mb-1">
+                Enter your password again
+              </Label>
               <Input
                 id="password"
-                name="password"
                 type="password"
-                placeholder="password"
+                value={password2}
+                onChange={(e) => setPassword2(e.target.value)}
+                required
+                placeholder="••••••••"
               />
             </div>
-          </CardContent>
-          <CardFooter className="flex flex-col">
-            <button className="w-full">Sign Up</button>
+
+            {error && <p className="text-red-600 text-sm mt-2">{error}</p>}
+            {successMessage && <p className="text-green-600 text-sm mt-2">{successMessage}</p>}
+
+            <Button
+              type="submit"
+              className="w-full bg-black dark:bg-white dark:text-black text-white mt-4 hover:bg-gray-800 dark:hover:bg-gray-200"
+            >
+              Sign Up
+            </Button>
+          </form>
+          <CardFooter className="mt-4">
+            <div className="mt-4 text-center text-sm">
+              Already have an account?
+              <Link className="underline ml-2" href="signin">
+                Sign in
+              </Link>
+            </div>
           </CardFooter>
-        </Card>
-        <div className="mt-4 text-center text-sm">
-          Have an account?
-          <Link className="underline ml-2" href="signin">
-            Sign In
-          </Link>
-        </div>
-      </form>
-    </div>
+        </CardContent>
+      </Card>
+    </AuthProvider>
   );
 }

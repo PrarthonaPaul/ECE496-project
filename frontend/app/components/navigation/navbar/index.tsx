@@ -1,9 +1,24 @@
+"use client";
+
+// import React, { useCallback } from "react";
 import React from "react";
 import Link from "next/link";
 import Logo from "./Logo";
-import Button from "./Button";
+import { Button } from "@/components/ui/Button";
+// import { useAuth } from "@/context/AuthContext";
+
+interface NavbarProps {
+  onLogout?: () => void;
+  className?: string;
+}
 
 const Navbar = () => {
+  // const { isLoggedIn, logout } = useAuth();
+
+  // const closeMenu = useCallback(() => {
+  //   setIsOpen(false);
+  // }, []);
+
   return (
     <>
       <div  className="w-full h-20 bg-[#7cb8c0] sticky top-0">
@@ -29,7 +44,12 @@ const Navbar = () => {
                 </Link>
               </li>
             </ul>
-            <Button href="/signin"/>
+            
+            <Link href="/signin">
+              <Button variant="ghost" className="ml-2 hover:bg-white/10">
+                Login / Sign Up
+              </Button>
+            </Link>
           </div>
         </div>
       </div>

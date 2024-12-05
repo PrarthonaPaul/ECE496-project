@@ -10,52 +10,94 @@ import {
   CardFooter,
   Card,
 } from "@/components/ui/card";
-
-import { Label } from "@/components/ui/label";
+import { useState } from "react";
+import { useAuth } from "@/context/AuthContext";
+import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { AuthProvider } from "@/context/AuthContext";
+import { useRouter } from "next/navigation"; 
+
 
 export function SigninForm() {
+  const { login, error } = useAuth();
+  const [isLogin, setIsLogin] = useState(true);
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const router = useRouter();
+  const handleSubmit = async (e: React.FormEvent) => {
+ 
+
+    e.preventDefault(); 
+    try {
+      await login(email, password);
+      router.push("/upload-syllabus")
+    } catch (err) {
+      console.log(err);
+    }
+  };
+
   return (
-    <div className="w-full max-w-md">
-      <form>
-        <Card>
-          <CardHeader className="space-y-1">
-            <CardTitle className="text-3xl font-bold">Sign In</CardTitle>
-            <CardDescription>
-              Enter your details to sign in to your account
-            </CardDescription>
-          </CardHeader>
-          <CardContent className="space-y-4">
-            <div className="space-y-2">
-              <Label htmlFor="email">Email</Label>
+    <AuthProvider>
+      <Card className="w-full max-w-md mx-auto mt-10 p-6 bg-white dark:bg-gray-900 shadow-lg rounded-lg text-gray-900 dark:text-gray-100">
+        <CardHeader className="flex flex-col items-center text-center mb-4">
+          <CardTitle className="text-2xl font-bold">
+            Sign In
+          </CardTitle>
+          <CardDescription className="text-sm text-gray-500 dark:text-gray-400">
+            Log in to your account
+          </CardDescription>
+        </CardHeader>
+
+        <CardContent>
+          <form onSubmit={handleSubmit} className="space-y-4">
+            <div>
+              <Label htmlFor="email" className="block mb-1">
+                Email
+              </Label>
               <Input
-                id="identifier"
-                name="identifier"
-                type="text"
-                placeholder="username or email"
+                id="email"
+                type="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                required
+                placeholder="you@example.com"
               />
             </div>
-            <div className="space-y-2">
-              <Label htmlFor="password">Password</Label>
+
+            <div>
+              <Label htmlFor="password" className="block mb-1">
+                Password
+              </Label>
               <Input
                 id="password"
-                name="password"
                 type="password"
-                placeholder="password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                required
+                placeholder="••••••••"
               />
             </div>
-          </CardContent>
-          <CardFooter className="flex flex-col">
-            <button className="w-full">Sign In</button>
+
+            {error && <p className="text-red-600 text-sm mt-2">{error}</p>}
+
+            <Button
+              type="submit"
+              className="w-full bg-black dark:bg-white dark:text-black text-white mt-4 hover:bg-gray-800 dark:hover:bg-gray-200"
+            >
+              Sign In
+            </Button>
+          </form>
+          <CardFooter className="mt-4">
+            <div className="mt-4 text-center text-sm">
+              Don't have an account?
+              <Link className="underline ml-2" href="signup">
+                Sign Up
+              </Link>
+            </div>
           </CardFooter>
-        </Card>
-        <div className="mt-4 text-center text-sm">
-          Don't have an account?
-          <Link className="underline ml-2" href="signup">
-            Sign Up
-          </Link>
-        </div>
-      </form>
-    </div>
+        </CardContent>
+      </Card>
+    </AuthProvider>
   );
 }
