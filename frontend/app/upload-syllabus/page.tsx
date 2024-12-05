@@ -1,5 +1,6 @@
 "use client";
 
+
 import { useDropzone } from "react-dropzone";
 import React, { useCallback, useState } from "react";
 import LoadingPage from "./loading/page"; 
@@ -10,7 +11,8 @@ const Upload = () => {
   const [tasks, setTasks] = useState([]); 
 
   const onDrop = useCallback(
-    async (acceptedFiles) => {
+    async (
+      Files) => {
       if (acceptedFiles.length === 0) return;
 
       const formData = new FormData();
@@ -41,6 +43,7 @@ const Upload = () => {
     },
     [title]
   );
+
 
   const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop });
 
@@ -95,6 +98,7 @@ const Upload = () => {
           </ul>
         </div>
       )}
+
     </div>
   );
 };
