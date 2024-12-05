@@ -1,34 +1,32 @@
 "use client";
 
-
 import { useDropzone } from "react-dropzone";
 import React, { useCallback, useState } from "react";
 import LoadingPage from "./loading/page"; 
 
 const Upload = () => {
-  const [title, setTitle] = useState("");
+  const [title, setTitle] = useState(""); 
   const [isUploading, setIsUploading] = useState(false); 
   const [tasks, setTasks] = useState([]); 
 
   const onDrop = useCallback(
-    async (
-      Files) => {
+    async (acceptedFiles: File[]) => { // Add the type here
       if (acceptedFiles.length === 0) return;
-
+  
       const formData = new FormData();
-      formData.append("pdf", acceptedFiles[0]); 
-
-      setIsUploading(true); 
-
+      formData.append("title", title);
+      formData.append("pdf", acceptedFiles[0]);
+  
+      setIsUploading(true);
       try {
         const response = await fetch("http://127.0.0.1:8000/upload/", {
           method: "POST",
           body: formData,
         });
-
+  
         if (response.ok) {
           const data = await response.json();
-          setTasks(data.extract_tasks || []); 
+          setTasks(data.extract_tasks || []); // Set tasks from the backend response
           alert("File uploaded successfully!");
         } else {
           console.error("Upload failed", response.statusText);
@@ -38,12 +36,12 @@ const Upload = () => {
         console.error("Error uploading file", error);
         alert("An error occurred during upload.");
       } finally {
-        setIsUploading(false); 
+        setIsUploading(false); // Hide upload progress
       }
     },
     [title]
   );
-
+  
 
   const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop });
 
@@ -98,7 +96,6 @@ const Upload = () => {
           </ul>
         </div>
       )}
-
     </div>
   );
 };
