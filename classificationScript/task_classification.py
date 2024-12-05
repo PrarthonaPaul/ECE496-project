@@ -1,8 +1,14 @@
 import pandas as pd
 import torch
 from datasets import Dataset
-from transformers import RobertaTokenizer, RobertaForSequenceClassification, Trainer, TrainingArguments
+from transformers import (
+    RobertaTokenizer,
+    RobertaForSequenceClassification,
+    Trainer,
+    TrainingArguments,
+)
 from evaluate import load
+
 
 class ModelPipeline:
     def __init__(self, data_path, model_name="roberta-base", max_length=128):
@@ -21,42 +27,53 @@ class ModelPipeline:
     def load_and_preprocess_data(self):
         """Load and preprocess the dataset."""
         df = pd.read_csv(self.data_path)
-        df = df.drop(columns=['Unnamed: 0'], errors='ignore')  # Remove unwanted column
+        df = df.drop(columns=["Unnamed: 0"], errors="ignore")  # Remove unwanted column
         df = df.drop(0).reset_index(drop=True)  # Drop first row
-        df.columns = ['pdf', 'tasks', 'class']
-        df['pdf'] = df['pdf'].fillna(method='ffill')
-        df = df.dropna(subset=['tasks', 'class'])  # Ensure no missing values in relevant columns
-        
+        df.columns = ["pdf", "tasks", "class"]
+        df["pdf"] = df["pdf"].fillna(method="ffill")
+        df = df.dropna(
+            subset=["tasks", "class"]
+        )  # Ensure no missing values in relevant columns
+
         # Convert to HuggingFace dataset
         self.dataset = Dataset.from_pandas(df)
         self.dataset = self.dataset.class_encode_column("class")
 
         # Tokenize the dataset
         self.tokenized_datasets = self.dataset.map(self.tokenize_function, batched=True)
-        self.tokenized_datasets = self.tokenized_datasets.map(lambda x: {'labels': x['class']})
+        self.tokenized_datasets = self.tokenized_datasets.map(
+            lambda x: {"labels": x["class"]}
+        )
 
         # Split the dataset into train, validation, and test
         train_val_split = self.tokenized_datasets.train_test_split(test_size=0.2)
-        test_valid_split = train_val_split['test'].train_test_split(test_size=0.5)
+        test_valid_split = train_val_split["test"].train_test_split(test_size=0.5)
 
         self.tokenized_datasets = {
-            'train': train_val_split['train'],
-            'test': test_valid_split['test'],
-            'validation': test_valid_split['train']
+            "train": train_val_split["train"],
+            "test": test_valid_split["test"],
+            "validation": test_valid_split["train"],
         }
 
-        self.train_dataset = self.tokenized_datasets['train']
-        self.val_dataset = self.tokenized_datasets['validation']
-        self.test_dataset = self.tokenized_datasets['test']
+        self.train_dataset = self.tokenized_datasets["train"]
+        self.val_dataset = self.tokenized_datasets["validation"]
+        self.test_dataset = self.tokenized_datasets["test"]
 
     def tokenize_function(self, examples):
         """Tokenize the text column."""
-        return self.tokenizer(examples["tasks"], padding="max_length", truncation=True, max_length=self.max_length)
+        return self.tokenizer(
+            examples["tasks"],
+            padding="max_length",
+            truncation=True,
+            max_length=self.max_length,
+        )
 
     def train_model(self):
         """Train the RoBERTa model."""
         num_labels = self.dataset.features["class"].num_classes
-        self.model = RobertaForSequenceClassification.from_pretrained(self.model_name, num_labels=num_labels)
+        self.model = RobertaForSequenceClassification.from_pretrained(
+            self.model_name, num_labels=num_labels
+        )
         self.model.to(self.device)
 
         training_args = TrainingArguments(
@@ -76,14 +93,16 @@ class ModelPipeline:
         def compute_metrics(pred):
             labels = pred.label_ids
             preds = pred.predictions.argmax(-1)
-            accuracy = accuracy_metric.compute(predictions=preds, references=labels)["accuracy"]
-            precision = precision_metric.compute(predictions=preds, references=labels, average="weighted")["precision"]
-            f1 = f1_metric.compute(predictions=preds, references=labels, average="weighted")["f1"]
-            return {
-                "accuracy": accuracy,
-                "precision": precision,
-                "f1": f1
-            }
+            accuracy = accuracy_metric.compute(predictions=preds, references=labels)[
+                "accuracy"
+            ]
+            precision = precision_metric.compute(
+                predictions=preds, references=labels, average="weighted"
+            )["precision"]
+            f1 = f1_metric.compute(
+                predictions=preds, references=labels, average="weighted"
+            )["f1"]
+            return {"accuracy": accuracy, "precision": precision, "f1": f1}
 
         self.trainer = Trainer(
             model=self.model,
@@ -105,10 +124,16 @@ class ModelPipeline:
 
     def classify_tasks(self, tasks):
         """Classify tasks using the trained RoBERTa model."""
-        inputs = self.tokenizer(tasks, padding=True, truncation=True, max_length=self.max_length, return_tensors="pt")
+        inputs = self.tokenizer(
+            tasks,
+            padding=True,
+            truncation=True,
+            max_length=self.max_length,
+            return_tensors="pt",
+        )
         inputs = {key: value.to(self.device) for key, value in inputs.items()}
 
-        self.model.eval()  
+        self.model.eval()
         with torch.no_grad():
             outputs = self.model(**inputs)
             predictions = torch.argmax(outputs.logits, dim=-1)
@@ -121,14 +146,16 @@ class ModelPipeline:
     def save_model(self, filename):
         """Save the trained model to a file."""
         import pickle
-        with open(filename, 'wb') as f:
+
+        with open(filename, "wb") as f:
             pickle.dump(self.model, f)
         print(f"Model saved to {filename}")
 
     def load_model(self, filename):
         """Load a trained model from a file."""
         import pickle
-        with open(filename, 'rb') as f:
+
+        with open(filename, "rb") as f:
             self.model = pickle.load(f)
         self.model.to(self.device)
         print(f"Model loaded from {filename}")
@@ -137,11 +164,13 @@ class ModelPipeline:
         """Extract tasks from a text or CSV file."""
         data = pd.read_csv(file_path, delimiter=delimiter)
         data.columns = data.columns.str.strip()  # Clean up column names
-        data = data.applymap(lambda x: x.strip() if isinstance(x, str) else x)  # Clean data
+        data = data.applymap(
+            lambda x: x.strip() if isinstance(x, str) else x
+        )  # Clean data
         # Remove rows where the 'Task' column contains '---'
         data = data[data["Task"] != "---"]
         task_column = data["Task"]
-        
+
         if save_path:
             task_column.to_csv(save_path, index=False, header=True)
             print(f"Cleaned task column saved to '{save_path}'.")
