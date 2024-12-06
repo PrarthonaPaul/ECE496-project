@@ -1,0 +1,162 @@
+CS497: Software Engineering Project 
+Institution: Central Tech University 
+Term: Winter 2021 
+Instructor: Dr. Michael Johnson 
+Email: mjohnson@ctu.edu 
+Office Hours: Monday 1:00-3:00 PM, Thursday 10:00-12:00 PM (by appointment) 
+Class Time: Tuesday & Friday, 11:00 AM - 12:30 PM 
+Location: Computer Science Building, Room 104 
+ 
+Course Overview 
+CS497: Software Engineering Project is a capstone course that provides students with 
+hands-on experience in developing a complex software system from concept to 
+deployment. Working in teams, students will engage in all phases of software engineering, 
+including requirements gathering, design, development, testing, and deployment. The 
+course simulates a real-world software development environment, with students working 
+on a project for a real or simulated client. 
+ 
+Course Objectives 
+By the end of this course, students will be able to: 
+1. Apply software engineering principles and methodologies in the development of a 
+complex software system. 
+2. Work effectively in teams to manage the development lifecycle, including task 
+delegation and integration. 
+3. Develop and document software requirements, design specifications, and testing 
+protocols. 
+4. Implement a software system using appropriate tools and technologies. 
+5. Test, debug, and deploy software, ensuring quality and reliability. 
+6. Communicate project progress, challenges, and outcomes to stakeholders through 
+reports and presentations. 
+ 
+Course Schedule and Milestones 
+Date 
+Milestone 
+Deliverable 
+Weight 
+Jan 15, 
+2021 
+Project Kickoff 
+Team Formation, Initial Project Plan 
+- 
+Feb 5, 
+2021 
+Requirements Specification 
+Software Requirements Specification 
+Document 
+15% 
+Feb 26, 
+2021 
+System Design 
+System Architecture and Design 
+Document 
+20% 
+Mar 19, 
+2021 
+Prototype Development 
+Functional Prototype and Presentation 20% 
+Apr 9, 
+2021 
+Final Testing and Quality 
+Assurance 
+Test Plan and Testing Report 
+15% 
+Date 
+Milestone 
+Deliverable 
+Weight 
+Apr 23, 
+2021 
+Final Project Submission & 
+Presentation 
+Final Software, Documentation, and 
+Presentation 
+30% 
+ 
+Detailed Deliverable Descriptions 
+1. Software Requirements Specification (15%) 
+Due: February 5, 2021 
+Each team will submit a detailed Software Requirements Specification (SRS) 
+document, outlining the functional and non-functional requirements of the software 
+system. This document will serve as the foundation for the design and development 
+phases. 
+2. System Architecture and Design Document (20%) 
+Due: February 26, 2021 
+Teams will create a comprehensive design document, detailing the system 
+architecture, component diagrams, data models, and interface specifications. This 
+document should provide a clear blueprint for the implementation phase. 
+3. Functional Prototype and Presentation (20%) 
+Due: March 19, 2021 
+Teams will develop a functional prototype of the software system and present it to 
+the class. The presentation should include a demonstration of the prototype’s key 
+features, a discussion of the design decisions, and a plan for the final development 
+phase. 
+4. Test Plan and Testing Report (15%) 
+Due: April 9, 2021 
+A comprehensive test plan must be developed, detailing the testing strategies, 
+tools, and test cases used to ensure the software meets the specified requirements. 
+The testing report should include test results, identified issues, and the steps taken 
+to address them. 
+5. Final Software, Documentation, and Presentation (30%) 
+Due: April 23, 2021 
+The final deliverable includes the complete software system, along with detailed 
+user and technical documentation. Teams will present their project to a panel of 
+faculty and industry professionals, showcasing the software’s features, the 
+development process, and the lessons learned. 
+ 
+Grading Policy 
+Grade Percentage 
+A+ 
+90-100% 
+A 
+85-89% 
+A- 
+80-84% 
+B+ 
+75-79% 
+B 
+70-74% 
+Grade Percentage 
+B- 
+65-69% 
+C+ 
+60-64% 
+C 
+55-59% 
+C- 
+50-54% 
+D 
+45-49% 
+F 
+0-44% 
+ 
+Course Policies 
+• 
+Attendance: Attendance is mandatory for all team meetings and presentations. 
+Unexcused absences may impact your participation grade and team performance. 
+• 
+Late Submissions: Deliverables submitted after the due date will incur a penalty of 
+5% per day, up to a maximum of 3 days. Submissions later than 3 days will not be 
+accepted. 
+• 
+Team Collaboration: Teamwork is essential for this course. All members are 
+expected to contribute equally. Any issues with team dynamics should be reported 
+to the instructor promptly. 
+• 
+Academic Integrity: Students must adhere to the university’s academic integrity 
+policy. Plagiarism, cheating, or any form of academic dishonesty will result in severe 
+penalties, including potential failure of the course. 
+ 
+Key Resources 
+• 
+Textbook: "Software Engineering: A Practitioner's Approach" by Roger S. Pressman 
+and Bruce R. Maxim (8th Edition). 
+• 
+Tools: GitHub for version control, Jira for project management, and any IDE suitable 
+for the project. 
+• 
+Additional Resources: Access to Central Tech University’s software development 
+labs and cloud resources will be provided. 
+ 
+This syllabus provides a comprehensive guide to the CS497: Software Engineering Project 
+course, detailing the key milestones, deliverables, and expectations for students. 
+ 
