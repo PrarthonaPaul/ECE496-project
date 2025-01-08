@@ -8,17 +8,19 @@ import pandas as pd
 from transformers import RobertaTokenizer
 import torch
 
+
 def pdf_to_text(pdf_path):
     try:
         # Open the PDF document
         doc = fitz.open(pdf_path)
-        text = ''
+        text = ""
         for page in doc:
             text += page.get_text()
         return text
     except Exception as e:
         print(f"Error processing file {pdf_path}: {e}")
         return None
+
 
 def write_files(input_dir, output_path):
     # Check if the input directory exists
@@ -40,14 +42,15 @@ def write_files(input_dir, output_path):
             continue  # Skip if the PDF could not be read
 
         output_file = os.path.join(output_path, f"{os.path.splitext(file)[0]}.txt")
-        with open(output_file, 'w') as f:
+        with open(output_file, "w") as f:
             f.write(pdf_text)
+
 
 def get_cohere_api_key():
     """
     Retrieves the Cohere API key from an environment variable.
     """
-    api_key = os.getenv('COHERE_API_KEY')
+    api_key = os.getenv("COHERE_API_KEY")
     if not api_key:
         raise EnvironmentError("COHERE_API_KEY environment variable not set.")
     return api_key
@@ -57,9 +60,10 @@ def process_syllabus(file_path):
     """
     Reads the syllabus text from the given file path.
     """
-    with open(file_path, 'r') as file:
+    with open(file_path, "r") as file:
         syllabus_text = file.read()
     return syllabus_text
+
 
 def extract_info(document_text, cohere_client):
     """
@@ -78,14 +82,12 @@ def extract_info(document_text, cohere_client):
     """
     # Call the Cohere API to generate text
     response = cohere_client.generate(
-        model='command-xlarge-nightly',  
-        prompt=prompt,
-        max_tokens=1500,
-        temperature=0.7
+        model="command-xlarge-nightly", prompt=prompt, max_tokens=1500, temperature=0.7
     )
 
     # Extract and return the generated response text
     return response.generations[0].text
+
 
 def extract_tasks(input_folder, output_folder, input_filename):
     # Get API key securely from environment variables
@@ -98,7 +100,7 @@ def extract_tasks(input_folder, output_folder, input_filename):
 
     # Process each file in the input folder
     for filename in os.listdir(input_folder):
-        if filename != input_filename: 
+        if filename != input_filename:
             continue
 
         input_filepath = os.path.join(input_folder, filename)
@@ -107,8 +109,10 @@ def extract_tasks(input_folder, output_folder, input_filename):
         output_text = extract_info(document_text, cohere_client)
 
         # Write the extracted information to an output file
-        output_filepath = os.path.join(output_folder, f"{os.path.splitext(filename)[0]}_results.txt")
-        with open(output_filepath, 'w') as result_file:
+        output_filepath = os.path.join(
+            output_folder, f"{os.path.splitext(filename)[0]}_results.txt"
+        )
+        with open(output_filepath, "w") as result_file:
             result_file.write(output_text)
 
 
@@ -120,7 +124,7 @@ def extract_tasks_from_file(file_path, delimiter="|", save_path=None):
     # Remove rows where the 'Task' column contains '---'
     data = data[data["Task"] != "---"]
     task_column = data["Task"]
-    
+
     if save_path:
         task_column.to_csv(save_path, index=False, header=True)
         print(f"Cleaned task column saved to '{save_path}'.")
@@ -135,29 +139,33 @@ def tokenize_function(examples):
 
 
 def classify_tasks(data_path, tasks, model):
-        """Classify tasks using the trained RoBERTa model."""
-        model.eval()
-        tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        inputs = tokenizer(tasks, padding=True, truncation=True, max_length=128, return_tensors="pt")
-        inputs = {key: value.to(device) for key, value in inputs.items()}
+    """Classify tasks using the trained RoBERTa model."""
+    model.eval()
+    tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    inputs = tokenizer(
+        tasks, padding=True, truncation=True, max_length=128, return_tensors="pt"
+    )
+    inputs = {key: value.to(device) for key, value in inputs.items()}
 
-        with torch.no_grad():
-            outputs = model(**inputs)
-            predictions = torch.argmax(outputs.logits, dim=-1)
+    with torch.no_grad():
+        outputs = model(**inputs)
+        predictions = torch.argmax(outputs.logits, dim=-1)
 
-        df = pd.read_csv(data_path)
-        df = df.drop(columns=['Unnamed: 0'], errors='ignore') #remove the first unnamed column
-        df = df.drop(0).reset_index(drop=True) #remove first row
-        df.columns = ['pdf', 'tasks', 'class']
-        df['pdf'] = df['pdf'].fillna(method='ffill')
-        
-        print(df.head(10))
-        print(df["class"])
-        dataset = Dataset.from_pandas(df)
-        dataset = dataset.class_encode_column("class")
+    df = pd.read_csv(data_path)
+    df = df.drop(
+        columns=["Unnamed: 0"], errors="ignore"
+    )  # remove the first unnamed column
+    df = df.drop(0).reset_index(drop=True)  # remove first row
+    df.columns = ["pdf", "tasks", "class"]
+    df["pdf"] = df["pdf"].fillna(method="ffill")
 
-        class_labels = dataset.features["class"].names
-        predicted_labels = [class_labels[pred] for pred in predictions]
+    print(df.head(10))
+    print(df["class"])
+    dataset = Dataset.from_pandas(df)
+    dataset = dataset.class_encode_column("class")
 
-        return predicted_labels
+    class_labels = dataset.features["class"].names
+    predicted_labels = [class_labels[pred] for pred in predictions]
+
+    return predicted_labels
