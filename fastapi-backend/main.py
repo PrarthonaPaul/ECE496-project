@@ -12,6 +12,7 @@ from datetime import datetime
 from database import SessionLocal, engine, Base
 from models import PDF
 from utils import extract_tasks, write_files, extract_tasks_from_file, classify_tasks
+
 # from classify import ModelPipeline
 
 # Initialize FastAPI app
@@ -20,7 +21,7 @@ app = FastAPI()
 # Set up Jinja2 templates
 templates = Jinja2Templates(directory="templates")
 
-# Authentication set up 
+# Authentication set up
 with open("config.json") as config_file:
     firebaseConfig = json.load(config_file)
 pyre = pyrebase.initialize_app(firebaseConfig)
@@ -42,10 +43,12 @@ os.makedirs(EXTRACTED_TASKS_DIR, exist_ok=True)
 # Initialize database
 Base.metadata.create_all(bind=engine)
 
+
 # Pydantic schema for PDF data
 class PDFSchema(BaseModel):
     title: str
     file_path: str
+
 
 # Dependency for database session
 def get_db():
@@ -54,6 +57,7 @@ def get_db():
         yield db
     finally:
         db.close()
+
 
 @app.get("/", response_class=HTMLResponse)
 async def upload_form(request: Request):
@@ -135,47 +139,43 @@ async def signup(email: str = Form(...), password: str = Form(...)):
 
 class IdToken(BaseModel):
     id_token: str  # id_token of the user whose profile is being updated
-    
+
 
 def classify(output_filepath):
-    loaded_model = pickle.load(open("trained_model.pkl", 'rb')) 
+    loaded_model = pickle.load(open("trained_model.pkl", "rb"))
     device = torch.device("cpu")
     loaded_model = loaded_model.to(device)
     loaded_model.eval()
     tasks = extract_tasks_from_file(file_path=output_filepath)
     classified_tasks = classify_tasks(r"Dataset - Sheet1.csv", tasks, loaded_model)
-    
+
     output = {}
     for val, task in enumerate(tasks):
         output[task] = classified_tasks[val]
-    
+
     return output
 
+
 @app.post("/upload/")
-async def upload_pdf(
-    title: str = Form(...), 
-    pdf: UploadFile = UploadFile(...)
-):
+async def upload_pdf(title: str = Form(...), pdf: UploadFile = UploadFile(...)):
     db = next(get_db())
-    input_dir = os.path.join(MEDIA_ROOT, 'pdfs')
+    input_dir = os.path.join(MEDIA_ROOT, "pdfs")
     os.makedirs(input_dir, exist_ok=True)
     input_file_path = os.path.join(PDF_UPLOAD_DIR, pdf.filename)
 
     with open(input_file_path, "wb") as f:
         f.write(await pdf.read())
 
-    output_dir = os.path.join(MEDIA_ROOT, 'parsed_pdfs')
+    output_dir = os.path.join(MEDIA_ROOT, "parsed_pdfs")
     os.makedirs(output_dir, exist_ok=True)
 
     # Extract the course name
     _, file_name = os.path.split(pdf.filename)
     course_name, _ = os.path.splitext(file_name)
 
-        # Save PDF metadata to the database
+    # Save PDF metadata to the database
     pdf_instance = PDF(
-        title=title,
-        pdf=str(input_file_path),
-        uploaded_at=datetime.utcnow()
+        title=title, pdf=str(input_file_path), uploaded_at=datetime.utcnow()
     )
     db.add(pdf_instance)
     db.commit()
@@ -183,10 +183,12 @@ async def upload_pdf(
 
     # Call the write_files function
     write_files(input_dir, output_dir)
-    extracted_tasks_output_dir = os.path.join(MEDIA_ROOT, 'extracted_tasks')
-    extract_tasks(output_dir, extracted_tasks_output_dir, course_name + '.txt')
+    extracted_tasks_output_dir = os.path.join(MEDIA_ROOT, "extracted_tasks")
+    extract_tasks(output_dir, extracted_tasks_output_dir, course_name + ".txt")
 
-    output_filepath = os.path.join(extracted_tasks_output_dir, f"{course_name}_results.txt")
+    output_filepath = os.path.join(
+        extracted_tasks_output_dir, f"{course_name}_results.txt"
+    )
     classified_tasks = classify(output_filepath)
 
     # Redirect to the list view
@@ -198,7 +200,10 @@ async def upload_pdf(
 async def pdf_list(request: Request):
     db = next(get_db())
     pdfs = db.query(PDF).all()
-    return templates.TemplateResponse("pdf_list.html", {"request": request, "pdfs": pdfs})
+    return templates.TemplateResponse(
+        "pdf_list.html", {"request": request, "pdfs": pdfs}
+    )
+
 
 @app.post("/clear-database/")
 async def clear_database_endpoint():
