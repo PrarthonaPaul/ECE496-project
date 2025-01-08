@@ -3,12 +3,15 @@ import json
 import pickle
 import pyrebase
 import torch
+import pyrebase
+import torch
+import uuid
 from fastapi import FastAPI, HTTPException, UploadFile, Form, Request, status
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
-from firebase_admin import auth
+from firebase_admin import auth, credentials, initialize_app, firestore, storage
 from pydantic import BaseModel
-from datetime import datetime
+from datetime import datetime, timedelta
 from database import SessionLocal, engine, Base
 from models import PDF
 from utils import extract_tasks, write_files, extract_tasks_from_file, classify_tasks
@@ -20,6 +23,16 @@ app = FastAPI()
 
 # Set up Jinja2 templates
 templates = Jinja2Templates(directory="templates")
+
+# Initialize Firebase Admin SDK if not already initialized
+cred = credentials.Certificate(
+    "projectpath-827df-firebase-adminsdk-uit6p-15246742b0.json"
+)
+firebase_app = initialize_app(
+    cred, {"storageBucket": "projectpath-827df.firebasestorage.app"}
+)
+firestoreDatabase = firestore.client()
+bucket = storage.bucket()  # Reference to Firebase Storage
 
 # Authentication set up
 with open("config.json") as config_file:
@@ -48,15 +61,6 @@ Base.metadata.create_all(bind=engine)
 class PDFSchema(BaseModel):
     title: str
     file_path: str
-
-
-# Dependency for database session
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -158,7 +162,6 @@ def classify(output_filepath):
 
 @app.post("/upload/")
 async def upload_pdf(title: str = Form(...), pdf: UploadFile = UploadFile(...)):
-    db = next(get_db())
     input_dir = os.path.join(MEDIA_ROOT, "pdfs")
     os.makedirs(input_dir, exist_ok=True)
     input_file_path = os.path.join(PDF_UPLOAD_DIR, pdf.filename)
@@ -173,14 +176,6 @@ async def upload_pdf(title: str = Form(...), pdf: UploadFile = UploadFile(...)):
     _, file_name = os.path.split(pdf.filename)
     course_name, _ = os.path.splitext(file_name)
 
-    # Save PDF metadata to the database
-    pdf_instance = PDF(
-        title=title, pdf=str(input_file_path), uploaded_at=datetime.utcnow()
-    )
-    db.add(pdf_instance)
-    db.commit()
-    db.refresh(pdf_instance)
-
     # Call the write_files function
     write_files(input_dir, output_dir)
     extracted_tasks_output_dir = os.path.join(MEDIA_ROOT, "extracted_tasks")
@@ -191,24 +186,20 @@ async def upload_pdf(title: str = Form(...), pdf: UploadFile = UploadFile(...)):
     )
     classified_tasks = classify(output_filepath)
 
+    # Upload the file to Firebase Storage
+    time = datetime.utcnow()
+    filename = f"{uuid.uuid4()}.pdf"
+    blob = bucket.blob(filename)
+    blob.upload_from_filename(input_file_path)
+
+    new_entry = {
+        "courseName": course_name,
+        "classifiedTasks": classified_tasks,
+        "time": time,
+        "pdfFile": blob.generate_signed_url(timedelta(days=365)),
+    }
+
+    firestoreDatabase.collection("syllabi").add(new_entry)
+
     # Redirect to the list view
     return {"classified_tasks": classified_tasks}
-
-
-# Route to display the list of uploaded PDFs
-@app.get("/pdfs/", response_class=HTMLResponse)
-async def pdf_list(request: Request):
-    db = next(get_db())
-    pdfs = db.query(PDF).all()
-    return templates.TemplateResponse(
-        "pdf_list.html", {"request": request, "pdfs": pdfs}
-    )
-
-
-@app.post("/clear-database/")
-async def clear_database_endpoint():
-    db = next(get_db())
-    for table in reversed(Base.metadata.sorted_tables):
-        db.execute(table.delete())
-    db.commit()
-    return {"message": "Database cleared!"}
