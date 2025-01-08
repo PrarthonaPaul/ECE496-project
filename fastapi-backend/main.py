@@ -25,12 +25,16 @@ app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 
 # Initialize Firebase Admin SDK if not already initialized
-cred = credentials.Certificate("projectpath-827df-firebase-adminsdk-uit6p-15246742b0.json")
-firebase_app = initialize_app(cred, {"storageBucket": "projectpath-827df.firebasestorage.app"})
+cred = credentials.Certificate(
+    "projectpath-827df-firebase-adminsdk-uit6p-15246742b0.json"
+)
+firebase_app = initialize_app(
+    cred, {"storageBucket": "projectpath-827df.firebasestorage.app"}
+)
 firestoreDatabase = firestore.client()
 bucket = storage.bucket()  # Reference to Firebase Storage
 
-# Authentication set up 
+# Authentication set up
 with open("config.json") as config_file:
     firebaseConfig = json.load(config_file)
 pyre = pyrebase.initialize_app(firebaseConfig)
@@ -57,7 +61,6 @@ Base.metadata.create_all(bind=engine)
 class PDFSchema(BaseModel):
     title: str
     file_path: str
-
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -158,11 +161,8 @@ def classify(output_filepath):
 
 
 @app.post("/upload/")
-async def upload_pdf(
-    title: str = Form(...), 
-    pdf: UploadFile = UploadFile(...)
-):
-    input_dir = os.path.join(MEDIA_ROOT, 'pdfs')
+async def upload_pdf(title: str = Form(...), pdf: UploadFile = UploadFile(...)):
+    input_dir = os.path.join(MEDIA_ROOT, "pdfs")
     os.makedirs(input_dir, exist_ok=True)
     input_file_path = os.path.join(PDF_UPLOAD_DIR, pdf.filename)
 
@@ -194,11 +194,11 @@ async def upload_pdf(
 
     new_entry = {
         "courseName": course_name,
-        "classifiedTasks": classified_tasks, 
-        "time": time, 
-        "pdfFile": blob.generate_signed_url(timedelta(days=365))
+        "classifiedTasks": classified_tasks,
+        "time": time,
+        "pdfFile": blob.generate_signed_url(timedelta(days=365)),
     }
-    
+
     firestoreDatabase.collection("syllabi").add(new_entry)
 
     # Redirect to the list view

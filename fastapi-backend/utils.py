@@ -160,8 +160,6 @@ def classify_tasks(data_path, tasks, model):
     df.columns = ["pdf", "tasks", "class"]
     df["pdf"] = df["pdf"].fillna(method="ffill")
 
-    print(df.head(10))
-    print(df["class"])
     dataset = Dataset.from_pandas(df)
     dataset = dataset.class_encode_column("class")
 
