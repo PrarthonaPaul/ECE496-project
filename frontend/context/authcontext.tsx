@@ -25,33 +25,40 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     setIsLoggedIn(!!userId);
   }, []);
 
-  const login = async (email: string, password: string) => {
+  const login = async (email: string, password: string): Promise<string | null> => {
     try {
       setError(null);
       const formData = new URLSearchParams();
-
+  
       formData.append('email', email);
       formData.append('password', password);
-    
+  
       const loginURL = sessionStorage.getItem('backend_url') + '/login';
       const response = await axios.post(loginURL, formData, {
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       });
-
-    //   if (!response.data.email_verified) {
-    //     setError("Please verify your email before logging in.");
-    //     setIsLoggedIn(false);
-    //   } else {
-        sessionStorage.setItem('user_id', response.data.user_id);
-        sessionStorage.setItem('id_token', response.data.id_token);
-        setIsLoggedIn(true);
-        router.push('/');
-    //   }
+  
+      // Simulate the email verification check (if needed)
+      // Uncomment the following block if email verification is required
+      // if (!response.data.email_verified) {
+      //   setError("Please verify your email before logging in.");
+      //   setIsLoggedIn(false);
+      //   return null;
+      // }
+  
+      sessionStorage.setItem('user_id', response.data.user_id);
+      sessionStorage.setItem('id_token', response.data.id_token);
+      setIsLoggedIn(true);
+      router.push('/');
+  
+      return response.data.user_id; // Return the user ID on successful login
     } catch (error: any) {
       setError(error.response?.data.detail || 'Login failed');
       setIsLoggedIn(false);
+      return null; // Return null in case of an error
     }
   };
+  
 
   const signup = async (email: string, password: string, password2: string): Promise<string | null> => {
     try {

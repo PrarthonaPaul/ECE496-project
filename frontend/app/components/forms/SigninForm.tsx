@@ -13,7 +13,7 @@ import {
 import { useState } from "react";
 import { useAuth } from "@/context/AuthContext";
 import { useRouter } from "next/router";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { AuthProvider } from "@/context/AuthContext";
@@ -31,7 +31,7 @@ export function SigninForm() {
     e.preventDefault(); 
     try {
       await login(email, password);
-      router.navigate("/")
+      router.push("/")
     } catch (err) {
       console.log(err);
     }
